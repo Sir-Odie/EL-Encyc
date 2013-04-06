@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<book title="The Use of Codes and Ciphers">
+<page>
+  <title>The Use of Codes and Ciphers</title>
+  <author>Dival Celebrindal (Chief Archivist)</author>
+  </page>
+<page>
+  <title>Substitution codes - Part III</title>
+  <text>Although there are many types of substitution codes, some are more common than others; and my findings on this are unclear, it could be because some races of lesser intelligence find it difficult to decipher them. The most common code in use is the Myandar Mixer - a code developed by the mining community to communicate the locations of new gold deposits. Their code is simplicity itself, with each letter of the alphabet (and each number from 1 to 9 [with 0 being the 10th number]) being replaced with its corresponding number (or letter) So that letter A is 1 and letter Z is 26 (number 1 is A and number 0 is the letter J) As an example: "MINE 324 HAS 17 CAVERNS" would become "13 9 14 5 CBD 8 1 19 AG 3 1 22 5 18 14 19" ... the book continues with more technical details, but you decide to close the book for fear of falling asleep.</text>
+  </page>
+  </book>

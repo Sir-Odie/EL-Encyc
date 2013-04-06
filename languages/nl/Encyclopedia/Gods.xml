@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gods>
+<Page name="ALUWEN">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Gods" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   GODEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>         Aluwen - Verdedigen Godin</text><nl/>
+	<nl/>
+	<Size>Medium</Size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Het volgen van het pad van Aluwen betekent het verdedigen</text><nl/>
+	<text> van onschuldigen, leven brengen aan de gewonden en de</text><nl/>
+	<text> waarheid van het hart spreken.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Locatie: Forest of the Fall, White Stone</text><nl/>
+	<text> Priester: Noria</text><nl/>
+	<text> Voordelen: Volgelingen krijgen meer Verdedigen ervaring</text><nl/>
+	<text> Vijanden: Mortos, Selain.</text><nl/>
+	<text> Start positie: -2 Verdedigen</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Gods" title="Terug Naar Goden"/>
+</Page>
+<Page name="UNOLAS">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Gods" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   GODEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Unolas - Magie God</text><nl/>
+	<nl/>
+	<Size>Medium</Size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Het volgen van het pad van Unolas betekent het zoeken</text><nl/>
+	<text> naar wat er zich voorbij het concept van de logica en</text><nl/>
+	<text> gedachten zit - magie.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Locatie: Vermor Castle, White Stone</text><nl/>
+	<text> Priester: Adrian</text><nl/>
+	<text> Voordelen: Volgelingen krijgen meer Magie ervaring</text><nl/>
+	<text> Vijanden: Zarin, Lucaa.</text><nl/>
+	<text> Start positie: -2 Magie</text><nl/>
+	<text> Notitie: Monsters beschermen de priester van Unolas.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Gods" title="Terug Naar Goden"/>
+</Page>
+<Page name="MORTOS">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Gods" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   GODEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Mortos - Aanvallen God</text><nl/>
+	<nl/>
+	<Size>Medium</Size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Het volgen van het pad van Mortos betekent genieten</text><nl/>
+	<text> van kwaadaardigheid, dood en vernietiging en word je</text><nl/>
+	<text> een bode van het einde van het leven.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Locatie: The Catacombs, Naralik.</text><nl/>
+	<text> Priester: Dirhyan.</text><nl/>
+	<text> Voordelen: Volgelingen krijgen meer Aanvallen ervaring</text><nl/>
+	<text> Vijanden: Aluwen, Elandria.</text><nl/>
+	<text> Start positie: -2 Aanvallen</text><nl/>
+	<text> Let op: Orcs beschermen de priester van Mortos.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Gods" title="Terug Naar Goden"/>
+</Page>
+<Page name="SELAIN">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Gods" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   GODEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Selain - Oproepen God</text><nl/>
+	<nl/>
+	<Size>Medium</Size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Het volgen van het pad van Selain betekent durven kansen</text><nl/>
+	<text> te grijpen; om rijker, slimmer en beter te zijn dan alle</text><nl/>
+	<text> andere wezens.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Locatie: Tirnwood, White Stone</text><nl/>
+	<text> Priester: Sylpho</text><nl/>
+	<text> Voordelen: Volgelingen krijgen meer Oproepen ervaring</text><nl/>
+	<text> Vijanden: Aluwen, Glilin.</text><nl/>
+	<text> Start positie: -2 Oproepen</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Gods" title="Terug Naar Goden"/>
+</Page>
+<Page name="GLILIN">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Gods" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   GODEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>          Glilin - Produceren God</text><nl/>
+	<nl/>
+	<Size>Medium</Size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Het volgen van het pad van Glilin betekent echte</text><nl/>
+	<text> vakmanschap in de wereld te brengen.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Locatie: Nordcarn</text><nl/>
+	<text> Priester: Baostas</text><nl/>
+	<text> Voordelen: Volgelingen krijgen meer Produceren ervaring</text><nl/>
+	<text> Vijanden: Selain.</text><nl/>
+	<text> Start positie: -2 Produceren</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Gods" title="Terug Naar Goden"/>
+</Page>
+<Page name="ELANDRIA">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Gods" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   GODEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>         Elandria - Alchemie Godin</text><nl/>
+	<nl/>
+	<Size>Medium</Size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Het volgen van het pad van Elandria betekent je hart</text><nl/>
+	<text> openstellen voor alles en iedereen om je heen.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Locatie: Evergreen Forest, Desert Pines</text><nl/>
+	<text> Priester: Romira.</text><nl/>
+	<text> Voordelen: Volgelingen krijgen meer Alchemie ervaring</text><nl/>
+	<text> Vijanden: Zarin, Mortos.</text><nl/>
+	<text> Start positie: -2 Alchemie</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Gods" title="Terug Naar Goden"/>
+</Page>
+<Page name="ZARIN">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Gods" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   GODEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Zarin - Bewerken Godin</text><nl/>
+	<nl/>
+	<Size>Medium</Size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Het volgen van het pad van Zarin betekent het zoeken naar</text><nl/>
+	<text> de vrijheid om prachtige items te maken.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Locatie: Tarsengaard</text><nl/>
+	<text> Priester: Durnam</text><nl/>
+	<text> Voordelen: Volgelingen krijgen meer Bewerken ervaring</text><nl/>
+	<text> Vijanden: Elandria, Unolas.</text><nl/>
+	<text> Starting Rank: -2 Bewerken.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Gods" title="Terug Naar Goden"/>
+</Page>
+<Page name="LUCAA">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Gods" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   GODEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Lucaa - Oogsten Godin</text><nl/>
+	<nl/>
+	<Size>Medium</Size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Het volgen van het pad van Lucaa betekent het omarmen van</text><nl/>
+	<text> de ruwe krachten van de natuur en leven naar de grillen</text><nl/>
+	<text> van de Koningin van de Natuur.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Locatie: Roanof Island, Tarsengaard</text><nl/>
+	<text> Priester: (Nog niet in de tempel aanwezig).</text><nl/>
+	<text> Voordelen: Volgelingen krijgen meer Oogsten ervaring</text><nl/>
+	<text> Vijanden: Unolas, Glilin.</text><nl/>
+	<text> Start positie: -2 Oogsten</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Gods" title="Terug Naar Goden"/>
+</Page>
+<Page name="JAYDEN">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Gods" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   GODEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Jayden - Brouwen Godin</text><nl/>
+	<nl/>
+	<Size>Medium</Size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Het volgen van het pad van Jayden betekent geduldig</text><nl/>
+	<text> blijven en niet te gaan voor de snelle oplossing, anders</text><nl/>
+	<text> zal het brouwsel mislukken.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Locatie: Morcraven Marsh</text><nl/>
+	<text> Priester: Iazurn</text><nl/>
+	<text> Voordelen: Volgelingen krijgen meer Brouwen ervaring</text><nl/>
+	<text> Vijanden: Galienne, LaForge.</text><nl/>
+	<text> Start positie: -2 Brouwen</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Gods" title="Terug Naar Goden"/>
+</Page>
+<Page name="LAFORGE">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Gods" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   GODEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>         LaForge - Engineering God</text><nl/><nl/>
+	<Size>Medium</Size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Het volgen van het pad van LaForge betekent het maken</text><nl/>
+	<text> van items en concepten die de principes van de wereld</text><nl/>
+	<text> oprekken en de wetenschappelijke kennis vergroten.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Locatie: Arius</text><nl/>
+	<text> Priester: Diesel</text><nl/>
+	<text> Voordelen: Volgelingen krijgen meer Engineering ervaring</text><nl/>
+	<text> Vijanden: Jayden, Galienne.</text><nl/>
+	<text> Start positie: -2 Engineering</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Gods" title="Terug Naar Goden"/>
+</Page>
+<Page name="XIAO">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Gods" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   GODEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>          Xiao - Boogschieten God</text><nl/><nl/>
+	<Size>Medium</Size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Het volgen van het pad van Xiao betekent perfect kunnen</text><nl/>
+	<text> richten, snel kunnen doden, in het geheim leven, en het </text><nl/>
+	<text> eren van clanleden.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Locatie: Ruins of Tirnym</text><nl/>
+	<text> Priester: Gatlin (Nog niet in de tempel aanwezig).</text><nl/>
+	<text> Voordelen: Volgelingen krijgen meer Ranging ervaring</text><nl/>
+	<text> Vijanden: Onbekend</text><nl/>
+	<text> Start positie: -2 Boogschieten</text><nl/>
+	<nl/>
+	<text> Onze geleerden zijn nog bezig met het verzamelen van</text><nl/>
+	<text> informatie over deze God.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Gods" title="Terug Naar Goden"/>
+</Page>
+<Page name="GALIENNE">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Gods" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   GODEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>        Galienne - Kleermaken Godin</text><nl/>
+	<nl/>
+	<Size>Medium</Size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Het volgen van het pad van Galienne betekent anderen</text><nl/>
+	<text> inspireren en het streven naar perfectie in je ambacht.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Locatie: Glacmor</text><nl/>
+	<text> Priester: Tyra (Nog niet in de tempel aanwezig).</text><nl/>
+	<text> Voordelen: Volgelingen krijgen meer Tailoring ervaring</text><nl/>
+	<text> Vijanden: Jayden, LaForge.</text><nl/>
+	<text> Start positie: -2 Kleermaken</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Gods" title="Terug Naar Goden"/>
+</Page>
+</Gods>

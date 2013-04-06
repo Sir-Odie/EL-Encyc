@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EnchantedWeapons>
+<Page name="ISOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>          IJzeren Vuur Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 7-8 schade, +1 Verdedigen, +1 Nauwkeurigheid,</text><nlkx/>
+   <text> +3 Vuur schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 0</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Aanpasbaar IJzeren Zwaard, 1 Verrijkte Vuur Essentie,</text><nl/>
+   <text> 1 Bind Steen, 2 Serpent Stenen</text><nl/>
+   <text> Gereedschappen vereist: Hamer</text><nl/>
+   <text> Kennis vereist: IJzeren Vuur Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 4, Magie 5</text><nl/>
+   <text> Geadviseerd Produceren Level: 45</text><nl/>
+   <text> Produceren Ervaring Gegeven: 2000</text><nl/>
+   <text> Voedsel kosten: 35</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 7 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="IBSOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>       IJzeren Breed Vuur Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 9-10 schade, +4 Vuur schade.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 0</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Aanpasbaar IJzeren Breed Zwaard, 1 Bind Steen,</text><nl/>
+   <text> 1 Verrijkte Vuur Essentie, 3 Serpent Stenen</text><nl/>
+   <text> Gereedschappen vereist: Hamer</text><nl/>
+   <text> Kennis vereist: IJzeren Breed Vuur Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 4, Magie 5</text><nl/>
+   <text> Geadviseerd Produceren Level: 46</text><nl/>
+   <text> Produceren Ervaring Gegeven: 2500</text><nl/>
+   <text> Voedsel kosten: 35</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 7 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="IBSOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>       IJzeren Breed IJs Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 9-10 schade, +4 Kou schade.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 0</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Aanpasbaar IJzeren Breed Zwaard, 1 Bind Steen,</text><nl/>
+   <text> 1 Verrijkte Water Essentie, 3 Serpent Stenen</text><nl/>
+   <text> Gereedschappen vereist: Hamer</text><nl/>
+   <text> Kennis vereist: IJzeren Breed IJs Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 4, Magie 5</text><nl/>
+   <text> Geadviseerd Produceren Level: 47</text><nl/>
+   <text> Produceren Ervaring Gegeven: 2800</text><nl/>
+   <text> Voedsel kosten: 35</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 7 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="SLSOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>         Stalen Lang Vuur Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 9-11 schade, +2 Verdedigen, +2 Nauwkeurigheid,</text><nlkx/>
+   <text> +1 Kritiek raken, +5 Vuur schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 2</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Aanpasbaar Stalen Lang Zwaard, 1 Bind Steen,</text><nl/>
+   <text> 1 Verrijkte Vuur Essentie, 4 Serpent Stenen</text><nl/>
+   <text> Gereedschappen vereist: Hamer</text><nl/>
+   <text> Kennis vereist: Stalen Lang Vuur Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 5, Magie 5</text><nl/>
+   <text> Geadviseerd Produceren Level: 48</text><nl/>
+   <text> Produceren Ervaring Gegeven: 3000</text><nl/>
+   <text> Voedsel kosten: 35</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 6 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="SLSOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>          Stalen Lang IJs Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 9-11 schade, +2 Verdedigen, +2 Nauwkeurigheid,</text><nlkx/>
+   <text> +1 Kritiek raken, +5 Kou schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 2</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Aanpasbaar Stalen Lang Zwaard, 1 Bind Steen,</text><nl/>
+   <text> 1 Verrijkte Water Essentie, 4 Serpent Stenen</text><nl/>
+   <text> Gereedschappen vereist: Hamer</text><nl/>
+   <text> Kennis vereist: Stalen Lang IJs Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 5, Magie 5</text><nl/>
+   <text> Geadviseerd Produceren Level: 49</text><nl/>
+   <text> Produceren Ervaring Gegeven: 3200</text><nl/>
+   <text> Voedsel kosten: 35</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 6 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="SLSOM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>       Stalen Lang Magisch Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 9-11 schade, +2 Verdedigen, +2 Nauwkeurigheid,</text><nlkx/>
+   <text> +1 Kritiek raken, +5 Magie schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 2</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Aanpasbaar Stalen Lang Zwaard, 1 Bind Steen,</text><nl/>
+   <text> 1 Verrijkte Magie Essentie, 4 Serpent Stenen</text><nl/>
+   <text> Gereedschappen vereist: Hamer</text><nl/>
+   <text> Kennis vereist: Stalen Lang Magisch Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 5, Magie 5</text><nl/>
+   <text> Geadviseerd Produceren Level: 50</text><nl/>
+   <text> Produceren Ervaring Gegeven: 3400</text><nl/>
+   <text> Voedsel kosten: 35</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 6 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="STESOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>     Stalen Tweezijdig Vuur Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 10-14 schade, +1 Verdedigen, +3 Nauwkeurigheid,</text><nlkx/>
+   <text> +1 Kritiek raken, +2 Kritieke schade,</text><nlkx/>
+   <text> +6 Vuur schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 3</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Aanpasbaar Stalen Tweezijdig Zwaard, 1 Bind Steen,</text><nl/>
+   <text> 1 Verrijkte Vuur Essentie, 4 Serpent Stenen</text><nl/>
+   <text> Gereedschappen vereist: Hamer</text><nl/>
+   <text> Kennis vereist: Stalen Tweezijdig Vuur Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 5, Magie 5</text><nl/>
+   <text> Geadviseerd Produceren Level: 51</text><nl/>
+   <text> Produceren Ervaring Gegeven: 3600</text><nl/>
+   <text> Voedsel kosten: 35</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 7 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="STESOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>     Stalen Tweezijdig IJs Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="51" size="100" tid="11" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 10-14 schade, +1 Verdedigen, +3 Nauwkeurigheid,</text><nlkx/>
+   <text> +1 Kritiek raken, +2 Kritieke schade,</text><nlkx/>
+   <text> +6 Kou schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 3</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Aanpasbaar Stalen Tweezijdig Zwaard, 1 Bind Steen,</text><nl/>
+   <text> 1 Verrijkte Water Essentie, 4 Serpent Stenen</text><nl/>
+   <text> Gereedschappen vereist: Hamer</text><nl/>
+   <text> Kennis vereist: Stalen Tweezijdig IJs Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 5, Magie 5</text><nl/>
+   <text> Geadviseerd Produceren Level: 51</text><nl/>
+   <text> Produceren Ervaring Gegeven: 3600</text><nl/>
+   <text> Voedsel kosten: 35</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 7 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="STESOM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>    Stalen Tweezijdig Magisch Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 10-14 schade, +1 Verdedigen, +3 Nauwkeurigheid,</text><nlkx/>
+   <text> +1 Kritiek raken, +2 Kritieke schade,</text><nlkx/>
+   <text> +6 Magie schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 3</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Aanpasbaar Stalen Tweezijdig Zwaard, 1 Bind Steen,</text><nl/>
+   <text> 1 Verrijkte Magie Essentie, 4 Serpent Stenen</text><nl/>
+   <text> Gereedschappen vereist: Hamer</text><nl/>
+   <text> Kennis vereist: Stalen Tweezijdig Magisch Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 5, Magie 5</text><nl/>
+   <text> Geadviseerd Produceren Level: 52</text><nl/>
+   <text> Produceren Ervaring Gegeven: 3800</text><nl/>
+   <text> Voedsel kosten: 35</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 7 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="STESOT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>  Stalen Tweezijdig Thermisch Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 10-14 schade, +1 Verdedigen, +3 Nauwkeurigheid,</text><nlkx/>
+   <text> +1 Kritiek raken, +2 Kritieke schade,</text><nlkx/>
+   <text> +6 Kou schade, +6 Vuur schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 3</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Aanpasbaar Stalen Tweezijdig Zwaard, 1 Bind Steen,</text><nl/>
+   <text> 1 Verrijkte Vuur Essentie, 1 Verrijkte Water Essentie,</text><nl/>
+   <text> 4 Serpent Stenen</text><nl/>
+   <text> Gereedschappen vereist: Hamer</text><nl/>
+   <text> Kennis vereist: Stalen Tweezijdig Thermisch Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 5, Magie 5</text><nl/>
+   <text> Geadviseerd Produceren Level: 53</text><nl/>
+   <text> Produceren Ervaring Gegeven: 4000</text><nl/>
+   <text> Voedsel kosten: 35</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 7 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="TSSOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>       Titanium Kort Vuur Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 10-14 schade, +2 Verdedigen, +3 Nauwkeurigheid,</text><nlkx/>
+   <text> +1 Kritiek raken, +3 Kritieke schade,</text><nlkx/>
+   <text> +7 Vuur schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 4</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet geproduceerd worden.</text><nl/>
+   <nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="TSSOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>       Titanium Kort IJs Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 10-14 schade, +2 Verdedigen, +3 Nauwkeurigheid,</text><nlkx/>
+   <text> +1 Kritiek raken, +3 Kritieke schade,</text><nlkx/>
+   <text> +7 Kou schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 4</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet geproduceerd worden.</text><nl/>
+   <nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="TSSOM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>      Titanium Kort Magisch Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 10-14 schade, +2 Verdedigen, +3 Nauwkeurigheid,</text><nlkx/>
+   <text> +1 Kritiek raken, +3 Kritieke schade,</text><nlkx/>
+   <text> +7 Magie schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 4</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet geproduceerd worden.</text><nl/>
+   <nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="TSSOT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>    Titanium Kort Thermisch Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 10-14 schade, +2 Verdedigen, +3 Nauwkeurigheid,</text><nlkx/>
+   <text> +1 Kritiek raken, +3 Kritieke schade,</text><nlkx/>
+   <text> +7 Vuur schade, +7 Kou schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 4</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet geproduceerd worden.</text><nl/>
+   <nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="TLSOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>       Titanium Lang Vuur Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 12-20 schade, +3 Verdedigen +3 Nauwkeurigheid,</text><nlkx/>
+   <text> +3 Kritiek raken, +4 Kritieke schade,</text><nlkx/>
+   <text> +9 Vuur schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 5</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet geproduceerd worden.</text><nl/>
+   <nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 4 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="TLSOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>       Titanium Lang IJs Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 12-20 schade, +3 Verdedigen +3 Nauwkeurigheid,</text><nlkx/>
+   <text> +3 Kritiek raken, +4 Kritieke schade,</text><nlkx/>
+   <text> +9 Kou schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 5</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet geproduceerd worden.</text><nl/>
+   <nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 4 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="TLSOM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>      Titanium Lang Magisch Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 12-20 schade, +3 Verdedigen +3 Nauwkeurigheid,</text><nlkx/>
+   <text> +3 Kritiek raken, +4 Kritieke schade,</text><nlkx/>
+   <text> +9 Magie schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 5</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet geproduceerd worden.</text><nl/>
+   <nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 4 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="TLSOT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>    Titanium Lang Thermisch Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 12-20 schade, +3 Verdedigen +3 Nauwkeurigheid,</text><nlkx/>
+   <text> +3 Kritiek raken, +4 Kritieke schade,</text><nlkx/>
+   <text> +9 Vuur schade, +9 Kou schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 5</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet geproduceerd worden.</text><nl/>
+   <nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 4 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="SerpOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>     Titanium Serpent Vuur Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 20-25 schade, +5 Verdedigen, +5 Nauwkeurigheid,</text><nlkx/>
+   <text> +5 Kritiek raken, +6 Kritieke schade,</text><nlkx/>
+   <text> +10 Vuur schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 6</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet geproduceerd worden.</text><nl/>
+   <nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="SerpOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>      Titanium Serpent IJs Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 20-25 schade, +5 Verdedigen, +5 Nauwkeurigheid,</text><nlkx/>
+   <text> +5 Kritiek raken, +6 Kritieke schade,</text><nlkx/>
+   <text> +10 Kou schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 6</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet geproduceerd worden.</text><nl/>
+   <nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="SerpOM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>     Titanium Serpent Magisch Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 20-25 schade, +5 Verdedigen, +5 Nauwkeurigheid,</text><nlkx/>
+   <text> +5 Kritiek raken, +6 Kritieke schade,</text><nlkx/>
+   <text> +10 Magie schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 6</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet geproduceerd worden.</text><nl/>
+   <nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="SerpOT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>   Titanium Serpent Thermisch Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 20-28 schade, +5 Verdedigen, +5 Nauwkeurigheid,</text><nlkx/>
+   <text> +5 Kritiek raken, +6 Kritieke schade,</text><nlkx/>
+   <text> +10 Vuur schade, +10 Kou schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 7</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet geproduceerd worden.</text><nl/>
+   <nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="BOD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>             Bot van de Dood</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 20-30 schade, +3 Nauwkeurigheid,</text><nlkx/>
+   <text> 6% kans om 150 schade te doen.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 5</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet geproduceerd worden.</text><nl/>
+   <nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="BROD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>           Tak van Vernietiging</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 10-20 schade, +5 Nauwkeurigheid,</text><nlkx/>
+   <text> 5% kans om een item te beschadigen.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 5</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet geproduceerd worden.</text><nl/>
+   <nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="Staff_Mage">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>            Staf van de Magiër</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 15-20 schade, +5 Verdedigen, +6 Nauwkeurigheid,</text><nlkx/>
+   <text> +3 Kritiek raken, +1 Kritieke schade,</text><nlkx/>
+   <text> 5% kans op mana verminderen en mana verbranden.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 5</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet geproduceerd worden.</text><nl/>
+   <nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 6 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="Staff_Protection">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>           Staf van Bescherming</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 10-21 schade, +7 Verdedigen, +6 Nauwkeurigheid,</text><nlkx/>
+   <text> +2 Armor, +3 Kritiek raken, +2 Kritieke schade,</text><nlkx/>
+   <text> +2 Hitte, Kou, Radiatie en Magie Bescherming,</text><nlkx/>
+   <text> +2 Magie Weerstand, 20% kans op genezing.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 5</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet geproduceerd worden.</text><nl/>
+   <nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 6 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+<Page name="Ice_Axe">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>             BETOVERDE WAPENS</text><nl/>
+   <color>red</color>
+   <text>            Bijl van Bevriezing</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 10-25 schade, +6 Kritieke schade,</text><nlkx/>
+   <text> 7% kans om te verlammen.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 5</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet geproduceerd worden.</text><nl/>
+   <nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 12 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Terug Naar Betoverde Wapens Index"/>
+</Page>
+</EnchantedWeapons>

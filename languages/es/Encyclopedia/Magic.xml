@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Magic>
+<Page name="Heal">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Curación</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="3" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Restaura 10 Puntos de salud (HP)</text><nl/>
+   <nl/>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="23" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils:  Incrementar, Salud</text><nlkx/>
+   <text>  Reagentes: 1 Esencia de Salud</text><nlkx/>
+   <text>  Nivel mágico requerido: 0</text><nlkx/>
+   <text>  Experiencia mágica: 5</text><nlkx/>
+   <text>  Puntos de mana: 5</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="R_Heal">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Curación remota</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="9" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Restaura algunos puntos de salud al objetivo</text><nlkx/>
+   <text>  (un amigo, uno mismo o un enemigo). </text><nlkx/>
+   <text>  El efecto se incrementa con tu nivel mágico.</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="3" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  </text><nlkx/>
+   <text>  Sigils:  Global, Incrementar, Salud</text><nlkx/>
+   <text>  Reagentes: 2 Esencias de Salud, 1 Esencia de Magia</text><nl/>
+   <simage isize="256" tsize="32" size="100" tid="23" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Nivel mágico requerido: 4</text><nlkx/>
+   <text>  Experiencia mágica: 15</text><nlkx/>
+   <text>  Puntos de mana: 8</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="M_Prot">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Protección mágica</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Inccrementa tu resistencia mágica en 8.</text>
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="17" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Crear, Magia, Protección</text><nlkx/>
+   <text>  Reagentes: 1 Esencia de Magia, 1 Esencia de Energía</text><nlkx/>
+   <text>  Nivel mágico requerido: 6</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Experiencia mágica: 30</text><nlkx/>
+   <text>  Puntos de mana: 10</text><nl/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+   <size>big</size>
+</Page>
+<Page name="Shield">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Escudo</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Incrementa tu armadura en 3 puntos.</text>
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="15" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Crear, Materia, Protección</text><nlkx/>
+   <text>  Reagentes: 1 Esencia de Materia</text><nlkx/>
+   <text>  Nivel mágico requerido: 9</text><nl/>
+   <simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Experiencia mágica: 40</text><nlkx/>
+   <text>  Puntos de mana: 11</text><nl/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="Poison">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Envenenar</text>
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="5" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Envenena al objetivo</text><nlkx/>
+   <text>  El efecto se incrementa con tu nivel mágico</text>
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="4" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Temporal, Decrementar, Vida</text><nlkx/>
+   <text>  Reagentes: 2 Esencias de Muerte</text><nlkx/>
+   <text>  Nivel mágico requerido: 12</text><nl/>
+   <simage isize="256" tsize="32" size="100" tid="24" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Experiencia: 50</text><nlkx/>
+   <text>  Puntos de mana: 14</text><nl/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="Tp_to_range">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Teletransporte</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="7" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Te permite teletransportar a una localización cercana.</text>
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Mover, Cambio, Local, Espacio</text><nlkx/>
+   <text>  Reagentes: 1 Esencia de Materia, 1 Esencia de energía,</text><nlkx/>
+   <text>             1 Esencia de Espíritu</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="8" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Nivel mágico necesario: 15</text><nlkx/>
+   <text>  Experiencia mágica: 65</text><nlkx/>
+   <text>  Puntos de mana: 15</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="2" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+
+<Page name="Harm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Dañar</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="22" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Infringe daño mágico en el objetivo.</text><nlkx/>
+   <text>  El efecto se incrementa con tu nivel mágico.</text>
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="23" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Quitar, Salud</text><nlkx/>
+   <text>  Reagentes: 5 Esencias de Salud, 3 Esencias de Muerte</text><nlkx/>
+   <text>  Nivel mágico requerido: 20</text><nlkx/>
+   <text>  Experiencia mágica: 80</text><nlkx/>
+   <text>  Puntos de mana: 25</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="Restoration">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Restauración</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="1" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Te devuelve toda tu salud.</text><nl/>
+   <nl/>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="24" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Restaurar, Vida</text><nlkx/>
+   <text>  Reagentes: 4 Esencias de Salud</text><nlkx/>
+   <text>  Nivel mágico requerido: 21</text><nlkx/>
+   <text>  Experiencia: 95</text><nlkx/>
+   <text>  Puntos de mana: 25</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="Bones_to_gold">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Huesos a oro</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="6" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Convierte los huesos en tu inventario en monedas de</text><nlkx/>
+   <text>  oro. (la cantidad exacta obtenida depende de tu nivel</text><nlkx/>
+   <text>  y de un factor aleatorio)</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  </text><nlkx/>
+   <text>  Sigils: Permanente, Cambio, Materia</text><nlkx/>
+   <text>  Reagentes: 2 Esencias de Materia, 1 Esencia de Energía</text><nl/>
+   <simage isize="256" tsize="32" size="100" tid="15" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Nivel mágico requerido: 23</text><nlkx/>
+   <text>  Nivel de alquimia requerido: 20</text><nlkx/>
+   <text>  Experiencia mágica: 100</text><nlkx/>
+   <text>  Experiencia en alquimia: 50</text><nlkx/>
+   <text>  Puntos de mana: 30</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="Tp_to_Port_Room">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>       Teletransporte a los portales</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="7" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Te teletransporta a una habitación desde donde</text><nlkx/>
+   <text>  puedes acceder a todos los mapas principales.</text>
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Mover, Cambio, Global, Espacio</text><nlkx/>
+   <text>  Reagentes: 1 Esencia de Materia,</text><nlkx/>
+   <text>             5 Esencias de Energía,</text><nl/>
+   <simage isize="256" tsize="32" size="100" tid="9" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>             1 Esencia de Espíritu</text><nlkx/>
+   <text>  Nivel mágico requerido: 24</text><nlkx/>
+   <text>  Experiencia mágica: 105</text><nl/>
+   <simage isize="256" tsize="32" size="100" tid="2" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><nl/>
+   <text>  Puntos de mana: 20</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="Life_drain">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Drenar vida</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="7" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Infringe daño en el objetivo y te devuelve</text><nlkx/>
+   <text>  algo de vida.</text><nlkx/>
+   <text>  El efecto se incrementa con tu nivel mágico.</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  </text><nlkx/>
+   <text>  Sigils: Mover, Cambio, Vida</text><nlkx/>
+   <text>  Reagentes: 3 Esencias de Vida</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="24" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Nivel mágico requerido: 27</text><nlkx/>
+   <text>  Experiencia mágica: 120</text><nlkx/>
+   <text>  Puntos de mana: 20</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="Magic_Immun">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Inmunidad mágica</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Te hace inmune a los hechizos negativos.</text>
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="3" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Crear, Incrementar, Magia, Protección</text><nlkx/>
+   <text>  Reagentes: 2 Esencias de Magia, 1 Esencia de Energía</text><nlkx/>
+   <text>  Nivel mágico requerido: 30</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="17" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Experiencia mágica: 140</text><nlkx/>
+   <text>  Puntos de mana: 30</text>
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="Heal_Sum">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Curar invocados</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="8" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Restaura vida a todas tus criaturas invocadas en</text><nlkx/>
+   <text>  un recudadro de 16x16, con el centro en tu posición.</text><nlkx/>
+   <text>  El efecto se incrementa con tu nivel mágico.</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="2" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  </text><nlkx/>
+   <text>  Sigils: Local, Espacio, Salud, Espíritu</text><nlkx/>
+   <text>  Reagentes: 2 Esencias de Espíritu, 2 Esencias de Vida,</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="23" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>             2 Esencias de Salud</text><nlkx/>
+   <text>  Nivel mágico requerido: 33</text><nlkx/>
+   <text>  Experiencia mágica: 110</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="14" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Mana necesario: 25</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="Smite_Sum">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Destruir invocados</text>
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="8" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Infringe daño a todas las criaturas invocadas</text><nlkx/>
+   <text>  (a excepción de las tuyas) en un recuadro de 16x16,</text><nlkx/>
+   <text>  con el centro en tu posición.</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="2" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <text>  El efecto se incrementa con tu nivel mágico.</text><nlkx/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Local, Espacio, Quitar, Vida</text><nlkx/>
+   <text>  Reagentes: 2 Esencias de Espíritu,</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="22" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>             3 Esencias de Muerte,</text><nlkx/>
+   <text>             2 Esencias de Materia</text><nlkx/>
+   <text>  Nivel mágico requerido: 36</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="24" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Experiencia mágica: 120</text><nlkx/>
+   <text>  Mana necesario: 30</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="Drain_Mana">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Drenar mana</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="7" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Remueve una cantidad aleatoria de mana de un objetivo</text><nlkx/>
+   <text>  y se te da a ti.</text><nlkx/>
+   <text>  No requiere mana cuando se ejecuta satisfactoriamente</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <text>  sobre otros jugadores.</text><nlkx/>
+   <text>  El efecto se incrementa con tu nivel mágico.</text><nlkx/>
+   <text>  No tiene efecto sobre animales y sobre la mayoría</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="17" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <text>  de monstruos.</text><nlkx/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  </text><nlkx/>
+   <text>  Sigils: Mover, Cambiar, Magia</text><nlkx/>
+   <text>  Reagentes: 6 Esencia de aire</text><nlkx/>
+   <text>  Nivel mágico necesario: 40</text><nlkx/>
+   <text>  Experiencia mágica: 200</text><nlkx/>
+   <text>  Mana necesario: 16</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="Invisibility">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Invisibilidad</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="22" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Te hace temporalmente invisible a los otros,</text><nlkx/>
+   <text>  excepto para aquellos con Visión verdadera.</text>
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="15" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Quitar, Materia, Conocimiento</text><nlkx/>
+   <text>  Reagentes: 10 Esencias de aire,</text><nlkx/>
+   <text>             10 Esencias de energía,</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="20" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>             10 Esencias de materia.</text><nlkx/>
+   <text>  Nivel mágico necesario: 50</text><nlkx/>
+   <text>  Experiencia mágica: 400</text><nlkx/>
+   <text>  Mana necesario: 30</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="True_Sight">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Visión verdadera</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Te permite ver a jugadores invisibles.</text>
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="15" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Crear, Materia, Conocimiento</text><nlkx/>
+   <text>  Reagentes: 4 Esencias de energía,</text><nlkx/>
+   <text>             4 Esencias de magia,</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="20" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>             4 Esencias de espíritu.</text><nlkx/>
+   <text>  Nivel mágico necesario: 45</text><nlkx/>
+   <text>  Experiencia mágica: 300</text><nlkx/>
+   <text>  Mana necesario: 20</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="Heat_Shield">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Escudo de calor</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Te protege del daño por calor.</text>
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="10" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Crear, Fuego, Protección</text><nlkx/>
+   <text>  Reagentes: 3 Esencias de energía,</text><nlkx/>
+   <text>             3 Esencias de materia,</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>             4 Esencias de agua</text><nlkx/>
+   <text>  Nivel mágico necesario: 37</text><nlkx/>
+   <text>  Experiencia mágica: 200</text><nlkx/>
+   <text>  Mana necesario: 25</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="Cold_Shield">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Escudo de frio</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Te protege del daño por frio.</text>
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="11" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Crear, Agua, Protección</text><nlkx/>
+   <text>  Reagentes: 3 Esencias de energía,</text><nlkx/>
+   <text>             3 Esencias de materia,</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>             4 Esencias de fuego</text><nlkx/>
+   <text>  Nivel mágico necesario: 38</text><nlkx/>
+   <text>  Experiencia mágica: 230</text><nlkx/>
+   <text>  Mana necesario: 27</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="Radiation_Shield">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Escudo de radiación</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Te protege del daño por radiación.</text>
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="15" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Crear, Materia, Energía, Protección</text><nlkx/>
+   <text>  Reagentes: 3 Esencias de energía, 4 Esencias de magia,</text><nlkx/>
+   <text>             3 Esencias de materia</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="16" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Nivel mágico necesario: 39</text><nlkx/>
+   <text>  Experiencia mágica: 260</text><nlkx/>
+   <text>  Mana necesario: 30</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+<Page name="Itc_Tp_to_Port_Room">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Enciclopedia de Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>    Teletransportación intercontinental</text><nl/>
+   <text>              a los portales</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Te teletransporta al otro continente, directo a</text><nlkx/>
+   <text>  los portales.</text>
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="9" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Cambiar, Global, Espacio</text><nlkx/>
+   <text>  Reagentes: 4 Esencias de materia,</text><nlkx/>
+   <text>            10 Esencias de energía,</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="2" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>            12 Esencias de espíritu</text><nlkx/>
+   <text>  Nivel mágico necesario: 50</text><nlkx/>
+   <text>  Experiencia mágica: 220</text><nlkx/>
+   <text>  Mana necesario: 40</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Magic" title="Índice de mágia"/>
+</Page>
+</Magic>

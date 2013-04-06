@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+	<label index="0" name="Channel %d">Kanal %d Goruntule</label>
+	<label index="1" name="Guild">Klaninizin sohbet kanali</label>
+	<label index="2" name="View All">Tum kanallardaki konusmalari goruntler</label>
+	<label index="3" name="None">Kanallarda bulunmayan mesajlar</label>
+	<label index="4" name="Channels">Katilmak istediginiz kanali secin</label>
+	<label index="5" name="History">Mesaj gecmisini goruntuler</label>
+	<label index="6" name="Local">Bulundugunuz alandaki konusmalar</label>
+	<label index="7" name="PMs">Ozel mesajlar</label>
+	<label index="8" name="GMs">Klan Mesajlari</label>
+	<label index="9" name="Server">Sunucudan gelen mesajlar</label>
+	<label index="10" name="Mod">Denetleyici Sohbeti</label>
+	
+	<channel number="1" name="Newbie">Caylaklar icin oyunla ilgili Soru&amp;Cevap</channel>
+	<channel number="2" name="Gen Help">Genel/Ust seviye yardim</channel>
+	<channel number="3" name="Market">Alim-Satim, kiralamak, ve urunlerin fiyat bilgileri</channel>
+	<channel number="4" name="EL Gen Chat">EL ile ilgili sohbet</channel>
+	<channel number="5" name="Roleplay">Roleplay, ve hakkinda sohbet</channel>
+	<channel number="6" name="Invasions">Chat about Invasions and Leonard</channel>
+   <channel number="7" name="Events">Yarisma ve Etkinlikler hakkinda sohbet</channel>
+	<channel number="11" name="Prattler">Gelip hikaye botunu dinleyin!</channel>
+	<channel number="20" name="Off Topic">Kurallara uymak kaydiyla (nerdeyse) her konuda sohbet</channel>
+	<channel number="24" name="Irilion">Irilion'u ziyaret edenlere yonelik sohbet</channel>
+	<channel number="23" name="Czech/Slovak">Cek ve Slovak sohbet kanali</channel>
+	<channel number="44" name="Polish">Leh sohbet kanali</channel>
+	<channel number="105" name="Turkish">Turkce sohbet kanali</channel>
+	<channel number="111" name="Hungarian">Macarca sohbet kanali</channel>
+	<channel number="124" name="Trivia">Soru yarismasi oynayin!</channel>
+	<channel number="206" name="German">Almanca sohbet kanali</channel>
+	<channel number="231" name="Swedish">Isvec sohbet kanali</channel>
+	<channel number="242" name="Italian">Italyanca sohbet kanali</channel>
+	<channel number="255" name="Spanish">Ispanyolca sohbet kanali</channel>
+	<channel number="381" name="Ex-Yugoslavian">Eski Yugoslav dillerinde sohbet</channel>
+	<channel number="500" name="Portuguese">Portekizce sohbet kanali</channel>
+	<channel number="734" name="Lithuanian">Chat in Lithuanian</channel>
+	<channel number="777" name="African">Afrikanca sohbet kanali</channel>
+	<channel number="888" name="French">Fransizca sohbet kanali</channel>
+	<channel number="999" name="Romanian">Romence sohbet kanali</channel>
+	<channel number="1192" name="Japanese">Japonca sohbet kanali</channel>
+	<channel number="1500" name="Dutch">Flemenkce sohbet kanali</channel>
+	<channel number="2000" name="Irish">Irlandaca sohbet kanali</channel>
+	<channel number="4900" name="Russian">Rusca sohbet kanali</channel>
+	<channel number="9872" name="*nix">*nix hakkinda sohbet (linux, *BSD, vs)</channel>
+</channels>

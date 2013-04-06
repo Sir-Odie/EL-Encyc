@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Creatures>
+<Page name="Rabbits">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Rabbits</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Brown and White Rabbits</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> You can use Rabbit Furs to manufacture:</text><nl/>
+   <text>  Brown: </text><link ref="Fur_Gloves" title="Warm Fur Gloves"/><nlkx/>
+   <link ref="Fur_Boots" title="Fur Boots"/><nl/>
+   <nl/>
+   <text>  White: </text><link ref="Hat_Fur" title="Fur Hat"/><nlkx/>
+   <link ref="P_Harvesting" title="Potion of Harvesting"/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Rat">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Rat</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Rats</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> You can use Rat Tails to manufacture:</text><nlkx/>
+   <text>  </text><link ref="Fur_Boots" title="Fur Boots"/><nlkx/>
+   <link ref="Fur_Torso" title="Fur Torso"/><nlkx/>
+   <link ref="P_Magic" title="Potion of Magic"/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Beaver">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Beaver</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Beavers</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> You can use Beaver Furs to manufacture:</text><nlkx/>
+   <text>  </text><link ref="Hat_Fur" title="Fur Hat"/><nlkx/>
+   <link ref="Fur_Pants" title="Fur Pants"/><nlkx/>
+   <link ref="P_Defense" title="Potion of Defense"/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Skunk">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Skunk</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Skunks</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Skunks live only in Irilion, not a friendly place</text><nlkx/>
+   <text> for unexperienced players.</text><nl/>
+   <nl/>
+   <text> You can use Skunk Furs to manufacture:</text><nlkx/>
+   <text>  </text><link ref="Hat_Skunk" title="Skunk Hat"/><nlkx/>
+   <link ref="P_Accuracy" title="Potion of Accuracy"/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Racoon">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Racoon</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Racoons</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Racoons live only in Irilion, not a friendly place</text><nlkx/>
+   <text> for unexperienced players.</text><nl/>
+   <nl/>
+   <text> You can use Racoon Furs to manufacture:</text><nlkx/>
+   <text>  </text><link ref="Hat_Racoon" title="Racoon Hat"/><nlkx/>
+   <link ref="P_Evasion" title="Potion of Evasion"/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Deer">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Deer</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Deer</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> You can use Deer Furs to manufacture:</text><nlkx/>
+   <text>  </text><link ref="Fur_Pants" title="Fur Pants"/><nlkx/>
+   <link ref="Fur_Torso" title="Fur Torso"/><nlkx/>
+   <link ref="P_Coordination" title="Potion of Coordination"/><nl/>
+   <nl/>
+   <text> You can use Deer Antlers to manufacture:</text><nlkx/>
+   <text>  </text><link ref="P_Summoning" title="Potion of Summoning"/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Snakes">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Snakes</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Green, Red and Brown Snakes</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> You can use snakes skins in some god quests.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Fox">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Fox</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Foxes</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> You can use Fox Furs to manufacture:</text><nlkx/>
+   <text>  </text><link ref="Fox_Scarf" title="Fox Scarf"/><nlkx/>
+   <link ref="Cloak_Fur" title="Fur Cloak"/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Boar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Boar</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Boars</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Boars have lots of meat and bones, which can be</text><nl/>
+   <text> sold to summoners and potioners.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Wolf">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Wolf</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Wolves</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> You can use Wolf Furs to manufacture:</text><nlkx/>
+   <text>  </text><link ref="Cloak_Fur" title="Fur Cloak"/><nlkx/>
+   <link ref="Fur_Boots" title="Fur Boots"/><nlkx/>
+   <link ref="Fur_Pants" title="Fur Pants"/><nlkx/>
+   <link ref="Fur_Torso" title="Fur Torso"/><nlkx/>
+   <link ref="P_Wildness" title="Potion of Wildness"/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Spiders">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Spiders</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Small and Large Spiders</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Spiders create thread which can be used to manufacture</text><nl/>
+   <text> items, or sold to other players.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Puma">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Puma</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Pumas </text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> You can use Puma Furs to manufacture:</text><nlkx/>
+   <text>  </text><link ref="P_Vitality" title="Potions of Vitality"/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Leopard">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Leopard</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Leopards </text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> You can use Leopard Furs to manufacture:</text><nlkx/>
+   <text>  </text><text>nothing at the moment.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Snow_Leopard">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Snow Leopard</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Snow Leopards </text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> You can use Snow Leopard Furs to manufacture:</text><nlkx/>
+   <text>  </text><link ref="P_Invis" title="Potions of Invisibility"/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Panther">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Black Panther</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Panthers </text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> You can use Black Panther Furs to manufacture:</text><nlkx/>
+   <text>  </text><text>nothing at the moment.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Feran">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Feran</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Ferans</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> You can use Feran Horns to manufacture:</text><nlkx/>
+   <text>  </text><link ref="P_Alchemy" title="Potion of Alchemy"/><nlkx/>
+   <link ref="P_Potion" title="Potion of Potion"/><nlkx/>
+   <link ref="Extract_WDF" title="Extracts"/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Tiger">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Tiger</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Tigers </text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> You can use Tiger Furs to manufacture:</text><nlkx/>
+   <text>  </text><text>nothing at the moment.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="White_Tiger">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 White Tiger</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> White Tigers </text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> You can use White Tiger Furs to manufacture:</text><nlkx/>
+   <text>  </text><link ref="ST_TigerW" title="Tiger Summoning Stone"/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="BearB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Black Bear</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Bears</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> You can use Bear Furs to manufacture:</text><nlkx/>
+   <text>  </text><link ref="P_Attack" title="Potions of Attack"/><nlkx/>
+   <link ref="ST_Bear" title="Bear Summoning Stone"/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="BearG">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Grizzly Bear</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Grizzly Bears</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> You can use Bear Furs to manufacture:</text><nlkx/>
+   <text>  </text><link ref="P_Attack" title="Potions of Attack"/><nlkx/>
+   <link ref="ST_Bear" title="Bear Summoning Stone"/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="BearP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Polar Bear</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Polar Bears</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> You can use Polar Bear Furs to manufacture:</text><nlkx/>
+   <text>  </text><text>nothing at the moment.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Panda">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Panda Bear</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Panda Bears</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Panda Bears have lots of meat and bones, which can be</text><nl/>
+   <text> sold to summoners and potioners.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Hawk">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Hawk</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Hawks</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> These delicate looking birds are deceptively</text><nlkx/>
+   <text> strong. They are hunted for their feathers.</text><nlkx/>
+   <nl/>
+   <text> You can use Hawk Feathers to manufacture:</text><nlkx/>
+   <text>  </text><link ref="P_Eng" title="Potion of Engineering"/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Falcon">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Falcon</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Falcons</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> These delicate looking birds are deceptively</text><nlkx/>
+   <text> strong. They are hunted for their feathers.</text><nlkx/>
+   <nl/>
+   <text> You can use Falcon Feathers to manufacture:</text><nlkx/>
+   <text>  </text><link ref="P_Eng" title="Potion of Engineering"/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Lion">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Lion</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Lions</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> A fierce creature, living mainly in jungle areas.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Penguins">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Penguins</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Penguins</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Penguins live in cold regions and can be hunted for</text><nlkx/>
+   <text> meat and bones which are used in potions and summoning.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Goblin">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Goblin</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Male and Female Goblins (May be Armed)</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Goblins are ugly, smelly scavengers. They mostly</text><nlkx/>
+   <text> travel in packs of 5 or 6, but many times they</text><nlkx/>
+   <text> could also be seen traveling alone. Varying around</text><nlkx/>
+   <text> 5 feet or less in height, they have greenish pock</text><nlkx/>
+   <text> marked skin, yellowish brown eyes, and wear clothing,</text><nlkx/>
+   <text> armor and weapons that they pilfered from dead</text><nlkx/>
+   <text> corpses in graves, an unsuspecting traveler, or each </text><nlkx/>
+   <text> other. They are usually too stupid to determine if</text><nlkx/>
+   <text> fighting you is a good or bad thing for them however.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Skeleton">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Skeleton</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Skeletons (May Be Armed)</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> The Skeletons are the bones of those who died before</text><nlkx/>
+   <text> the Great War. The gods of evil even reanimated their</text><nlkx/>
+   <text> bones when all the flesh and blood was gone to use </text><nlkx/>
+   <text> against the gods of good. Luckily they did not trap </text><nlkx/>
+   <text> their souls...although it is said in legends that </text><nlkx/>
+   <text> there are some whose souls are cursed and must follow </text><nlkx/>
+   <text> the remainder of their former selves for eternity. </text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Gargoyle">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Gargoyles</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Short, Medium and Tall Gargoyles</text>
+   <nlkx/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> When King Vermor mysteriously vanished - most people</text><nlkx/>
+   <text> claim he died (yet a corpse remains to be found) -</text><nlkx/>
+   <text> his Gargoyles were freed of his control. They now</text><nlkx/>
+   <text> wander White Stone in the dark of the night,</text><nlkx/>
+   <text> turning into stone statues during the day. Some</text><nlkx/>
+   <text> say they are still loyal and wander in search of</text><nlkx/>
+   <text> their master, who knows if they will ever find him...</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Phantom_Warrior">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Phantom Warrior</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Phantom Warriors</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Much like the skeletons, the Phantom Warriors were</text><nlkx/>
+   <text> reanimated by the evil deities during the Great War.</text><nlkx/>
+   <text> Unfortunately, these were the recently fallen in</text><nlkx/>
+   <text> the war, and are much more powerful for it. With</text><nlkx/>
+   <text> their bodies mostly intact, they retain most of</text><nlkx/>
+   <text> the strength and intelligence they had in life,</text><nlkx/>
+   <text> coupled with their state of semi-death, and servitude</text><nlkx/>
+   <text> to Mortos and his kin.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Troll">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Troll</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Trolls</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Trolls are primitive brutes, with intelligence about</text><nlkx/>
+   <text> equal to that of a Cyclops. Unfortunately, they lack</text><nlkx/>
+   <text> the size and strength of their more massive relatives,</text><nlkx/>
+   <text> though they are still more than a match for most</text><nlkx/>
+   <text> unwary adventurers. The clubs which they habitually</text><nlkx/>
+   <text> wield are more than heavy enough to inflict damage,</text><nlkx/>
+   <text> or death on those who would disturb them.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Orc">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Orcs</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Male and Female Orcs (May Be Armed)</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Orcs are quite intelligent, making strong tactics in </text><nlkx/>
+   <text> battle. They are also very fearsome creatures, as</text><nlkx/>
+   <text> they are usually bigger in stature than a human,</text><nlkx/>
+   <text> and getting wounded only makes them want to fight</text><nlkx/>
+   <text> even harder. They also don't fear much for their</text><nlkx/>
+   <text> lives, and will have fights to the death.</text><nlkx/>
+   <nl/>
+   <text> Standing at around 6-8 feet tall, they have greenish blue-</text><nlkx/>
+   <text> brown skin, and wear their own unique armor and clothing,</text><nlkx/>
+   <text> usually finding those from other races to be inferior to</text><nlkx/>
+   <text> their own weaponry.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Ogre">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Male Ogre</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Male Ogres</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Ogres tend to live by themselves, and set their own</text><nlkx/>
+   <text> territories usually quite far from other ogres. They</text><nlkx/>
+   <text> throw out any other humanoid creature they find</text><nlkx/>
+   <text> living there and will attack you on site. They are</text><nlkx/>
+   <text> not as intelligent as the Orcs, and are very grouchy</text><nlkx/>
+   <text> and lazy. Their skin tones vary from a greenish</text><nlkx/>
+   <text> color to a human's peach tone, and they're usually</text><nlkx/>
+   <text> a hulking 8 feet tall with a wide girth (due to</text><nlkx/>
+   <text> their laziness).</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Cyclops">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Cyclop</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Cyclops</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Cyclops are big strong brutes that will attack</text><nlkx/>
+   <text> anything moving in site when they feel threatened.</text><nlkx/>
+   <text> With their obvious lack of brains, they make up for</text><nlkx/>
+   <text> in strength and size. Not much is known about their</text><nlkx/>
+   <text> societies because no one has gotten close enough, or</text><nlkx/>
+   <text> lasted long enough, to tell the tale. </text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Fluffy">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Fluffy Rabbit</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Fluffy Rabbits</text>
+   <nl/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> "Awww, it's a cute fluffy rabbit!"</text><nlkx/>
+   <text>      --The last words of many unwary heros</text><nlkx/>
+   <text> These should be approached only by the strongest.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Chimera">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Chimeran Wolves</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Chimeran Wolves (Desert, Forest, Mountain, Arctic)</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> A large, powerful, ugly wolf, lacking any majesty. They</text><nlkx/>
+   <text> are reputed to have been created in a magical accident of</text><nlkx/>
+   <text> some type. In any case, only the strongest can defeat</text><nlkx/>
+   <text> them.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Hobgob">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Hobgoblin</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Hobgoblins</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> This creature came into being when Unolas was trying to</text><nlkx/>
+   <text> magically modify a goblin to create a smarter, more</text><nlkx/>
+   <text> civil variation. The experiment backfired and created a</text><nlkx/>
+   <text> stronger, and what appears to be a less-intelligent race</text><nlkx/>
+   <text> of monsters.</text>
+   <nl/><nl/>
+   <text> They have a blueish skin tone, and a face which</text><nlkx/>
+   <text> resembles a pig.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Yeti">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Yeti</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Yetis</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> These creatures are very dim-witted and extremely</text><nlkx/>
+   <text> dangerous. Their bodies are covered in a thick white</text><nlkx/>
+   <text> fur which protects them from the cold and standing</text><nlkx/>
+   <text> 8-10 feet in height they are an intimidating sight.</text>
+   <nl/><nl/>
+   <text> Yetis are strong violent creatures who tend to live</text><nlkx/>
+   <text> alone in dark caves, venturing to the outside world</text><nlkx/>
+   <text> when in search of food. Many a strong warrior has</text><nlkx/>
+   <text> been over-powered by these monsters.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Giant">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Giant</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Giants</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> These gigantic creatures are very aggressive, strong,</text><nlkx/>
+   <text> and deadly even for the strongest warrior when in a</text><nlkx/>
+   <text> group, so we are grateful that they tend to be solitary</text><nlkx/>
+   <text> creatures.</text>
+   <nl/><nl/>
+   <text> Although they look very much like humans, the giants do</text><nlkx/>
+   <text> not have the brain of a human, they are stupid....</text><nlkx/>
+   <text> really stupid!</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Feros">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Feros</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Feros</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> This large creature resembles a feline, although it</text><nlkx/>
+   <text> walks upright on two legs instead of all 4, looking</text><nlkx/>
+   <text> like a cross between a large cat and a human.</text>
+   <nl/><nl/>
+   <text> The Feros is an aggressive creature and well trained</text><nlkx/>
+   <text> in combat. Its instincts, superior intelligence, and</text><nlkx/>
+   <text> cat-like reflexes make it a formidable foe.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Cockatrice">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Cockatrice</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Cockatrices</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> This large rooster like monster has the tail of a</text><nlkx/>
+   <text> lizard and the wings of a dragon. Legend tells that</text><nlkx/>
+   <text> this creature can kill you by simply looking at you,</text><nlkx/>
+   <text> but in truth it is deadly in combat.</text>
+   <nl/><nl/>
+   <text> The cockatrice is extremely aggressive and fights by</text><nlkx/>
+   <text> using its huge beak and razor sharp talons.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="DragonR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Red Dragon</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Red Dragon</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Dragons are huge majestic creatures. They are extremely</text><nlkx/>
+   <text> aggressive and even the strongest fighters are not saved</text><nlkx/>
+   <text> from their attacks. Huge teeth, razor sharp claws and</text><nlkx/>
+   <text> spear-like tail make this the hardest creature to beat</text><nlkx/>
+   <text> in combat.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="DragonB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Black Dragon</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Dragon</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Dragons are huge majestic creatures. They are extremely</text><nlkx/>
+   <text> aggressive and even the strongest fighters are not saved</text><nlkx/>
+   <text> from their attacks. Huge teeth, razor sharp claws and</text><nlkx/>
+   <text> spear-like tail make this the hardest creature to beat</text><nlkx/>
+   <text> in combat.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="DragonW">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                White Dragon</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> White Dragon</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Dragons are huge majestic creatures. They are extremely</text><nlkx/>
+   <text> aggressive and even the strongest fighters are not saved</text><nlkx/>
+   <text> from their attacks. Huge teeth, razor sharp claws and</text><nlkx/>
+   <text> spear-like tail make this the hardest creature to beat</text><nlkx/>
+   <text> in combat.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Unicorn">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Unicorn</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Unicorns</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> A stunningly beautiful white horse, with a single horn</text><nlkx/>
+   <text> in its foreheads.</text>
+   <nl/><nl/>
+   <text> The Unicorn can't be attacked.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Brownie">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Brownie</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Brownies</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Brownies are a mischievous race with pointy ears that</text><nlkx/>
+   <text> commonly live in houses or barns. They are very hard</text><nlkx/>
+   <text> working, though some what high spirited.</text><nlkx/>
+   <text> Brownies commonly steal food and shiny objects from</text><nlkx/>
+   <text> houses of people they trust.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Wood_Sprite">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Wood Sprite</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Wood Sprites</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> These normally gentle creatures inhabit wooded areas and</text><nlkx/>
+   <text> are considered the protectors of the trees. It is told</text><nlkx/>
+   <text> in legends that wood sprites become aggressive when the</text><nlkx/>
+   <text> trees they protect are chopped down.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Imp">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Imp</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Imps</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Imps are often thought of as an aggressive creature.</text><nlkx/>
+   <text> In actual fact they are just very high spirited and</text><nlkx/>
+   <text> like to play pranks. Their preferred residence is in</text><nlkx/>
+   <text> dark caves but they will venture into daylight in</text><nlkx/>
+   <text> search of friends and people to trick.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Leprechaun">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Leprechaun</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Leprechauns</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Leprechauns are tiny people that closely resemble an old</text><nlkx/>
+   <text> man. They are tricksters and move at a fairly fast speed.</text><nlkx/>
+   <text> Leprechauns are well known for their treasure and if</text><nlkx/>
+   <text> you catch one, you might very well find gold.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+</Creatures>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <titles>
+    <w_note>Notdefteri</w_note>
+    <w_prompt>Istek</w_prompt>
+    <t_help>Yardim</t_help>
+    <t_ency>Ansiklopedi</t_ency>
+    <t_skills>Yetenekler</t_skills>
+    <t_rules>Kurallar</t_rules>
+    <t_stats>Istatistik</t_stats>
+    <t_know>Bilgi</t_know>
+    <t_qlog>Görev günlügü</t_qlog>
+    <t_main>Ana</t_main>
+    <b_okay>Tamam</b_okay>
+    <b_cancel>Iptal</b_cancel>
+    <b_new_cat>Yeni Kategori</b_new_cat>
+    <b_rm_cat>Kategoriyi sil</b_rm_cat>
+    <b_save>Notlari Kaydet</b_save>
+    <l_nname>Not ismi</l_nname>
+    <l_cursor_coords>Imleç konumu</l_cursor_coords>
+    <w_stats>Istatistik</w_stats>
+    <w_sigils>Sihir Tas</w_sigils>
+    <w_inv>Canta</w_inv>
+    <w_help>Yardim</w_help>
+    <w_buddy>Ahbap</w_buddy>
+    <w_config>EL Ayarlari</w_config>
+    <w_manu>Üretim</w_manu>
+    <w_principal>Eternal Lands</w_principal>
+    <w_storage>Depo</w_storage>
+    <w_trade>Takas</w_trade>
+    <w_rules>Kurallar</w_rules>
+    <w_bag>Kese</w_bag>
+    <w_design>Karakterini tasarla</w_design>
+    <w_name_pass>Isim ve sifreni seç</w_name_pass>
+    <w_newchar>Yeni Karakter</w_newchar>
+    <tab_control>Kontrol</tab_control>
+    <tab_audio>Ses</tab_audio>
+    <tab_hud>HUD</tab_hud>
+    <tab_server>Sunucu</tab_server>
+    <tab_misc>Diger</tab_misc>
+    <tab_chat>Sohbet</tab_chat>
+    <tab_video>Video</tab_video>
+    <tab_lod>Detay</tab_lod>
+    <tab_adv_video>Gelismis video</tab_adv_video>
+    <tab_ec>Ek efekt</tab_ec>
+    <tab_font>Font</tab_font>
+    <game_version>Eternal Lands Versiyon %d.%d.%d%s</game_version>
+    <t_kills>Sayaç</t_kills>
+    <t_session>Oturum</t_session>
+  </titles>
+</root>

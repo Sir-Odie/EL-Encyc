@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Attributes>
+<Page name="Physique">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>              Atributos básicos</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Físico</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> El físico es el atributo que se usa para incrementar</text><nl/>
+   <text> la fuerza, la materia y la dureza.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Fuerza: es un atributo cruzado que te permite</text><nl/>
+   <text> cargar más peso.</text><nl/>
+   <text> Materia: Es un atributo cruzado que incrementa tu salud.</text><nl/>
+   <text> Dureza: Es un atributo cruzado que disminuye el daño.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Coordination">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>              Atributos básicos</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Coordinación</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Coordinación es el atributo básico que se usa para</text><nl/>
+   <text> incrementar la fuerza, la reacción y la destreza.</text><nl/>
+   <color r="0" g="0.7" b="1"/>
+   <nlkx/>
+   <nl/>
+   <text> Fuerza: es un atributo cruzado que te permite</text><nl/>
+   <text> cargar más peso.</text><nl/>
+   <text> Reacción: Es un atributo cruzado que te ayuda a</text><nl/>
+   <text> esquivar golpes.</text><nl/>
+   <text> Destreza: Es un atributo cruzado que incrementa la</text><nl/>
+   <text> posibilidad de acertar a tu objetivo.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Reasoning">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>              Atributos básicos</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Razonamiento</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Atributo básico que se usa para incrementar</text><nl/>
+   <text> la destreza, la percepción y la racionalidad.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Destreza: Es un atributo cruzado que incrementa la</text><nl/>
+   <text> posibilidad de acertar a tu objetivo.</text><nl/>
+   <text> Perception: is a cross attribute that makes you see</text><nl/>
+   <text> better in low light conditions.</text><nl/>
+   <text> Racionalidad: es un atributo cruzado que reduce el tiempo</text><nl/>
+   <text> de estudio e incrementa la experiencia recibida.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Will">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>              Atributos básicos</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Voluntad</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Es el atributo básico que incrementa la materia,</text><nl/>
+   <text> la racionalidad y el éter.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Materia: Es un atributo cruzado que incrementa tu salud.</text><nl/>
+   <text> Racionalidad: es un atributo cruzado que reduce el tiempo</text><nl/>
+   <text> de estudio e incrementa la experiencia recibida.</text><nl/>
+   <text> Éter: es el atributo cruzado que incrementa los puntos</text><nl/>
+   <text> etéreos.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Instinct">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>              Atributos básicos</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Instinto</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Es un atributo básico que incrementa la reacción,</text><nl/>
+   <text> la percepción y el carisma.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Reacción: Es un atributo cruzado que te ayuda a</text><nl/>
+   <text> esquivar golpes.</text><nl/>
+   <text> Perception: is a cross attribute that makes you see</text><nl/>
+   <text> better in low light conditions.</text><nl/>
+   <text> Charm: is a cross attribute that makes your summoned</text><nl/>
+   <text> creatures more powerful and gives you a chance to</text><nl/>
+   <text> summon 2 creatures for the cost of one.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Vitality">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>              Atributos básicos</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Vitalidad</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Es un atributo básico que incrementa la dureza,</text><nl/>
+   <text> el éter y el carisma.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Dureza: Es un atributo cruzado que disminuye el daño.</text><nl/>
+   <text> Éter: es el atributo cruzado que incrementa los puntos</text><nl/>
+   <text> etéreos.</text><nl/>
+   <text> Charm: is a cross attribute that makes your summoned</text><nl/>
+   <text> creatures more powerful and gives you a chance to</text><nl/>
+   <text> summon 2 creatures for the cost of one.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Might">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>             Atributos cruzados</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Fuerza</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> La fuerza incrementa tu capacidad total de carga.</text><nl/>
+   <text> Se incrementa con el físico o la coordinación.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Matter">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>             Atributos cruzados</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Materia</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> La materia incrementa tu salud máxima.</text><nl/>
+   <text> Se incrementa con el físico y la voluntad.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Toughness">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>             Atributos cruzados</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Dureza</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> La dureza reduce el daño recibido en combate.</text><nl/>
+   <text> Se incrementa con el físico y la vitalidad.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Charm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>             Atributos cruzados</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Carisma</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Charm makes your summoned creatures more powerful</text><nl/>
+   <text> and gives you a chance to summon 2 creatures for the</text><nl/>
+   <text> cost of one.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Se incrementa con el instinto y la vitalidad.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Reaction">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>             Atributos cruzados</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Reacción</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> La reacción te ayuda a evitar golpes en combate.</text><nl/>
+   <text> Se incrementa con la coordinación y el instinto.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Perception">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>             Atributos cruzados</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Percepción</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Perception makes you see better in low light conditions.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Se incrementa con el razonamiento y el instinto.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Rationality">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>             Atributos cruzados</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Racionalidad</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> La racionalidad reduce el tiempo de estudio e incrementa la</text><nl/>
+   <text> experiencia recibida.</text><nl/>
+   <text> Se incrementa con el razonamiento y la voluntad.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Dexterity">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>             Atributos cruzados</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Destreza</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> La destreza incrementa la puntería.</text><nl/>
+   <text> Se incrementa con el razonamiento y la coordinación.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Ethereality">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>             Atributos cruzados</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Éter</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> El éter incrementa la cantidad de puntos de maná.</text><nl/>
+   <text> Se incrementa con la voluntad y la vitalidad.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Nx_Human">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                   Nexos</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Nexo humano</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Define el tipo de equipamiento que puedes vestir.</text><nl/>
+   <text> Un nexo mayor te permite vestir mejor equipamiento.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Nx_Animal">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                   Nexos</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Nexo animal</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Se usa en invocación. Un nexo mayor es necesario para</text><nl/>
+   <text> ciertas criaturas de alto nivel.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Nx_Vegetal">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                   Nexos</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Nexo vegetal</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Usado en pociones.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Nx_Inorganic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                   Nexos</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Nexo inorgánico</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Usado en la recolección.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Nx_Artificial">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                   Nexos</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Nexo artificial</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Usado en manufactura. Un nexo alto es necesario para</text><nl/>
+   <text> fabricar algunos objetos especiales.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Nx_Magic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                   Nexos</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Nexo mágico</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Usado para el encantamiento y engarzado de objetos.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Sk_Attack">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                Habilidades</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Ataque</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Se usa para calcular el daño, cuando aciertas un</text><nl/>
+   <text> golpe.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Sk_Defense">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                Habilidades</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Defensa</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Se usa para calcular la cantidad de daño que absorbes</text><nl/>
+   <text> cuando un enemigo te alcanza.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Sk_Harvesting">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                Habilidades</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Recolección</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Se usa para calcular la tasa de fallo cuando estás</text><nl/>
+   <text> recolectando.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Sk_Alchemy">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                Habilidades</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Alquimia</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> ASe usa para calcular la tasa de fallo cuando se</text><nl/>
+   <text> hacen esencias y lingotes.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Sk_Magic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                Habilidades</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Magia</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Se usa en los hechizos, conforme más alto sea el </text><nl/>
+   <text> nivel del mago, más fuerte es el hechizo.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Sk_Potion">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                Habilidades</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Pociones</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Se usa para calcular la tasa de fallo cuando se</text><nl/>
+   <text> hacen pociones.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Sk_Summoning">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                Habilidades</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Invocación</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Se usa para calcular la tasa de fallo cuando se</text><nl/>
+   <text> invoca una criatura.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Sk_Manufacture">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                Habilidades</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Manufactura</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Se usa para calcular la tasa de fallo cuando se fabrican</text><nl/>
+   <text> objetos como armaduras y armas.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Sk_Crafting">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                Habilidades</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Joyería</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Se usa para calcular la tasa de fallo cuando </text><nl/>
+   <text> se fabrica joyería.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+<Page name="Sk_Engineering">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  Skills</text><nl/>
+   <color>red</color>
+   <text>                Engineering</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Engineering is used to calculate the failure rate when</text><nl/>
+   <text> you are making nails, landmines and other devices.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Attributes" title="Back To Attributes"/>
+</Page>
+<Page name="Sk_Overall">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                Habilidades</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  General</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Se usa para obtener puntos de habilidad, que se usan</text><nl/>
+   <text> más tarder para obtener atributos, nexos y bonificaciones</text><nl/>
+   <text> de la bruja en Isla Prima.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Índice de atributos"/>
+</Page>
+</Attributes>

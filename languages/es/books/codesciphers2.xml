@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<book title="El uso de códigos y cifrados">
+	<page>
+		<title>El uso de códigos y cifrados</title>
+		<author>Dival Celebrindal (Archivista del lider)</author>  </page>
+	<page>
+		<title>Códigos por substitución - Parte II</title>
+		<text>My investigación me ha llevado a diferentes partes del continente, y durante mi búsqueda he encontrado muchos pergaminos y escrituras antiguos. En uno de estos pergaminos descubrí el uso de otros códigos. Códigos usados por el clan de un mercader para fijar los precios en ciudades vecinas. Los primeros códigos que usaron eran como éste: la sentencia se parte por la mitad, entonces las letras the la segunda mitad se escriben entre las letras de la primera mitad, por ejemplo: "LAS PIELES DE LOBO SE VENDERÁN POR 7GC" se escribiría como: "LEAVSEPNIDEELREASNDPEOLRO7BGOCS". Un método más complicado divide la sentencia en grupos de tres letras (incluyendo letras inútiles de relleno al final, si hace falta) y entonces los grupos de letras se mezclan en un orden predeterminado, por ejemplo, si la clave de permutación es 12345678 > 36827514 entonces "ESTE MENSAJE ES ALTO SECRETO" se convierte en "ECR JEE EST ETO TOS EME SAL NSA". [El libro continúa con mas ejemplos de permutaciones, pero decides que no quieres leer más y lo cierras]</text>
+	</page>
+  </book>

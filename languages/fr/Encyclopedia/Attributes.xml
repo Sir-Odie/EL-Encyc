@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Attributes>
+<Page name="Physique">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>              Attributs de base</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Physique</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Physique est un attribut de base utilisé pour augmenter</text><nl/>
+   <text> vos points de "puissance", "matière", et "robustesse".</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Puissance: Est un attribut dérivé qui influence la charge</text><nl/>
+   <text>  maximale que vous pouvez porter.</text><nl/>
+   <text> Matière: Est un attribut dérivé qui détermine votre santé.</text><nl/>
+   <text> Robustesse: Réduit la quantité de dégats reçus dans un</text><nl/>
+   <text>  combat.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Coordination">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>              Attributs de base</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Coordination</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Coordination est un attribut de base utilisé pour augmenter</text><nl/>
+   <text> vos points de "puissance", "réaction", et "dextérité".</text><nl/>
+   <color r="0" g="0.7" b="1"/>
+   <nlkx/>
+   <nl/>
+   <text> Puissance: Est un attribut dérivé qui influence la charge</text><nl/>
+   <text>  maximale que vous pouvez porter.</text><nl/>
+   <text> Réaction: Est un attribut dérivé qui vous aide à éviter les</text><nl/>
+   <text>  coups en combat.</text><nl/>
+   <text> Dextérité: Est un attribut dérivé qui détermine la chance</text><nl/>
+   <text>  de réussir à toucher une cible.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Reasoning">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>              Attributs de base</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Raisonnement</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Raisonnement est un attribut de base utilisé pour augmenter</text><nl/>
+   <text> vos points de "dextérité", "perception", et "rationalité".</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Dextérité: Est un attribut dérivé qui détermine la chance</text><nl/>
+   <text>  de réussir à toucher une cible.</text><nl/>
+   <text> Perception: is a cross attribute that makes you see</text><nl/>
+   <text> better in low light conditions.</text><nl/>
+   <text> Rationalité: Est un attribut dérivé qui réduit le temps de</text><nl/>
+   <text>  recherche et augmente la quantité d'expérience que vous</text><nl/>
+   <text>  recevez.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Will">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>              Attributs de base</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Volonté</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Volonté est un attribut de base utilisé pour augmenter</text><nl/>
+   <text> vos points de "matière", "rationalité", et "éther".</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Matière: Est un attribut dérivé qui détermine votre santé.</text><nl/>
+   <text> Rationalité: Est un attribut dérivé qui réduit le temps de</text><nl/>
+   <text>  recherche et augmente la quantité d'expérience que vous</text><nl/>
+   <text>  recevez.</text><nl/>
+   <text> Ether: Est un attribut dérivé qui détermine la quantité</text><nl/>
+   <text>  de vos points d'éther (mana).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Instinct">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>              Attributs de base</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Instinct</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Instinct est un attribut de base utilisé pour augmenter</text><nl/>
+   <text> vos points de "réaction", "perception", et "charme".</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Réaction: Est un attribut dérivé qui vous aide à éviter les</text><nl/>
+   <text>  coups en combat.</text><nl/>
+   <text> Perception: is a cross attribute that makes you see</text><nl/>
+   <text> better in low light conditions.</text><nl/>
+   <text> Charm: is a cross attribute that makes your summoned</text><nl/>
+   <text> creatures more powerful and gives you a chance to</text><nl/>
+   <text> summon 2 creatures for the cost of one.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Vitality">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Vitalité</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Vitalité est un attribut de base utilisé pour augmenter</text><nl/>
+   <text> vos points de "robustesse", "éther", et "charme".</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Robustesse: Réduit la quantité de dégats reçus dans un</text><nl/>
+   <text>  combat.</text><nl/>
+   <text> Ether: Est un attribut dérivé qui détermine la quantité</text><nl/>
+   <text>  de vos points d'éther (mana).</text><nl/>
+   <text> Charm: is a cross attribute that makes your summoned</text><nl/>
+   <text> creatures more powerful and gives you a chance to</text><nl/>
+   <text> summon 2 creatures for the cost of one.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Might">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>             Attributes dérivés</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Puissance</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Puissance: Est un attribut dérivé qui influence la charge</text><nl/>
+   <text>  maximale que vous pouvez porter.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Puissance est augmenté par "Physique" et "Coordination"</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Matter">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>             Attributes dérivés</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Matière</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Matière: Est un attribut dérivé qui détermine votre santé.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Matière est augmenté par "Physique" and "Volonté".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Toughness">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>             Attributes dérivés</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Robustesse</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Robustesse: Réduit la quantité de dégats reçus dans un</text><nl/>
+   <text> combat.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Robustesse est augmenté par "Physique" et "Vitalité".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Charm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>             Attributes dérivés</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Charme</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Charm makes your summoned creatures more powerful</text><nl/>
+   <text> and gives you a chance to summon 2 creatures for the</text><nl/>
+   <text> cost of one.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Charme est augmenté par "Instinct" et "Vitalité".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Reaction">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>             Attributes dérivés</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Réaction</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Réaction: Est un attribut dérivé qui vous aide à éviter les</text><nl/>
+   <text> coups en combat.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Réaction est augmenté par "Coordination" et "Instinct".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Perception">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>             Attributes dérivés</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Perception</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Perception makes you see better in low light conditions.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Perception est augmenté par "Raisonnement" et "Instinct"</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Rationality">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>             Attributes dérivés</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Rationality</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Rationalité: Est un attribut dérivé qui réduit le temps de</text><nl/>
+   <text>  recherche et augmente la quantité d'expérience que vous</text><nl/>
+   <text>  recevez.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Rationalité est augmenté par "Raisonnement" et "Volonté"</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Dexterity">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>             Attributes dérivés</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Dextérité</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Dextérité: Est un attribut dérivé qui détermine la chance</text><nl/>
+   <text>  de réussir à toucher une cible.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Dextérité est augmenté par "Raisonnement" et "Coordination"</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Ethereality">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>             Attributes dérivés</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Ether</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Ether: Est un attribut dérivé qui détermine la quantité</text><nl/>
+   <text>  de vos points d'éther (mana).</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Ether est augmenté par "Volonté" et "Vitalité"</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Nx_Human">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Nexus humain</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Le nexus humain détermine le type d'équipement que vous</text><nl/>
+   <text> pouvez porter (armure, épées, boucliers, etc...).</text><nl/>
+   <text> Plus le nexus humain est élevé, meilleur est l'équipement</text><nl/>
+   <text> que vous pouvez porter.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Nx_Animal">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Nexus animal</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Utilisé pour l'invocation. Plus le nexus est élevé, plus</text><nl/>
+   <text> vous pouvez invoquer des animaux puissants.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Nx_Vegetal">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Nexus végétal</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Utilisé pour les potions. Plus il est élevé, mieux c'est.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Nx_Inorganic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Nexus inorganique</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Utilisé pour extraire le minerai.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Nx_Artificial">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Nexus artificiel</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Utilisé pour la fabrication. Vous avez besoin de plus de</text><nl/>
+   <text> nexus artificiel pour créer de meilleurs objets.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Nx_Magic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Nexus magique</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Utilisé pour l'enchantement de certains objets.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Sk_Attack">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  Talents</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Attack</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Attaque est utilisé pour calculer les dommages que vous causez</text><nl/>
+   <text> lorsque vous portez un coup.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Sk_Defense">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  Talents</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Defense</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Défense est utilisé pour calculer le nombre de points perdus</text><nl/>
+   <text> lorsqu'un monstre vous touche.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Sk_Harvesting">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  Talents</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Récolte</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Récolte est utilisé pour calculer le taux de défaillance</text><nl/>
+   <text> lorsque vous récoltez du minerai.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Sk_Alchemy">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  Talents</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Alchimie</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Alchimie est utilisé pour calculer le taux de défaillance</text><nl/>
+   <text> lorsque vous fabriquez des essences et des lingots.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Sk_Magic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  Talents</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Magie</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Magie est utilisée pour les sorts. Plus le niveau est élevé, plus</text><nl/>
+   <text> vous pouvez lancer des sorts puissants.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Sk_Potion">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  Talents</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Potions</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Potion est utilisé pour calculer le taux de défaillance</text><nl/>
+   <text> lorsque vous fabriquez des potions.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Sk_Summoning">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  Talents</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Invocation</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Invocation est utilisé pour calculer le taux de défaillance</text><nl/>
+   <text> lorsque vous invoquez des animaux.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Sk_Manufacture">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  Talents</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Fabrication</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Fabrication est utilisé pour calculer le taux de défaillance</text><nl/>
+   <text> lorsque vous fabriquez des armes et des armures.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Sk_Crafting">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  Talents</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Artisanat</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Artisanat est utilisé pour calculer le taux de défaillance</text><nl/>
+   <text> lorsque vous faites de la joaillerie.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+<Page name="Sk_Engineering">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  Skills</text><nl/>
+   <color>red</color>
+   <text>                Engineering</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Engineering is used to calculate the failure rate when</text><nl/>
+   <text> you are making nails, landmines and other devices.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Attributes" title="Back To Attributes"/>
+</Page>
+<Page name="Sk_Overall">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  Talents</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Ensemble</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Votre niveau d'Ensemble est utilisé pour vous donner des points.</text><nl/>
+   <text> Les points sont utilisés pour gagner des attributs.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attributes" title="Retour aux Attributs"/>
+</Page>
+</Attributes>

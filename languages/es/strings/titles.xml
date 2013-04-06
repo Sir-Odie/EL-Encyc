@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<titles>
+		<w_note>Notas</w_note>
+		<w_prompt>Prompt</w_prompt>
+		<t_help>Ayuda</t_help>
+		<t_ency>Enciclopedia</t_ency>
+		<t_skills>Habilidades</t_skills>
+		<t_rules>Reglas</t_rules>
+		<t_stats>Stadísticas</t_stats>
+		<t_know>Conocimiento</t_know>
+		<t_qlog>Diario</t_qlog>
+		<t_all>Todo</t_all>
+		<t_none>Nada</t_none>
+		<t_local>Local</t_local>
+		<c_newbie>Aprendiz</c_newbie>
+		<c_help>Ayuda</c_help>
+		<c_market>Mercado</c_market>
+		<c_general>General</c_general>
+		<c_offtopic>Sin tópico</c_offtopic>
+		<t_channel>Canal %d</t_channel>
+		<c_guild>Clan</c_guild>
+		<c_mod>Mod</c_mod>
+		<c_personal>PM</c_personal>
+		<c_server>Servidor</c_server>
+		<t_main>Principal</t_main>
+		<b_okay>Acepto</b_okay>
+		<b_cancel>Cancelar</b_cancel>
+		<b_new_cat>Categoría nueva</b_new_cat>
+		<b_rm_cat>Borrar categoría</b_rm_cat>
+		<b_save>Guardar Notas</b_save>
+		<l_nname>Nombre de nota</l_nname>
+		<l_cursor_coords>Posición</l_cursor_coords>
+		<c_guildchan>Clan</c_guildchan>
+		<w_stats>Estadísticas</w_stats>
+		<w_sigils>Susurros</w_sigils>
+		<w_inv>Inventario</w_inv>
+		<w_help>Ayuda</w_help>
+		<w_buddy>Contactos</w_buddy>
+		<w_config>Configuración</w_config>
+		<w_manu>Manufactura</w_manu>
+		<w_principal>Eternal Lands</w_principal>
+		<w_storage>Almacén</w_storage>
+		<w_trade>Comerciar</w_trade>
+		<w_rules>Reglas</w_rules>
+		<w_bag>Saco</w_bag>
+		<w_design>Configura tu caracter</w_design>
+		<w_name_pass>Escoge nombre y password</w_name_pass>
+		<w_newchar>Nuevo carácter</w_newchar>
+		<tab_control>Control</tab_control>
+		<tab_audio>Audio</tab_audio>
+		<tab_hud>HUD</tab_hud>
+		<tab_server>Servidor</tab_server>
+		<tab_misc>Varios</tab_misc>
+		<tab_chat>Chat</tab_chat>
+		<tab_video>Video</tab_video>
+		<tab_adv_video>Avanzado</tab_adv_video>
+		<tab_font>Fuentes</tab_font>
+	</titles>
+</root>

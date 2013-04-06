@@ -1,0 +1,3007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tailoring>
+<Page name="White Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 White Fabric</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Fabric: white.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Loom, 10 Threads.</text>
+   <nl/>
+   <text> Knowledge needed: Fabric Weaving</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 1</text>
+   <nl/>
+   <text> Tailoring Experience Given: 9</text>
+   <nl/>
+   <text> Food subtracted: 10</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Red Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                   Red Dye</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Fabric Dye (Red), 100% organic.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Square Vial, 1 Saltpetre, 2 Water Essences, 5 Red Roses.</text>
+   <nl/>
+   <text> Knowledge needed: Red Dye</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 5</text>
+   <nl/>
+   <text> Tailoring Experience Given: 15</text>
+   <nl/>
+   <text> Food subtracted: 10</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Orange Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Orange Dye</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Fabric Dye (Orange), 100% organic.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Square Vial, 2 Water Essences, 14 Red Roses,</text><nl/>
+   <text> 14 Sunflowers.</text>
+   <nl/>
+   <text> Knowledge needed: Orange Dye</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 7</text>
+   <nl/>
+   <text> Tailoring Experience Given: 18</text>
+   <nl/>
+   <text> Food subtracted: 10</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Yellow Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Yellow Dye</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Fabric Dye (Yellow), 100% organic.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Square Vial, 1 Saltpetre, 2 Water Essences,</text><nl/>
+   <text> 12 Daffodils.</text>
+   <nl/>
+   <text> Knowledge needed: Yellow Dye</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 9</text>
+   <nl/>
+   <text> Tailoring Experience Given: 22</text>
+   <nl/>
+   <text> Food subtracted: 10</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Green Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Green Dye</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Fabric Dye (Green), 100% organic.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Square Vial, 1 Saltpetre, 2 Water Essences, 15 Mugworts.</text>
+   <nl/>
+   <text> Knowledge needed: Green Dye</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 11</text>
+   <nl/>
+   <text> Tailoring Experience Given: 25</text>
+   <nl/>
+   <text> Food subtracted: 12</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Blue Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Blue Dye</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Fabric Dye (Blue), 100% organic.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Square Vial, 1 Saltpetre, 2 Water Essences,</text><nl/>
+   <text> 20 Blue Star Flowers.</text>
+   <nl/>
+   <text> Knowledge needed: Blue Dye</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 13</text>
+   <nl/>
+   <text> Tailoring Experience Given: 28</text>
+   <nl/>
+   <text> Food subtracted: 12</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Purple Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Purple Dye</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Fabric Dye (Purple), 100% organic.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Square Vial, 1 Saltpetre, 2 Water Essences,</text><nl/>
+   <text> 20 Nightshades.</text>
+   <nl/>
+   <text> Knowledge needed: Purple Dye</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 15</text>
+   <nl/>
+   <text> Tailoring Experience Given: 31</text>
+   <nl/>
+   <text> Food subtracted: 14</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Black Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                   Black Dye</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Fabric Dye (Black), 100% organic.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Square Vial, 1 Saltpetre, 3 Water Essences, 20 Coals.</text>
+   <nl/>
+   <text> Knowledge needed: Black Dye</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 17</text>
+   <nl/>
+   <text> Tailoring Experience Given: 35</text>
+   <nl/>
+   <text> Food subtracted: 14</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Red Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Red Fabric</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Fabric: red.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Red Dye, 1 White Fabric, 5 Air Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Fabric Dyeing</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 19</text>
+   <nl/>
+   <text> Tailoring Experience Given: 40</text>
+   <nl/>
+   <text> Food subtracted: 14</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Orange Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Orange Fabric</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Fabric: orange.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Orange Dye, 1 White Fabric, 5 Air Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Fabric Dyeing</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 21</text>
+   <nl/>
+   <text> Tailoring Experience Given: 45</text>
+   <nl/>
+   <text> Food subtracted: 14</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Yellow Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Yellow Fabric</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Fabric: yellow.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Yellow Dye, 1 White Fabric, 5 Air Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Fabric Dyeing</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 23</text>
+   <nl/>
+   <text> Tailoring Experience Given: 50</text>
+   <nl/>
+   <text> Food subtracted: 14</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Green Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Green Fabric</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Fabric: green.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Green Dye, 1 White Fabric, 5 Air Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Fabric Dyeing</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 25</text>
+   <nl/>
+   <text> Tailoring Experience Given: 55</text>
+   <nl/>
+   <text> Food subtracted: 14</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Blue Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Blue Fabric</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Fabric: blue.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Blue Dye, 1 White Fabric, 5 Air Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Fabric Dyeing</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 27</text>
+   <nl/>
+   <text> Tailoring Experience Given: 60</text>
+   <nl/>
+   <text> Food subtracted: 14</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Black Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Black Fabric</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Fabric: black.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Black Dyes, 1 White Fabric, 5 Air Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Fabric Dyeing</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 29</text>
+   <nl/>
+   <text> Tailoring Experience Given: 75</text>
+   <nl/>
+   <text> Food subtracted: 14</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Purple Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Purple Fabric</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Fabric: purple.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Purple Dye, 1 White Fabric, 5 Air Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Fabric Dyeing</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 31</text>
+   <nl/>
+   <text> Tailoring Experience Given: 65</text>
+   <nl/>
+   <text> Food subtracted: 14</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Gray Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Gray Fabric</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Fabric: gray.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Black Dye, 1 White Fabric, 5 Air Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Fabric Dyeing</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 33</text>
+   <nl/>
+   <text> Tailoring Experience Given: 70</text>
+   <nl/>
+   <text> Food subtracted: 14</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Brown Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Brown Fabric</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Fabric: brown.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Red Dye, 1 Black Dye, 1 White Fabric, 5 Air Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Fabric Dyeing</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 33</text>
+   <nl/>
+   <text> Tailoring Experience Given: 90</text>
+   <nl/>
+   <text> Food subtracted: 14</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="NMW_Cape">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>           Cape of No More Warlock</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> This cloak will give you the No More Tears perk,</text>
+   <nlkx/>
+   <text> increase your magic resistance by 8 and provide</text>
+   <nlkx/>
+   <text> some camouflage.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 No More Tears Cape, 1 Warlock's Cloak, 2 Binding Stones,</text>
+   <nl/>
+   <text> 2 Enriched Magic Essences.</text>
+   <nl/>
+   <text> Knowledge needed: No More Warlock</text>
+   <nl/>
+   <text> Required Nexuses: Magic 4</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 50</text>
+   <nl/>
+   <text> Tailoring Experience Given: 3500</text>
+   <nl/>
+   <text> Food subtracted: 14</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Scarf_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Black Scarf</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Scarf.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Black Fabrics, 10 Threads, 1 Needle.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Scarves Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 36</text>
+   <nl/>
+   <text> Tailoring Experience Given: 100</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Scarf_Red">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Red Scarf</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Red Scarf.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Red Fabrics, 10 Threads, 1 Needle.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Scarves Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 37</text>
+   <nl/>
+   <text> Tailoring Experience Given: 110</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Scarf_Skull">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>            Skull Crossbones Scarf</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Skull Crossbones Scarf.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Black Fabrics, 2 White Fabrics, 10 Threads, 1 Needle.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Scarves Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 38</text>
+   <nl/>
+   <text> Tailoring Experience Given: 120</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Tricorn_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Black Tricorn Hat</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Tricorn Hat.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Black Fabrics, 10 Threads, 2 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tricorn Hat Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 39</text>
+   <nl/>
+   <text> Tailoring Experience Given: 180</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Tricorn_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Brown Tricorn Hat</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Brown Tricorn Hat.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Brown Fabrics, 10 Threads, 1 Needle.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tricorn Hat Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 40</text>
+   <nl/>
+   <text> Tailoring Experience Given: 190</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Tricorn_Blue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Blue Tricorn Hat</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Blue Tricorn Hat.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Blue Fabrics, 10 Threads, 1 Needle.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tricorn Hat Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 41</text>
+   <nl/>
+   <text> Tailoring Experience Given: 200</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Buccaneer_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Brown Buccaneer Hat</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Brown Buccaneer Hat.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 6 Brown Fabrics, 15 Threads, 1 Cockatrice Feather,</text><nl/>
+   <text> 1 Needle.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Buccaneer Hat Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 42</text>
+   <nl/>
+   <text> Tailoring Experience Given: 190</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Buccaneer_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Black Buccaneer Hat</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Buccaneer Hat.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 6 Black Fabrics, 15 Threads, 1 Cockatrice Feather,</text><nl/>
+   <text> 1 Needle.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Buccaneer Hat Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 43</text>
+   <nl/>
+   <text> Tailoring Experience Given: 200</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Cavalier_BlackP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>         Black Cavalier Peacock Hat</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Cavalier Peacock Hat.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 6 Black Fabrics, 1 Cockatrice Feather, 16 Threads,</text><nl/>
+   <text> 2 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 44</text>
+   <nl/>
+   <text> Tailoring Experience Given: 220</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Cavalier_GreenP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>         Green Cavalier Peacock Hat</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Green Cavalier Peacock Hat.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 6 Green Fabrics, 1 Cockatrice Feather, 15 Threads,</text><nl/>
+   <text> 1 Needle.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 45</text>
+   <nl/>
+   <text> Tailoring Experience Given: 240</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Cavalier_Blue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Blue Cavalier Hat</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Blue Cavalier Hat.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 6 Blue Fabrics, 1 Falcon Feather, 15 Threads,</text><nl/>
+   <text> 1 Needle.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 46</text>
+   <nl/>
+   <text> Tailoring Experience Given: 240</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Cavalier_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Black Cavalier Hat</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Cavalier Hat.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 6 Black Fabrics, 1 Falcon Feather, 15 Threads,</text><nl/>
+   <text> 1 Needle.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 47</text>
+   <nl/>
+   <text> Tailoring Experience Given: 245</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Santa_Hat">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Santa Hat</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Santa Hat.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Enriched Magic Essence, 1 Binding Stone, 10 Red Fabrics,</text><nl/>
+   <text> 5 White Fabrics.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Santa Hat Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 80</text>
+   <nl/>
+   <text> Tailoring Experience Given: 2000</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Hood">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Universal Hood</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Universal Hood, matches the colour of any cape</text><nlkx/>
+   <text> you wear.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Enriched Magic Essences, 1 Binding Stone, 25 Threads,</text><nl/>
+   <text> 3 Needles, 10 White Fabrics.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Hood Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 74</text>
+   <nl/>
+   <text> Tailoring Experience Given: 1000</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Tunic_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Brown Tunic</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Brown Tunic.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 30 Brown Fabrics, 4 Blue Fabrics, 25 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tunic Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 66</text>
+   <nl/>
+   <text> Tailoring Experience Given: 410</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Tunic_Purple">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Lavender Tunic</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Lavender Tunic.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 16 Purple Fabrics, 18 White Fabrics, 25 Threads,</text><nl/>
+   <text> 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tunic Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 66</text>
+   <nl/>
+   <text> Tailoring Experience Given: 410</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Tunic_Green">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Green Tunic</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Green Tunic.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 30 Green Fabrics, 4 Gray Fabrics, 25 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tunic Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 67</text>
+   <nl/>
+   <text> Tailoring Experience Given: 420</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Tunic_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Black Tunic</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Tunic.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 30 Black Fabrics, 4 Gray Fabrics, 25 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tunic Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 67</text>
+   <nl/>
+   <text> Tailoring Experience Given: 420</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Tunic_Red">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Red Tunic</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Red Tunic.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 30 Red Fabrics, 4 Brown Fabrics, 25 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tunic Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 68</text>
+   <nl/>
+   <text> Tailoring Experience Given: 430</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Tunic_Blue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Blue Tunic</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Blue Tunic.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 30 Blue Fabrics, 4 Gray Fabrics, 25 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tunic Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 68</text>
+   <nl/>
+   <text> Tailoring Experience Given: 430</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Tunic_White">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 White Tunic</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> White Tunic.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 30 White Fabrics, 4 Gray Fabrics, 25 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tunic Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 68</text>
+   <nl/>
+   <text> Tailoring Experience Given: 430</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="TunicShirt_RedWhite">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          Red Tunic with White Shirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Red Tunic with White Shirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 20 Red Fabrics, 30 White Fabrics, 4 Brown Fabrics,</text><nl/>
+   <text> 25 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 69</text>
+   <nl/>
+   <text> Tailoring Experience Given: 440</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="TunicShirt_BlueWhite">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>         Blue Tunic with White Shirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Blue Tunic with White Shirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 20 Blue Fabrics, 30 White Fabrics, 4 Brown Fabrics,</text><nl/>
+   <text> 25 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 69</text>
+   <nl/>
+   <text> Tailoring Experience Given: 440</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="TunicShirt_BrownWhite">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>        Brown Tunic with White Shirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Brown Tunic with White Shirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 20 Brown Fabrics, 30 White Fabrics, 4 Gray Fabrics,</text><nl/>
+   <text> 25 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 70</text>
+   <nl/>
+   <text> Tailoring Experience Given: 450</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="TunicShirt_BlackGreen">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>        Black Tunic with Green Shirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Tunic with Green Shirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 20 Black Fabrics, 30 Green Fabrics, 4 Gray Fabrics,</text><nl/>
+   <text> 25 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 71</text>
+   <nl/>
+   <text> Tailoring Experience Given: 460</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="TunicShirt_BlackPurple">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>        Black Tunic with Purple Shirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Tunic with Purple Shirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 20 Black Fabrics, 30 Purple Fabrics, 4 Gray Fabrics,</text><nl/>
+   <text> 25 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 71</text>
+   <nl/>
+   <text> Tailoring Experience Given: 460</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="TunicShirt_BlackRed">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>         Black Tunic with Red Shirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Tunic with Red Shirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 20 Black Fabrics, 30 Red Fabrics, 4 Gray Fabrics,</text><nl/>
+   <text> 25 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 72</text>
+   <nl/>
+   <text> Tailoring Experience Given: 470</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="TunicShirt_BlackGray">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>         Black Tunic with Gray Shirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Tunic with Gray Shirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 50 Black Fabrics, 4 Gray Fabrics, 25 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 72</text>
+   <nl/>
+   <text> Tailoring Experience Given: 470</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="TunicShirt_BlackWhite">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>        Black Tunic with White Shirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Tunic with White Shirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 20 Black Fabrics, 30 White Fabrics, 4 Gray Fabrics,</text><nl/>
+   <text> 25 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 70</text>
+   <nl/>
+   <text> Tailoring Experience Given: 450</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="TunicShirt_BrownBlue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>         Brown Tunic with Blue Shirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Brown Tunic with Blue Shirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 20 Brown Fabrics, 30 Blue Fabrics, 4 Gray Fabrics,</text><nl/>
+   <text> 25 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 73</text>
+   <nl/>
+   <text> Tailoring Experience Given: 480</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Robe_Purple">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Purple Robe</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Purple Robe.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 Purple Fabrics, 2 Gold Bars, 20 Threads, 2 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 56</text>
+   <nl/>
+   <text> Tailoring Experience Given: 310</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="RobeSkirt_Purple">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Purple Robe Skirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Purple Robe Skirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 Purple Fabrics, 20 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Skirt Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 61</text>
+   <nl/>
+   <text> Tailoring Experience Given: 360</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Robe_Green">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Green Robe</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Green Robe.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 Green Fabrics, 2 Gold Bars, 20 Threads, 2 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 56</text>
+   <nl/>
+   <text> Tailoring Experience Given: 310</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="RobeSkirt_Green">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Green Robe Skirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Green Robe Skirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 Green Fabrics, 20 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Skirt Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 61</text>
+   <nl/>
+   <text> Tailoring Experience Given: 360</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Robe_LightBlue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Light Blue Robe</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Light Blue Robe.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 14 Blue Fabrics, 14 White Fabrics, 2 Gold Bars,</text><nl/>
+   <text> 20 Threads, 2 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 57</text>
+   <nl/>
+   <text> Tailoring Experience Given: 320</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="RobeSkirt_LightBlue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>            Light Blue Robe Skirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Light Blue Robe Skirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 14 Blue Fabrics, 14 White Fabrics, 20 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Skirt Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 62</text>
+   <nl/>
+   <text> Tailoring Experience Given: 370</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Robe_White">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 White Robe</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> White Robe.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 White Fabrics, 2 Gold Bars, 20 Threads, 2 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 57</text>
+   <nl/>
+   <text> Tailoring Experience Given: 320</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="RobeSkirt_White">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              White Robe Skirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> White Robe Skirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 White Fabrics, 20 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Skirt Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 62</text>
+   <nl/>
+   <text> Tailoring Experience Given: 370</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Robe_Blue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Blue Robe</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Blue Robe.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 Blue Fabrics, 2 Gold Bars, 20 Threads, 2 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 58</text>
+   <nl/>
+   <text> Tailoring Experience Given: 330</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="RobeSkirt_Blue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Blue Robe Skirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Blue Robe Skirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 Blue Fabrics, 20 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Skirt Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 63</text>
+   <nl/>
+   <text> Tailoring Experience Given: 380</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Robe_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Black Robe</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Robe.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 Black Fabrics, 2 Gold Bars, 20 Threads, 2 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 58</text>
+   <nl/>
+   <text> Tailoring Experience Given: 330</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="RobeSkirt_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Black Robe Skirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Robe Skirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 Black Fabrics, 20 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Skirt Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 63</text>
+   <nl/>
+   <text> Tailoring Experience Given: 380</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Robe_Gray">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Gray Robe</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Gray Robe.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 Gray Fabrics, 2 Gold Bars, 20 Threads, 2 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 59</text>
+   <nl/>
+   <text> Tailoring Experience Given: 340</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="RobeSkirt_Gray">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Gray Robe Skirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Gray Robe Skirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 Gray Fabrics, 20 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Skirt Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 64</text>
+   <nl/>
+   <text> Tailoring Experience Given: 390</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Robe_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Brown Robe</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Brown Robe.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 Brown Fabrics, 2 Gold Bars, 20 Threads, 2 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 59</text>
+   <nl/>
+   <text> Tailoring Experience Given: 340</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="RobeSkirt_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Brown Robe Skirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Brown Robe Skirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 Brown Fabrics, 20 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Skirt Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 64</text>
+   <nl/>
+   <text> Tailoring Experience Given: 390</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Robe_Red">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Red Robe</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Red Robe.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 Red Fabrics, 2 Gold Bars, 20 Threads, 2 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 60</text>
+   <nl/>
+   <text> Tailoring Experience Given: 350</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="RobeSkirt_Red">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Red Robe Skirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Red Robe Skirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 Red Fabrics, 20 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Skirt Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 65</text>
+   <nl/>
+   <text> Tailoring Experience Given: 400</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Robe_Yellow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Yellow Robe</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Yellow Robe.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 Yellow Fabrics, 2 Gold Bars, 20 Threads, 2 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 60</text>
+   <nl/>
+   <text> Tailoring Experience Given: 350</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="RobeSkirt_Yellow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Yellow Robe Skirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Yellow Robe Skirt.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 28 Yellow Fabrics, 20 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Robe Skirt Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 65</text>
+   <nl/>
+   <text> Tailoring Experience Given: 400</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Pants_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Brown Baggy Pants</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Brown Baggy Pants.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 24 Brown Fabrics, 25 Threads, 1 Needle.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Baggy Pants Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 54</text>
+   <nl/>
+   <text> Tailoring Experience Given: 300</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Pants_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Black Baggy Pants</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Baggy Pants.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 24 Black Fabrics, 25 Threads, 1 Needle.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Baggy Pants Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 53</text>
+   <nl/>
+   <text> Tailoring Experience Given: 220</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Pants_RedBlack">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>        Black Red Striped Baggy Pants</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Red Striped Baggy Pants.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 12 Black Fabrics, 25 Threads, 1 Needle,</text><nl/>
+   <text> 12 Red Fabrics.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Baggy Pants Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 48</text>
+   <nl/>
+   <text> Tailoring Experience Given: 255</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Pants_RedWhite">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>        Red White Striped Baggy Pants</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Red White Striped Baggy Pants.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 12 White Fabrics, 25 Threads, 1 Needle,</text><nl/>
+   <text> 12 Red Fabrics.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Baggy Pants Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 49</text>
+   <nl/>
+   <text> Tailoring Experience Given: 260</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Pants_PurpleBlack">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>      Black Purple Striped Baggy Pants</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Purple Striped Baggy Pants.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 12 Purple Fabrics, 25 Threads, 1 Needle,</text><nl/>
+   <text> 12 Black Fabrics.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Baggy Pants Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 51</text>
+   <nl/>
+   <text> Tailoring Experience Given: 270</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Pants_BlueBlack">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>       Black Blue Striped Baggy Pants</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Blue Striped Baggy Pants.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 12 Blue Fabrics, 25 Threads, 1 Needle,</text><nl/>
+   <text> 12 Black Fabrics.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Baggy Pants Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 52</text>
+   <nl/>
+   <text> Tailoring Experience Given: 280</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Tunic_Ninja">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Tunic of the Ninja</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> When worn, will give you the Ninja Perk.</text>
+   <nlkx/>
+   <text> You have 80% chance to NOT become visible</text>
+   <nlkx/>
+   <text> (if you are invisible) when using ranged</text>
+   <nlkx/>
+   <text> attacks (bows and crossbows).</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Black Tunics, 1 Enriched Magic Essence, 1 Binding Stone,</text><nl/>
+   <text> 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissors</text>
+   <nl/>
+   <text> Knowledge needed: Tunic of the Ninja Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 74</text>
+   <nl/>
+   <text> Tailoring Experience Given: 2000</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <text> If you already have the perk, you can't wear the tunic.</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="Robe_Mage">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Mage Robe</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> 1-3 Armor, 2% chance to do mana drain.</text>
+   <nlkx/>
+   <text> Increases maximum ethereal points by 60.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 20 Purple Fabrics, 2 Enriched Magic Essences,</text><nl/>
+   <text> 2 Mixture of Powers, 20 Threads, 2 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Mage Robe Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 71</text>
+   <nl/>
+   <text> Tailoring Experience Given: 1350</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+<Page name="RobeSkirt_Mage">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  TAILORING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Mage Robe Skirt</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> 2-3 Armor, +2 Heat and Cold Protection.</text>
+   <nlkx/>
+   <text> Increases maximum ethereal points by 60.</text>
+   <nlkx/>
+   <text> Gives immunity to BroD, BoD, Rings of Mana</text>
+   <nlkx/>
+   <text> Destruction and Damage Rings.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 18 Purple Fabrics, 2 Enriched Magic Essences,</text><nl/>
+   <text> 3 Mixture of Powers, 25 Threads, 3 Needles.</text>
+   <nl/>
+   <text> Tools required to have: Scissor</text>
+   <nl/>
+   <text> Knowledge needed: Mage Robe Making</text>
+   <nl/>
+   <text> Recommended Tailoring Level: 71</text>
+   <nl/>
+   <text> Tailoring Experience Given: 1350</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <text> The Mage Robe Skirt and the Cape of Unbreakable can't be</text><nl/>
+   <text> worn at the same time.</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Tailoring" title="Back To Tailoring Index"/>
+</Page>
+</Tailoring>

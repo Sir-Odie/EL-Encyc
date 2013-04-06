@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Clothes>
+<Page name="Fur_Gloves">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Warme Bont Handschoenen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="7" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Beschermt je tegen kou.</text><nlkx/>
+	<color r="1" g="1" b="1"/>
+	<text> +1 kou bescherming, +1 harnas</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 3 Bruine Konijnen Bont, 2 Garen.</text><nl/>
+	<text> Items nodig in Inventaris: Naald</text><nl/>
+	<text> Geadviseerd Produceren Level: 0</text><nl/>
+	<text> Produceren Ervaring Gegeven: 5</text><nl/>
+	<text> Voedsel Kosten: 1</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Fox_Scarf">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Vos Sjaal</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="8" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Beschermt je tegen kou.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Vos Bont, 1 Garen.</text><nl/>
+	<text> Items nodig in Inventaris: Naald</text><nl/>
+	<text> Geadviseerd Produceren Level: 3</text><nl/>
+	<text> Produceren Ervaring Gegeven: 12</text><nl/>
+	<text> Voedsel Kosten: 2</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Hat_Fur">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Bont Hoed</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="9" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Beschermt je tegen kou.</text><nlkx/>
+	<color r="1" g="1" b="1"/>
+	<text> +2 Kou Bescherming, -1 Hitte Bescherming</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Witte Konijnen Bont, 3 Bever Bont, 3 Garen.</text><nl/>
+	<text> Items nodig in Inventaris: Naald</text><nl/>
+	<text> Geadviseerd Produceren Level: 5</text><nl/>
+	<text> Produceren Ervaring Gegeven: 25</text><nl/>
+	<text> Voedsel Kosten: 3</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Hat_Skunk">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Stinkdier Hoed</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="24" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Beschermt je tegen kou.</text><nlkx/>
+	<color r="1" g="1" b="1"/>
+	<text> +2 Kou Bescherming, -1 Hitte Bescherming</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 2 Stinkdier Bont, 4 Garen.</text><nl/>
+	<text> Items nodig in Inventaris: Naald</text><nl/>
+	<text> Geadviseerd Produceren Level: 6</text><nl/>
+	<text> Produceren Ervaring Gegeven: 31</text><nl/>
+	<text> Voedsel Kosten: 3</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Hat_Racoon">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Wasbeer Hoed</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="22" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Beschermt je tegen kou.</text><nlkx/>
+	<color r="1" g="1" b="1"/>
+	<text> +2 Kou Bescherming, -1 Hitte Bescherming</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 2 Wasbeer Bont, 5 Garen.</text><nl/>
+	<text> Items nodig in Inventaris: Naald</text><nl/>
+	<text> Geadviseerd Produceren Level: 7</text><nl/>
+	<text> Produceren Ervaring Gegeven: 34</text><nl/>
+	<text> Voedsel Kosten: 3</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Fur_Boots">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Bont Schoenen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="24" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Beschermt je tegen kou.</text><nlkx/>
+	<color r="1" g="1" b="1"/>
+	<text> +3 Kou Bescherming, -1 Hitte Bescherming</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 IJzeren Baar, 1 Wolf Bont, 4 Rattestaarten,</text><nl/>
+	<text> 2 Bruine Konijnen Bont, 2 Leer, 5 Garen.</text><nl/>
+	<text> Items nodig in Inventaris: Naald, Hamer</text><nl/>
+	<text> Nexus vereist: Kunstmatig 1</text><nl/>
+	<text> Geadviseerd Produceren Level: 12</text><nl/>
+	<text> Produceren Ervaring Gegeven: 55</text><nl/>
+	<text> Voedsel Kosten: 8</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Fur_Torso">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Bont Torso</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="12" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Beschermt je tegen kou.</text><nlkx/>
+	<color r="1" g="1" b="1"/>
+	<text> +3 Kou Bescherming, -1 Hitte Bescherming</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 IJzeren Baar, 2 Wolf Bont, 3 Hert Bont,</text><nl/>
+	<text> 4 Rattestaarten, 7 Leer, 10 Garen.</text><nl/>
+	<text> Items nodig in Inventaris: Naald, Hamer</text><nl/>
+	<text> Nexus vereist: Kunstmatig 2</text><nl/>
+	<text> Geadviseerd Produceren Level: 22</text><nl/>
+	<text> Produceren Ervaring Gegeven: 140</text><nl/>
+	<text> Voedsel Kosten: 26</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Fur_Pants">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Bont Broek</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="13" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Beschermt je tegen kou.</text>
+	<color r="1" g="1" b="1"/>
+	<nlkx/>
+	<text> +3 Kou Bescherming, -1 Hitte Bescherming</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 2 Wolf Bont, 2 Hert Bont, 1 Bever Bont, 6 Leer, 7 Garen.</text><nl/>
+	<text> Items nodig in Inventaris: Naald</text><nl/>
+	<text> Nexus vereist: Kunstmatig 2</text><nl/>
+	<text> Geadviseerd Produceren Level: 20</text><nl/>
+	<text> Produceren Ervaring Gegeven: 110</text><nl/>
+	<text> Voedsel Kosten: 20</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Cloak_Fur">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Bont Mantel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="10" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Beschermt je tegen kou.</text><nlkx/>
+	<color r="1" g="1" b="1"/>
+	<text> +6 Kou Bescherming, -3 Hitte Bescherming</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 3 Wolf Bont, 2 Vos Bont, 5 Garen.</text><nl/>
+	<text> Items nodig in Inventaris: Naald</text><nl/>
+	<text> Geadviseerd Produceren Level: 6</text><nl/>
+	<text> Produceren Ervaring Gegeven: 30</text><nl/>
+	<text> Voedsel Kosten: 4</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 4 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Bandana">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Bandana's</text><nl/>
+	<nl/>
+	<text x="95"> </text>
+	<simage isize="256" tsize="50" size="100" tid="15" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+	<text> </text>
+	<simage isize="256" tsize="50" size="100" tid="16" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+	<text> </text>
+	<simage isize="256" tsize="50" size="100" tid="17" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+	<text> </text>
+	<simage isize="256" tsize="50" size="100" tid="18" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+	<text> </text>
+	<simage isize="256" tsize="50" size="100" tid="19" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<text> Deze items kunnen niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<text> Bandanas zijn te koop in de </text>
+	<link ref="http://www.eternal-lands.com/page/shop.php" title="EL shop"/><text>.</text><nl/>
+	<nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Adv_Cap">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Avonturiers Petten</text><nl/><nl/>
+	<text x="95"> </text>
+	<simage isize="256" tsize="50" size="100" tid="20" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+	<text> </text>
+	<simage isize="256" tsize="50" size="100" tid="21" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+	<text> </text>
+	<simage isize="256" tsize="50" size="100" tid="22" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+	<text> </text>
+	<simage isize="256" tsize="50" size="100" tid="23" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+	<text> </text>
+	<simage isize="256" tsize="50" size="100" tid="24" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<text> Deze items kunnen niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<text> Avonturiers Petten zijn te koop in de </text>
+	<link ref="http://www.eternal-lands.com/page/shop.php" title="EL shop"/><text>.</text><nl/>
+	<nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Tiaras">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Tiara's</text><nl/>
+	<nl/>
+	<text x="180"> </text>
+	<simage isize="256" tsize="50" size="100" tid="11" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+	<text> </text>
+	<simage isize="256" tsize="50" size="100" tid="10" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<text> Deze items kunnen niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<text> Tiara's zijn te koop in de </text>
+	<link ref="http://www.eternal-lands.com/page/shop.php" title="EL shop"/><text>.</text><nl/>
+	<nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Crowns">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Kronen</text><nl/>
+	<nl/>
+	<text x="180"> </text>
+	<simage isize="256" tsize="50" size="100" tid="13" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+	<text> </text>
+	<simage isize="256" tsize="50" size="100" tid="12" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<text> Deze items kunnen niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<text> Kronen zijn te koop in de </text>
+	<link ref="http://www.eternal-lands.com/page/shop.php" title="EL shop"/><text>.</text><nl/>
+	<nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Cloak_PS">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>            Energie Besparing Mantel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="7" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze mantel geeft je de Energie Besparing Perk.</text><nlkx/>
+	<text> Met deze mantel zal je voedsel niveau niet dalen</text><nlkx/>
+	<text> tenzij je aan het lezen bent of aan het herstellen.</text><nlkx/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Dit heeft geen effect op het voedsel verlies tijdens</text><nl/>
+	<text> het oogsten of het maken van items.</text><nl/>
+	<nl/>
+	<text> Deze mantel is te koop voor 3800 gc in White Stone City</text><nl/>
+	<text> bij de Mantel verkoper.</text><nl/>
+	<nl/>
+	<text> Als je de Perk al hebt kun je de mantel niet dragen.</text><nl/>
+	<nl/>
+	<text> Gewicht: 4 EMU</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Cloak_EX">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Opgraver Mantel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="0" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze mantel geeft je de Opgraver Perk.</text><nlkx/>
+	<text> Deze mantel verdubbelt de hoeveelheid grondstoffen</text><nlkx/>
+	<text> die je oogst.</text><nlkx/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Dit heeft geen effect op de hoeveelheid ervaring die je</text><nl/>
+	<text> krijgt tijdens het oogsten.</text><nl/>
+	<nl/>
+	<text> Deze mantel is te koop voor 2900 gc in White Stone City</text><nl/>
+	<text> bij de Mantel verkoper.</text><nl/>
+	<nl/>
+	<text> Als je de Perk al hebt kun je de mantel niet dragen.</text><nl/>
+	<nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Cloak_CJ">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Oproeper Mantel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="2" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze mantel geeft je de Oproeper Perk.</text><nlkx/>
+	<text> Het halveert de benodigde mana voor Oproepen.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Deze mantel is te koop voor 4500 gc in White Stone City</text><nl/>
+	<text> bij de Mantel verkoper.</text><nl/>
+	<nl/>
+	<text> Als je de Perk al hebt kun je de mantel niet dragen.</text><nl/>
+	<nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Cloak_FR">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Snel Herstel Mantel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="6" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze mantel geeft je de Snel Herstel Perk.</text><nlkx/>
+	<text> Herstel gezondheid, mana en attributen 3 maal</text><nlkx/>
+	<text> sneller dan normaal.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Deze mantel is te koop voor 3400 gc in White Stone City</text><nl/>
+	<text> bij de Mantel verkoper.</text><nl/>
+	<nl/>
+	<text> Als je de Perk al hebt kun je de mantel niet dragen.</text><nl/>
+	<nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Cloak_MM">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>            Monster Magnetisme Mantel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="4" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze mantel geeft je de Monster Magnetisme Perk.</text><nlkx/>
+	<text> Monsters zullen je niet aanvallen, tenzij jij eerst</text><nlkx/>
+	<text> aanvalt.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Uitzonderingen die de Perk negeren zijn:</text><nl/>
+	<text> - Arctische Chimeran Wolf</text><nl/>
+	<text> - Draken</text><nl/>
+	<text> - Leonard, de mensenetende luipaard</text><nl/>
+	<text> - Opgeroepen monsters in PK gebieden</text><nl/>
+	<text> - Invasie monsters (Rode naam)</text><nl/>
+	<nl/>
+	<text> Deze mantel kan alleen verkregen worden van andere spelers</text><nl/>
+	<text> of als buit van monsters.</text><nl/>
+	<nl/>
+	<text> Als je de Perk al hebt kun je de mantel niet dragen.</text><nl/>
+	<nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Cloak_MI">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Reflectie Mantel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="8" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze mantel geeft je de Reflectie perk.</text><nlkx/>
+	<text> Elke succesvolle aanval van je vijand heeft een</text><nlkx/>
+	<text> kans van 10% om gereflecteerd te worden naar hem.</text><nlkx/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Deze mantel kan alleen verkregen worden van andere spelers</text><nl/>
+	<text> of als buit van monsters.</text><nl/>
+	<nl/>
+	<text> Als je de Perk al hebt kun je de mantel niet dragen.</text><nl/>
+	<nl/>
+	<text> Gewicht: 4 EMU</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Cloak_BP">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Lichaam Doorboren Mantel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="5" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze mantel geeft je de Lichaam Doorboren Perk.</text><nlkx/>
+	<text> Vergroot de kans om het harnas van de tegenstander</text><nlkx/>
+	<text> te omzeilen met 10%.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Deze mantel kan alleen verkregen worden van andere spelers</text><nl/>
+	<text> of als buit van monsters.</text><nl/>
+	<nl/>
+	<text> Als je de Perk al hebt kun je de mantel niet dragen.</text><nl/>
+	<nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Cloak_NMT">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Geen Tranen Meer Mantel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="9" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze mantel geeft je de Geen Tranen Meer perk.</text><nlkx/>
+	<text> De kans dat items beschadigen of breken tijdens het</text><nlkx/>
+	<text> vechten wordt verlaagd naar 1/4 van normaal.</text><nlkx/>
+	<text> Deze mantel zal niet breken tijdens het vechten.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Deze mantel kan alleen verkregen worden van andere spelers</text><nl/>
+	<text> of als buit van monsters.</text><nl/>
+	<nl/>
+	<text> Als je de Perk al hebt kun je de mantel niet dragen.</text><nl/>
+	<nl/>
+	<text> Gewicht: 4 EMU</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Cloak_UB">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Onbreekbaar Mantel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="3" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze mantel geeft je immuniteit tegen BroD, BoD,</text><nlkx/>
+	<text> Ring van Mana Vernietiging en Ring van Schade.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Deze mantel is te koop voor 6500 gc in White Stone City</text><nl/>
+	<text> bij de Mantel verkoper.</text><nl/>
+	<nl/>
+	<text> De Onbreekbaar Mantel kan niet samen met de Magiër Gewaad</text><nl/>
+	<text> Rok gedragen worden.</text><nl/>
+	<nl/>
+	<text> Gewicht: 20 EMU</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Cloak_WA">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Magiër Mantel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="1" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze mantel geeft je hoge weerstand tegen magie.</text><nlkx/>
+	<text> Verhoogt je Magie Bescherming met 8 en levert wat</text><nlkx/>
+	<text> camouflage.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Deze mantel kan alleen verkregen worden van andere spelers</text><nl/>
+	<text> of als buit van monsters.</text><nl/>
+	<nl/>
+	<text> Gewicht: 4 EMU</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Cloak_CAM">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>          Passieve Camouflage Mantel</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="1" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze mantel geeft enige camouflage, vooral</text><nlkx/>
+	<text> 's-nachts of in donkere grotten.</text><nlkx/>
+	<text> Het geeft -20 punten voor je Licht Aanpassing.</text><nlkx/>
+	<text> Vereiste Nexus om te gebruiken: Mens 4</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Deze mantel kan alleen verkregen worden van andere spelers</text><nl/>
+	<text> of als buit van monsters.</text><nl/>
+	<nl/>
+	<text> Gewicht: 4 EMU</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+<Page name="Cloak_ART">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Clothes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Artificer Mantel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="0" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze mantel verhoogd de kans om een zeldzaam item te</text><nlkx/>
+	<text> maken (aanpasbare wapens, verrijkte essenties, enz).</text><nlkx/>
+	<text> Vereiste Nexus om te gebruiken: Mens 10</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Deze mantel kan alleen verkregen worden van andere spelers</text><nl/>
+	<text> of als buit van monsters.</text><nl/>
+	<nl/>
+	<text> Gewicht: 4 EMU</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Clothes" title="Terug Naar Kleding Index"/>
+</Page>
+</Clothes>

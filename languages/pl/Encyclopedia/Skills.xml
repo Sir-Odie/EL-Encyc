@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+<Page Name="newskills">
+   
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>             Eternal Lands Pomoc</text><nl/>
+   <text>                Umiejetnosci</text><nl/>
+   
+   <nl/>
+   <color r="1" g="1" b="1"/>
+   <size>Big</size>
+   <text>           Podstawowe Umiejetnosci</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>     </text><link ref="fight" title="Atak i Obrona"/><text>      </text><link ref="manu" title="Rzemieslnictwo"/>
+   <nl/><nl/>
+   <text>     </text><link ref="harv" title="Zbieractwo"/><text>               </text><link ref="pots" title="Mikstury"/>
+   <nl/><nl/>
+   <text>     </text><link ref="alch" title="Alchemia"/><text>              </text><link ref="summ" title="Przywolanie"/>
+   <nl/><nl/>
+   <text>     </text><link ref="magc" title="Magia"/><text>           </text>
+   <text> </text>
+   <nl/><nl/>
+   
+   <color r="1" g="1" b="1"/>
+   <size>Big</size>
+   <text>          Zaawansowane Umiejetnosci</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>     </text><link ref="crft" title="Jubilerstwo"/><text>            </text><link ref="tail" title="Krawiectwo"/>
+   <nl/><nl/>
+   <text>     </text><link ref="engn" title="Inzynieria"/><text>            </text><link ref="rang" title="Strzelectwo"/>
+   <nl/>
+   
+  
+   
+</Page>
+
+<Page Name="fight">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Wroc"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Pomoc</text><nl/>
+   <text>                Umiejetnosci</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Walka:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> Atak i Obrona</text>
+   <color r="1" g="1" b="1"/>
+   <text> to proste umiejetnosci obejmujace dziedziny</text><nl/>
+   <text> zadawania obrazen (Atak) oraz unikania ciosow (Obrona).</text><nl/>
+   <text> Wystarczy zaatkowac ktores ze zwierzat (np. krolika, bobra</text><nl/>
+   <text> czy szczura) aby zdobyc pierwszcze punkty doswiadczenia</text><nl/>
+   <text> w umiejetnosciach walki. Wyzszy Atak i Obrona pomagaja nie</text><nl/>
+   <text> tylko pokonywac mocniejsze stworzenia, ale i stawiac czola</text><nl/>
+   <text> innym graczom w czasie walk na terenie PK (Player Killing).</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Poczatkujacym</text>
+   <color r="1" g="1" b="1"/>
+   <text> wojownikom zaleca sie rozpoczecie treningu</text><nl/>
+   <text> od atakowania prostych stworzen. Zalicza sie do nich m.in.</text><nl/>
+   <text> kroliki, szczury i bobry.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> W trakcie</text>
+   <color r="1" g="1" b="1"/>
+   <text> walki mozesz zostac zraniony a nawet zabity.</text><nl/>
+   <text> Bedziesz automatycznie regenerowal swoje punkty zdrowia</text><nl/>
+   <text> o ile tylko Twoj poziom jedzenia bedzie wiekszy od zera</text><nl/>
+   <text> (zolty pasek na dolemusi wskazywac wartosci dodatnie).</text><nl/>
+   <text> Aby utrzymac dodatni poziom jedzenia, musisz regularnie</text><nl/>
+   <text> odzywiac. Jesc mozesz chleb, owoce, warzywa, niektore</text><nl/>
+   <text> gatunki grzybow i pieczone mieso. Wszystko to mozesz</text><nl/>
+   <text> zebrac lub kupic w tawernach. Jedzenie spozywa sie</text><nl/>
+   <text> poprzez klikniecie na nim kursorem 'Uzyj' ('Use').</text><nl/>
+   <text> Kursor ten przypomina dlon z wyciagnietym palcem</text><nl/>
+   <text> wskazujacym.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Aby leczyc sie</text>
+   <color r="1" g="1" b="1"/>
+   <text> jeszcze szybciej, zaopatrz sie w mikstury</text><nl/>
+   <text> leczace, ktorych popijanie natychmiastowo przywroci Ci</text><nl/>
+   <text> okreslona liczbe punktow zycia. Inna opcja pozwalajaca sie</text><nl/>
+   <text> leczyc jest rzucanie czarow leczacych wprost na siebie.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Kiedy</text>
+   <color r="1" g="1" b="1"/>
+   <text> zginiesz pojawisz sie w Piekle lub w obozowisku na</text><nl/>
+   <text> Isla Prima (zaleznie od poziomu Twojej postaci).</text><nl/>
+   <text> Jesli wyladujesz w piekle, staraj sie kierowac na polnoc,</text><nl/>
+   <text> az znajdziesz stopnie otoczone swiecami wiodace w gore.</text><nl/>
+   <text> Wejdz na nie i kliknij na skalnym przejsciu.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+
+<Page Name="harv">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Wroc"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Pomoc</text><nl/>
+   <text>                Umiejetnosci</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zbieranie:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> Zbieranie</text>
+   <color r="1" g="1" b="1"/>
+   <text> to wszystko to, co sklada sie na pozyskiwanie</text><nl/>
+   <text> surowcow. Zbierac mozna kwiaty, owoce, warzywa, mineraly</text><nl/>
+   <text> (siarke, wegiel, kwarc) i rudy metali (zloto, srebro),</text><nl/>
+   <text> Aby rozpoczac zbieranie, wystarczy kliknac na pozadanym</text><nl/>
+   <text> surowcu ikonka kilofa, po czym poczekac pare sekund, az</text><nl/>
+   <text> postac zgromadzi pierwsze zasoby. Mozesz otworzyc okno</text><nl/>
+   <text> plecaka - ikonka na pasku badz wciskajac ctrl+i i</text><nl/>
+   <text> sprawdzic ile sztuk danego surowca udalo Ci sie zebrac.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Otrzymasz</text>
+   <color r="1" g="1" b="1"/>
+   <text> punkty doswiadczenia za zebranie 120 sztuk</text><nl/>
+   <text> surowca na godzine gry (liczy sie czas gry, ten sprawdzisz</text><nl/>
+   <text> klikajac na zegar w prawym dolnym rogu ekranu). Czerwona</text><nl/>
+   <text> wiadomosc pojawi sie kiedy wyczerpiesz limit przypadajacy.</text><nl/>
+   <text> na aktualna godzine. Potem mozesz kontynuowac zbieranie,</text><nl/>
+   <text> ale przestaniesz otrzymywac za nie punkty doswiadczenia.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Kiedy</text>
+   <color r="1" g="1" b="1"/>
+   <text> bedziesz zbieral rozne typy kwiatow zauwazysz, ze</text><nl/>
+   <text> otrzymujesz rozna ilosc punktow doswiadczenia (dalej xp)</text><nl/>
+   <text> w zaleznosci od rodzaju kwiatow. Surowce trudne do </text><nl/>
+   <text> pozyskania daja wiecej xp. Dla poczatkujacych dobrym </text><nl/>
+   <text> przedmiotem do zbierania sa warzywa. Bedzie to trwalo</text><nl/>
+   <text> znacznie dluzej niz kwiaty, ale warzywa daja duzo xp. </text><nl/>
+   <text> Dodatkowa korzyscia jest to, ze mozna je jesc. Nie musisz</text><nl/>
+   <text> juz nigdy wiecej kupowac jedzenia. Warzywa mozesz tez </text><nl/>
+   <text> sprzedawac z niezlym zyskiem w tawernach.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Istnieja</text>
+   <color r="1" g="1" b="1"/>
+   <text> zdarzenia losowe zwiazane ze zbieraniem. Niektore</text><nl/>
+   <text> z nich sa negatywne, inne pozytywne. Na przyklad, mozesz</text><nl/>
+   <text> zostac uzadlony przez pszczole (tracac zdrowie), ale juz</text><nl/>
+   <text> chwile pozniej Matka Natura moze obdarzyc Cie swym </text><nl/>
+   <text> blogoslawienstwem w postaci dodatkowyc xp. Mozesz tez</text><nl/>
+   <text> znalezc sakiewke zlota. Zdarzenia te przerywaja zbieranie.</text><nl/>
+   <text> Musisz zainicjowac je wtedy ponownie klikajac surowiec,</text><nl/>
+   <text> ktory zbierasz.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zeby</text>
+   <color r="1" g="1" b="1"/>
+   <text> przerwac zbieranie kliknij ponownie surowiec</text><nl/>
+   <text> lub po prostu odejdz.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+
+<Page Name="manu">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Wroc"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Pomoc</text><nl/>
+   <text>                Umiejetnosci</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Rzemieslnictwo: </text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> Aby zaczac</text>
+   <color r="1" g="1" b="1"/>
+   <text> rozwijac te umiejetnosc bedziesz potrzebowal </text><nl/>
+   <text> igly, nici i futer (needle, thread, fur). Polujac na</text><nl/>
+   <text> kroliki zachowaj futra i sprzedawaj tylko mieso</text><nl/>
+   <text> Nastepnie idz do sklepu ogolnego (General Store -</text><nl/>
+   <text> zielone punkty na mapie) np. w Lakeside, i za </text><nl/>
+   <text> zarobione pieniadze kup igle i nici.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wioska</text>
+   <color r="1" g="1" b="1"/>
+   <text> Lakeside (Lakeside Village) polozona jest w </text><nl/>
+   <text> poblizu dokow w White Stone. Aby sie tam dostac z Isla </text><nl/>
+   <text> Prima udaj sie na poludnie do dokow, i kliknij flage na </text><nl/>
+   <text> kotwicujacym tam statku. Bedac w White Stone nacisnij </text><nl/>
+   <text> Tab aby zobaczyc mape. Zlokalizuj najblizszy sklep </text><nl/>
+   <text> ogolny (zielony punkt) i udaj sie tam.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Upewni </text>
+   <color r="1" g="1" b="1"/>
+   <text> sie, ze w plecaku masz jedzenie. Nie bedziesz </text><nl/>
+   <text> mogl wykonac zadnego przedmiotu jezeli bedziesz glodny</text><nl/>
+   <text> (Zolty pasek stanu na zerze).</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Pierwsza</text>
+   <color r="1" g="1" b="1"/>
+   <text> rzecza jaka wykonasz beda futrzane rekawice. </text><nl/>
+   <text> Bedziesz potrzebowal 3 futer brazowego krolika </text><nl/>
+   <text> (brown rabbit fur) oraz 2 nici. Upewnij sie, ze w </text><nl/>
+   <text> plecaku masz igle. Otworz panel wytwarzania klikajac na </text><nl/>
+   <text> ikonie przedstawiajacej mlot i kowadlo. Nastepnie </text><nl/>
+   <text> kliknij 3 razy na futra i 2 razy na nici. Nastepnie </text><nl/>
+   <text> kliknij przycisk Rob ('Mix'). Szczesliwie udalo Ci sie</text><nl/>
+   <text> wykonac pierwsza pare rekawic. </text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Uwaga:</text>
+   <color r="1" g="1" b="1"/>
+   <text> Czasami nie uda Ci sie wykonac danego przedmiotu.</text><nl/>
+   <text> Zdarza sie, po prostu sprobuj ponownie. Teraz mozesz </text><nl/>
+   <text> wykonac tyle rekawic ile masz skladnikow. Rekawice </text><nl/>
+   <text> mozesz sprzedawac w sklepach ogolnych aby zarobic </text><nl/>
+   <text> pieniadze.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Teraz</text>
+   <color r="1" g="1" b="1"/>
+   <text> nadszedl czas na zrobieni futrzanej czapy. Udaj </text><nl/>
+   <text> sie do White Stone i zabij bialego krolika. Tirnwood </text><nl/>
+   <text> Vale (uzyj mapy) jest dobrym miejscem aby na nie </text><nl/>
+   <text> zapolowac. Bedziesz potrzebowal rowniez co najmniej 3 </text><nl/>
+   <text> futer bobrow. Bobry mozesz znalezc na Isla Prima. </text><nl/>
+   <text> Nastepnie musisz kupic tylko 3 szpule nici i bedziesz</text><nl/>
+   <text> mial skladniki na najpierwsiejsza futrzana czape.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Aby</text>
+   <color r="1" g="1" b="1"/>
+   <text> ja zrobic, upewnij sie, ze masz w plecaku igle. </text><nl/>
+   <text> Otworz ekran wytwarzania, kliknij 3 razy futro bobra, 1 </text><nl/>
+   <text> raz bialego krolika i 3 razy szpule nici. Kliknij Rob, </text><nl/>
+   <text> czekaj, i modl sie by zrobic Swoja czape.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Jezeli</text>
+   <color r="1" g="1" b="1"/>
+   <text> robisz juz futrzane czapy be zadnych problemow</text><nl/>
+   <text> nadszedl czas na zdobycie futer wilkow i lisow. Propos </text><nl/>
+   <text> graczy, ktorzy sa w stanie je zabic aby sprzedali Ci</text><nl/>
+   <text> pare futer. Oczywiscie mozesz sprobowac sam zabic je </text><nl/>
+   <text> sam, ale Pamietaj, ze sa one znacznie trudniejsze do </text><nl/>
+   <text> pokonania niz kroliki czy szczury, wiec zamiast </text><nl/>
+   <text> popelniac widowiskowe samobojstwo popros innych, zeby </text><nl/>
+   <text> dla Ciebie zdobyli.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Bedziesz</text>
+   <color r="1" g="1" b="1"/>
+   <text> potrzebowal 3 futer wilkow, 3 lisich i 5 szpul </text><nl/>
+   <text> nici aby wyprodukowac futrzany plaszcz. Nie zapomnij o </text><nl/>
+   <text> igle oraz jedzeniu w Twoim plecaku. Postepujac podobnie </text><nl/>
+   <text> jak wczesniej Zrob Swoj pierwszy plaszcz.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> W ten sposob</text>
+   <color r="1" g="1" b="1"/>
+   <text> masz Swoj pierwszy zestaw futrzany: </text><nl/>
+   <text> rekawice, czapka i plaszcz. Mozesz je teraz ubrac.</text><nl/>
+   <text> Gratulacje!</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nastepnym</text>
+   <color r="1" g="1" b="1"/>
+   <text> bardzo uzytecznym przedmiotem, ktory </text><nl/>
+   <text> powinienes wykonac sa Skorzane rekawice (leather </text><nl/>
+   <text> gloves). Bedziesz potrzebowal 4 skor i 4 szpul nici</text><nl/>
+   <text> Skory mozesz kupic w sklepie ogolnym. W plecaku musisz </text><nl/>
+   <text> miec igle i troche jedzenia. Otworz okno wytwarzania, </text><nl/>
+   <text> kliknij 4 razy skory i 4 razy nici. Kliknij Rob. </text><nl/>
+   <text> Spodziewaj sie porazki lub nawet utraty skladnikow. Po </text><nl/>
+   <text> kilku probach powinienes cieszyc sie Swoimi pierwszymi </text><nl/>
+   <text> skorzanymi rekawicami. Pozwalaja one na wydobywanie </text><nl/>
+   <text> siarki, zbierani kaktusow oraz sa wcale nie najgorsza </text><nl/>
+   <text> bronia.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+
+<Page Name="alch">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Wroc"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Pomoc</text><nl/>
+   <text>                Umiejetnosci</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Alchemia:</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Alchemia</text>
+   <color r="1" g="1" b="1"/>
+   <text> to sztuka wytwarzania esencji oraz metalowych </text><nl/>
+   <text> sztab. Zacznijmy od esencji ognia. Sa one latwe do </text><nl/>
+   <text> zrobienia i bedziesz mogl je sprzedac w magicznym </text><nl/>
+   <text> sklepie lub innym graczom. Esencje te sa uzywane do </text><nl/>
+   <text> wytapiania sztab oraz do dalszego ich przetwarzania.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Bedziesz</text>
+   <color r="1" g="1" b="1"/>
+   <text> potrzebowal siarki, czerwonych roz oraz </text><nl/>
+   <text> czerwonych lwich paszczy (sulfur, red roses, red </text><nl/>
+   <text> snapdragons). Oba kwiaty mozna znalezc w Valley of the </text><nl/>
+   <text> Dwarves na wschodnim brzegu rzeki w lasach. Aby sie tam </text><nl/>
+   <text> udac z Isla Prima udaj sie do dokow, kliknij na flage </text><nl/>
+   <text> znajdujaca sie na statku. Znajdujesz sie teraz w dokach</text><nl/>
+   <text> Lakeside, przejdz na drugi statek i kliknij flage by </text><nl/>
+   <text> przeniesc sie do Desert Pines. Przesiadz sie na drugi </text><nl/>
+   <text> statek (niedzwiedz na fladze) i kliknij flage. Statek </text><nl/>
+   <text> zabral Cie do Valley of the Dwarves. Nazbieraj kwiatow i </text><nl/>
+   <text> schowaj je w magazynie (Molgor w miescie).</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Siarke</text>
+   <color r="1" g="1" b="1"/>
+   <text> mozesz znalezc w Crystal Caverns w centralnej </text><nl/>
+   <text> czesci Desert Pines. Aby sie tam dostac z Valley of the </text><nl/>
+   <text> Dwarves udaj sie z powrotem do dokow i kliknij flage na </text><nl/>
+   <text> statku. Jaskinia jest polozona w gorach na srodku mapy. </text><nl/>
+   <text> Jest ona wielka, wiec lepiej zdobadz ze stron pomocy, </text><nl/>
+   <text> np. 'EL Guide', jej mape. Siarka jest oznaczona na </text><nl/>
+   <text> zolto. Aby wydobywac siarke musisz byc wyposazony w </text><nl/>
+   <text> skorzane rekawice. Zapoznaj sie z pomoca zwiazana z </text><nl/>
+   <text> rzemieslnictwem by wykonac je. Mozesz je rowniez kupic </text><nl/>
+   <text> od kowala w White Stone City (fioletowy punkt na mapie) </text><nl/>
+   <text> lub od innych graczy. Nazbierawszy siarki zmagazynuj ja </text><nl/>
+   <text> w magazynie Desert Pines przy pomocy NPC o imieniu Grim.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Teraz,</text>
+   <color r="1" g="1" b="1"/>
+   <text> kiedy juz masz kwiaty i siarke zdobadz troche </text><nl/>
+   <text> jedzenia. Udaj sie ponownie do Grima, wydobadz z </text><nl/>
+   <text> magazynow 10 roz, 10 lwich paszczy oraz 10 kawalkow </text><nl/>
+   <text> siarki. Upewnij sie, ze nie jestes glodny, poniewaz nie </text><nl/>
+   <text> bedziesz mogl zrobic esencji. Otworz okno wytwarzania, </text><nl/>
+   <text> kliknij jeden raz kazdy ze skladnikow, by przeniesc je </text><nl/>
+   <text> do przestrzeni roboczej. Nastepnie kliknij przycisk Rob.</text><nl/>
+   <text> Mozliwe, ze Ci sie nie uda. W takim przypadku sprobuj </text><nl/>
+   <text> ponownie.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zrob</text>
+   <color r="1" g="1" b="1"/>
+   <text> teraz wiecej esencji ognia. Kiedy skonczysz znajdz </text><nl/>
+   <text> sklep z magia w Grahm's Village (na zachod od tawerny) </text><nl/>
+   <text> lub w White Stone City (magiczne sklepy oznaczone sa </text><nl/>
+   <text> zoltymi punktami). Wejdz do niego i sprzedaj esencje XYZ</text><nl/>
+   <text> jest to jeden z najlatwiejszych sposobow zarabiania </text><nl/>
+   <text> pieniedzy.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Mozesz</text>
+   <color r="1" g="1" b="1"/>
+   <text> teraz robic tony esencji ognia. Patrz uwaznie do </text><nl/>
+   <text> Swojego plecaka, gdy nagle pojawi sie w nim drugi slot z </text><nl/>
+   <text> esencja ognia, nie znaczy to, ze poniosles porazke. Uzyj </text><nl/>
+   <text> kursora myszy w trybie 'Obejrz' na dodatkowa esencje. </text><nl/>
+   <text> Okaze sie, ze jest to wzbogacona esencja ognia </text><nl/>
+   <text> ('enriched fire essence'). Sa one niezwykle cenne i </text><nl/>
+   <text> wieli graczy zaplaci ze nie duze kwoty. Istnieje bardzo </text><nl/>
+   <text> niewielka szansa wykonania takich esencji, tak wiec </text><nl/>
+   <text> jezeli tobie sie udalo, jestes wielkim szczesciarzem.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+
+<Page Name="magc">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Wroc"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Pomoc</text><nl/>
+   <text>                Umiejetnosci</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magia: </text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Magia</text>
+   <color r="1" g="1" b="1"/>
+   <text> to sztuka rzucania czarow. Aby podazac jej </text><nl/>
+   <text> sciezkami bedziesz potrzebowal esencji oraz magicznych </text><nl/>
+   <text> symboli (essences, sigils). Symbole mozesz kupic w </text><nl/>
+   <text> magicznych sklepach w White Stone. Posiadane symbole </text><nl/>
+   <text> mozesz obejrzec w oknie magii (ikona z magiczna </text><nl/>
+   <text> rozdzka), a nie w plecaku, gdzie pozostana na wiecznosc. </text><nl/>
+   <text> Esencje mozesz rowniez kupic w sklepie, ale sa one </text><nl/>
+   <text> jednorazowego uzytku. Mozesz je rowniez zrobic sam </text><nl/>
+   <text> korzystajac z umiejetnosci alchemii, lub kupic od innych </text><nl/>
+   <text> graczy.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Aby</text>
+   <color r="1" g="1" b="1"/>
+   <text> zaczac rozwijac te umiejetnosc udaj sie do </text><nl/>
+   <text> magicznego sklepu w Grahm's Village i kup symbol </text><nl/>
+   <text> magiczny zdrowia ('Health Sigil'). Nastepnie znajdz </text><nl/>
+   <text> sklep w White Stone City i kup symbol przyrostu </text><nl/>
+   <text> ('Increase'). Nastepnie kup kilka esencji zdrowia </text><nl/>
+   <text> ('Health essences'). Jestes teraz gotowy do rzucenia </text><nl/>
+   <text> Swojego pierwszego czaru. Widz i zabij kilka zwierzakow </text><nl/>
+   <text> i postaraj sie zostac zranionym :). </text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Teraz</text>
+   <color r="1" g="1" b="1"/>
+   <text> kliknij ikone przedstawiajaca magiczna rozdzka i </text><nl/>
+   <text> otworz panel magii. Powinienes widziec kupione wczesniej </text><nl/>
+   <text> symbole magiczne. Kliknij w kolejnosci symbole Increase </text><nl/>
+   <text> i Health. Upewnij sie, ze wciaz masz esencje i nacisnij </text><nl/>
+   <text> przycisk 'Rzuc'. Jezeli Ci sie udalo to powinienes </text><nl/>
+   <text> odzyskac 5 punktow zdrowia (czerwony pasek stanu). </text><nl/>
+   <text> Straciles rownoczesnie 5 punktow magii (niebieski pasek </text><nl/>
+   <text> stanu). Jezeli Twoje punkty magii beda ponizej 5 nie </text><nl/>
+   <text> bedziesz mogl rzucic tego czaru, dopoki ich nie </text><nl/>
+   <text> odzyskasz. Zregeneruja sie one w tempie 1 punktu na </text><nl/>
+   <text> minute, ale Twoj poziom jedzenia musi byc wiekszy od </text><nl/>
+   <text> zera.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Mozesz</text>
+   <color r="1" g="1" b="1"/>
+   <text> rowniez wypic napoj mana lub miksture odzyskania </text><nl/>
+   <text> ducha aby odzyskac punkty magii. Mira, sprzedawca </text><nl/>
+   <text> mikstur, znajduje sie na rynku w White Stone City. </text><nl/>
+   <text> Mozesz je rowniez kupic od innych graczy lub wykonac </text><nl/>
+   <text> sam. Aby trenowac umiejetnosc rzucania czarow widz do </text><nl/>
+   <text> potions, cast spells, then drink the potions when your</text><nl/>
+   <text> Miry, kupuj tanie mikstury mana i rzucaj czary. Jest to </text><nl/>
+   <text> najlatwiejsza metoda treningu. Zachowaj puste fiolki, </text><nl/>
+   <text> bedziesz ich potrzebowal pozniej.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+
+<Page Name="pots">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Wroc"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Pomoc</text><nl/>
+   <text>                Umiejetnosci</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Mikstury:</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Zacznijmy</text>
+   <color r="1" g="1" b="1"/>
+   <text> od mikstury leczenia. Gdy je pijesz Twoje </text><nl/>
+   <text> odzyskujesz 5 punktow zdrowia (czerwony pasek stanu), </text><nl/>
+   <text> mozesz ich rowniez uzywac w trakcie walki.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Aby</text>
+   <color r="1" g="1" b="1"/>
+   <text> uwarzyc jakakolwiek miksture bedziesz potrzebowal </text><nl/>
+   <text> pustych fiolek (vial). Najlatwiejszym sposobem ich </text><nl/>
+   <text> zdobycia jest kupienie napojow mana od Miry, sprzedawcy </text><nl/>
+   <text> mikstur w White Stone City, i wypicie ich. Jeden napoj </text><nl/>
+   <text> kosztuje 5 sztuk zlota, tak wiec kupuj je i zachowaj </text><nl/>
+   <text> fiolki.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nastepnie</text>
+   <color r="1" g="1" b="1"/>
+   <text> udaj sie z powrotem do Grahm's Village, </text><nl/>
+   <text> Nastepnie kolo polozonego na zachod poletka z warzywami </text><nl/>
+   <text> znajdz sloneczniki (sunflowers) i nazbieraj ich troche. </text><nl/>
+   <text> kup kilka butelek wina w tawernie (nie wypij od razu;)</text><nl/>
+   <text> i jestes gotowy.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Sprawdz</text>
+   <color r="1" g="1" b="1"/>
+   <text> Swoj poziom jedzenia, Nastepnie otworz ekran </text><nl/>
+   <text> wytwarzania klikajac ikone z mlotem i kowadlem. Kliknij </text><nl/>
+   <text> na fiolke, wino i slonecznik. Nastepnie kliknij </text><nl/>
+   <text> przycisk '>' i czekaj. O ile udalo Ci sie wszystko, </text><nl/>
+   <text> powinienes miec teraz pierwsza wlasnorecznie wykonana </text><nl/>
+   <text> miksture zdrowia.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+
+<Page Name="summ">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Wroc"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Pomoc</text><nl/>
+   <text>                Umiejetnosci</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Przywolywanie:</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Przywolywanie</text>
+   <color r="1" g="1" b="1"/>
+   <text> to sztuka przyzywania stworzen na krotki </text><nl/>
+   <text> okres czasu. Beda one podazaly za Toba, dopoki nie zgina </text><nl/>
+   <text> lub nie opuscisz mapy.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Pierwsze</text>
+   <color r="1" g="1" b="1"/>
+   <text> co potrzebujesz to martwy krolik. Idz i zabij </text><nl/>
+   <text> jakiegos. Potrzebujesz 1 futro brazowego krolika, 1 kosc </text><nl/>
+   <text> i 1 mieso. Kup esencje zycia ('life essence') w sklepie </text><nl/>
+   <text> magicznym, upewnij sie, ze posiadasz jeszcze jakies </text><nl/>
+   <text> punkty magii (niebieski pasek stanu) i jestes gotowy. </text><nl/>
+   <text> Znajdz ciche i ustronne miejsce. Nigdy nie przyzywaj w </text><nl/>
+   <text> zatloczonych miejscach takich jak magazyny czy </text><nl/>
+   <text> beam/Wraith.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Otworz</text>
+   <color r="1" g="1" b="1"/>
+   <text> okno wytwarzania klikajac na ikone mlota i </text><nl/>
+   <text> kowadla. Kliknij jeden raz futro, kosc, mieso i esencje </text><nl/>
+   <text> zycia. Nastepnie kliknij Rob i czekaj. O ile wszystko </text><nl/>
+   <text> sie udalo powinienes zobaczy radosnie kicajacego dookola </text><nl/>
+   <text> Ciebie kroliczka. Sprobuj sie gdzies przejsc, podazy on </text><nl/>
+   <text> za Toba.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+
+<Page Name="crft">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Wroc"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Pomoc</text><nl/>
+   <text>                Umiejetnosci</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Jubilerstwo:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   
+   <text> Aby</text>
+   <color r="1" g="1" b="1"/>
+   <text> zaczac rozwijac te umiejetnosc musisz przeczytac </text><nl/>
+   <text> multum ksiazek. Widz do Tarsengard i Wejdz do szkoly </text><nl/>
+   <text> magii. Badz ostrozny, mozesz napotkac uzbrojonego </text><nl/>
+   <text> goblina na Swej drodze. Do Tarsengardu mozesz wejsc </text><nl/>
+   <text> zarowno z Valley of the Dwarves jak i z White Stone. </text><nl/>
+   <text> Bedac w szkole znajdz Itilli w rejestracji ('registy </text><nl/>
+   <text> room'), to pierwszy pokoj na lewo od wejscia do szkoly. </text><nl/>
+   <text> Kup od niej ksiazki Generic Ring i Gold Ring i zacznij </text><nl/>
+   <text> badania. Tak! zaczniesz od wykonania najprostszego </text><nl/>
+   <text> zlotego pierscienia.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Czytajac</text>
+   <color r="1" g="1" b="1"/>
+   <text> ksiazki, upewnij sie, ze Twoj nexus </text><nl/>
+   <text> odpowiadajacy za Rzemieslnictwo ('artificial nexus') </text><nl/>
+   <text> jest rowny co najmniej 1. Zdobadz rowniez kilka zlotych </text><nl/>
+   <text> sztab (mozesz je zrobic XYZ alchemia lub kupic od innych </text><nl/>
+   <text> graczy). Bedziesz rowniez potrzebowal esencji ognia. </text><nl/>
+   <text> Zrob je, lub kup od innych graczy badz w jednym z </text><nl/>
+   <text> magicznych sklepow White Stone. Ostatnim co potrzebujesz </text><nl/>
+   <text> jest forma do odlewania pierscieni ('ring mold'). Kupic </text><nl/>
+   <text> ja mozesz w magicznym sklepie w Portland (Zolty punkt na </text><nl/>
+   <text> mapie). Mozesz tam rowniez kupic pare innych przedmiotow </text><nl/>
+   <text> potrzebnych kazdemu szanujacemu sie jubilerowi: papier </text><nl/>
+   <text> do szlifowanie ('sanding paper'), szczypce do </text><nl/>
+   <text> przycinania klejnotow ('gem cutter') i tym podobne.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Kiedy</text>
+   <color r="1" g="1" b="1"/>
+   <text> skonczysz badania i masz wszystkie wymienione </text><nl/>
+   <text> wyzej skladniki i przyrzady (zlote sztaby, esencje ognia </text><nl/>
+   <text> oraz forme do odlewania) mozesz przystapic do pracy. Nie </text><nl/>
+   <text> zapomnij o jedzeniu.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Otworz</text>
+   <color r="1" g="1" b="1"/>
+   <text> teraz okno wytwarzania (ikona z mlotem i </text><nl/>
+   <text> kowadlem), kliknij 2 razy na zlota sztabe, 3 razy na </text><nl/>
+   <text> esencje ognia. Nastepnie kliknij Rob. Czekaj, jezeli </text><nl/>
+   <text> masz szczescie to udalo Cie sie zrobic Swoj pierwszy </text><nl/>
+   <text> pierscien. Aby robic srebrne pierscienie udaj sie do </text><nl/>
+   <text> Itilli i kup ksiazke 'Silver Rings' i przeczytaj ja. I </text><nl/>
+   <text> postepuj analogicznie. Zlote i srebrne pierscienie sluza </text><nl/>
+   <text> do wykonywania takich magicznych pierscieni jak: </text><nl/>
+   <text> pierscienie teleportacji, obrazen czy rozdzielenia </text><nl/>
+   <text> (teleport rings, damage rings, rings of disengagement).</text><nl/>
+   <nl/>
+   <text> Jak</text>
+   <color r="1" g="1" b="1"/>
+   <text> juz pewnie zauwazyles, jubilerstwo jest bardzo </text><nl/>
+   <text> kosztowne i czasochlonne. Dlatego jest zalecane dla</text><nl/>
+   <text> bardziej zaawansowanych graczy.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+
+<Page name="engn">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Wroc"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Pomoc</text><nl/>
+   <text>                Umiejetnosci</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Inzynieria</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Inzynieria</text>
+   <color r="1" g="1" b="1"/>
+   <text> to skompikowana umiejetnosc, wykorzystywana</text><nl/>
+   <text> do tworzenia urzadzen (np. min, gogli) i niebezpiecznych</text><nl/>
+   <text> substancji. Jesli Twoj staz w EL jest stosunkowo krotki,</text><nl/>
+   <text> to nie zalecamy Ci interesowania sie ta umiejetnoscia.</text><nl/>
+   <text> Wymaga ona jednoczesnego wykorzystania kilku innych</text><nl/>
+   <text> umiejetnosci, a takze sporych nakladow pracy. Awansujac w</text><nl/>
+   <text> Inzynierii bedziesz odwiedzal dalekie i niebezpieczne </text><nl/>
+   <text> krainy tylko po to, by moc kupic drogie ksiazki, niezbedne</text><nl/>
+   <text> do budowy coraz to bardziej skomplikowanych przedmiotow.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zacznij</text>
+   <color r="1" g="1" b="1"/>
+   <text> swoja przygode z inzynieria od robienia popiolu.</text><nl/>
+   <text> Wszystko co do tego potrzebujesz to galezie i essencja</text><nl/>
+   <text> ognia (FE). Galezie znajdziesz porozrzucane po lasach</text><nl/>
+   <text> np. na Isla Prima czy tez w Evergreen Woods w Desert</text><nl/>
+   <text> Pines; essencje ognia mozesz wykonac (patrz: alchemia)</text><nl/>
+   <text> kupic od innych graczy badz bezposrednio w skelpie z</text><nl/>
+   <text> artykulami magicznymi na mapie White Stone. Gdy masz juz</text><nl/>
+   <text> jedno i drugie, mozesz przystapic do produkcj: otworz</text><nl/>
+   <text> okienko miksowania klikajac na ikonke mlota i kowalda,</text><nl/>
+   <text> nastepnie wybierz skladniki: kliknij 3 razy na galeziach i</text><nl/>
+   <text> raz na esencji ognia, nastepnie kliknij ">" lub ">>".</text><nl/>
+   <text> Poczekaj chwile a przy odrobinie szczescia uda Ci sie</text><nl/>
+   <text> wyprodukowac pierwsza porcje popiolu!</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Kontynuuj</text>
+   <color r="1" g="1" b="1"/>
+   <text> produkcje popiolu aby zdobyc swoj pierwszy</text><nl/>
+   <text> poziom w inzynierii. Popiol sobie zatrzymaj przyda Ci sie</text><nl/>
+   <text> w przyszlosci do wytwarzania bardziej zaawansowanych</text><nl/>
+   <text> przedmiotow.</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Jezeli chcesz</text>
+   <color r="1" g="1" b="1"/>
+   <text> zaczac produkowac cos innego niz popiol,</text><nl/>
+   <text> bedzie Ci do tego potrzebna wiedza. Te zdobedziesz</text><nl/>
+   <text> czytajac ksiazki. Odpowiedniego sprzedawce znajdziesz w</text><nl/>
+   <text> North Redmoon - nazwy a sie Neculce. North Redmoon jest</text><nl/>
+   <text> jedna z krain Irilionu, zamieszkala przez niebezpieczne.</text><nl/>
+   <text> potwory. Ksiazki ktore bedziesz potrzebowac na poczatku to</text><nl/>
+   <text> "Book of Nails" (Ksiega Gwozdzi) oraz "Book of Rope"</text><nl/>
+   <text> (Ksiega Lin); obie w sumie beda Cie kosztowac 8kgc.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Po przeczytaniu</text>
+   <color r="1" g="1" b="1"/>
+   <text> ksiazek bedziesz mogl sprobowac</text><nl/>
+   <text> produkcji dwoch nowych przedmiotow: lin i gwozdzi.</text><nl/>
+   <text> Do lin bedziesz potrzebowal nici, do gwozdzi zas zelaznych</text><nl/>
+   <text> sztabek. Nici mozesz wyprodukowac sam (crafting), kupic od</text><nl/>
+   <text> innych graczy lub w sklepie ogolnym (general store)</text><nl/>
+   <text> Jesli masz juz nici, otworz okienko miksowania, kliknij 5x</text><nl/>
+   <text> na ikonce nitki i wcisnij przycisk ">". Liny moga byc tez</text><nl/>
+   <text> sprzedawane kupcom w General Store.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Aby wyprodukowac gwozdzie</text>
+   <color r="1" g="1" b="1"/>
+   <text> potrzebne Ci beda sztabki zelaza</text><nl/>
+   <text> oraz mlotek. Sztabki mozesz wykonac sam, lub kupic je od</text><nl/>
+   <text> innych graczy. Mlotek natomiast kupisz w kuzni w White</text><nl/>
+   <text> Stone City. Kiedy masz juz i jedno, i drugie, otworz</text><nl/>
+   <text> okienko produkcji, kliknij 2x na zelaznych sztabkach po</text><nl/>
+   <text> czym wcisnij przycisk ">".</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+<Page name="tail">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Wroc"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+    <text x="2" y="2">             Eternal Lands Pomoc</text><nl/>
+    <text>                Umiejetnosci</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Krawiectwo:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> Krawiectwo</text>
+   <color r="1" g="1" b="1"/>
+   <text> jest rowniez bardziej zaawansowana</text><nl/>
+   <text> umiejetnoscia. Wymaga sporej wiedzy i kilku innych</text><nl/>
+   <text> umiejetnosci, odpowiednio wysoko rozwinietych.</text><nl/>
+   <text> Pochlania olbrzymie ilosci pieniedzy i opiera sie na</text><nl/>
+   <text> dobrej znajomosci Irilionu (drugiego kontynentu - C2).</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Pierwsza rzecz</text>
+   <color r="1" g="1" b="1"/>
+   <text> ktora musisz zrobic, aby zaczac</text><nl/>
+   <text> rozwijac krawiectwo, jest przeczytanie ksiazki o tym, jak</text><nl/>
+   <text> produkowac biale plotno. Bedziesz musial udac sie do</text><nl/>
+   <text> sprzedawcy ksiazek w Emerald Valley na Irilionie. Zakup</text><nl/>
+   <text> wspomnianej ksiazki bedzie Cie kosztowal 5000gc. W czasie</text><nl/>
+   <text> gdy bedziesz czytal ksiazke, mozesz zajac sie zbieraniem</text><nl/>
+   <text> bawelny i produkcja nici - tych potrzebujesz 10 thread.</text><nl/>
+   <text> Pamietaj o tym aby trzymas swoj poziom wyzywienia powyzej</text><nl/>
+   <text> zera - inaczej przestaniesz czytac ksiazke. Nici mozesz</text><nl/>
+   <text> kupic w General Store. Szczegoly dotyczace produkcji nici</text><nl/>
+   <text> znajdziesz w poradniku Jubilerstwa (crafting).</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zaraz po tym</text>
+   <color r="1" g="1" b="1"/>
+   <text> jak ksiazka zostanie przeczytana, jesli</text><nl/>
+   <text> tylko zgromadziles odpowiednie zapasy nici, udaj sie do</text><nl/>
+   <text> sklepu krawieckiego w Tarsengaard lub w Irinveron gdzie</text><nl/>
+   <text> gdzie bedziesz mogl kupic krosno, niezbedne do produkcji</text><nl/>
+   <text> plotna. Upewlnij sie ze wziales odpowiednia ilosc zlota</text><nl/>
+   <text> poniewaz krosno kosztuje sporo (50gc/szt.) i z jednego</text><nl/>
+   <text> krosna mozna wyprodukowac tylko jeden kawalek plotna.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Teraz, kiedy juz</text>
+   <color r="1" g="1" b="1"/>
+   <text> przeczytales ksiazke, zrobiles badz,</text><nl/>
+   <text> kupiles nici i krosno mozesz smialo sprobowac zmieszac</text><nl/>
+   <text> 10 szpul nici z 1 krosnem aby tym samym wyprodukowac</text><nl/>
+   <text> pierwszy kawalek wlasnego, bialego plotna.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+
+<Page name="rang">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Wroc"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Pomoc</text><nl/>
+   <text>                Umiejetnosci</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Strzelectwo:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> Strzelectwo</text>
+   <color r="1" g="1" b="1"/>
+   <text> jo umiejetnosc prosta w opanowaniu, trudna</text><nl/>
+   <text> w rozwijaniu i wyjatkowo droga w utrzymaniu.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Do nauki strzelania</text>
+   <color r="1" g="1" b="1"/>
+   <text> potrzebny Ci luk i troche strzal. </text><nl/>
+   <text> Jedno i drugie mozna kupic w kuzni na poludniu Morcraven </text><nl/>
+   <text> Marsh. Dla stosunkowonowych graczy podroz do MM moze </text><nl/>
+   <text> okazac sie niebepieczna. W Morcraven Marsh nie brakuje </text><nl/>
+   <text> kilku paskudnych stworzen, a natkniecie sie np. na </text><nl/>
+   <text> szkielety moze sie zle skonczyc. Przydatny staje sie tu</text><nl/>
+   <text> jednak plaszcz lub perk Monster Magnetism ktory chroni </text><nl/>
+   <text> przed atakami agresywnych stworzen. Zawsze jednak</text><nl/>
+   <text> pozostaje kilka innych wyjsc... mozna do MM wyslac</text><nl/>
+   <text> swojego bardziej doswiadczonego znajomego, aby ten</text><nl/>
+   <text> zakupil nam potrzebne przedmioty.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Najtanszy luk</text>
+   <color r="1" g="1" b="1"/>
+   <text> - luk krotki (short bow), wyniesie Cie 2kgc</text><nl/>
+   <text> a kazda strzala treningowa - ktora jest jednorazowego</text><nl/>
+   <text> uzytku, to koszt 10gc. Strzaly treningowe mozna tez kupic</text><nl/>
+   <text> w sklepach General Store.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Kiedy juz</text>
+   <color r="1" g="1" b="1"/>
+   <text> posiadasz i luk i troche strzal, mozesz zaczac</text><nl/>
+   <text> zabawe w strzelaniu. Najpierw wez luk i strzaly do reki</text><nl/>
+   <text> przenies je zwyczajnie do slotow ekwipunku w Twoim okienku</text><nl/>
+   <text> plecaka. Jesli zalozysz je poprawnie, zauwazysz luk w reku</text><nl/>
+   <text> Twojej postaci i kolczan ze strzalami na jej plecach.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Teraz jestes</text>
+   <color r="1" g="1" b="1"/>
+   <text> w pelni gotowy do oddania strzalu.</text><nl/>
+   <text> Zacznij od namierzenia jakiegos prostego celu, jakiegos</text><nl/>
+   <text> slabego zwierzecie, ktore jestes w stanie szybko zabic</text><nl/>
+   <text> poniewaz istnieje ryzyko ze ostrzeliwana zwierzyna</text><nl/>
+   <text> zaatakuje Cie bezposrednio. Bardzo prawdopodobne jest, iz</text><nl/>
+   <text> jesli sie tak stanie, Twoj kolczan zostanie zniszczony.</text><nl/>
+   <text> Mozliwe ze luk takze, zwazywszy na fakt iz jest to bron</text><nl/>
+   <text> przewidziana do uzycia z dystansu, nie jest wiec zbyt</text><nl/>
+   <text> odporna na bezposrednie uderzenia. Zeby ujac to jasniej</text><nl/>
+   <text> Twoj luk jest wtedy niczym plastikowa lyzeczka w starciu</text><nl/>
+   <text> ze smokiem.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Gdy juz</text>
+   <color r="1" g="1" b="1"/>
+   <text> znajdziesz sobie przyzwoity cel</text><nl/>
+   <text> (na poczatku kroliki swietnie sie sprawdzaja), wcisnij i</text><nl/>
+   <text> przytrzymaj klawisz Alt - to pozoli Ci 'zablokowac' swoj</text><nl/>
+   <text> cel i oszczedzi Ci latania dookola i marnowania strzal</text><nl/>
+   <text> na dziurawienie chmur.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Teraz,</text>
+   <color r="1" g="1" b="1"/>
+   <text> wystrzel blyskawicznie wciskajac lewy przycisk</text><nl/>
+   <text> myszy az Twoj cel zostanie trafiony i ostatecznie zabity.</text><nl/>
+   <text> Jesli Ci sie to uda, mozesz zaliczyc sie w poczet</text><nl/>
+   <text> Lucznikow EL.</text>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+</skills>

@@ -1,0 +1,1545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Jewelry>
+<Page name="Ring_Gold">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Gouden Ring</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="24" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Een gewone gouden ring, gebruikt als basis voor</text><nlkx/>
+	<text> andere ringen.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 2 Gouden Baren, 3 Vuur Essenties.</text><nl/>
+	<text> Items nodig in Inventaris: Ring Vorm</text><nl/>
+	<text> Kennis vereist: Gouden Ring Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 1</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 10</text><nl/>
+	<text> Voedsel kosten: 1</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Silver">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Zilveren Ring</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="23" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Een gewone zilveren ring, gebruikt als basis voor</text><nlkx/>
+	<text> andere ringen.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 2 Zilveren Baren, 3 Vuur Essenties.</text><nl/>
+	<text> Items nodig in Inventaris: Ring Vorm</text><nl/>
+	<text> Kennis vereist: Zilveren Ring Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 3</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 15</text><nl/>
+	<text> Voedsel kosten: 2</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Med_Silver">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Zilveren Medaillon</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="18" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Een gewoon zilveren medaillon, gebruikt als basis</text><nlkx/>
+	<text> voor andere medaillons.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 3 Zilveren Baren, 3 Vuur Essenties.</text><nl/>
+	<text> Items nodig in Inventaris: Medaillon Vorm</text><nl/>
+	<text> Kennis vereist: Zilveren Medaillon Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 5</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 25</text><nl/>
+	<text> Voedsel kosten: 4</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Med_Gold">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Gouden Medaillon</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="17" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Een gewoon gouden medaillon, gebruikt als basis</text><nlkx/>
+	<text> voor andere medaillons.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 3 Gouden Baren, 3 Vuur Essenties.</text><nl/>
+	<text> Items nodig in Inventaris: Medaillon Vorm</text><nl/>
+	<text> Kennis vereist: Gouden Medaillon Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 7</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 35</text><nl/>
+	<text> Voedsel kosten: 6</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="P_Ruby">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Gepolijste Robijn</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="14" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Een gepolijste Robijn, ingebed in Ringen en</text><nlkx/>
+	<text> Medaillons om magische items te maken.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Robijn, 2 Water Essenties, 1 Edelsteen Schuurpapier.</text><nl/>
+	<text> Items nodig in Inventaris: Edelsteen Hamer en Beitel</text><nl/>
+	<text> Kennis vereist: Robijn Verwerken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 2</text><nl/>
+	<text> Geadviseerd Bewerken Level: 9</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 40</text><nl/>
+	<text> Voedsel kosten: 8</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="P_Emer">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Gepolijste Smaragd</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="12" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Een gepolijste Smaragd, ingebed in Ringen en</text><nlkx/>
+	<text> Medaillons om magische items te maken.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Smaragd, 2 Water Essenties, 1 Edelsteen Schuurpapier.</text><nl/>
+	<text> Items nodig in Inventaris: Edelsteen Hamer en Beitel</text><nl/>
+	<text> Kennis vereist: Smaragd Verwerken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 2</text><nl/>
+	<text> Geadviseerd Bewerken Level: 12</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 50</text><nl/>
+	<text> Voedsel kosten: 10</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="P_Saph">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Gepolijste Saffier</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="13" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Een gepolijste Saffier, ingebed in Ringen en</text><nlkx/>
+	<text> Medaillons om magische items te maken.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Saffier, 2 Water Essenties, 1 Edelsteen Schuurpapier.</text><nl/>
+	<text> Items nodig in Inventaris: Edelsteen Hamer en Beitel</text><nl/>
+	<text> Kennis vereist: Saffier Verwerken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 2</text><nl/>
+	<text> Geadviseerd Bewerken Level: 14</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 60</text><nl/>
+	<text> Voedsel kosten: 12</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="P_Diam">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Polished Diamond</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="11" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Een gepolijste Diamant, ingebed in Ringen en</text><nlkx/>
+	<text> Medaillons om magische items te maken.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Diamant, 2 Water Essenties, 3 Edelsteen Schuurpapier.</text><nl/>
+	<text> Items nodig in Inventaris: Edelsteen Hamer en Beitel</text><nl/>
+	<text> Kennis vereist: Diamant Verwerken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 3</text><nl/>
+	<text> Geadviseerd Bewerken Level: 16</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 65</text><nl/>
+	<text> Voedsel kosten: 14</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Isla">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>            Ring van Isla Prima</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="10" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Isla Prima.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zilveren Ring, 1 Gepolijste Smaragd, 1 Vuur Essentie.</text><nl/>
+	<text> Kennis vereist: Isla Prima Ring Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 3, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 17</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 70</text><nl/>
+	<text> Voedsel kosten: 16</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Votd">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>        Ring van Valley of the Dwarves</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="12" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar</text><nlkx/>
+	<text> Valley of the Dwarves.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zilveren Ring, 1 Gepolijste Diamant, 1 Vuur Essentie.</text><nl/>
+	<text> Kennis vereist: Valley of the Dwarves Ring Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 3, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 18</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 75</text><nl/>
+	<text> Voedsel kosten: 18</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Naralik">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Ring van Naralik</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="11" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Naralik.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zilveren Ring, 1 Gepolijste Diamant, 2 Vuur Essenties.</text><nl/>
+	<text> Kennis vereist: Naralik Ring Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 3, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 19</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 80</text><nl/>
+	<text> Voedsel kosten: 20</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_WSC">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>            Ring van White Stone</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="9" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar White Stone.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Gouden Ring, 1 Gepolijste Smaragd, 1 Vuur Essentie.</text><nl/>
+	<text> Kennis vereist: White Stone Ring Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 3, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 20</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 82</text><nl/>
+	<text> Voedsel kosten: 22</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Port">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Ring van Portland</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="15" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Portland.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Gouden Ring, 1 Gepolijste Robijn, 1 Vuur Essentie.</text><nl/>
+	<text> Kennis vereist: Portland Ring Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 3, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 21</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 85</text><nl/>
+	<text> Voedsel kosten: 24</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Dp">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Ring van Desert Pines</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="16" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Desert Pines.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Gouden Ring, 1 Gepolijste Saffier, 1 Vuur Essentie.</text><nl/>
+	<text> Kennis vereist: Desert Pines Ring Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 3, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 22</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 90</text><nl/>
+	<text> Voedsel kosten: 26</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Anitora">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Ring van Anitora</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="7" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Anitora.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zilveren Ring, 15 Magie Essenties, 14 Energie Essenties,</text><nl/>
+	<text> 2 Gepolijste Robijnen, 1 Gepolijste Saffier.</text><nl/>
+	<text> Kennis vereist: Ring van Anitora Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 30</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 130</text><nl/>
+	<text> Voedsel kosten: 30</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Bethel">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Ring van Bethel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="9" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Bethel.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zilveren Ring, 15 Magie Essenties, 14 Energie Essenties,</text><nl/>
+	<text> 1 Gepolijste Robijn, 1 Gepolijste Saffier.</text><nl/>
+	<text> Kennis vereist: Ring van Bethel Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 34</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 150</text><nl/>
+	<text> Voedsel kosten: 30</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Egratia">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Ring van Egratia</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="13" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Egratia.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zilveren Ring, 3 Gepolijste Smaragden,</text><nl/>
+	<text> 25 Magie Essenties, 8 Energie Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Egratia Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 42</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 190</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Emerald_Valley">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>          Ring van Emerald Valley</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="18" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Emerald Valley.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zilveren Ring, 4 Gepolijste Smaragden,</text><nl/>
+	<text> 5 Energie Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Emerald Valley Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 60</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 290</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Glacmor">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Ring van Glacmor</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="21" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Glacmor.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zilveren Ring, 2 Gepolijste Saffieren, 3 Robijnen,</text><nl/>
+	<text> 5 Energie Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Glacmor Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 58</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 280</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Hulda">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Ring van Hulda</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="16" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Hulda.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zilveren Ring, 3 Gepolijste Smaragden, 3 Robijnen,</text><nl/>
+	<text> 20 Magie Essenties, 6 Energie Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Hulda Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 48</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 220</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Hurquin">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Ring van Hurquin</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="20" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Hurquin.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zilveren Ring, 2 Gepolijste Saffieren,</text><nl/>
+	<text> 2 Gepolijste Smaragden, 2 Robijnen, 5 Energie Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Hurquin Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 56</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 270</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Idaloran">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Ring van Idaloran</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="8" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Idaloran.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Gouden Ring, 2 Gepolijste Diamanten, 12 Magie Essenties,</text><nl/>
+	<text> 14 Energie Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Idaloran Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 32</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 140</text><nl/>
+	<text> Voedsel kosten: 30</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Imbroglio_Islands">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>         Ring van Imbroglio Islands</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="19" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Imbroglio Islands.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Gouden Ring, 3 Robijnen, 20 Magie Essenties,</text><nl/>
+	<text> 5 Energie Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Imbroglio Islands Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 54</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 250</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Irinveron">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Ring van Irinveron</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="15" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Irinveron.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Gouden Ring, 3 Gepolijste Saffieren, 3 Robijnen,</text><nl/>
+	<text> 20 Magie Essenties, 7 Energie Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Irinveron Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 46</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 210</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Iscalrith">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Ring van Iscalrith</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="14" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Iscalrith.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Gouden Ring, 3 Gepolijste Saffieren, 3 Robijnen,</text><nl/>
+	<text> 22 Magie Essenties, 7 Energie Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Iscalrith Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 44</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 200</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Isle_Forgotten">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>       Ring van Isle of the Forgotten</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="22" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar</text><nlkx/>
+	<text> Isle of the Forgotten.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zilveren Ring, 2 Gepolijste Saffieren, 2 Robijnen,</text><nl/>
+	<text> 20 Magie Essenties, 5 Energie Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Isle of the Forgotten Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 52</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 240</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Kusamura">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Ring van Kusamura</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="12" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Kusamura.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Gouden Ring, 1 Zilveren Baar, 25 Magie Essenties</text><nl/>
+	<text> 9 Energie Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Kusamura Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 40</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 180</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Palon_Vertas">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Ring van Palon Vertas</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="11" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Palon Vertas.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zilveren Ring, 1 Gouden Baar, 30 Magie Essenties,</text><nl/>
+	<text> 8 Energie Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Palon Vertas Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 38</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 170</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Sedicolis">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Ring van Sedicolis</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="10" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Sedicolis.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Gouden Ring, 1 Gepolijste Saffier, 15 Magie Essenties</text><nl/>
+	<text> 12 Energie Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Sedicolis Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 36</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 160</text><nl/>
+	<text> Voedsel kosten: 30</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Trassian">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Ring van Trassian</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="17" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je bij gebruik naar Trassian.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Gouden Ring, 3 Gepolijste Saffieren, 3 Robijnen,</text><nl/>
+	<text> 19 Magie Essenties, 7 Energie Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Trassian Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 50</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 230</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Damage">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Ring van Schade</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="17" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Wanneer gebruikt in een gevecht, doet het 20 schade</text><nlkx/>
+	<text> aan je vijand, onafhankelijk van verdediging.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zilveren Ring, 4 Gepolijste Robijn, 8 Vuur Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Schade Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 3, Magie 3</text><nl/>
+	<text> Geadviseerd Bewerken Level: 26</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 110</text><nl/>
+	<text> Voedsel kosten: 34</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Disengagement">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Ring van Losbreken</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="13" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Wanneer gebruikt in een gevecht, staat het je toe</text><nlkx/>
+	<text> om te vluchten.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zilveren Ring, 1 Gepolijste Saffier, 2 Vuur Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Losbreken Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 3, Magie 3</text><nl/>
+	<text> Geadviseerd Bewerken Level: 27</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 115</text><nl/>
+	<text> Voedsel kosten: 36</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_Power">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Ring van Kracht</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="5" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Wanneer gebruikt in een gevecht, doet het 50 schade</text><nlkx/>
+	<text> aan je vijand, onafhankelijk van verdediging.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Let op: de formule produceert 6 ringen per keer.</text><nl/>
+	<nl/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Bind Steen, 10 Ringen van Schade, 50 Dood Essenties.</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 5</text><nl/>
+	<text> Geadviseerd Bewerken Level: 40</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 500</text><nl/>
+	<text> Voedsel kosten: 30</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_MDestr">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>        Ring van Mana Vernietiging</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="3" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Wanneer gebruikt in een gevecht, verwijderd het 20</text><nlkx/>
+	<text> mana van je vijand.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Gepolijste Smaragd, 1 Zilveren Ring, 1 Gouden Ring,</text><nl/>
+	<text> 6 Magie Essenties, 6 Energie Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Mana Vernietiging Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 3</text><nl/>
+	<text> Geadviseerd Bewerken Level: 49</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 225</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Ring_MMDestr">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>      Ring van Grote Mana Vernietiging</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="4" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Wanneer gebruikt in een gevecht, verwijderd het 50</text><nlkx/>
+	<text> mana van je vijand.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 10 Zilveren Ringen, 50 Magie Essenties,</text><nl/>
+	<text> 50 Energie Essenties, 10 Dood Essenties.</text><nl/>
+	<text> Kennis vereist: Ring van Grote Mana Vernietiging Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 5, Magie 5</text><nl/>
+	<text> Geadviseerd Bewerken Level: 57</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 300</text><nl/>
+	<text> Voedsel kosten: 65</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Med_Unicorn">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Eenhoorn Medaillon</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="19" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Wanneer gedragen, verhoogt het je verdediging met 4.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zilveren Baar, 1 Zilveren Medaillon, 2 Vuur Essenties.</text><nl/>
+	<text> Kennis vereist: Eenhoorn Medaillon Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 3, Magie 2</text><nl/>
+	<text> Geadviseerd Bewerken Level: 23</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 95</text><nl/>
+	<text> Voedsel kosten: 28</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Med_Sun">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Zon Medaillon</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="20" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Wanneer gedragen, verhoogt het je</text><nlkx/>
+	<text> nauwkeurigheid met 4.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Gouden Baar, 1 Gouden Medaillon, 2 Vuur Essenties.</text><nl/>
+	<text> Kennis vereist: Zon Medaillon Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 3, Magie 2</text><nl/>
+	<text> Geadviseerd Bewerken Level: 23</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 95</text><nl/>
+	<text> Voedsel kosten: 28</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Med_Moon">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Maan Medaillon</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="8" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Wanneer gedragen, verhoogt het je verdediging met 4</text><nlkx/>
+	<text> en je nauwkeurigheid met 4.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Gepolijste Saffier, 1 Zilveren Medaillon,</text><nl/>
+	<text> 2 Vuur Essenties.</text><nl/>
+	<text> Kennis vereist: Maan Medaillon Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 3, Magie 2</text><nl/>
+	<text> Geadviseerd Bewerken Level: 24</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 100</text><nl/>
+	<text> Voedsel kosten: 30</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Med_Stars">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Ster Medaillon</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="6" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Wanneer gedragen, verhoogt het de schade die je</text><nlkx/>
+	<text> doet met 4 en je harnas met 2.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Gepolijste Robijn, 1 Zilveren Medaillon,</text><nl/>
+	<text> 2 Vuur Essenties.</text><nl/>
+	<text> Kennis vereist: Ster Medaillon Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 3, Magie 2</text><nl/>
+	<text> Geadviseerd Bewerken Level: 25</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 105</text><nl/>
+	<text> Voedsel kosten: 32</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Crown_Mana">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Kroon van Mana</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="24" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Wanneer gedragen, verhoogt het je maximum</text><nlkx/>
+	<text> etherische punten met 150.</text><nlkx/>
+	<text> Vereiste Nexus om te gebruiken: Mens 5</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Wolfram Baar, 1 Waterstof Baar, 2 Bind Stenen,</text><nl/>
+	<text> 2 Verrijkte Magie Essenties, 50 Zilveren Baren.</text><nl/>
+	<text> Kennis vereist: Kroon van Mana</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 5, Magie 5</text><nl/>
+	<text> Geadviseerd Bewerken Level: 60</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 1000</text><nl/>
+	<text> Voedsel kosten: 60</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Crown_Life">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Kroon van Leven</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="23" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Wanneer gedragen, verhoogt het je maximum</text><nlkx/>
+	<text> materie punten met 150.</text><nlkx/>
+	<text> Vereiste Nexus om te gebruiken: Mens 5</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Wolfram Baar, 1 Waterstof Baar, 2 Bind Stenen,</text><nl/>
+	<text> 6 Verrijkte Leven Essenties, 50 Gouden Baren.</text><nl/>
+	<text> Kennis vereist: Kroon van Leven</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 5, Magie 5</text><nl/>
+	<text> Geadviseerd Bewerken Level: 61</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 1050</text><nl/>
+	<text> Voedsel kosten: 60</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Med_Harv">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>            Oogst Medaillon</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="21" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Als gedragen tijdens het oogsten, verminderd het de</text><nlkx/>
+	<text> kans om gereedschappen te breken met 2, vermeerderd</text><nlkx/>
+	<text> de ervaring en geld van willekeurige gebeurtenissen</text><nlkx/>
+	<text> en ga je door met oogsten na een mini gebeurtenis.</text><nl/>
+	<text> Willekeurige oogst gebeurtenissen kunnen het vernietigen.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Seridium Baar, 2 Gouden Baren,</text><nl/>
+	<text> 20 Rode Paddestoelen, 10 Vuur Essenties.</text><nl/>
+	<text> Kennis vereist: Oogst Medaillon Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 2</text><nl/>
+	<text> Geadviseerd Bewerken Level: 43</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 400</text><nl/>
+	<text> Voedsel kosten: 28</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Med_Heaven">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Hemel Medaillon</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="20" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Wanneer gedragen, als je de Hellspawn perk hebt,</text><nlkx/>
+	<text> verlies je het medaillon ipv naar de hel te gaan.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Seridium Baar, 2 Zilveren Baren,</text><nl/>
+	<text> 20 Witte Cantharellen, 10 Vuur Essenties.</text><nl/>
+	<text> Kennis vereist: Hemel Medaillon Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 2</text><nl/>
+	<text> Geadviseerd Bewerken Level: 47</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 450</text><nl/>
+	<text> Voedsel kosten: 28</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Med_Life">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>            Medaillon van Leven</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="22" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je maximum materie punten met 30.</text><nlkx/>
+	<text> +2 Harnas, +2 Nauwkeurigheid, 5% kans om 25 te</text><nlkx/>
+	<text> genezen als je geraakt wordt.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Seridium Baar, 2 Verrijkte Leven Essenties,</text><nl/>
+	<text> 10 Vuur Essenties, 30 Witte Cantharellen.</text><nl/>
+	<text> Kennis vereist: Medaillon van Leven Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 2</text><nl/>
+	<text> Geadviseerd Bewerken Level: 51</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 1000</text><nl/>
+	<text> Voedsel kosten: 28</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Med_Mana">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Medaillon van Mana</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="21" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je maximum etherische punten met 20.</text><nlkx/>
+	<text> +2 Harnas, +2 Nauwkeurigheid.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Seridium Baar, 2 Verrijkte Magie Essenties,</text><nl/>
+	<text> 10 Vuur Essenties, 30 Bilzekruid.</text><nl/>
+	<text> Kennis vereist: Medaillon van Mana Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 2</text><nl/>
+	<text> Geadviseerd Bewerken Level: 72</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 2000</text><nl/>
+	<text> Voedsel kosten: 28</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Med_Gather">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>            Verzamelaar Medaillon</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="22" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Als gedragen, verhoogd het je Harnas met 4 en je</text><nlkx/>
+	<text> Nauwkeurigheid met 4. Als je bij het doden van een</text><nlkx/>
+	<text> tegenstander de meeste schade hebt toegebracht wordt</text><nlkx/>
+	<text> de buit aan je Inventaris toegevoegd.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 10 Maan Medaillons, 1 Seridium Baar, 10 Vuur Essenties,</text><nl/>
+	<text> 30 Bilzekruid.</text><nl/>
+	<text> Kennis vereist: Verzamelaar Medaillon Maken</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 4, Magie 2</text><nl/>
+	<text> Geadviseerd Bewerken Level: 68</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 1200</text><nl/>
+	<text> Voedsel kosten: 28</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="Saving_Stone">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Bewaar Steen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="15" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Als je deze steen bij je draagt tijdens het mixen,</text><nlkx/>
+	<text> verlies je de steen in plaats van de items in het</text><nlkx/>
+	<text> geval van een kritiek falen.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Geraffineerd Vegetatie Mengsel, 1 Mengsel van Kracht,</text><nl/>
+	<text> 2 Verrijkte Magie Essenties.</text><nl/>
+	<text> Kennis vereist: Bewaar Steen</text><nl/>
+	<text> Vereiste Nexus: Kunstmatig 7, Magie 5</text><nl/>
+	<text> Geadviseerd Bewerken Level: 65</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 1000</text><nl/>
+	<text> Voedsel kosten: 60</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="En_Iron_Plate">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>        Verbeterd IJzeren Plaat Torso</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="3" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> 8-10 Harnas, -1 Verdediging, -1 Nauwkeurigheid,</text><nlkx/>
+	<text> -1 Kritiek Raken, -2 Hitte en Kou Bescherming,</text><nlkx/>
+	<text> +1 Straling Bescherming.</text><nlkx/>
+	<text> Vereiste Nexus om te gebruiken: Mens 5</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 IJzeren Plaat Torso, 2 Serpent Stenen, 8 Titanium Baren.</text><nl/>
+	<text> Kennis Vereist: Verbeterd Harnas</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 4, Magie 3</text><nl/>
+	<text> Geadviseerd Bewerken Level: 53</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 1000</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: No</text><nl/>
+	<text> Gewicht: 25 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="En_Iron_Cuisses">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>        Verbeterde IJzeren Beenplaten</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="4" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> 5 Harnas, -1 Hitte en Kou Bescherming,</text><nlkx/>
+	<text> +1 Straling Bescherming.</text><nlkx/>
+	<text> Vereiste Nexus om te gebruiken: Mens 4</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 IJzeren Beenplaten, 1 Serpent Steen, 4 Titanium Baren.</text><nl/>
+	<text> Kennis Vereist: Verbeterd Harnas</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 4, Magie 3</text><nl/>
+	<text> Geadviseerd Bewerken Level: 45</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 600</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: No</text><nl/>
+	<text> Gewicht: 16 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+<Page name="En_Iron_Greaves">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Jewelry" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEWERKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>         Verbeterde IJzeren Laarzen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="5" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> 4 Harnas, -1 Hitte en Kou Bescherming,</text><nlkx/>
+	<text> +2 Straling Bescherming.</text><nlkx/>
+	<text> Vereiste Nexus om te gebruiken: Mens 4</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 IJzeren Laarzen, 1 Serpent Steen, 4 Titanium Baren.</text><nl/>
+	<text> Kennis Vereist: Verbeterd Harnas</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 4, Magie 3</text><nl/>
+	<text> Geadviseerd Bewerken Level: 41</text><nl/>
+	<text> Bewerken Ervaring Gegeven: 500</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 8 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Jewelry" title="Terug Naar Bewerken index"/>
+</Page>
+</Jewelry>

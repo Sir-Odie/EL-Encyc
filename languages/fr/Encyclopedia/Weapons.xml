@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Weapons>
+<Page name="Bone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color>red</color>
+   <text>                    Bone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 1-2 damage, +1 Accuracy</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
+   <nl/>
+   <text> This item cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <text> </text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
+<Page name="Branch">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color>red</color>
+   <text>                   Branch</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 1-2 damage, +1 Accuracy</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
+   <nl/>
+   <text> This item cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <text> </text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
+<Page name="W_LGloves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Leather Gloves</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 1 damage, +1 Armor.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 4 Leather, 4 Thread</text>
+   <nl/>
+   <text> Tools required to have: Needle</text>
+   <nl/>
+   <text> Required Nexuses: None</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 8</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 40</text>
+   <nl/>
+   <text> Food subtracted: 5</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
+<Page name="W_Pickaxe">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color>red</color>
+   <text>                   Pickaxe</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 5-15 damage, -5 Defense, -5 Accuracy,</text>
+   <nlkx/>
+   <text> -5 Critical to hit, +1 Critical to damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
+   <nl/>
+   <nl/>
+   <text> Used mainly for mining.</text>
+   <nl/>
+   <nl/>
+   <text> This item cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <text> </text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 5 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
+<Page name="W Battle Hammer">
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text>       L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                    ARMES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Marteau de Guerre en Bois</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflige 2-20 dégats, -3 en défense, -2 en précision,</text>
+   <nlkx/>
+   <text> -5 aux coups critiques, -5 aux dégats critiques.</text>
+   <nlkx/>
+   <text> Nexus requis pour utilisation: Humain 1</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Cet objet ne peut pas être fabriqué.</text><nl/>
+   <nl/><nl/>
+   <text> Poids: 8 EMU</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Weapons" title="Retour aux armes et armures"/>
+</Page>
+<Page name="I War Hammer">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>       L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                    ARMES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Marteau de Guerre en Fer</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflige 10-28 dégats, -5 en défense, -6 en précision,</text>
+   <nlkx/>
+   <text> -8 aux coups et dégats critiques.</text>
+   <nlkx/>
+   <text> Nexus requis pour utilisation: Humain 2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
+   <nl/>
+   <text> Cet objet ne peut pas être fabriqué.</text><nl/>
+   <text> </text><nl/>
+   <text> </text><nl/>
+   <text> Poids: 6 EMU </text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Weapons" title="Retour aux armes et armures"/>
+</Page>
+<Page name="W Staff">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>       L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                    ARMES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Baguette de Bois</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflige 2-10 dégats, +3 en défense, +4 en précision,</text>
+   <nlkx/>
+   <text> +3 aux coups critiques, -5 aux dégats critiques.</text>
+   <nlkx/>
+   <text> Nexus requis pour utilisation: Humain 1</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> </text><nl/>
+   <text> Cet objet ne peut pas être fabriqué.</text><nl/>
+   <text> </text><nl/>
+   <text> </text><nl/>
+   <text> Poids: 6 EMU</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Weapons" title="Retour aux armes et armures"/>
+</Page>
+<Page name="Q Staff">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>       L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                    ARMES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Quarter Staff</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflige 6-15 dégats, +4 en défense, +6 en précision,</text>
+   <nlkx/>
+   <text> +5 aux coups critiques, -4 aux dégats critiques.</text>
+   <nlkx/>
+   <text> Nexus requis pour utilisation: Humain 2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> </text><nl/>
+   <text> Cet objet ne peut pas être fabriqué.</text><nl/>
+   <text> </text><nl/>
+   <text> </text><nl/>
+   <text> Poids: 6 EMU</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Weapons" title="Retour aux armes et armures"/>
+</Page>
+<Page name="Iron Sword">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>       L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                    ARMES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Epée de Fer</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflige 5-8 dégats, +1 en défense, +1 en précision.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Nexus requis pour utilisation: Humain 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Objets nécessaires à la fabrication:</text><nl/>
+   <text> 10 Lingots de Fer, 1 Lingot d'Acier, 2 Essences de Feu</text><nl/>
+   <text> Outils requis: Marteau</text><nl/>
+   <text> Connaissance requise: Epée de Fer</text><nl/>
+   <text> Nexus requis: Artificiel: 2</text><nl/>
+   <text> Talents recommandés: Fabrication: 20</text><nl/>
+   <text> Expérience gagnée: Fabrication: 100</text><nl/>
+   <text> Nourriture consommée: 11</text><nl/>
+   <text> Poids: 7 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Weapons" title="Retour aux armes et armures"/>
+</Page>
+<Page name="Iron Broad Sword">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>       L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                    ARMES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Epée Large de Fer</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflige 7-10 dégats.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Nexus requis pour utilisation: Humain 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Objets nécessaires à la fabrication:</text>
+   <nl/>
+   <text> 12 Lingots de Fer, 2 Lingots d'Acier, 3 Essences de Feu</text><nl/>
+   <text> Outils requis: Marteau</text><nl/>
+   <text> Connaissance requise: Epée Large de Fer</text><nl/>
+   <text> Nexus requis: Artificiel: 2</text><nl/>
+   <text> Talents recommandés: Fabrication: 22</text><nl/>
+   <text> Expérience gagnée: Fabrication: 110</text><nl/>
+   <text> Nourriture consommée: 12</text><nl/>
+   <text> Poids: 7 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Weapons" title="Retour aux armes et armures"/>
+</Page>
+<Page name="Steel Long Sword">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>       L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                    ARMES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Epée Longue d'Acier</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflige 9-11 dégats, +2 en défense, +1 en précision,</text>
+   <nlkx/>
+   <text> +1 aux coups critiques.</text>
+   <nlkx/>
+   <text> Nexus requis pour utilisation: Humain 1</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Objets nécessaires à la fabrication:</text><nl/>
+   <text> 2 Lingots de Fer, 12 Lingots d'Acier, 4 Essences de Feu</text><nl/>
+   <text> Outils requis: Marteau</text><nl/>
+   <text> Connaissance requise: Epée Longue d'Acier</text><nl/>
+   <text> Nexus requis: Artificiel: 3</text><nl/>
+   <text> Talents recommandés: Fabrication: 24</text><nl/>
+   <text> Expérience gagnée: Fabrication: 120</text><nl/>
+   <text> Nourriture consommée: 13</text><nl/>
+   <text> Poids: 6 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Weapons" title="Retour aux armes et armures"/>
+</Page>
+<Page name="2e Steel Sword">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>       L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                    ARMES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Epée Double d'Acier</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflige 10-14 dégats, +1 en défense, +2 en précision,</text>
+   <nlkx/>
+   <text> +1 aux coups critiques, +2 aux dégats critiques.</text>
+   <nlkx/>
+   <text> Nexus requis pour utilisation: Humain 2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Objets nécessaires à la fabrication:</text><nl/>
+   <text> 2 Lingots de Fer, 16 Lingots d'Acier, 4 Essences de Feu</text><nl/>
+   <text> Outils requis: Marteau</text><nl/>
+   <text> Connaissance requise: Epée Double d'Acier</text><nl/>
+   <text> Nexus requis: Artificiel: 3</text><nl/>
+   <text> Talents recommandés: Fabrication: 28</text><nl/>
+   <text> Expérience gagnée: Fabrication: 140</text><nl/>
+   <text> Nourriture consommée: 15</text><nl/>
+   <text> Poids: 7 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Weapons" title="Retour aux armes et armures"/>
+</Page>
+<Page name="Tit Steel Short Sword">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>       L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                    ARMES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Epée Courte en Titane</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflige 10-14 dégats, +2 en défense, +2 en précision,</text>
+   <nlkx/>
+   <text> +1 aux coups critiques, +3 aux dégats critiques.</text>
+   <nlkx/>
+   <text> Nexus requis pour utilisation: Humain 3</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Objets nécessaires à la fabrication:</text><nl/>
+   <text> 6 Lingots de Titane, 6 Lingots d'Acier, 5 Essences de Feu</text><nl/>
+   <text> Outils requis: Marteau</text><nl/>
+   <text> Connaissance requise: Epée Courte en Titane</text><nl/>
+   <text> Nexus requis: Artificiel: 3</text><nl/>
+   <text> Talents recommandés: Fabrication: 32</text><nl/>
+   <text> Expérience gagnée: Fabrication: 160</text><nl/>
+   <text> Nourriture consommée: 17</text><nl/>
+   <text> Poids: 4 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Weapons" title="Retour aux armes et armures"/>
+</Page>
+<Page name="Tit Steel Long Sword">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>       L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                    ARMES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Epée Longue en Titane</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflige 12-20 dégats, +3 en défense +3 en précision,</text>
+   <nlkx/>
+   <text> +2 aux coups critiques, +4 aux dégats critiques.</text>
+   <nlkx/>
+   <text> Nexus requis pour utilisation: Humain 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Objets nécessaires à la fabrication:</text><nl/>
+   <text> 8 Lingots de Titane, 8 Lingots d'Acier, 6 Essences de Feu,</text><nl/>
+   <text> 1 Essence de Feu Enrichie.</text><nl/>
+   <text> Outils requis: Marteau</text><nl/>
+   <text> Connaissance requise: Epée Longue en Titane</text><nl/>
+   <text> Nexus requis: Artificiel: 5</text><nl/>
+   <text> Talents recommandés: Fabrication: 34</text><nl/>
+   <text> Expérience gagnée: Fabrication: 180</text><nl/>
+   <text> Nourriture consommée: 18</text><nl/>
+   <text> Poids: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Weapons" title="Retour aux armes et armures"/>
+</Page>
+<Page name="Tit Steel Serpent Sword">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>       L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                    ARMES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Epée Serpent en Titane</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflige 15-25 dégats, +4 en défense, +4 en précision,</text>
+   <nlkx/>
+   <text> +5 aux coups critiques, +6 aux dégats critiques.</text>
+   <nlkx/>
+   <text> Nexus requis pour utilisation: Humain 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Objets nécessaires à la fabrication:</text><nl/>
+   <text> 12 Lingots de Titane, 2 Lingots d'Acier, 1 Pierre à Serpent,</text><nl/>
+   <text> 7 Essences de Feu, 1 Essence de Feu Enrichie.</text><nl/>
+   <text> Outils requis: Marteau</text><nl/>
+   <text> Connaissance requise: Epée Serpent en Titane</text><nl/>
+   <text> Nexus requis: Artificiel: 5</text><nl/>
+   <text> Talents recommandés: Fabrication: 38</text><nl/>
+   <text> Expérience gagnée: Fabrication: 300</text><nl/>
+   <text> Nourriture consommée: 20</text><nl/>
+   <text> Poids: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Weapons" title="Retour aux armes et armures"/>
+</Page>
+<Page name="Iron Axe">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>       L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                    ARMES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Hache de Fer</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> -1 en défense, +4 aux dégats critiques</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Nexus requis pour utilisation: Humain 3</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Objets nécessaires à la fabrication:</text><nl/>
+   <text> 1 Manche de Bois, 10 Lingots de Fer, 13 Essences de Feu,</text><nl/>
+   <text> 16 Essences d'Eau, 9 Essences d'Air</text><nl/>
+   <text> Outils requis: Marteau</text><nl/>
+   <text> Connaissance requise: Hache de Fer</text><nl/>
+   <text> Nexus requis: Artificiel: 5</text><nl/>
+   <text> Talents recommandés: Fabrication: 40</text><nl/>
+   <text> Expérience gagnée: Fabrication: 200</text><nl/>
+   <text> Nourriture consommée: 30</text><nl/>
+   <text> Poids: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Weapons" title="Retour aux armes et armures"/>
+</Page>
+<Page name="Steel Axe">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>       L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                    ARMES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Hache d'Acier</text><nl/><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> -1 en défense, +6 aux dégats critiques</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Nexus requis pour utilisation: Humain 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Objets nécessaires à la fabrication:</text>
+   <nl/>
+   <text> 1 Manche de Boid, 12 Lingots d'Acier, 18 Essences de Feu,</text><nl/>
+   <text> 23 Essences d'Eau, 11 Essences d'Air</text><nl/>
+   <text> Outils requis: Marteau</text><nl/>
+   <text> Connaissance requise: Hache d'Acier</text><nl/>
+   <text> Nexus requis: Artificiel: 6</text><nl/>
+   <text> Talents recommandés: Fabrication: 45</text><nl/>
+   <text> Expérience gagnée: Fabrication: 240</text><nl/>
+   <text> Nourriture consommée: 35</text><nl/>
+   <text> Poids: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Weapons" title="Retour aux armes et armures"/>
+</Page>
+<Page name="Titanium Axe">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>       L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                    ARMES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Hache de Titane</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> -1 en défense, +8 aux dégats critiques</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Nexus requis pour utilisation: Humain 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Objets nécessaires à la fabrication:</text><nl/>
+   <text> 1 Manche de Bois, 12 Lingots de Titane, 1 Essence de Feu</text><nl/>
+   <text> Enrichie, 4 Pierres à Serpent, 1 Essence d'Eau Enrichie,</text><nl/>
+   <text> 20 Essences d'Air.</text><nl/>
+   <text> Outils requis: Marteau</text><nl/>
+   <text> Connaissance requise: Hache de Titane</text><nl/>
+   <text> Nexus requis: Artificiel: 6</text><nl/>
+   <text> Talents recommandés: Fabrication: 49</text><nl/>
+   <text> Expérience gagnée: Fabrication: 300</text><nl/>
+   <text> Nourriture consommée: 39</text><nl/>
+   <text> Poids: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Weapons" title="Retour aux armes et armures"/>
+</Page>
+<Page name="Emerald Claymore">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color>red</color>
+   <text>               Emerald Claymore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 27 damage, +2 Defense, +7 Accuracy,</text>
+   <nlkx/>
+   <text> +6 Critical to hit, +4 Critical to damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Wolfram Bars, 1 Binding Stone, 3 Titanium Bars,</text><nl/>
+   <text> 1 Polished Emerald, 20 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Emerald Claymore</text>
+   <nl/>
+   <text> Required Nexuses: Artificial: 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 40</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 600</text>
+   <nl/>
+   <text> Food subtracted: 40</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 20 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
+<Page name="Cutlass">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color>red</color>
+   <text>                   Cutlass</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 22-24 damage, +2 Defense, +15 Accuracy,</text>
+   <nlkx/>
+   <text> +6 Critical to hit, +5 Critical to damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Wolfram Bars, 1 Binding Stone, 2 Titanium Bars,</text><nl/>
+   <text> 1 Steel Bar, 30 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Cutlass</text>
+   <nl/>
+   <text> Required Nexuses: Artificial: 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 42</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 800</text>
+   <nl/>
+   <text> Food subtracted: 42</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 23 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
+<Page name="Sunbreaker">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color>red</color>
+   <text>                  Sunbreaker</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 18-20 damage, +2 Accuracy,</text>
+   <nlkx/>
+   <text> +1 Critical to hit, +15 Critical to damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Wolfram Bars, 1 Binding Stone, 2 Titanium Bars,</text><nl/>
+   <text> 1 Steel Bar, 25 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Sunbreaker</text>
+   <nl/>
+   <text> Required Nexuses: Artificial: 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 44</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 1000</text>
+   <nl/>
+   <text> Food subtracted: 44</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 25 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
+<Page name="Orc Slayer">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color>red</color>
+   <text>                  Orc Slayer</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 35-40 damage, +1 Defense,</text>
+   <nlkx/>
+   <text> +1 Critical to hit, +1 Critical to damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Wolfram Bars, 1 Binding Stone, 4 Titanium Bars,</text><nl/>
+   <text> 1 Steel Bar, 25 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Orc Slayer</text>
+   <nl/>
+   <text> Required Nexuses: Artificial: 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 46</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 1200</text>
+   <nl/>
+   <text> Food subtracted: 46</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 30 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
+<Page name="Eagle Wing">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color>red</color>
+   <text>                  Eagle Wing</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 10-35 damage, +6 Defense, +5 Accuracy</text>
+   <nlkx/>
+   <text> +5 Critical to hit, +5 Critical to damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Wolfram Bars, 1 Binding Stone, 3 Titanium Bars,</text><nl/>
+   <text> 1 Steel Bar, 18 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Eagle Wing</text>
+   <nl/>
+   <text> Required Nexuses: Artificial: 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 48</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 1400</text>
+   <nl/>
+   <text> Food subtracted: 46</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 25 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
+<Page name="Rapier">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color>red</color>
+   <text>                   Rapier</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 20-25 damage, +2 Defense, +5 Accuracy</text>
+   <nlkx/>
+   <text> +17 Critical to hit, +5 Critical to damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Wolfram Bars, 1 Binding Stone, 1 Titanium Bar,</text><nl/>
+   <text> 1 Steel Bar, 18 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Rapier</text>
+   <nl/>
+   <text> Required Nexuses: Artificial: 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 50</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 1600</text>
+   <nl/>
+   <text> Food subtracted: 46</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 20 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
+<Page name="Jagged Saber">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color>red</color>
+   <text>                 Jagged Saber</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 30 damage, +10 Accuracy</text>
+   <nlkx/>
+   <text> +2 Critical to hit, +1 Critical to damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Wolfram Bars, 1 Binding Stone, 1 Titanium Bar,</text><nl/>
+   <text> 1 Steel Bar, 10 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Jagged Saber</text>
+   <nl/>
+   <text> Required Nexuses: Artificial: 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 52</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 1800</text>
+   <nl/>
+   <text> Food subtracted: 46</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 20 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
+<Page name="Bronze Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color>red</color>
+   <text>                Bronze Sword</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 50-70 damage, +5 Accuracy</text>
+   <nlkx/>
+   <text> +5 Critical to hit, +6 Critical to damage,</text>
+   <nlkx/>
+   <text> very easy to break.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Bronze Bar, 1 Enriched Fire Essence,</text>
+   <nl/>
+   <text> 1 Enriched Death Essence.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Bronze Sword</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 78</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 4500</text>
+   <nl/>
+   <text> Food subtracted: 40</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 30 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
+<Page name="Dragon Blade">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color>red</color>
+   <text>                Dragon Blade</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 25-35 damage, +3 Accuracy,</text>
+   <nlkx/>
+   <text> +3 Critical to hit, +3 Critical to damage,</text>
+   <nlkx/>
+   <text> 2% chance to do mana burn,</text>
+   <nlkx/>
+   <text> Increases maximum material/ethereal points by 20.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Red Dragon Scale, 1 Black Dragon Scale, 2 Wolfram Bars,</text>
+   <nl/>
+   <text> 2 Enriched Magic Essences, 2 Enriched Fire Essences.</text>
+   <nl/>
+   <text> 2 Enriched Life Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Dragon Blade Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 75</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 4000</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 15 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
+<Page name="Golden Star Mace">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color>red</color>
+   <text>              Golden Star Mace</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 10-20 damage, +2 Accuracy,</text>
+   <nlkx/>
+   <text> +5 Critical to hit, +5 Critical to damage.</text>
+   <nlkx/>
+   <text> 0.3% chance to degrade an item</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human ???</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> UNKNOWN.</text>
+   <nl/>
+   <text> Tools required to have: UNKNOWN</text>
+   <nl/>
+   <text> Knowledge needed: UNKNOWN</text>
+   <nl/>
+   <text> Required Nexuses: Artificial UNKNOWN</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: UNKNOWN</text>
+   <nl/>
+   <text> Manufacturing Experience Given: UNKNOWN</text>
+   <nl/>
+   <text> Food subtracted: UNKNOWN</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 8 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
+<Page name="Spear">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color>red</color>
+   <text>                    Spear</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 5-65 damage, -3 Defense, -1 Accuracy,</text>
+   <nlkx/>
+   <text> -5 Critical to hit, -5 Critical to damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Wolfram Bars, 2 Serpent Stones, 2 Titanium Bars,</text>
+   <nl/>
+   <text> 1 Steel Bar, 1 Wooden Staff, 30 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Spear Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 42</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 900</text>
+   <nl/>
+   <text> Food subtracted: 42</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
+<Page name="Halberd">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color>red</color>
+   <text>                   Halberd</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 40-55 damage, -2 Accuracy.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 4 Serpent Stones, 2 Wolfram Bars, 5 Titanium Bars,</text><nl/>
+   <text> 5 Steel Bars, 20 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Halberd Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 66</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 4200</text>
+   <nl/>
+   <text> Food subtracted: 42</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
+<Page name="Frying Pan">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color>red</color>
+   <text>                 Frying Pan</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 15-20 damage, +4 Critical to hit,</text>
+   <nlkx/>
+   <text> +4 Critical to damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 10 Iron Bars, 5 Steel Bars, 10 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Frying Pan Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 3</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 27</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 150</text>
+   <nl/>
+   <text> Food subtracted: 16</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 14</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
+</Weapons>

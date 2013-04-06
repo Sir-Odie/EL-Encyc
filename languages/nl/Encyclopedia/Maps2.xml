@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Maps2>
+<Page name="Maps2_PA">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Port Anitora (PA)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="3" name="3dobjects/banners4.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Anitora is een bloeiende markt tussen Irilion en</text><nlkx/>
+	<text> Seridia. Oorspronkelijk was het niets meer dan een</text><nlkx/>
+	<text> duin in de zee, maar toen Sarma het tegenkwam met</text><nlkx/>
+	<text> zijn magische drakenschip kwamen abassadeurs van</text><nl/>
+	<text> heel Irilion om hun stempel te drukken op dit</text><nl/>
+	<text> historische herkenningspunt.</text><nl/>
+	<nl/>
+	<text> Tegenwoordig vind je allerlei verkopers op het eiland.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Nee</text><nl/>
+	<nl/>
+	<text> Rassen: Geen specifiek ras</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: </text><text>Idaloran (boot)</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_Ida">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Idaloran (Ida)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="2" name="3dobjects/banners4.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Idaloran is niet alleen een van de grootste</text><nlkx/>
+	<text> kaarten van Irilion, maar ook het thuisgebied van</text><nlkx/>
+	<text> Keizerin Hyanithe IX, heerser van het Idal Rijk.</text><nlkx/>
+	<nl/>
+	<text> Het bevat een drukke haven en stad, een aantal</text><nl/>
+	<text> plantages in het zuiden, een complex mijnensysteem en een</text><nl/>
+	<text> behekst bos in het noorden.</text><nl/>
+	<nl/>
+	<text> De begraafplaats heeft een magische verbinding met de</text><nl/>
+	<text> onderwereld waardoor verloren zielen daar terug kunnen</text><nl/>
+	<text> keren naar onze wereld.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Er zijn menselijke kampen te vinden op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Port Anitora (boot)</text><nl/>
+	<text>                    Irinveron (boot)</text><nl/>
+	<text>                    Melinis (boot)</text><nl/>
+	<text>                    North Redmoon (boot)</text><nl/>
+	<text>                    Irsis</text><nl/>
+	<text>                    Emerald Valley Trade Route</text><nl/>
+	<text>                    Kusamura Jungle</text><nl/>
+	<text>                    Palon Vertas</text><nl/>
+	<text>                    Bethel</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_BE">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Bethel</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="1" name="3dobjects/banners8.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Bethel was ooit een grootse stad, maar toen</text><nlkx/>
+	<text> ondode krijgers het aanvielen tijdens de Grote</text><nlkx/>
+	<text> Oorlog werd de stad Betha veranderd in een ruïne.</text><nlkx/>
+	<nl/>
+	<text> De kaart wordt nog steeds bewoond, ook al is de</text><nl/>
+	<text> stad verdwenen. Velen leven in een serie grotten in het</text><nl/>
+	<text> noordoosten, ook leven een aantal inwoners in tenten en</text><nl/>
+	<text> wagons verspreid over de kaart.</text><nl/>
+	<nl/>
+	<text> Hier wonen veel gevaarlijke beesten zoals de Woestijn</text><nl/>
+	<text> Chimeran.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Voornamelijk mensen, maar andere rassen hebben</text><nl/>
+	<text>         hier ook kampen.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Idaloran</text><nl/>
+	<text>                    Palon Vertas</text><nl/>
+	<text>                    Sedicolis</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_Sed">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Sedicolis</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="2" name="3dobjects/banners8.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Sedicolis lijkt misschien klein, maar schijn</text><nlkx/>
+	<text> bedriegt. Als je de weg naar de Grot van de </text><nlkx/>
+	<text> Barmhartige Tranen vind kun je de ware aard van</text><nlkx/>
+	<text> Sedicolis ontdekken.</text><nl/>
+	<nl/>
+	<text> Bovengronds kun je de enige magie winkel in het noorden</text><nl/>
+	<text> van Irilion vinden die essenties verkoopt.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Er zijn menselijke kampen te vinden op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Bethel</text><nl/>
+	<text>                    Palon Vertas</text><nl/>
+	<text>                    Melinis</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_ME">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Melinis</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="1" name="3dobjects/banners9.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Melinis is een havenstad met een lastig probleem.</text><nlkx/>
+	<text> Een slechte magiër betoverde de regio waardoor er</text><nlkx/>
+	<text> geen planten kunnen groeien en alle</text><nlkx/>
+	<text> voedingsstoffen opgenomen worden door de ruim</text><nl/>
+	<text> aanwezige kristallen. Slechts in een paar gebieden</text><nl/>
+	<text> en met speciale magie is het mogelijk om vegetatie</text><nl/>
+	<text> te laten groeien.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Nee, maar er is een arena.</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Er zijn menselijke kampen te vinden op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Idaloran (boot)</text><nl/>
+	<text>                    Hurquin (boot)</text><nl/>
+	<text>                    Sedicolis</text><nl/>
+	<text>                    Thelinor (grot)</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_PV">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Palon Vertas (PV)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="0" name="3dobjects/banners7.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Palon Vertas bevindt zich in het centrum van het</text><nlkx/>
+	<text> vasteland van Irilion en kan vanuit veel gebieden</text><nlkx/>
+	<text> bereikt worden. Het is rijk aan flora en fauna en</text><nlkx/>
+	<text> bevat Irilions' grootste Magie school.</text><nl/>
+	<nl/>
+	<text> Het gebied bevat veel grotten en een verborgen ondergronds</text><nl/>
+	<text> systeem van tunnels waarmee je naar verschillende kaarten</text><nl/>
+	<text> kunt vluchten. Salingen heeft de Adventurers' Post en een</text><nl/>
+	<text> populaire Voorraad. In Treesoar Village valt weinig te</text><nl/>
+	<text> beleven, maar soms worden er vreemde oorlogsgeluiden</text><nl/>
+	<text> gehoord. Het is onbekend wat de bron is van die geluiden.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Nee</text><nl/>
+	<nl/>
+	<text> Rassen: Er zijn menselijke kampen te vinden op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Sedicolis</text><nl/>
+	<text>                    Bethel</text><nl/>
+	<text>                    Idaloran</text><nl/>
+	<text>                    Kusamura Jungle</text><nl/>
+	<text>                    Zirakinbar</text><nl/>
+	<text>                    Thelinor</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_EVTR">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>      Emerald Valley Trade Route (EVTR)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="1" name="3dobjects/banners7.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Emerald Valley is een belangrijke handelsroute</text><nlkx/>
+	<text> van Irilion. Veel reizigers rusten en handelen</text><nlkx/>
+	<text> hier met anderen. Er is een oude mijn, die naar</text><nlkx/>
+	<text> verluid de rijkdommen van de vallei bevat.</text><nl/>
+	<nl/>
+	<text> In het zuidoosten liggen de Barrenlands of Sorrow.</text><nl/>
+	<text> Verschillende monsters leven in dit gebied en reizigers</text><nl/>
+	<text> worden geadviseerd heel voorzichtig te zijn bij het</text><nl/>
+	<text> bezoeken van de grotten.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Nee</text><nl/>
+	<nl/>
+	<text> Rassen: Geen specifiek ras</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Idaloran</text><nl/>
+	<text>                    Irsis</text><nl/>
+	<text>                    Willowvine Forest</text><nl/>
+	<text>                    Kusamura Jungle</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_Kus">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Kusamura Jungle</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="0" name="3dobjects/banners8.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Kusamura is een dichte jungle. Het bevatte ooit</text><nlkx/>
+	<text> een dorp, maar het merendeel daarvan is in de</text><nlkx/>
+	<text> grond weggezakt, waardoor nog maar enkele huizen</text><nlkx/>
+	<text> zichtbaar zijn.</text><nl/>
+	<nl/>
+	<text> Bezoekers hebben melding gemaakt van een oude tempel waar</text><nl/>
+	<text> alleen personen met een sterke wil zullen overleven.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Nee, maar er is een arena.</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Geen specifiek ras</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Idaloran</text><nlkx/>
+	<text>                    Emerald Valley Trade Route</text><nlkx/>
+	<text>                    Aeth Aelfan</text><nlkx/>
+	<text>                    Zirakinbar</text><nlkx/>
+	<text>                    Willowvine Forest (grot)</text><nlkx/>
+	<text>                    Palon Vertas</text><nlkx/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_Zir">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Zirakinbar</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="0" name="3dobjects/banners9.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Zirakinbar is druk bevolkt, zowel boven- als</text><nlkx/>
+	<text> ondergronds. De ingang naar Zirakgunda vind je in</text><nlkx/>
+	<text> de verstevigde dwergenstad.</text><nlkx/>
+	<nl/>
+	<text> Smidshaarden zijn hier eenvoudig te vinden. Wees</text><nl/>
+	<text> voorzichtig bij de crypte en het kasteel, daar schuilt</text><nl/>
+	<text> achter elke hoek gevaar.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Nee, maar er is een arena.</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Nee</text><nl/>
+	<nl/>
+	<text> Rassen: Er zijn dwerg kampen te vinden op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Palon Vertas</text><nl/>
+	<text>                    Kusamura Jungle</text><nl/>
+	<text>                    Egratia Point</text><nl/>
+	<text>                    Aeth Aelfan (boot)</text><nl/>
+	<text>                    Irsis (boot)</text><nl/>
+	<text>                    South Redmoon (boot)</text><nl/>
+	<text>                    Thelinor</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_AA">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Aeth Aelfan (AA)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="3" name="3dobjects/banners9.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Aeth Aelfan is het vaderland van de elven in</text><nlkx/>
+	<text> Irilion. Het fort houdt het zuidelijke deel, de</text><nlkx/>
+	<text> stad en de haven veilig voor reizigers. Reuzen,</text><nlkx/>
+	<text> een van de gevaarlijkste monsters, leven in het</text><nl/>
+	<text> noorden.</text><nl/>
+	<nl/>	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: Noordwestelijke gebied</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Dit is het vaderland van de elven.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Kusamura Jungle</text><nl/>
+	<text>                    Willowvine Forest</text><nl/>
+	<text>                    Glacmor (boot)</text><nl/>
+	<text>                    Zirakinbar (boot)</text><nl/>
+	<text>                    Egratia Point</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_EP">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Egratia Point (EP)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="2" name="3dobjects/banners6.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Egratia Point is een klein geïsoleerd gebied</text><nlkx/>
+	<text> gevuld met beesten.</text><nlkx/>
+	<text> </text><nlkx/>
+	<text> Een van de drie magie scholen van Irilion is hier</text><nl/>
+	<text> te vinden, waarvan men zegt dat het beheerd wordt</text><nl/>
+	<text> door een of andere sekte.</text><nl/>
+	<nl/>
+	<text> Er is ook een arena voor krijgers die hun krachten met</text><nl/>
+	<text> elkaar willen meten.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Nee, maar er is een arena.</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Geen specifiek ras</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Iscalrith (boot)</text><nl/>
+	<text>                    Aeth Aelfan</text><nl/>
+	<text>                    Zirakinbar</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_AR">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Arius</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="2" name="3dobjects/banners9.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Arius is de geboorteplaats van uitvindingen en</text><nlkx/>
+	<text> bevat een van de vele gnoom kolonies in Irilion.</text><nlkx/>
+	<text> </text><nlkx/>
+	<text> De op een na grootste magie school van Irilion</text><nl/>
+	<text> bevind zich hier, die ironisch genoeg beheerd wordt door</text><nl/>
+	<text> een orchan, Grootmeester Nerala.</text><nl/>
+	<nl/>
+	<text> Als je op het eiland rondloopt zie je de vele creaties en</text><nl/>
+	<text> uitvindingen die de wetenschappers hebben gedaan.</text><nl/>
+	<nl/>
+	<text> De Limestone Berg is de enige plek waar een goede</text><nl/>
+	<text> voorraad gips te vinden is.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Nee</text><nl/>
+	<nl/>
+	<text> Rassen: Gnomen wonen op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Irinveron (boot)</text><nl/>
+	<text>                    Irsis (boot)</text><nl/>
+	<text>                    Willowvine Forest (vliegende boot)</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_SRM">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>            South Redmoon (SRM)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="2" name="3dobjects/banners7.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> South Redmoon is een van de drukste kaarten van </text><nlkx/>
+	<text> Irilion. Er wordt veel gereisd tussen de voorraad</text><nlkx/>
+	<text> en de mijn, het is een goede plek voor ijzer en</text><nlkx/>
+	<text> andere metalen.</text><nl/>
+	<nl/>
+	<text> Het is rijk aan flora en fauna. De grot bevat een ingang</text><nl/>
+	<text> naar de mijn, een gezondheidscentrum en een pad naar</text><nl/>
+	<text> Mount Sorrow, wat een bevroren deel van de berg is en</text><nl/>
+	<text> waar maar weinig personen naartoe proberen te gaan.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Er zijn orchan kampen te vinden op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Hurquin (boot)</text><nl/>
+	<text>                    Zirakinbar (boot)</text><nl/>
+	<text>                    North Redmoon</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_HUR">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Hurquin</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="3" name="3dobjects/banners6.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Hurquin is een Gnomen eiland. Het is veel kleiner</text><nlkx/>
+	<text> dan Arius en er zijn geen uitvindingen te zien.</text><nlkx/>
+	<text> </text><nlkx/>
+	<text> De meest interessante plek is de grot. Als je</text><nl/>
+	<text> voorbij de hobgoblins weet te komen kun je de Tempel van</text><nl/>
+	<text> Kennis vinden, een bekende plek voor onderzoekers uit</text><nl/>
+	<text> heel het land. Misschien vind je ook de crypte, die</text><nl/>
+	<text> geheimen bevat... en gevaar.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Gnomen wonen op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Melinis (boot)</text><nl/>
+	<text>                    South Redmoon (boot)</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_TR">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Trassian</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="2" name="3dobjects/banners5.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Trassian is het hoofdgebied van de Draegoni, met</text><nlkx/>
+	<text> de stad Dra Syn.</text><nlkx/>
+	<text> </text><nlkx/>
+	<text> De stad zelf is afgesloten voor reizigers, maar er</text><nl/>
+	<text> zijn enkele geheime ingangen bekend. Als je de weg naar</text><nl/>
+	<text> Dra Syn gevonden hebt kun je nog verdwalen in het immense</text><nl/>
+	<text> grottencomplex, waarvan een deel bekend staat als</text><nl/>
+	<text> Deepstone Caverns</text><nl/>
+	<nl/>
+	<text> Let op: Yeti's staan erom bekend de grotten te verlaten</text><nl/>
+	<text> en door Dra Syn te dwalen.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: In grotten.</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Draegoni wonen op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Glacmor</text><nl/>
+	<text>                    Iscalrith (grot)</text><nl/>
+	<text>                    Hulda</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_HU">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="0" b="0"/>
+	<text>                   Hulda</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="0" name="3dobjects/banners6.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Hulda is een kale ijsvlakte. De dood is het</text><nlkx/>
+	<text> belangrijkste element van deze kaart.</text><nlkx/>
+	<text> </text><nlkx/>
+	<text> Krijgers vechten met elkaar en met de sterke</text><nl/>
+	<text> monsters die dit kleine gebied thuis noemen.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Ja</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Geen specifiek ras</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Iscalrith</text><nl/>
+	<text>                    Trassian</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_IOTF">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>        Isles of the Forgotten (IotF)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="3" name="3dobjects/banners8.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Isles of the Forgotten lijkt op geen enkele</text><nlkx/>
+	<text> andere plek. Alle gebouwen en planten op dit</text><nlkx/>
+	<text> eiland lijken te verdwijnen en waarom dat gebeurt</text><nlkx/>
+	<text> is nog altijd onbekend.</text><nl/>
+	<nl/>
+	<text> Volgens de geruchten is er een vloek uitgesproken over</text><nl/>
+	<text> deze eilanden en heeft een inwoner, Dryx, een manier</text><nl/>
+	<text> gevonden om ze te redden maar niet om de gedane schade</text><nl/>
+	<text> terug te draaien. Om Dryx te eren is een tempel gebouwd.</text><nl/>
+	<text> De eilanden bevatten veel geheimen die er op wachten om</text><nl/>
+	<text> ontdekt te worden.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Nee</text><nl/>
+	<nl/>
+	<text> Rassen: Geen specifiek ras</text><nlkx/>
+	<nl/>
+	<text> Verbonden kaarten: Iscalrith (teleporteerder)</text><nl/>
+	<text>                    Imbroglio Islands (teleporteerder)</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_II">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="0" b="0"/>
+	<text>             Imbroglio Islands</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="1" name="3dobjects/banners6.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Imbroglio is een keten van eilanden verbonden door</text><nlkx/>
+	<text> onderwater grotten.</text><nlkx/>
+	<text> </text><nlkx/>
+	<text> Omdat het eigenlijk een gigantisch doolhof is, is</text><nl/>
+	<text> het erg makkelijk om te verdwalen. Krijgers en sterke</text><nl/>
+	<text> monsters lopen buiten in de hoop je te doden. Maar als het</text><nl/>
+	<text> je gelukt is om voorbij Oblivion te komen kan een zeldzame</text><nl/>
+	<text> grondstof gevonden worden.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Ja</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Geen specifiek ras</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Iscalrith (boot)</text><nl/>
+	<text>                    Isles of the Forgotten (teleporteerder)</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_IR">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Irinveron</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="0" name="3dobjects/banners5.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Irinveron is een grote besneeuwde woestenij met</text><nlkx/>
+	<text> weinig grondstoffen. De Daa Gri grotten worden</text><nlkx/>
+	<text> bewoond door Draegoni, maar ook yeti's als je de</text><nlkx/>
+	<text> verkeerde grot inloopt.</text><nl/>
+	<nl/>
+	<text> Chary beheerd de voorraad bij Fisher's Point, wat niet</text><nl/>
+	<text> ver weg is van een Produceren School. Het dorp Candolis</text><nl/>
+	<text> is een mensen dorp en een goede plek voor Kleermaken</text><nl/>
+	<text> grondstoffen in Irilion.</text><nl/>
+	<nl/>
+	<text> Er gaan geruchten van een verloren tempel voor het</text><nl/>
+	<text> aanbidden van een oeroude god, maar daar is nog geen</text><nl/>
+	<text> bewijs voor gevonden.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: In grot</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Er zijn menselijke kampen te vinden in Candolis</text><nl/>
+	<text>         en Fisher's Point. Draegoni wonen in de grotten.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Idaloran (boot)</text><nl/>
+	<text>                    Iscalrith (boot)</text><nl/>
+	<text>                    Arius (boot)</text><nl/>
+	<text>                    Glacmor</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_IS">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Iscalrith</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="1" name="3dobjects/banners5.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Iscalrith is een besneeuwde kaart ten oosten van</text><nlkx/>
+	<text> ijzige gebieden. Het kleine dorpje Meel's Port bevat</text><nlkx/>
+	<text> een winkel en een herberg. Ten zuid-oosten van het</text><nlkx/>
+	<text> dorp ligt Fort Telmont, wat een grote rol heeft</text><nl/>
+	<text> gespeeld in de Grote Oorlog, maar nu alleen gebruikt</text><nl/>
+	<text> wordt als verdediging tegen de Yeti in het gebied. In het</text><nl/>
+	<text> fort is een tweede herberg.</text><nl/>
+	<nl/>
+	<text> Iscalrith City is een grote Draegoni stad. De stad is per</text><nl/>
+	<text> boot te bereiken, maar sommigen zeggen dat er ook een</text><nl/>
+	<text> verborgen tunnel is die toegang biedt. De stad is</text><nl/>
+	<text> onderverdeeld in vele grotten, waarvan gezegd wordt dat</text><nl/>
+	<text> er veel grondstoffen te vinden zijn.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: Nee, maar er is een arena.</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Nee</text><nl/>
+	<nl/>
+	<text> Rassen: Er zijn menselijke kampen te vinden in de dorpen</text><nl/>
+	<text>         en de forten. Draegoni wonen in de grotten.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Egratia Point (boot)</text><nl/>
+	<text>                    Irinveron (boot)</text><nl/>
+	<text>                    Imbroglio Islands (boot)</text><nl/>
+	<text>                    Glacmor</text><nl/>
+	<text>                    Trassian (grot)</text><nl/>
+	<text>                    Hulda</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_GLA">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Glacmor</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="3" name="3dobjects/banners5.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Glacmor is de drukst bezochte sneeuw regio.</text><nlkx/>
+	<text> </text><nlkx/>
+	<text> Het heeft de grootst bekende markt van Irilion en</text><nlkx/>
+	<text> een academie voor Bewerken, Brouwen en Alchemie.</text><nl/>
+	<text> De grotten zijn rijk aan ertsen en mineralen.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Nee</text><nl/>
+	<nl/>
+	<text> Rassen: Draegoni wonen op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Aeth Aelfan (boot)</text><nl/>
+	<text>                    Irinveron</text><nl/>
+	<text>                    Trassian</text><nl/>
+	<text>                    Iscalrith</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_IRS">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Irsis</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="1" name="3dobjects/banners10.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Irsis is een belangrijke haven in Irilion.</text><nlkx/>
+	<text> </text><nlkx/>
+	<text> De vuurtoren is vaak een baken voor verdwaalde</text><nlkx/>
+	<text> schepen op zee, de haven is open voor iedereen.</text><nl/>
+	<nl/>
+	<text> Irsis is een vredig gebied met een serene sfeer. Als je</text><nl/>
+	<text> fan bent van Brouwen of Bewerken kun je terecht bij de</text><nl/>
+	<text> scholen van die vaardigheden.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Elven wonen op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Idaloran</text><nl/>
+	<text>                    Emerald Valley Trade Route</text><nl/>
+	<text>                    Arius (boot)</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_NRM">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>            North Redmoon (NRM)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="3" name="3dobjects/banners7.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> North Redmoon heeft een dominant herkenningspunt,</text><nlkx/>
+	<text> de vulkaan precies in het midden van de regio.</text><nlkx/>
+	<text> </text><nlkx/>
+	<text> Volgens een legende kunnen diegenen die de extreme</text><nl/>
+	<text> hitte van de vulkaan trotseren, schatten vinden... en de</text><nl/>
+	<text> dood.</text><nl/>
+	<nl/>
+	<text> Jonge Orchans beklimmen de vulkaan om als volwassen</text><nl/>
+	<text> beschouwd te worden door hun dorpsgenoten.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Er zijn orchan kampen te vinden op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Idaloran (boot)</text><nl/>
+	<text>                    Thelinor (boot)</text><nl/>
+	<text>                    Zirakinbar (boot)</text><nl/>
+	<text>                    South Redmoon</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_The">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="0" b="0"/>
+	<text>                  Thelinor</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="2" name="3dobjects/banners10.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Thelinor is een dwergen slagveld en stad.</text><nlkx/>
+	<text> </text><nlkx/>
+	<text> Rondom de stad testen krijgers hun krachten tegen</text><nlkx/>
+	<text> elkaar. De stad zelf is veilig, tenzij je de</text><nl/>
+	<text> herberg instapt, daar is het ieder voor zich.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: Ja (buiten de stad)</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Er zijn dwerg kampen te vinden op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: North Redmoon (boot)</text><nl/>
+	<text>                    Palon Vertas</text><nl/>
+	<text>                    Zirakinbar</text><nl/>
+	<text>                    Melinis (grot)</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps2_WF">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps_C2" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Willowvine Forest</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="0" name="3dobjects/banners10.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Willowvine is een van de weinige gebieden die</text><nlkx/>
+	<text> gedeeld wordt door twee rassen. Bezoek je Fishmig</text><nlkx/>
+	<text> Village dan vindt je gnomen en een weg naar Arius.</text><nlkx/>
+	<nl/>
+	<text> De Elven dorpen zijn verbonden met een systeem van</text><nl/>
+	<text> bruggen en portalen, zodat reizigers niet te maken</text><nl/>
+	<text> krijgen met de monsters in het bos.</text><nl/>
+	<nl/>
+	<text> Willowvine bevat een van de twee vaardigheden academies.</text><nl/>
+	<text> Deze academie biedt plek aan smeden, oproepers en magiërs.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Gnomen wonen in Fishmig Village, Elven bevolken</text><nl/>
+	<text>         de rest van de kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Arius (vliegende boot)</text><nl/>
+	<text>                    Emerald Valley Trade Route</text><nl/>
+	<text>                    Aeth Aelfan</text><nl/>
+	<text>                    Kusamura Jungle (grot)</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps_C2" title="Terug Naar Kaarten Index"/>
+</Page>
+</Maps2>

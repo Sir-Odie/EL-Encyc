@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Creatures>
+<Page name="Rabbits">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Konijnen</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Bruine en Witte Konijnen</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Konijnen Bont wordt gebruikt bij het Produceren van:</text><nl/>
+	<text>  Bruin: </text><link ref="Fur_Gloves" title="Warme Bont Handschoenen"/><nl/>
+	<text>         </text><link ref="Fur_Boots" title="Bont Schoenen"/><nl/>
+	<nl/>
+	<text>  Wit:   </text><link ref="Hat_Fur" title="Bont Hoed"/><nl/>
+	<text>         </text><link ref="P_Harvesting" title="Drank van Oogsten"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Rat">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Rat</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Ratten</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Rattestaarten worden gebruikt bij het Produceren van:</text><nl/>
+	<text>  </text><link ref="Fur_Boots" title="Bont Schoenen"/><nl/>
+	<text>  </text><link ref="Fur_Torso" title="Bont Torso"/><nl/>
+	<text>  </text><link ref="P_Magic" title="Drank van Magie"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Beaver">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Bever</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Bevers</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Bever Bont wordt gebruikt bij het Produceren van:</text><nl/>
+	<text>  </text><link ref="Hat_Fur" title="Bont Hoed"/><nl/>
+	<text>  </text><link ref="Fur_Pants" title="Bont Broek"/><nl/>
+	<text>  </text><link ref="P_Defense" title="Drank van Verdedigen"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Skunk">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Stinkdier</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Stinkdieren</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Stinkdier Bont wordt gebruikt bij het Produceren van:</text><nl/>
+	<text>  </text><link ref="Hat_Skunk" title="Stinkdier Hoed"/><nl/>
+	<text>  </text><link ref="P_Accuracy" title="Drank van Nauwkeurigheid"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Racoon">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Wasbeer</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Wasberen</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Wasbeer Bont wordt gebruikt bij het Produceren van:</text><nl/>
+	<text>  </text><link ref="Hat_Racoon" title="Wasbeer Hoed"/><nl/>
+	<text>  </text><link ref="P_Evasion" title="Drank van Ontwijken"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Deer">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Hert</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Herten</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Hert Bont wordt gebruikt bij het Produceren van:</text><nl/>
+	<text>  </text><link ref="Fur_Pants" title="Bont Broek"/><nl/>
+	<text>  </text><link ref="Fur_Torso" title="Bont Torso"/><nl/>
+	<text>  </text><link ref="P_Coordination" title="Drank van Coordinatie"/><nl/>
+	<nl/>
+	<text> Hert Gewei wordt gebruikt bij het Produceren van:</text><nl/>
+	<text>  </text><link ref="P_Summoning" title="Drank van Oproepen"/><nl/>
+	<text>  </text><link ref="P_TS" title="Drank van Waar Zicht"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Snakes">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Slangen</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Groene, Rode en Bruine Slangen</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Slangevellen worden gebruikt in sommige God Missies.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Fox">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Vos</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Vossen</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vos Bont wordt gebruikt bij het Produceren van:</text><nl/>
+	<text>  </text><link ref="Fox_Scarf" title="Bont Sjaal"/><nl/>
+	<text>  </text><link ref="Cloak_Fur" title="Bont Mantel"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Boar">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Zwijn</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Zwijnen</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Zwijnen leveren veel vlees en botten op, die verkocht</text><nl/>
+	<text> kunnen worden aan Oproepers en Brouwers.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Wolf">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Wolf</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Wolven</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Wolf Bont wordt gebruikt bij het Produceren van:</text><nl/>
+	<text>  </text><link ref="Cloak_Fur" title="Bont Mantel"/><nl/>
+	<text>  </text><link ref="Fur_Boots" title="Bont Schoenen"/><nl/>
+	<text>  </text><link ref="Fur_Pants" title="Bont Broek"/><nl/>
+	<text>  </text><link ref="Fur_Torso" title="Bont Torso"/><nl/>
+	<text>  </text><link ref="P_Wildness" title="Drank van Wildheid"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Spiders">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Spinnen</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Kleine en Grote Spinnen</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Spinnen leveren Garen, gebruikt bij Produceren.</text><nl/>
+	<text> </text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Puma">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                    Poema</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Poemas </text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Poema Bont kan worden gebruikt bij het Produceren van:</text><nl/>
+	<text> </text><link ref="P_Vitality" title="Drank van Vitaliteit"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Leopard">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Luipaard</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Luipaarden</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Luipaard Bont kan worden gebruikt bij het Produceren van:</text><nl/>
+	<text>  momenteel niets.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Snow_Leopard">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Sneeuw Luipaard</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Sneeuw Luipaarden</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Sneeuw Luipaard Bont wordt gebruikt bij Produceren van:</text><nl/>
+	<text>  </text><link ref="P_Invis" title="Drank van Onzichtbaarheid"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Panther">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Zwarte Panter</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Zwarte Panters </text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Zwarte Panter Bont wordt gebruikt bij Produceren van:</text><nl/>
+	<text>  momenteel niets.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Feran">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Feran</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Ferans</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Feran Hoorn kan worden gebruikt bij het Produceren van:</text><nl/>
+	<text>  </text><link ref="P_Alchemy" title="Drank van Alchemie"/><nl/>
+	<text>  </text><link ref="P_Potion" title="Drank van Dranken"/><nl/>
+	<text>  </text><link ref="Extract_WDF" title="Tarwe - Narcis - Feran Hoorn Extract"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Tiger">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Tijger</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Tijgers </text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Tijger Bont kan worden gebruikt bij het Produceren van:</text><nl/>
+	<text>  momenteel niets.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="White_Tiger">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Witte Tijger</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> White Tigers </text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Witte Tijger Bont wordt gebruikt bij Produceren van:</text><nl/>
+	<text>  </text><link ref="ST_TigerW" title="Tijger Oproepen Steen"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="BearB">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Zwarte Beer</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Zwarte Beren</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Beer Bont kan worden gebruikt bij het Produceren van:</text><nl/>
+	<text>  </text><link ref="P_Attack" title="Drank van Aanvallen"/><nl/>
+	<text>  </text><link ref="ST_Bear" title="Beer Oproepen Steen"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="BearG">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Grizzly Beer</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Grizzly Beren</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Beer Bont kan worden gebruikt bij het Produceren van:</text><nl/>
+	<text>  </text><link ref="P_Attack" title="Drank van Aanvallen"/><nl/>
+	<text>  </text><link ref="ST_Bear" title="Beer Oproepen Steen"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="BearP">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  IJsbeer</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> IJsberen</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> IJsbeer Bont kan worden gebruikt bij het Produceren van:</text><nl/>
+	<text>  </text><link ref="P_Cold" title="Drank van Kou Bescherming"/><nl/>
+	<text>  </text><link ref="P_Eng" title="Drank van Engineering"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Panda">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Panda Beer</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Panda Beren</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Panda Beren hebben veel vlees en botten, die verkocht</text><nl/>
+	<text> kunnen worden aan oproepers en dranken-makers.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Hawk">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Havik</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Haviken</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Deze fragiel uitziende vogels zijn verraderlijk</text><nl/>
+	<text> sterk. Ze worden gejaagd voor hun veren.</text><nl/>
+	<nl/>
+	<text> Havik Veren kunnen worden gebruikt bij het Produceren van:</text><nl/>
+	<text>  </text><link ref="P_Eng" title="Drank van Engineering"/><nl/>
+	<text>  </text><link ref="PK_Arrows" title="PK Pijlen"/><nl/>
+	<text>  </text><link ref="Magic_Arrows" title="Magie Pijlen"/><nl/>
+	<text>  </text><link ref="Ice_Arrows" title="IJs Pijlen"/><nl/>
+	<text>  </text><link ref="Fire_Arrows" title="Vuur Pijlen"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Falcon">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Valk</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Valken</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Deze fragiel uitziende vogels zijn verraderlijk</text><nl/>
+	<text> sterk. Ze worden gejaagd voor hun veren.</text><nl/>
+	<nl/>
+	<text> Valk Veren kunnen worden gebruikt bij het Produceren van:</text><nl/>
+	<text>  </text><link ref="P_Eng" title="Drank van Engineering"/><nl/>
+	<text>  </text><link ref="PK_Bolts" title="Kruisboog PK Pijlen"/><nl/>
+	<text>  </text><link ref="Magic_Bolts" title="Kruisboog Magie Pijlen"/><nl/>
+	<text>  </text><link ref="Ice_Bolts" title="Kruisboog IJs Pijlen"/><nl/>
+	<text>  </text><link ref="Fire_Bolts" title="Kruisboog Vuur Pijlen"/><nl/>
+	<text>  </text><link ref="Cavalier_Blue" title="Blauwe Cavalier Hoed"/><nl/>
+	<text>  </text><link ref="Cavalier_Black" title="Zwarte Cavalier Hoed"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Lion">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Leeuw</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Leeuwen</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Een machtig beest, die vooral in jungle gebieden leeft.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Penguins">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Pinguins</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Pinguins</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Pinguins leven in koude gebieden en kunnen gejaagd</text><nl/>
+	<text> worden voor botten en vlees.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Goblin">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Goblin</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Mannelijke en Vrouwelijke Goblins (Kunnen Gewapend zijn)</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Goblins are ugly, smelly scavengers. They mostly</text><nl/>
+	<text> travel in packs of 5 or 6, but many times they</text><nl/>
+	<text> could also be seen traveling alone. Varying around</text><nl/>
+	<text> 5 feet or less in height, they have greenish pock</text><nl/>
+	<text> marked skin, yellowish brown eyes, and wear clothing,</text><nl/>
+	<text> armor and weapons that they pilfered from dead</text><nl/>
+	<text> corpses in graves, an unsuspecting traveler, or each </text><nl/>
+	<text> other. They are usually too stupid to determine if</text><nl/>
+	<text> fighting you is a good or bad thing for them however.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Skeleton">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Skelet</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Skeletten (Kunnen Gewapend zijn)</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> The Skeletons are the bones of those who died before</text><nl/>
+	<text> the Great War. The gods of evil even reanimated their</text><nl/>
+	<text> bones when all the flesh and blood was gone to use </text><nl/>
+	<text> against the gods of good. Luckily they did not trap </text><nl/>
+	<text> their souls... although it is said in legends that </text><nl/>
+	<text> there are some whose souls are cursed and must follow </text><nl/>
+	<text> the remainder of their former selves for eternity. </text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Gargoyle">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Gargoyles</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Kleine, Middelgrote en Grote Gargoyles</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<nl/>
+	<text> When King Vermor mysteriously vanished-most people</text><nl/>
+	<text> claim he died (yet a corpse remains to be found) -</text><nl/>
+	<text> his Gargoyles were freed of his control. They now</text><nl/>
+	<text> wander White Stone in the dark of the night,</text><nl/>
+	<text> turning into stone statues during the day. Some</text><nl/>
+	<text> say they are still loyal and wander in search of</text><nl/>
+	<text> their master, who knows if they will ever find him...</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Phantom_Warrior">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Geest Krijger</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Geest Krijgers</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> De geest krijgers werden, net als de skeletten, tijdens</text><nl/>
+	<text> de grote oorlog gereanimeerd door het kwaad Deiteis.</text><nl/>
+	<text> Helaas waren zij de recentelijk gestorvenen in de oorlog</text><nl/>
+	<text> en zijn daardoor veel sterker.</text><nl/>
+	<text> Met lichamen grotendeels intact, de staat van semi-dood</text><nl/>
+	<text> en hun dienstbaarheid aan Mortos en zijn verwanten</text><nl/>
+	<text> behouden zij het grootste deel van hun kracht en</text><nl/>
+	<text> intelligentie welke ze in het leven hadden.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Troll">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Trol</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Trollen</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Trolls are primitive brutes, with intelligence about</text><nl/>
+	<text> equal to that of a Cyclops. Unfortunately, they lack</text><nl/>
+	<text> the size and strength of their more massive relatives,</text><nl/>
+	<text> though they are still more than a match for most</text><nl/>
+	<text> unwary adventurers. The clubs which they habitually</text><nl/>
+	<text> wield are more than heavy enough to inflict damage,</text><nl/>
+	<text> or death on those who would disturb them.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Orc">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Orcs</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Mannelijke en Vrouwelijke Orcs (Kunnen Gewapend zijn)</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Orcs are quite intelligent, making strong tactics in </text><nl/>
+	<text> battle. They are also very fearsome creatures, as</text><nl/>
+	<text> they are usually bigger in stature than a human,</text><nl/>
+	<text> and getting wounded only makes them want to fight</text><nl/>
+	<text> even harder. They also don't fear much for their</text><nl/>
+	<text> lives, and will have fights to the death.</text><nl/>
+	<nl/>
+	<text> Standing at around 6-8 feet tall, they have greenish blue-</text><nl/>
+	<text> brown skin, and wear their own unique armor and clothing,</text><nl/>
+	<text> usually finding those from other races to be inferior to</text><nl/>
+	<text> their own weaponry.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Ogre">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Ogre</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Ogres</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Ogres tend to live by themselves, and set their own</text><nl/>
+	<text> territories usually quite far from other ogres. They</text><nl/>
+	<text> throw out any other humanoid creature they find</text><nl/>
+	<text> living there and will attack you on site. They are</text><nl/>
+	<text> not as intelligent as the Orcs, and are very grouchy</text><nl/>
+	<text> and lazy. Their skin tones vary from a greenish</text><nl/>
+	<text> color to a human's peach tone, and they're usually</text><nl/>
+	<text> a hulking 8 feet tall with a wide girth (due to</text><nl/>
+	<text> their laziness).</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Cyclops">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Cycloop</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Cyclopen</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Cyclops are big strong brutes that will attack</text><nl/>
+	<text> anything moving in site when they feel threatened.</text><nl/>
+	<text> With their obvious lack of brains, they make up for</text><nl/>
+	<text> in strength and size. Not much is known about their</text><nl/>
+	<text> societies because no one has gotten close enough, or</text><nl/>
+	<text> lasted long enough, to tell the tale. </text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Fluffy">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Pluizig Konijn</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Pluizige Konijnen</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> "Awww, it's a cute fluffy rabbit!"</text><nl/>
+	<text>      --The last words of many unwary heros</text><nl/>
+	<text> These should be approached only by the strongest.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Chimera">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Chimeran Wolf</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Chimeran Wolven (Woestijn, Bos, Berg, Arctisch)</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> A large, powerful, ugly wolf, lacking any majesty. They</text><nl/>
+	<text> are reputed to have been created in a magical accident of</text><nl/>
+	<text> some type. In any case, only the strongest can defeat</text><nl/>
+	<text> them.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Hobgob">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Hobgoblin</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Hobgoblins</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Dit beest ontstond toen Unolas probeerde om met magie</text><nl/>
+	<text> een goblin aan te passen om een slimmere, meer</text><nl/>
+	<text> geciviliceerde versie te maken. Het experiment mislukte</text><nl/>
+	<text> en creëerde een sterker, en schijnbaar minder intelligent</text><nl/>
+	<text> ras van monsters.</text><nl/>
+	<nl/>
+	<text> Ze hebben een blauwachtige huidskleur, en een</text><nl/>
+	<text> gezicht wat op een varken lijkt.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Yeti">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Yeti</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Yetis</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Deze monsters zijn erg simpel en extreem gevaarlijk. Het</text><nl/>
+	<text> lichaam is bedekt met een dikke witte vacht die hen</text><nl/>
+	<text> beschermt tegen de kou en met 2 meter hoogte zijn ze een</text><nl/>
+	<text> intimiderende aanblik.</text><nl/>
+	<nl/>
+	<text> Yetis zijn sterke, agressieve beesten die vaak alleen in</text><nl/>
+	<text> donkere grotten wonen, die ze alleen verlaten om voedsel</text><nl/>
+	<text> te zoeken. Veel sterke krijgers zijn overrompeld door</text><nl/>
+	<text> deze monsters.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Giant">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Reus</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Reuzen</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Deze gigantische wezens zijn erg aggressief, sterk, en</text><nl/>
+	<text> zelfs voor de sterkste krijger dodelijk in groepen,</text><nl/>
+	<text> gelukkig zijn het eenlingen.</text><nl/>
+	<nl/>
+	<text> Ook al lijken ze erg op mensen, de reuzen hebben niet de</text><nl/>
+	<text> hersens van een mens, ze zijn dom... erg dom!</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Feros">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Feros</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Feros</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Dit grote beest lijkt op een katachtige maar loopt op 2</text><nl/>
+	<text> poten in plaats van 4. Daardoor lijkt het op een kruising</text><nl/>
+	<text> tussen een grote kat en een mens.</text><nl/>
+	<nl/>
+	<text> De Feros is een aggressief beest en goed getraind in</text><nl/>
+	<text> gevechten. Zijn instincten, superieure intelligentie en</text><nl/>
+	<text> katachtige reflexen maken het een geduchte tegenstander.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Cockatrice">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Cockatrice</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Cockatrices</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Dit monster lijkt op een grote haan, heeft de staart van</text><nl/>
+	<text> een hagedis en de vleugels van een draak. Volgens de</text><nl/>
+	<text> legende kan dit beest je doden door enkel naar je te</text><nl/>
+	<text> kijken, maar het is vooral dodelijk in een gevecht.</text><nl/>
+	<nl/>
+	<text> De cockatrice is extreem aggressief en vecht met behulp</text><nl/>
+	<text> van zijn grote snavel en vlijmscherpe klauwen.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="DragonR">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Rode Draak</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Rode Draak</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Draken zijn majestueuze beesten. Ze zijn extreem</text><nl/>
+	<text> aggressief, zelfs de sterkste vechters worden niet</text><nl/>
+	<text> gespaard van hun aanvallen. Grote tanden, vlijmscherpe</text><nl/>
+	<text> klauwen en een speer-achtige staart maken dit het</text><nl/>
+	<text> lastigste beest om te verslaan in een gevecht.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="DragonB">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Zwarte Draak</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Zwarte Draak</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Draken zijn majestueuze beesten. Ze zijn extreem</text><nl/>
+	<text> aggressief, zelfs de sterkste vechters worden niet</text><nl/>
+	<text> gespaard van hun aanvallen. Grote tanden, vlijmscherpe</text><nl/>
+	<text> klauwen en een speer-achtige staart maken dit het</text><nl/>
+	<text> lastigste beest om te verslaan in een gevecht.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="DragonW">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               IJs Draak</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> IJs Draak</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Draken zijn majestueuze beesten. Ze zijn extreem</text><nl/>
+	<text> aggressief, zelfs de sterkste vechters worden niet</text><nl/>
+	<text> gespaard van hun aanvallen. Grote tanden, vlijmscherpe</text><nl/>
+	<text> klauwen en een speer-achtige staart maken dit het</text><nl/>
+	<text> lastigste beest om te verslaan in een gevecht.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Unicorn">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Eenhoorn</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Eenhoorn</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Een prachtig wit paard, met een enkele hoorn op het</text><nl/>
+	<text> voorhoofd.</text><nl/>
+	<nl/>
+	<text> De Eenhoorn kan niet worden aangevallen.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Brownie">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Brownie</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Brownies</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Brownies zijn een ondeugend ras met puntoren die</text><nl/>
+	<text> gewoonlijk in huizen of schuren wonen.</text><nl/>
+	<text> Ze stelen meestal voedsel en glimmende voorwerpen</text><nl/>
+	<text> uit huizen van mensen die ze vertrouwen.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Wood_Sprite">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Wood Sprite</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Wood Sprites</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Deze zachtmoedige beesten wonen in bosrijke gebieden en</text><nl/>
+	<text> worden gezien als beschermers van de bomen. Er wordt</text><nl/>
+	<text> in legendes gezegd dat wood sprites aggressief worden</text><nl/>
+	<text> als de bomen die ze beschermen gekapt worden.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Imp">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Imp</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Imps</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Imps worden vaak gezien als agressieve beesten.</text><nl/>
+	<text> Eigenlijk zijn ze erg vrolijk en houden van</text><nl/>
+	<text> grappen. Ze wonen bij voorkeur in donkere grotten</text><nl/>
+	<text> maar gaan ook naar het daglicht op zoek naar</text><nl/>
+	<text> vrienden en mensen om in de maling te nemen.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+<Page name="Leprechaun">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Creatures" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Leprechaun</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Leprechauns</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Leprechauns zijn kleine mensen die lijken op een</text><nl/>
+	<text> oude man. Ze kunnen relatief snel lopen.</text><nl/>
+	<text> Leprechauns staan bekend om hun schat, als je er</text><nl/>
+	<text> een vangt is de kans groot dat je goud vindt.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Creatures" title="Terug Naar Beesten Index"/>
+</Page>
+</Creatures>

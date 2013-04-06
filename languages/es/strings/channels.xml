@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+	<label index="0" name="Canal %d">Abrir canal %d</label>
+	<label index="1" name="Clan">Canal de tu clan</label>
+	<label index="2" name="Todo">Ver todos los canales</label>
+	<label index="3" name="Ninguno">Mensajes en ningún canal</label>
+	<label index="4" name="Canales">Seleciona que canales abrir</label>
+	<label index="5" name="Historial">Ver mensajes previos</label>
+	<label index="6" name="Local">Chat en area local</label>
+	<label index="7" name="PMs">Mensajes privados</label>
+	<label index="8" name="GMs">Mensajes de clan</label>
+	<label index="9" name="Servidor">Mensajes del servidor</label>
+	<label index="10" name="Mod">Chat de moderador</label>
+	
+	<channel number="1" name="Aprendiz">Aprendiz, Pregunta sobre el juego</channel>
+	<channel number="2" name="Ayuda">Ayuda general/avanzada</channel>
+	<channel number="3" name="Mercado">Comprobaciones de precio y comercio</channel>
+	<channel number="4" name="General sobre EL">Chat sobre Eternal Lands</channel>
+	<channel number="5" name="Rol">Discusion sobre rol</channel>
+	<channel number="6" name="Invasions">Chat about Invasions and Leonard</channel>
+   <channel number="7" name="Events">Chat sobre concursos/eventos</channel>
+	<channel number="11" name="Prattler">Bot cuentacuentos</channel>
+	<channel number="20" name="Sin Topico">Chat sobre cualquier tema</channel>
+	<channel number="24" name="Irilion">Chat para gente visitando Irilion</channel>
+	<channel number="23" name="Checo/Eslovaco">Chat Checo y Eslovaco</channel>
+	<channel number="44" name="Polaco">Chat en Polaco</channel>
+	<channel number="105" name="Turco">Chat en Turco</channel>
+	<channel number="111" name="Hungaro">Chat en Hungaro</channel>
+	<channel number="124" name="Trivia">Juega al Trivial!</channel>
+	<channel number="206" name="Aleman">Chat en Alemán</channel>
+   <channel number="231" name="Swedish">Chat in Swedish</channel>
+	<channel number="242" name="Italiano">Chat en Italiano</channel>
+	<channel number="255" name="Castellano">Chat en Castellano</channel>
+	<channel number="381" name="Ex-Yugoslavo">Chat en los lenguajes Ex-Yugoslavos</channel>
+	<channel number="500" name="Portugues">Chat en Portugues</channel>
+	<channel number="734" name="Lithuanian">Chat in Lithuanian</channel>
+   <channel number="777" name="African">Chat for Africans</channel>
+	<channel number="888" name="Frances">Chat en Frances</channel>
+	<channel number="999" name="Rumano">Chat en Rumano</channel>
+   <channel number="1192" name="Japanese">Chat in Japanese</channel>
+	<channel number="1500" name="Holandes">Chat en Holandes</channel>
+   <channel number="2000" name="Irish">Chat in Irish</channel>
+	<channel number="4900" name="Ruso">Chat en Ruso</channel>
+	<channel number="9872" name="*nix, linux, BSD">Chat sobre *nix (linux, *BSD, etc)</channel>
+</channels>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<options>
+		<full_screen>
+			<name>Pantalla completa</name>
+			<desc>Cambia entra pantalla completa y modo ventana.</desc>
+		</full_screen>
+		<shadows_on>
+			<name>Sombras</name>
+			<desc>Activa el dibujado de las sombras.</desc>
+		</shadows_on>
+		<use_shadow_mapping>
+			<name>Mapeado de sombras</name>
+			<desc>Si quieres usar sombras de más calidad, activa esta opción. Esto usará mas recursos.</desc>
+		</use_shadow_mapping>
+		<render_fog>
+			<name>Renderizar niebla</name>
+			<desc>Activa renderizado de la niebla.</desc>
+		</render_fog>
+		<poor_man>
+			<name>Hombre pobre</name>
+			<desc>Activa la opción "PoorMan", para sistemas muy lentos.</desc>
+		</poor_man>
+		<show_reflection>
+			<name>Mostrar reflejos</name>
+			<desc>Activa los reflejos.</desc>
+		</show_reflection>
+		<no_adjust_shadows>
+			<name>No ajustar sombras</name>
+			<desc>Si está seleccionada, esta opción permite al sistem desactivar el dibujado de sombras si el rendimiento no es el adecuado.</desc>
+		</no_adjust_shadows>
+		<clouds_shadows>
+			<name>Sombras de nubes</name>
+			<desc>Activa las sombras de las nubes en el suelo.</desc>
+		</clouds_shadows>
+		<show_fps>
+			<name>Mostrar FPS</name>
+			<desc>Muestra el número de cuadros por segundo en la esquina de la ventana.</desc>
+		</show_fps>
+		<use_mipmaps>
+			<name>Mipmaps</name>
+			<desc>Los "mipmaps" son efectos de texturizado que suavizan la textura. Esto puede resultar en un mejor o peor aspecto, dependiendo de los drivers gráficos y el hardware.</desc>
+		</use_mipmaps>
+		<use_point_particles>
+			<name>Partículas de punto</name>
+			<desc>Algunos sistemas no soportarán el nuevo sistem de partículas en Eternal Lands. Desactiva esta opción si tu cliente reporta la imposibilidad de usar la extensión de partículas.</desc>
+		</use_point_particles>
+		<particles_percentage>
+			<name>Porcentage mostrado:</name>
+			<desc>Si experimentas una caída significativa del rendimiento cuando se muestran los efectos de partículas, podrías considerar bajar este coeficiente.</desc>
+		</particles_percentage>
+		<use_vertex_array>
+			<name>Matriz de vértices</name>
+			<desc>Activa el uso de la matriz de vértices.</desc>
+		</use_vertex_array>
+		<use_vertex_buffers>
+			<name>Objeto del buffer de vértices</name>
+			<desc>Activa el uso de los objetos del buffer de vértices.</desc>
+		</use_vertex_buffers>
+		<mouse_limit>
+			<name>Sensibilidad del ratón:</name>
+			<desc>Puedes incrementar la sensibilidad de ratón y el cursor bajando este número.</desc>
+		</mouse_limit>
+		<normal_camera_rotation_speed>
+			<name>Rotación de la cámara:</name>
+			<desc>Selecciona la velocidad del giro de la cámara.</desc>
+		</normal_camera_rotation_speed>
+		<fine_camera_rotation_speed>
+			<name>Rotación precisa:</name>
+			<desc>Selecciona la velocidad de rotación de la cámara cuando ésta se mueve en modo preciso (pulsando may+izq/der).</desc>
+		</fine_camera_rotation_speed>
+		<name_text_size>
+			<name>Tamaño del nombre</name>
+			<desc>Selecciona el tamaño del texto del nombre.</desc>
+		</name_text_size>
+		<chat_text_size>
+			<name>Tamaño del chat</name>
+			<desc>Selecciona de tamaño del texto del chat.</desc>
+		</chat_text_size>
+		<name_font>
+			<name>Fuente del nombre:</name>
+			<desc>Selecciona el tipo de letra usado en el nombre.</desc>
+		</name_font>
+		<chat_font>
+			<name>Fuente del chat  :</name>
+			<desc>Selecciona el tipo de letra usado en el chat.</desc>
+		</chat_font>
+		<enable_sound>
+			<name>Efectos de sonido</name>
+			<desc>Activa/Desactiva los efectos de sonido</desc>
+		</enable_sound>
+		<enable_music>
+			<name>Musica</name>
+			<desc>Activa/Desactiva la música</desc>
+		</enable_music>
+		<sound_gain>
+			<name>Ganancia del sonido:</name>
+			<desc>Ajusta la ganancia del sonido.</desc>
+		</sound_gain>
+		<music_gain>
+			<name>Ganancia de la música:</name>
+			<desc>Ajusta la ganancia de la música.</desc>
+		</music_gain>
+		<sit_lock>
+			<name>Bloquear sentado</name>
+			<desc>Activa esto para evitar que tu personaje se mueva por accidente cuando está sentado.</desc>
+		</sit_lock>
+		<item_window_on_drop>
+			<name>Abrir inventario al soltar</name>
+			<desc>Abrir el inventario automáticamente cuando se depositan objetos en el suelo.</desc>
+		</item_window_on_drop>
+		<view_digital_clock>
+			<name>Reloj digital</name>
+			<desc>Activa el reloj digital.</desc>
+		</view_digital_clock>
+		<show_stats_in_hud>
+			<name>Estatus en HUD</name>
+			<desc>Muestra el estatus en HUD.</desc>
+		</show_stats_in_hud>
+		<show_help_text>
+			<name>Texto de ayuda</name>
+			<desc>Activa tooltips.</desc>
+		</show_help_text>
+		<relocate_quickbar>
+			<name>Barra rápida reposicionable</name>
+			<desc>Permite mover la barra rápida.</desc>
+		</relocate_quickbar>
+		<compass_north>
+			<name>Dirección del compás</name>
+			<desc>Selecciona la dirección del compás.</desc>
+		</compass_north>
+		<auto_afk_time>
+			<name>Tiempo para AFK:</name>
+			<desc>El tiempo, en minutos, a permanecer inactivo antes de entrar en modo AFK.</desc>
+		</auto_afk_time>
+		<afk_message>
+			<name>Mensaje para AFK:</name>
+			<desc>Establece el mensaje para modo AFK.</desc>
+		</afk_message>
+		<use_global_ignores>
+			<name>Ignores globales</name>
+			<desc>La lista global de ignores es una lista de gente conocida por su lenguage crudo, guardada en "global_ignores.txt". Activa esto para ignorar a estas personas.</desc>
+		</use_global_ignores>
+		<save_ignores>
+			<name>Guardar ignores</name>
+			<desc>Guarda la lista local de ignores al salir.</desc>
+		</save_ignores>
+		<use_global_filters>
+			<name>Filtros globales</name>
+			<desc>Activa el uso de los filtro globales. Activa esto si quieres filtras determinadas palabras que son descartadas por la lista global.</desc>
+		</use_global_filters>
+		<caps_filter>
+			<name>Filtro de mayúsculas</name>
+			<desc>Filtra las cadenas con demasiadas mayúsculas.</desc>
+		</caps_filter>
+		<server_address>
+			<name>URL del servidor:</name>
+			<desc>La dirección del servidor de Eternal Lands.</desc>
+		</server_address>
+		<server_port>
+			<name>Puerto:</name>
+			<desc>Puerto del servidor al que conectar, usualmente, el puerto 2000.</desc>
+		</server_port>
+		<username>
+			<name>Usuario:</name>
+			<desc>Nombre del usuario.</desc>
+		</username>
+		<password>
+			<name>Password:</name>
+			<desc>Password del usuario.</desc>
+		</password>
+		<log_chat>
+			<name>Reporte de mensajes:</name>
+			<desc>Archivar los mensajes (chat, eventos, GMs, etc).</desc>
+		</log_chat>
+		<language>
+			<name>Lenguaje:</name>
+			<desc>Lenguage del juego. Requiere reinicio.</desc>
+		</language>
+		<browser>
+			<name>Explorador de internet:</name>
+			<desc>Ruta al ejecutable de tu explorador de internet.</desc>
+		</browser>
+		<windowed_chat>
+			<name>Ventana de chat:</name>
+			<desc>Define la forma en la que quieres que tu chat aparezca.</desc>
+		</windowed_chat>
+		<write_ini_on_exit>
+			<name>Guardar 'el.ini'</name>
+			<desc>Guarda las opciones al fichero 'el.ini' al salir.</desc>
+		</write_ini_on_exit>
+		<ati_click_workaround>
+			<name>ATI Bug</name>
+			<desc>Si tienes una tarjeta gráfica ATI y no puedes moverte cuando haces click, marca esta opción para solucionarlo.</desc>
+		</ati_click_workaround>
+		<use_alpha_border>
+			<name>Bordes alpha</name>
+			<desc>Activa el uso de transparencias y sombreado alpha en los bordes de las ventanas.</desc>
+		</use_alpha_border>
+		<use_floating_messages>
+			<name>Mensajes flotantes</name>
+			<desc>Activa el uso de mensajes flotantes para la notificación de la experiencia y otras mejoras gráficas.</desc>
+		</use_floating_messages>
+		<local_chat_separate>
+			<name>Chat local separado</name>
+			<desc>Activa un hilo aparte para el chat local.</desc>
+		</local_chat_separate>
+		<guild_chat_separate>
+			<name>Chat del clan separado</name>
+			<desc>Activa un hilo aparte para el chat del clan.</desc>
+		</guild_chat_separate>
+		<server_chat_separate>
+			<name>Mensajes del servidor separados</name>
+			<desc>Activa un hilo aparte para los mensajes del servidor.</desc>
+		</server_chat_separate>
+		<mod_chat_separate>
+			<name>Chat de moderador separado</name>
+			<desc>Activa un hilo aparte para el chat de moderadores y administradores.</desc>
+		</mod_chat_separate>
+		<highlight_tab_on_nick>
+			<name>Resaltar pestañas al nombrar</name>
+			<desc>Resalta una pestaña del chat si alguien pronuncia tu nombre.</desc>
+		</highlight_tab_on_nick>
+		<isometric>
+			<name>Usar vista isométrica</name>
+			<desc>Cambia entre vista isométrica y vista en perspectiva.</desc>
+		</isometric>
+		<perspective>
+			<name>Perspectiva:</name>
+			<desc>Corrige el grado de distorsión de la perspectiva. Si tu cliente deforma la perspectiva, experimenta con este parámetro.</desc>
+		</perspective>
+		<near_plane>
+			<name>Plano cercano:</name>
+			<desc>Distancia para descartar planos superpuestos a tu personaje. Un número bajo hará que todo lo que se superponga a tí se recorte, así podrás ver a través de la arboleda, por ejemplo</desc>
+		</near_plane>
+		<buddy_log_notice>
+			<name>Monitorizar contactos</name>
+			<desc>Avisa cuando se produce la conexión/desconexión de algún jugador en tu lista de contactos.</desc>
+		</buddy_log_notice>
+		<data_dir>
+			<name>Directorio de datos:</name>
+			<desc>El directorio donde los ficheros de datos para Eternal Lands residen. Necesita un reinicio después del cambio.</desc>
+		</data_dir>
+		<video_mode>
+			<name>Modo de video :</name>
+			<desc>Modo de video a usar.</desc>
+		</video_mode>
+		<limit_fps>
+			<name>Limitar FPS:</name>
+			<desc>Limita la cantidad de marcos por segundo.</desc>
+		</limit_fps>
+		<gamma>
+			<name>Gamma:</name>
+			<desc>Factor de correción gamma para tu monitor. Si tienes problemas para ver en ciertos mapas, debido a la oscuridad, experimenta con esta parámetro.</desc>
+		</gamma>
+		<render_skeleton>
+			<name>Renderizar esqueleto</name>
+			<desc>Dibujar esqueletos Cal3d de los caracteres</desc>
+		</render_skeleton>
+		<render_mesh>
+			<name>Renderizar engranajes</name>
+			<desc>Renderiza los engranajes de los caracteres</desc>
+		</render_mesh>
+		<shadow_map_size>
+			<name>Mapa de sombras</name>
+			<desc>Determina la calidad de los mapas de sombras empleados</desc>
+		</shadow_map_size>
+		<use_old_clicker>
+			<name>Bug del ratón</name>
+			<desc>Si la opción de arriba no funciona, inténtalo con esta</desc>
+		</use_old_clicker>
+		<use_frame_buffer>
+			<name>Soporte para framebuffer</name>
+			<desc>Activa el soporte para el framebuffer, que actualmente se usa solo para los reflejos</desc>
+		</use_frame_buffer>
+		<use_clipboard>
+			<name>Usar portapapeles para pegar</name>
+			<desc>Usa el portapapeles para pegar información, si no está activado, se usa el buffer primario (como en xterm)</desc>
+		</use_clipboard>
+		<use_compiled_vertex_array>
+			<name>Tabla de vértices</name>
+			<desc>Algunos sistemas pueden no soportar esta característica, si hay algún problema, desactívalo</desc>
+		</use_compiled_vertex_array>
+	</options>
+</root>

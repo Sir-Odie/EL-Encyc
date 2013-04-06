@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<actors>
+		<load>Imposible cargar actor</load>
+		<frame>Imposible encontrar frame</frame>
+		<unk_frame>Frame desconocido</unk_frame>
+		<dup_id>ID de actor duplicada</dup_id>
+		<namelen>Tamaño/Nombre de actor incorrecto</namelen>
+		<addcommand>Imposible añadir comando</addcommand>
+		<loadbody>Imposible cargar parte del cuerpo</loadbody>
+		<head>cabeza</head>
+		<torso>torso</torso>
+		<weapon>arma</weapon>
+		<helmet>casco</helmet>
+		<cape>capa</cape>
+		<dupnpc>Nombre de actor duplicado</dupnpc>
+	</actors>
+	<load>
+		<obj>Imposible cargar objeto 2D</obj>
+		<file>Imposible abrir fichero</file>
+		<cursors>Imposible abrir fichero de cursores</cursors>
+		<font>Imposible cargar fuente</font>
+		<fatal>Fatal</fatal>
+		<noe3d>No se pudo leer e3dlist.txt</noe3d>
+		<elini>No se pudo leer el.ini</elini>
+		<invmap>%s no es un mapa válido!</invmap>
+		<parsenotes>Imposible interpretar notepad XML, será sobreescrito.</parsenotes>
+		<noteswrong>Tipo de documento incorrecto, será sobreescrito.</noteswrong>
+		<manynotes>Demasiadas notas. Los últimos nodos fueron ignorados.</manynotes>
+		<notenode>Tipo de nodo incorrecto. No se pudo copiar.</notenode>
+		<savenotes>Imposible escribir notas al fichero %s</savenotes>
+		<exceednotes>Se intentó sobrepasar el buffer del notepad! Ignorado.</exceednotes>
+	</load>
+	<misc>
+		<error>Error</error>
+		<objerr>Error de objeto.</objerr>
+		<nasty>Error crítico mientras se intentaba procesar:</nasty>
+		<corrupt>El objeto parece corrupto. Ignorándolo. Esto puede causar más problemas.</corrupt>
+		<badobj>Objeto corrupto.</badobj>
+		<multimat>Dos o más materiales tienen el mismo nombre de textura.</multimat>
+		<resync>Resincronizando con el servidor...</resync>
+		<vertex>Matriz de vértices activada.</vertex>
+		<compiled>Matriz de vértices compilada desactivada.</compiled>
+		<point>Partículas de punto desactivadas.</point>
+		<particles>Partículas completamente desactivadas.</particles>
+		<net>No se pudo levantar la red.</net>
+		<timer_fail>No se pudo iniciar el reloj.</timer_fail>
+		<resolve>No se pudo resolver la dirección del servidor.
+			Quizás la conexión no se encuentra disponible o tu servidor DNS está caído.</resolve>
+		<connect>No se puede conectar al servidor :(</connect>
+		<redefine>Necesitas actualizar tu personaje, debido a los nuevos modelos disponibles.
+			Ve a la ventana de nuevo personaje, escribe el nombre de tu personaje
+			y su password, actualiza el personaje, entonces haz click en
+			Hecho. *TU ESTATUS Y OBJETOS NO SE VERÁN AFECTADOS*</redefine>
+		<noexist>Tú no existes!</noexist>
+		<latency>Latencia del servidor</latency>
+		<newver>Hay una nueva versión del cliente. Por favor, actualizalo.</newver>
+		<notsup>Esta versión ya no está soportada. Actualiza el cliente.</notsup>
+		<packets>Sobrecarga de paquetes... Se produjo pérdida de datos.</packets>
+		<disconnect>Desconectado del servidor.</disconnect>
+		<stat>El servidor mandó un código incorrecto de estatus.</stat>
+		<ascii>No ASCII</ascii>
+		<timer_lag>El reloj %s se atrasó demasiado o quizás se paró, Reiniciándolo.</timer_lag>
+		<nameinuse>Este nombre ya está en uso.</nameinuse>
+		<notabs>No puedes desactivar las ventanas solapadas en el modo de video %d, se fuerzan las solapas.</notabs>
+		<nomap>Imposible cambiar al mapa %s!</nomap>
+		<emptymap>Usando un mapa vacío en su lugar.</emptymap>
+		<nonomap>Fatal error: No se pudo cargar el mapa ./maps/nomap.elm
+			Repara tus mapas.</nonomap>
+		<nobmpmap>No hay ningún mapa para este lugar.</nobmpmap>
+		<book_open>No se puede abrir el libro: %s!</book_open>
+		<noanimation>Sin animation: %s!</noanimation>
+		<invalid_location>Localización inválida %d,%d</invalid_location>
+		<badnode>Hay algo errónea en uno de los nodos de campo.</badnode>
+		<badroot>El nodo raíz en %s estaba incorrecto.</badroot>
+		<undefnode>Se encontró un nodo de tipo inesperado mientras se interpretaba %s (%s).</undefnode>
+		<use_builtin_chans>No se puede cargar la lista de canales del archivo. 
+			Usando una limitada predefinida en su lugar.</use_builtin_chans>
+		<use_eng_chans>No se pudo cargar la lista de canales para el código de lenguaje %s. Usando la inglesa en su lugar.</use_eng_chans>		
+	</misc>
+	<particles>
+		<version>Fichero de partículas %s versión (%i) no concuerda con el la versión de lector de ficheros (%i)!</version>
+		<overrun>Fichero de partículas %s trató de definir %i partículas, pero %i es el máximo.</overrun>
+		<pos>Fichero de partículas %s contenía valores extraños de posición. Se trató de arreglar.</pos>
+		<sysdump>-- VOLCADO DEL SISTEMA DE PARTÍCULAS --</sysdump>
+		<disabled>Partículas desactivadas</disabled>
+		<point>Usando sprites de punto</point>
+		<quads>Usando texturas en quads</quads>
+		<defs>Definiciones</defs>
+		<system>sistemas</system>
+		<particles>partículas</particles>
+	</particles>
+	<snd>
+		<loadwav>Error al cargar archivo wav %s</loadwav>
+		<loadfile>Error al cargar archivo ogg</loadfile>
+		<loadstream>Error al cargar flujo ogg</loadstream>
+		<buffer>Error creando buffer</buffer>
+		<number>Número de sonido inválido.</number>
+		<source>Error creando una fuente.</source>
+		<skip>Omitiendo... Acelerando recepción.</skip>
+		<tooslow>Lo siento, demasiado lento para reproducir música...</tooslow>
+		<fail>Fallo al parar todos los sonidos.</fail>
+		<init>Error inicializando sonido.</init>
+		<toomany>Demasiados sonidos.</toomany>
+		<read>Leyendo desde medio.</read>
+		<notvorbis>No es un archivo Vorbis.</notvorbis>
+		<version>Versión de Vorbis no coincide.</version>
+		<header>Cabecera Vorbis no válida.</header>
+		<intern>Fallo de lógica interna (bug o corrupción de heap/stack)</intern>
+		<unknown>Error desconocido relativo a Ogg.</unknown>
+		<false>Ogg error, medio falso.</false>
+		<hole>Ogg error, se encontró un vacío en el medio.</hole>
+		<einval>Ogg error en medio: EINVAL.</einval>
+		<eof>Ogg error en medio: EOF.</eof>
+		<ebadlink>Ogg error en medio: EBADLINK.</ebadlink>
+		<enoseek>Ogg error en medio: ENOSEEK.</enoseek>
+		<enomusic>Este cliente fue construído sin soporte para música</enomusic>
+		<musicstopped>Ninguna canción está sonando ahora</musicstopped>
+		<musicinfo>Reproduciendo: "%s" by %s (%d:%02d/%d:%02d)</musicinfo>
+		<musicinfonoartist>Reproduciendo: "%s" (%d:%02d/%d:%02d)</musicinfonoartist>
+	</snd>
+	<video>
+		<nostencil>Modo de video %s con buffer stencil no disponible.
+			Probando sin buffer stencil...</nostencil>
+		<safemode>Modo de video %s sin buffer stencil no disponible.
+			Intentando con el modo seguro (640x480x32) Pantalla completa (sin stencil)</safemode>
+		<nosdl>No se pudo inicializar SDL</nosdl>
+		<nohwstencil>No se pudo encontrar un buffer stencil acelerado por hardware.
+			Las sombrar no estarán disponibles.</nohwstencil>
+		<depth>Aviso: Prueba una resolución de 32 BPP (si usas XWindows, configura tu display para 24 or 32 bpp).</depth>
+		<glmode>No se pudo establecer modo GL.</glmode>
+		<swstencil>Hmm... Este modo parece confiar en 'acceleration' por software.
+			Intentando desabilitar el buffer stencil.</swstencil>
+		<last_try>Hmm...No hubo suerte sin el buffer stencil...
+		     Vamos a probar algo más...</last_try>
+		<swmode>Mie##a, parece que no tienes suerte, estamos en modo render por software, así que el juego irá muyyyy lento. Si TIENES una tarjeta de aceleración 3D, intenta actualizar los drivers...</swmode>
+		<extfound>Extensión %s encontrada, se usa.</extfound>
+		<extnouse>Extensión %s encontrada, NO se usa.</extnouse>
+		<extnotfound>Extensión %s NO encontrada, NO se usa.</extnotfound>
+		<multitex>No se encontró la extensión GL_ARB_multitexture, se desactivaron las sombras de las nubes, los detalles de las texturas...</multitex>
+		<noshadowmapping>Mapeado de sombras desactivado (hardware viejo, necesitas más nuevo).</noshadowmapping>
+		<toobigshadowmap>Tamaño de mapa de sombras no soportado! Tamaño de mapa de sombras reducido a %d!</toobigshadowmap>
+		<invalid>Deja de jugar con el fichero de configuración y selecciona modos válidos!</invalid>
+	</video>
+	<rules>
+		<proceed>Lee las regla y podrás continuar en %d segundos.</proceed>
+		<ready>Lee todas las reglas (baja hasta el final) y haz click en "Acepto" para jugar!</ready>
+		<accept>Acepto</accept>
+		<read>Un error ocurrió mientras se leían las reglas.</read>
+		<parse>Un error ocurrió mientras se procesaban las reglas.</parse>
+		<notfound>El archivo rules.xml no se encontró. Tendrás que volver a descargar el juego.</notfound>
+	</rules>
+</root>

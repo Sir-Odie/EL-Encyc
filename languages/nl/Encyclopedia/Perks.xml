@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Perks>
+<Page name="P_PS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>              Energie Besparing</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: 3 punten, 100 goud</text><nl/>
+   <text> Voedsel niveau zal niet elke minuut verminderen als geen</text><nl/>
+   <text> gezondheid of mana wordt hersteld, en je niets onderzoekt.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Let op: Dit heeft geen effect op het voedsel wat je</text><nl/>
+   <text> verliest bij het mijnen of maken van items.</text><nl/>
+   <nl/>
+   <text> Werkt niet met "Hongerig Naar Energie".</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_FR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                 Snel Herstel</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: 3 punten, 100 goud</text><nl/>
+   <text> Mana, gezondheid en attributen herstellen 3 keer</text><nl/>
+   <text> sneller dan normaal.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_SD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>               Zelfvernietiging</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: 5 punten, 130 goud</text><nl/>
+   <text> Als je sterft krijgt elke vijand die met je vecht 5-15</text><nl/>
+   <text> punten schade onafhankelijk van harnas en verdediging.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_EX">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                   Opgraver</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: 5 punten, 150 goud</text><nl/>
+   <text> Verdubbelt het aantal items wat je oogst. Je krijgt</text><nl/>
+   <text> bijvoorbeeld twee ertsen per keer.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Let op: Dit heeft geen effect op de ontvangen ervaring.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_MM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>              Monster Magnetisme</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: 5 punten, 1500 goud</text><nl/>
+   <text> De meeste monsters zullen je niet aanvallen, tenzij jij</text><nl/>
+   <text> hen eerst aanvalt.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> De uitzonderingen hierop zijn:</text><nl/>
+   <text> - Arctische Chimeran Wolven;</text><nl/>
+   <text> - De Rode Draak;</text><nl/>
+   <text> - Opgeroepen beesten in PK gebieden;</text><nl/>
+   <text> - Invasie beesten (rode naam).</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_EV">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>               Vergankelijkheid</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: 5 punten, 200 goud</text><nl/>
+   <text> Elke succesvolle aanval van je vijand heeft een kans van</text><nl/>
+   <text> 10% om te missen.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_CG">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>             Voorzichtig Persoon</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: 5 punten, 250 goud</text><nl/>
+   <text> Reduceert de kans om items te verliezen als je sterft</text><nl/>
+   <text> van de standaard 50% naar 40%.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_BP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>              Lichaam Doorboren</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: 7 punten, 150 goud.</text><nl/>
+   <text> Vergroot de kans om het harnas van de vijand te omzeilen</text><nl/>
+   <text> met 10%.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_FM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                Dodelijke Man</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: 7 punten, 150 goud</text><nl/>
+   <text> Vergroot de kans om de vijand te raken onafhankelijk</text><nl/>
+   <text> van zijn vaardigheden/harnas met 10%.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_CO">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                   Oproeper</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: 7 punten, 250 goud</text><nl/>
+   <text> Mana kosten voor Oproepen zijn gehalveerd.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_IGD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>            Ik Gloei in het Donker</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: 7 punten, 250 goud</text><nl/>
+   <text> Veroorzaakt 5 extra punten schade aan de vijand tijdens</text><nl/>
+   <text> het vechten. Elke keer dat je raakt of geraakt wordt,</text><nl/>
+   <text> krijgt de vijand 5 extra punten schade.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_TNF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>              Er Is Geen Vork</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: 7 punten, 250 goud</text><nl/>
+   <text> Geen verdediging minpunten bij het bevechten van</text><nl/>
+   <text> meerdere tegenstanders.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Werkt niet met "Ik Kan Niet Dansen".</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_MS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                Reflectie Huid</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: 7 punten, 300 goud</text><nl/>
+   <text> Elke succesvolle aanval van de vijand heeft een kans van</text><nl/>
+   <text> 10% om naar hem gereflecteerd te worden.</text><nl/>
+   <text> Every successful hit of your opponent, has a 10% chance</text><nl/>
+   <text> to be reflected back to the enemy.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_NMT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>               Geen Tranen Meer</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: 7 punten, 1000 goud</text><nl/>
+   <text> De kans dat items beschadigen of breken tijdens het</text><nl/>
+   <text> vechten wordt gereduceerd naar 1/4 van normaal.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_IEDP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>              Ik Eet Dode Mensen</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: 3 punten, 10000 goud</text><nl/>
+   <text> Hiermee kun je botten eten voor 10 voedsel punten,</text><nl/>
+   <text> zonder afkoeling.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_PH">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>            Hongerig Naar Energie</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: -3 punten</text><nl/>
+   <text> Elke minuut worden 3 voedsel punten verbruikt. Normaal</text><nl/>
+   <text> wordt er maar 1 voedsel punt per minuut verbruikt.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_ICD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                Ik Kan Niet Dansen</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: -5 punten, 1000 goud</text><nl/>
+   <text> Extra 15 verdediging minpunten bij het bevechten van</text><nl/>
+   <text> meerdere tegenstanders.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Werkt niet met "Er Is Geen Vork".</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_GB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>               Gelatine Botten</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: -6 punten</text><nl/>
+   <text> Extra 5 punten schade bij alle soorten schade die</text><nl/>
+   <text> je ontvangt (hitte, koude, radiatie, magie, oogst</text><nl/>
+   <text> ongelukken, etc...).</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_G">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                   Godloos</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: -8 punten</text><nl/>
+   <text> Hiermee kun je geen enkele god meer dienen.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Let op: als je deze perk neemt nadat je een god bent</text><nl/>
+   <text> gaan dienen, wordt je status met elke god verwijderd.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_H">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                  Hellspawn</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: -10 punten, 15000 goud</text><nl/>
+   <text> Iedere keer dat je naar een nieuwe kaart loopt of een</text><nl/>
+   <text> gebouw betreed/verlaat, is er een kans van 20% om naar de</text><nl/>
+   <text> onderwereld te gaan (zonder verlies van items/gezondheid).</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_A">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                   Asociaal</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: -10 punten, 15000 goud</text><nl/>
+   <text> Geen NPC wil met je handelen. Je kunt nog steeds</text><nl/>
+   <text> sigils kopen en de voorraad gebruiken.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_ScD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>             Scotty Is Gestorven</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: -3 punten, 10000 goud</text><nl/>
+   <text> Je kunt geen "Beam me up" meer gebruiken.</text><nl/>
+   <text> Zorg vanaf nu dat je een ring bij je hebt.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_HoS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>             Oogster Van Verdriet</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: -5 punten, 100000 goud</text><nl/>
+   <text> Als je een teleporteer nexus raakt tijdens het oogsten,</text><nl/>
+   <text> kom je terecht in Kilaran Field (PK kaart).</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+<Page name="P_Sk">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                  Skepticus</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Prijs: 0 punten, 30000 goud</text><nl/>
+   <text> Astrologie heeft geen effect op jou: geen bonussen,</text><nl/>
+   <text> geen straffen.</text><nl/>
+   <color>red</color>
+   <nl/>
+   <text> LET OP!! Deze perk is permanent, het wordt NIET verwijderd</text><nl/>
+   <text> met een #reset.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Terug Naar Perks"/>
+</Page>
+</Perks>

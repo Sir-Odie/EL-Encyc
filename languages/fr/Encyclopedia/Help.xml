@@ -1,0 +1,2517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Help>
+<Page Name="HelpPage">
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">          Aide d'Eternal Lands</text>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Ceci est la page d'aide d'Eternal Lands. Vous trouverez</text><nl/>
+   <text> ici des informations qui vous aideront à vous familiariser</text><nl/>
+   <text> avec l'interface, et des conseils pour démarrer dans le jeu.</text>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <link ref="HP Commands" title="Raccourcis clavier"/>
+   <size>Small</size>
+   <text>                      Raccourcis clavier.</text><nl/>
+   <size>Medium</size>
+   <link ref="text" title="Commandes texte"/>
+   <size>Small</size>
+   <text>     Liste de commandes à tapper au clavier.</text><nl/>
+   <size>Medium</size>
+   <link ref="channel" title="Système de chat"/>
+   <text>      Comment fonctionne le système de chat.</text><nl/>
+   <size>Medium</size>
+   <link ref="guild" title="Commandes guilde"/>
+   <size>Small</size>
+   <text>   Explication sur les commandes de guilde.</text><nl/>
+   <size>Medium</size>
+   <link ref="HP Interface" title="Interface"/>
+   <size>Small</size>
+   <text>              Explications sur l'interface de jeu.</text><nl/>
+   <size>Medium</size>
+   <link ref="Calendar" title="Calendar"/>
+   <size>Small</size>
+   <text>       -  Calendar of the Elders and Special Days</text><nl/>
+   <size>Medium</size>
+   <link ref="AbbrAcr" title="Acronymes..."/>
+   <size>Small</size>
+   <text>                               Et abreviations.</text><nl/>
+   <size>Medium</size>
+   <link ref="tips" title="Conseils"/>
+   <size>Small</size>
+   <text>                       Informations additionellles.</text><nl/>
+   <size>Medium</size>
+   <link ref="NFAQ" title="FAQ pour débutants"/>
+   <size>Small</size>
+   <text>           FAQ pour les nouveaux joueurs.</text><nl/>
+   <size>Medium</size>
+   <link ref="SFAQ" title="FAQ sur les talents"/>
+   <size>Small</size>
+   <text>                    Les talents dans EL?</text><nl/>
+   <size>Medium</size>
+   <link ref="Passwords" title="Password Tips"/>
+   <size>Small</size>
+   <text>  -  Tips on creating strong passwords.</text><nl/>
+</Page>
+
+<Page Name="HP Commands">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="HelpPage" title="Retour"/>
+   <link x="437" y="2" ref="HelpPage" title="Index"/>
+   <text x="2" y="18">Page 1/2</text>
+   <link x="450" y="18" ref="HP Commands2" title=">>>"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">          Aide d'Eternal Lands</text><nl/>
+   <text>           Raccourcis Clavier</text><nl/>
+   
+   <size>Small</size>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> ~ ou F1</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Appuyer sur l'une de ces touches pour voir tout le</text><nl/>
+   <text> tchat disparu de votre écran. Utiliser les flèches</text><nl/>
+   <text> ou la roulette de votre souris pour déplacer vers</text><nl/>
+   <text> le haut ou vers le bas. Vous pouvez aussi utiliser</text><nl/>
+   <text> Page Haut ou Page Bas pour changer de page vers le</text><nl/>
+   <text> haut ou vers le bas. Ce mode est appelé le mode</text><nl/>
+   <text> console.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> F2</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Vous permet d'ouvrir un navigateur WEB sur la dernière</text><nl/>
+   <text> URL qui a été affichée dans le tchat. Vous pouvez choisir</text><nl/>
+   <text> votre navigateur (exemple firefox, internet explorer, ...)</text><nl/>
+   <text> et votre système d'exploitation (Windows XP, 98, ...)</text><nl/>
+   <text> avec ELConfig.exe, situé dasn le répertoire de EL.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> F5</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Vous montre les règles du jeu. Lecture très recommandée.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> F9</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Fait un feu que personne d'autre ne peut voir.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Tab</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Press your tab key to see the map you are on.</text><nl/>
+   <text> The blue X is your current location. You can click</text><nl/>
+   <text> any spot on the map and automatically walk there.</text><nl/>
+   <text> Press your tab key again to see the game again.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Left/Right arrow keys OR Middle Mouse button</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Rotates your camera angle on the Z axis so you can see</text><nl/>
+   <text> different angles of the game. This is especially helpful</text><nl/>
+   <text> when using your compass to navigate around. You can</text><nl/>
+   <text> change the speed in your el.ini or ELConfig.exe</text><nl/>
+   <text> (to make it faster or slower). You can also move your</text><nl/>
+   <text> mouse while holding down your mouse middle button/wheel</text><nl/>
+   <text> to rotate the picture as fast or slow as you like.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Shift + Left/Right arrow keys</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Lets you rotate your camera angle in smaller amounts for</text><nl/>
+   <text> fine tuning. (You can change the speed in your el.ini</text><nl/>
+   <text> or ELConfig.exe to make it faster or slower).</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Up and Down arrow keys</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> You can rotate the camera up and down on the</text><nl/>
+   <text> X axis between 45 and 60 degrees. Default is 60.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Page up/Page down</text><nl/>
+   <color r="0.4" g="0.8" b="1"/> 
+   <text> 1. Zoom avant et arrière.</text><nl/>
+   <text> Vous pouvez aussi utiliser la roulette du milieu de votre souris.</text><nl/>
+   <text> 2. Permet de déplacer le text vers le haut ou vers le bas</text><nl/>
+   <text> en mode console(F1).</text><nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text> </text><link ref="HelpPage" title="Retour à l'index"/>
+   <text>                            </text><link ref="HP Commands2" title="Page 2 >>>"/>
+   <nl/>
+</Page>
+
+<Page name="HP Commands2">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="HelpPage" title="Retour"/>
+   <link x="437" y="2" ref="HelpPage" title="Index"/>
+   <text x="2" y="18">Page 2/2</text>
+   <link x="450" y="18" ref="HP Commands" title=">>>"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">          Aide d'Eternal Lands</text><nl/>
+   <text>           Raccourcis Clavier</text><nl/>
+   
+   <size>Small</size>
+   <nl/><nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Alt + enter</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Toggles back and forth between full screen mode</text><nl/>
+   <text> and windowed mode.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Alt+x</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> exits the game with no warnings or confirmations</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Alt+h</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> turns off and on everyone's health bars</text><nl/>
+   <text> (only you can see this). Default is on.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Alt+b</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> turns on and off the number value of health bars</text><nl/>
+   <text> (only you can see this). Default is off</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Alt+n</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> turns on and off everyone's name over their head</text><nl/>
+   <text> (only you can see this). Default is on.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Alt+o</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text>  (not zero)</text><nl/>
+   <text> This makes people's local chat show up in cartoon style</text><nl/>
+   <text> bubbles over their heads. Type alt + o again to remove it.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Alt+d</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This closes all open windows within the client.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> ctrl+v OR shift+insert</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Paste's text previously copied from somewhere else into</text><nl/>
+   <text> chat. You still need to hit enter for others to see it.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ctrl+q</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Exits the game with no warnings or confirmations.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ctrl+e</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Open/close encyclopedia window.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ctrl+h</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Open/close help window.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ctrl+i</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Open/close inventory window.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ctrl+m</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Open/close mix window.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ctrl+s</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Open/close spells window.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ctrl+b</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Open/close buddy list window.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ctrl+a</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Open/close attributes window.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ctrl+o</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Open/close options window.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ctrl+k</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Open/close knowledge window.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ctrl + up</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Recall previously typed lines.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ctrl + spacebar</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Autocompletation for players' name.</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Map View- Right Mouse Click + type + enter</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Makes a note mark on your map view(TAB key).</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Map View- Ctrl + mouse right click</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Removes marks you previously made on your map view</text><nl/>
+   <text> (TAB key).</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Map View: Ctrl+f</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Enable the marks filter: type some text and only</text><nl/>
+   <text> the marks containing it will be showed (useful</text><nl/>
+   <text> when you have many marks on your map).</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Esc</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Clears entire line of chat text typing</text><nl/>
+   <text> (only works BEFORE you hit enter).</text><nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text> </text><link ref="HelpPage" title="Retour à l'index"/>
+   <text>                            </text><link ref="HP Commands" title="Page 1 >>>"/>
+   <nl/>
+</Page>
+
+<Page name="text">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="HelpPage" title="Retour"/>
+   <link x="437" y="2" ref="HelpPage" title="Index"/>
+   <text x="2" y="18">Page 1/3</text>
+   <link x="450" y="18" ref="text2" title=">>>"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">          Aide d'Eternal Lands</text><nl/>
+   <text>             text Commands</text><nl/>
+   
+   <size>Small</size>
+   <nl/><nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #beam me</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Teleports your character to the campfire on Isla Prima.</text><nl/>
+   <text> Doesn't work while you are fighting or if you are on</text><nl/>
+   <text> a PK map.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #help_me</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This sends your question to the mods and newbie helpers</text><nl/>
+   <text> that are online. Make sure to type your question after</text><nl/>
+   <text> typing #help_me. If any NH's/mods are online and</text><nl/>
+   <text> available, they will answer it. Don't forget others are</text><nl/>
+   <text> asking questions too, you might have to wait your turn.</text><nl/>
+   <text> (Example: #help_me How do I eat?)</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #abuse</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This will send an abuse report to the moderators who are</text><nl/>
+   <text> online, this is to be used only for rule breaking.</text><nl/>
+   <text> Make sure you say where you are and the person's name</text><nl/>
+   <text> and what they are doing. (Example: #abuse I am next to</text><nl/>
+   <text> JoeCharacter in Portland Storage and he is swearing in</text><nl/>
+   <text> local chat.)</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #exp</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Shows your experience points and your levels,</text><nl/>
+   <text> and how much you need until you reach the next level.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #storage</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Shows you a list of everything you have in storage.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #storage text</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Shows you all items in storage with a name containing</text><nl/>
+   <text> the text given.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #sto - #sto text</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Short form for the #storage command, same function.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #knowledge</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Shows a list of all the books, the ones you have read</text><nl/>
+   <text> are in white, the ones you haven't read yet are in grey.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #knowledge text</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Shows a list of all the books with a title containing</text><nl/>
+   <text> the text given, the ones you have read are in white, the</text><nl/>
+   <text> ones you haven't read yet are in grey.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #know - #know text</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Short form for the #knowledge command, same function.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #arm</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Lists the attributes of the armour you have equipped.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #research</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Shows what book you are currently reading, and how much</text><nl/>
+   <text> ingame time you have left until you finish reading it.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #list_perks</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This shows you what perks you have taken, both regular</text><nl/>
+   <text> and negative perks.</text><nl/>
+   <text> If you are wearing one of the magic capes (like the</text><nl/>
+   <text> Excavator Cape), in the list you'll see also the perk</text><nl/>
+   <text> given by the cape.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #list_gods</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This shows you what gods you are currently serving.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #afk</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This makes you go afk. (afk means "away from keyboard")</text><nl/>
+   <text> When somebody pm's you now, they get a message saying</text><nl/>
+   <text> you aren't there. Adding a message after the command will</text><nl/>
+   <text> change your afk message. You can edit this message also</text><nl/>
+   <text> in the options window or in the file el.ini in your</text><nl/>
+   <text> EL folder .</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #msg all</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This lets you see all of your afk messages you got</text><nl/>
+   <text> while you were away.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #cls</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Clears your screen of all chat up until you typed</text><nl/>
+   <text> that command (doesn't prevent new chat from showing).</text><nl/>
+   <text> Good for screenshots.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #exit</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> quits the game (no confirmation or warning)</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #quit</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> quits the game (no confirmation or warning)</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #save</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Saves your character. Also note that the game autosave</text><nl/>
+   <text> when you exit and when you trade.</text><nl/>
+   <text> In case of a server crash, your character will go back</text><nl/>
+   <text> to the last save/autosave, so you really need to use this</text><nl/>
+   <text> command only if you stay logged for a long time.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #day</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Shows you information on the current game day.</text><nl/>
+   <text> Occasionally there are special in game days which can</text><nl/>
+   <text> either be good or bad. This command will tell you</text><nl/>
+   <text> the effects of the current day.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #date</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Shows you current ingame date.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #time</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Shows you current ingame time.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text> </text><link ref="HelpPage" title="Retour à l'index"/>
+   <text>                            </text><link ref="text2" title="Page 2 >>>"/>
+   <nl/>
+</Page>
+
+<Page name="text2">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="HelpPage" title="Retour"/>
+   <link x="437" y="2" ref="HelpPage" title="Index"/>
+   <text x="2" y="18">Page 2/3</text>
+   <link x="450" y="18" ref="text3" title=">>>"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">          Aide d'Eternal Lands</text><nl/>
+   <text>             text Commands</text><nl/>
+   
+   <size>Small</size>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #current_song</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This shows you details of the current song playing such</text><nl/>
+   <text> as the title, composer, current time and total time.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #suicide</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This command makes you die, and yes you can lose stuff.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #reset</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> If you reset, you will LOSE all your pickpoints, perks</text><nl/>
+   <text> and nexus, your overall will become 0 and your attributes</text><nl/>
+   <text> (physique, coord, ...) will go back to default (4/4).</text><nl/>
+   <text> You do keep your skills levels (attack, defense, ...),</text><nl/>
+   <text> items, sigils, knowledge, gods and quests.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #killme yes</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Deletes your character completely. You will lose</text><nl/>
+   <text> this character and anything it has on him or in storage.</text><nl/>
+   <text> You will need to confirm this command (it asks you if</text><nl/>
+   <text> you are sure you want to do this.) This is final, there</text><nl/>
+   <text> is no getting the character back once you do it.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #add_buddy Playername</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Requests a buddy addition.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #accept_buddy Playername</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Accepts a request.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> #change_buddy Playername number</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Change buddy type (assigns different colors).</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #clear_buddy</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Clears your buddy list.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #del_buddy Playername</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Removes a buddy from your list.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #set_privacy on/off</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Sets whether you'll accept buddy requests or not.</text><nl/>
+   <text> Setting privacy on will also hide your character's stats.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #mark name</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Marks your current location in your map.</text><nl/>
+   <text> (Hit tab to toggle map mode on and off.)</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #markpos x,y name</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Add a marked location from your map at the coordinates</text><nl/>
+   <text> specified by x and y.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #unmark name</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Removes a marked location from your map.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #ignore Playername</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This will block any message (PM, local, channels)</text><nl/>
+   <text> from this person, so you can't see it.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #unignore Playername</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This removes playername from your ignore list.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #ignores</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This will show you a list of everybody on your ignore</text><nl/>
+   <text> list.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #ignore_bots</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This will ignore all the bots on all the channels,</text><nl/>
+   <text> however it won't affect local chat or PMs.</text><nl/>
+   <text> Typing the command again will unignore the bots.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #filter word</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Type #filter word. This will replace the word you type</text><nl/>
+   <text> with "smeg" or whatever word you chose in your el.ini.</text><nl/>
+   <text> Usually people will filter curse words. Smeg is the</text><nl/>
+   <text> default word.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #unfilter word</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Type #unfilter word. This will remove the word</text><nl/>
+   <text> from your filter list.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #filters</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Shows list of all words on your filter list.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #humor</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This turns the npc humor on or off.</text><nl/>
+   <text> The default setting is on.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text> </text><link ref="HelpPage" title="Retour à l'index"/>
+   <text>                            </text><link ref="text3" title="Page 3 >>>"/>
+   <nl/>
+</Page>
+
+<Page name="text3">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="HelpPage" title="Retour"/>
+   <link x="437" y="2" ref="HelpPage" title="Index"/>
+   <text x="2" y="18">Page 3/3</text>
+   <link x="450" y="18" ref="text" title=">>>"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                text Commands</text><nl/>
+   
+   <size>Small</size>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #change_pass oldpassword newpassword</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This changes your password. Make sure you write it down</text><nl/>
+   <text> someplace safe, it will not be logged in text anyplace.</text><nl/>
+   <text> Also make sure you do this inside a house ingame, so</text><nl/>
+   <text> nobody will see your chat in case you make a mistake.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #stats</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Shows some basic game server information, plus info</text><nl/>
+   <text> about how many players are logged in.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #glinfo</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Shows some basic information about your video card</text><nl/>
+   <text> and OpenGL version.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #ping</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Shows your current latency (in easy terms, shows the</text><nl/>
+   <text> response time from your computer to the server and</text><nl/>
+   <text> back to your computer again, measured in milliseconds).</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #ver</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Shows the current version of the game.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #vers</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Shows the current version of the game.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text> </text><link ref="HelpPage" title="Retour à l'index"/>
+   <text>                            </text><link ref="text" title="Page 1 >>>"/>
+   <nl/>
+</Page>
+
+<Page Name="Channel">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="HelpPage" title="Retour"/>
+   <link x="437" y="2" ref="HelpPage" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">          Aide d'Eternal Lands</text><nl/>
+   <text>            The Chat System</text><nl/>
+   
+   <size>Small</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/><nl/>
+   <text> - Chatting Hints -</text><nl/>
+   <nl/>
+   <text> To</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> speak locally, so everyone around you can hear you,</text><nl/>
+   <text> just type what you want to say and hit enter.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Use</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> F1 key to see all chat that has scrolled off your</text><nl/>
+   <text> screen. Use your arrow keys or your mouse's middle</text><nl/>
+   <text> button/wheel to scroll up or down.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> To</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> join a newbie help channel, type #jc 1. You will</text><nl/>
+   <text> get a message that says you have entered the newbie help</text><nl/>
+   <text> channel. Once there, type an @ before what you want to</text><nl/>
+   <text> say:</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> @hey all!</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> That will let you talk in the channel,</text><nl/>
+   <text> where people (from any map) who are in that channel</text><nl/>
+   <text> can hear you. Local people will not hear you.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> To</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> join a generic channel, type #jc number, like #jc 3.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Use</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> @ in front of what you say to talk in your active</text><nl/>
+   <text> channel. If you have joined more than 1 channel, you</text><nl/>
+   <text> can use @@number to send messages to different channels,</text><nl/>
+   <text> like</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> @@1 Hi all</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> and</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> @@4 Hi channel 4</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text>.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> To</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> leave a channel, type #lc number (thats an L, not a 1).</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> When</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> you are talking in a channel, your name will have</text><nl/>
+   <text> brackets [Playername]: hi! around it. When you talk in</text><nl/>
+   <text> local, your name will not. Playername: hi!</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> To</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> pm somebody (send them a personal message that only</text><nl/>
+   <text> they can see), you type /playername message.</text><nl/>
+   <text> Example: /Playername hello, I'm new!</text><nl/>
+   <text> To reply to the last player who sent you a pm, just</text><nl/>
+   <text> type //.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> - Current Popular Channels and Commands -</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #jc 1:</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Newbie help channel, here you can get your</text><nl/>
+   <text> questions answered. Many newbies and helpful experienced</text><nl/>
+   <text> players are on this channel.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #jc 2:</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> General help channel, questions about monsters</text><nl/>
+   <text> and advanced questions should be asked here.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #jc 3:</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This is the Market Channel, where people go to</text><nl/>
+   <text> buy and sell and trade things with each other. This</text><nl/>
+   <text> channel is strictly for buying/selling/trading, do not</text><nl/>
+   <text> chat about other stuff here.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #jc 4:</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This is the general conversation channel, where</text><nl/>
+   <text> you can chat about anything to do with EL.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #jc 5:</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This is the role-playing channel, where you can</text><nl/>
+   <text> join in group role-playing.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #jc 6:</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This is the contest channel. You can come here</text><nl/>
+   <text> if you want details about an ongoing contest.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #jc 20:</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This is the off-topic channel. Here, you can</text><nl/>
+   <text> discuss anything, EL-related, or not.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #jc guild:</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This only works if you belong to a guild;</text><nl/>
+   <text> each guild has an official guild channel that only people</text><nl/>
+   <text> who belong to the guild can talk in.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> You</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> can "make" your own chat channel. Just add any</text><nl/>
+   <text> number over 100 (just to be safe) to the #jc command.</text><nl/>
+   <text> Once you are in there type #ci to see if it is empty.</text><nl/>
+   <text> Many guilds do this in addition to their official guild</text><nl/>
+   <text> channel so they can invite guests to chat with them.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #ci:</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> this tells you what channel you are on and how many</text><nl/>
+   <text> people are on it.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> - Guild Chat Commands -</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #gm message:</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Similar to a guild channel, this lets you chat with</text><nl/>
+   <text> your guild members even if you all are in different</text><nl/>
+   <text> channels. The messages will show up in blue.</text><nl/>
+   <text> Requires rank 5.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #ig guildtag message:</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Like #gm, but for the guild you specified by their tag.</text><nl/>
+   <text> Examples: #ig eg hi everybody in EG!; #ig *o* hey *O*!</text><nl/>
+   <text> Requires rank 6.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #ig_block guildtag:</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Blocks messages from that guild.</text><nl/>
+   <text> Requires rank 18.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #ig_unblock guildtag:</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> UNblocks a guild.</text><nl/>
+   <text> Requires rank 18.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #ig_block_list:</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Lists all blocked guilds.</text><nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="HelpPage" title="Retour à l'index"/>
+   <nl/>
+</Page>
+
+<Page Name="guild">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="HelpPage" title="Retour"/>
+   <link x="437" y="2" ref="HelpPage" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>               Guild Commands</text><nl/>
+   
+   <size>medium</size>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> - Commands for Guild Leaders and Members -</text><nl/>
+   <nl/>
+   <size>small</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #make_guild</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Creates your guild. You MUST have a skill (not overall)</text><nl/>
+   <text> at level 39 or higher, and 30kgc in your inventory.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #destroy_guild</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Deletes the guild permanently. (You must have rank 20 to</text><nl/>
+   <text> do this)</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #set_name</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Sets your guild name. Guild names have to be unique. Only</text><nl/>
+   <text> guild masters (rank 20) can do this. The name can be</text><nl/>
+   <text> changed at a later time.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #set_desc</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Sets a guild's description. Something like: "Our guild is</text><nl/>
+   <text> kewl, and we kill players and we gather in Portland,</text><nl/>
+   <text> at 45 433"</text><nl/>
+   <text> Requires rank 10.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #set_url</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This sets the guild's website URL, so people can see the</text><nl/>
+   <text> guild website.</text><nl/>
+   <text> Requires rank 10.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #set_join_info</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This sets the join info field, so people can know what</text><nl/>
+   <text> your guild requires to be able to join.</text><nl/>
+   <text> Requires rank 10.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #change_owner playername</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This allows you to give your guild to somebody else who</text><nl/>
+   <text> is a member of your guild. Once you do this, you go to</text><nl/>
+   <text> rank 19, and the new guildmaster gets rank 20.</text><nl/>
+   <text> Requires rank 20. (means you have to be the guild master</text><nl/>
+   <text> to do this)</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #set_short_name (4 letters/number/symbols here)</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This option allowes you to create a guild tag for your</text><nl/>
+   <text> guild. (Example: #set_short_name *CO* ).</text><nl/>
+   <text> Requires rank 19.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #join_guild guildname</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Join a guild. You need at least a skill at 20. You</text><nl/>
+   <text> must type in the full written out name of the guild,</text><nl/>
+   <text> not their tag.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #leave_guild</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Leave your guild, you can't join another guild for</text><nl/>
+   <text> 2 ingame days.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #accept playername</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Accepts somebody into the guild.</text><nl/>
+   <text> Requires rank 15.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #remove playername</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Remove someone from the guild. A removed player doesn't</text><nl/>
+   <text> need to wait 2 days to join some other guild.</text><nl/>
+   <text> Requires rank 19.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #change_rank playername rank#</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Change someone's rank/privilege</text><nl/>
+   <text> (Example: #change_rank playername 5 ).</text><nl/>
+   <text> Requires rank 19.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #ig guildtag message</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> For all the guild messaging commands see </text>
+   <link ref="Channel" title="Chat System"/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #guild_info guildtag</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Gets you info about a guild. (Example: #guild_info EG )</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #jc guild</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Joins you to your guild's official channel.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #rank</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Shows your guild rank.</text><nl/>
+   <text> To see the guild rank of any member ranks 19+ can add</text><nl/>
+   <text> a member name after the command.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #list_guild</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Lists all guild members.</text><nl/>
+   <text> Requires rank 5.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #set_guild_color guildtag color</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Set a color for the tag of that guild (only members of</text><nl/>
+   <text> your guild can see it).</text><nl/>
+   <text> Note that currently the default color can't be restored.</text><nl/>
+   <text> Requires rank 18.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #view_guild_colors</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Shows the guild tags set to non-default color.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> - Commands for Guild Wars and Alliances -</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #set_ally_guild guildtag</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Set alliance with a guild: members of your guild won't</text><nl/>
+   <text> be able to attack allies even in PK maps.</text><nl/>
+   <text> Note that the other guild members will still be able to</text><nl/>
+   <text> attack your guild members in PK maps, unless a mutual</text><nl/>
+   <text> alliance is set.</text><nl/>
+   <text> Requires rank 18.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #unset_ally_guild guildtag</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Break alliance with a guild.</text><nl/>
+   <text> Requires rank 18.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #allies_list</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> List the guilds you are ally with.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #set_enemy_guild guildtag</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Declare war to a guild.</text><nl/>
+   <text> If the war declaration is mutual, the guilds will be at</text><nl/>
+   <text> Total War: it means that at night members of the 2 guilds</text><nl/>
+   <text> will be able to fight on every map (except Isla Prima</text><nl/>
+   <text> and the Underworld).</text><nl/>
+   <text> Note that you get no exp for fights in non-PK maps, but</text><nl/>
+   <text> you still lose items or rostogol when dying.</text><nl/>
+   <text> This command costs 1kgc and requires rank 18.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #unset_enemy_guild guildtag</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Declare peace.</text><nl/>
+   <text> This command costs 5kgc and requires rank 18.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #enemies_list</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> List the guilds you are enemy with.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #enemy_combatant</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Use this to set yourself as fighter in the Total Wars.</text><nl/>
+   <text> After using this command, a player will be able to fight</text><nl/>
+   <text> (and so being attacked too) in the Total Wars.</text><nl/>
+   <text> This command is free.</text><nl/>
+   <text> By default, everyone starts as non-combatant.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #enemy_pacifist</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Use this to set yourself as non-fighter in the Total Wars.</text><nl/>
+   <text> After using this command, a player won't be able to fight</text><nl/>
+   <text> (nor being attacked) in the Total Wars.</text><nl/>
+   <text> This command costs 50kgc.</text><nl/>
+   <text> By default, everyone starts as non-combatant.</text><nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                     </text>
+   <link ref="HelpPage" title="Retour à l'index"/>
+   <nl/>
+</Page>
+
+<Page Name="HP Interface">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="HelpPage" title="Retour"/>
+   <link x="437" y="2" ref="HelpPage" title="Index"/>
+   <text x="2" y="18">Page 1/2</text>
+   <link x="450" y="18" ref="HP Interface2" title=">>>"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">          Aide d'Eternal Lands</text><nl/>
+   <text>                 Interface</text><nl/><nl/>
+   
+   <size>Small</size>
+   <nl/><nl/>
+   
+   <size>Medium</size>
+   <simage isize="256" tsize="32" size="100" tid="0" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Big</size><color r="0.8" g="0.8" b="0.8"/>
+   <text> Marcher            </text>
+   
+   <size>Medium</size>
+   <simage isize="256" tsize="32" size="100" tid="7" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Big</size><color r="0.8" g="0.8" b="0.8"/>
+   <text> S'asseoir </text><nl/>
+   <nl/>
+   
+   <simage isize="256" tsize="32" size="100" tid="8" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
+   <text> Se lever           </text>
+   <size>Medium</size>
+   
+   <simage isize="256" tsize="32" size="100" tid="2" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Big</size><color r="0.8" g="0.8" b="0.8"/>
+   <text> Examiner       </text><nl/>
+   <nl/>
+   
+   <size>Medium</size>
+   <simage isize="256" tsize="32" size="100" tid="15" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Big</size><color r="0.8" g="0.8" b="0.8"/>
+   <text> Utiliser           </text>
+   
+   <size>Medium</size>
+   <simage isize="256" tsize="32" size="100" tid="47" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Big</size><color r="0.8" g="0.8" b="0.8"/>
+   <text> Utiliser avec  </text><nl/>
+   <nl/>
+   
+   <size>Medium</size>
+   <simage isize="256" tsize="32" size="100" tid="4" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Big</size><color r="0.8" g="0.8" b="0.8"/>
+   <text> Marchander         </text>
+   
+   <simage isize="256" tsize="32" size="100" tid="5" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Big</size><color r="0.8" g="0.8" b="0.8"/>
+   <text> Attaquer       </text><nl/>
+   <nl/>
+   
+   <simage isize="256" tsize="32" size="100" tid="11" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
+   <text> Inventaire         </text>
+   
+   <simage isize="256" tsize="32" size="100" tid="9" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
+   <text> Magie</text><nl/>
+   <nl/>
+   
+   <simage isize="256" tsize="32" size="100" tid="12" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
+   <text> Fabrication        </text>
+   
+   <simage isize="256" tsize="32" size="100" tid="13" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
+   <text> Statistiques</text><nl/>
+   <nl/>
+   
+   <simage isize="256" tsize="32" size="100" tid="39" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
+   <text> Aide               </text>
+   
+   <simage isize="256" tsize="32" size="100" tid="36" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
+   <text> Carte   </text><nl/>
+   <nl/>
+   
+   <size>Medium</size>
+   <simage isize="256" tsize="32" size="100" tid="1" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Big</size><color r="0.8" g="0.8" b="0.8"/>
+   <text> Console            </text>   
+   
+   <simage isize="256" tsize="32" size="100" tid="10" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
+   <text> Liste d'amis   </text><nl/>
+   <nl/>
+   
+   <simage isize="256" tsize="32" size="100" tid="14" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
+   <text> Options     </text><nl/>
+   <nl/>
+   <nl/>
+   
+   <size>Medium</size>
+   <color>blue</color><color r="0.4" g="0.8" b="1"/>
+   <text> BARRE BLEUE: </text><nl/>
+   <size>Small</size>
+   <text> C'est le niveau de vos "points d'ether".</text><nl/>
+   <text> On l'appelle aussi mana, vous en avez besoin pour jeter des</text><nl/>
+   <text> sorts. Vous pouvez l'augmenter avec les attributs volonté</text><nl/>
+   <text> et/ou vitalité.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <size>Medium</size>
+   <text> BARRE JAUNE: </text><nl/>
+   <size>Small</size>
+   <text> C'est votre niveau de nourriture. Vous avez besoin de</text><nl/>
+   <text> maintenir ce seuil au dessus de 0 pour rechercher (lire des</text><nl/>
+   <text> livres) et guérir (1 hp par minute). Vous faites monter</text><nl/>
+   <text> votre niveau de nourriture en mangeant des fruits, des</text><nl/>
+   <text> légumes, du pain, ou de la viande cuite. Vous ne perdez pas</text><nl/>
+   <text> de santé (barre rouge) si votre niveau de nourriture</text><nl/>
+   <text> descent en dessous de 0, mais vous ne guérissez pas pour</text><nl/>
+   <text> autant.</text><nl/>
+   <nl/>
+   <color r="1" g="0" b="0"/>
+   <size>Medium</size>
+   <text> BARRE ROUGE: </text><nl/>
+   <size>Small</size>
+   <text> C'est votre niveau de santé, aussi appelé vos "points de</text><nl/>
+   <text> matière". Ils doivent toujours être au dessus de 0, ou</text><nl/>
+   <text> vous mourrez. Vous pouvez augmenter votre maximum avec les</text><nl/>
+   <text> attributs physique et/ou volonté.</text><nl/>
+   <text> Pour vous guérir immediatement par une barre rouge pleine,</text><nl/>
+   <text> vous pouvez utiliser des sorts ou des potions de soin.</text><nl/>
+   <nl/>
+   
+   <color>olive</color><color r="1" g="0.5" b="0.5"/>
+   <size>Medium</size>
+   <text> BARRE MARRON: </text><nl/>
+   <size>Small</size>
+   <text> Cela vous indique combien d'emu (unité de poids d'EL, </text><nl/>
+   <text> ou "Energy Matter Unit") il vous reste que vous pouvez</text><nl/>
+   <text> porter. Quand vous êtes au maximum (la barre est</text><nl/>
+   <text> entièrement marron quand il reste 0), vous ne pouvez rien</text><nl/>
+   <text> porter de plus. Vous pouvez augmenter votre charge maximale</text><nl/>
+   <text> avec les attributs physique et/ou coordination.</text><nl/>
+   <nl/>
+   <color r="0" g="1" b="0.3"/>
+   <size>Medium</size>
+   <text> BARRE VERTE: </text><nl/>
+   <size>Small</size>
+   <text> Cela vous montre combien d'expérience il y a avant le</text><nl/>
+   <text> prochain niveau. Par défault cela représente l'ensemble,</text><nl/>
+   <text> mais vous pouvez lui faire indiquer n'importe quel</text><nl/>
+   <text> talent en cliquant sur l'icone statistiques et en</text><nl/>
+   <text> cliquant sur le nom de le talent que vous voulez voir</text><nl/>
+   <text> apparaitre. (Exemple: Recolte, alchimie, magie, etc.).</text><nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text> </text><link ref="HelpPage" title="Retour à l'index"/>
+   <text>                            </text><link ref="HP Interface2" title="Page 2 >>>"/>
+   <nl/>
+</Page>
+
+<Page Name="HP Interface2">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="HelpPage" title="Retour"/>
+   <link x="437" y="2" ref="HelpPage" title="Index"/>
+   <text x="2" y="18">Page 2/2</text>
+   <link x="450" y="18" ref="HP Interface" title=">>>"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">            Aide d'Eternal Lands</text><nl/>
+   <text>                 Interface</text><nl/>
+   
+   <size>Small</size>
+   <nl/><nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Small</size>
+   <text> Cliquer du bouton droit sur les icones:</text><nl/>
+   <nl/>
+   <text> Curseur </text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> sur une personne: Cliquer droit avec la souris</text><nl/>
+   <text>  sur une personne pour faire défiler les icones:</text><nl/>
+   <text>  examiner, marchander, attaquer</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Curseur </text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> sur un animal/monstre: Cliquer droit avec la</text><nl/>
+   <text>  souris sur un animal pour faire défiler les icones:</text><nl/>
+   <text>  examiner, attaquer</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Curseur </text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> sur une plante: Cliquer droit sur une plante pour</text><nl/>
+   <text>  obtenir les icones examiner (oeil) ou cueillir (pioche).</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Curseur </text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> dans la fenêtre d'inventaire: Cliquer droit sur</text><nl/>
+   <text>  un objet dans votre fenêtre d'inventaire pour avoir le</text><nl/>
+   <text>  choix parmi les icones: examiner, utiliser,</text><nl/>
+   <text>  utiliser avec, jeter (main pointant vers le bas).</text>
+   <nl/>
+   <nl/><color r="0.9" g="0.9" b="0.9"/>
+   <text> Compass Coordinates</text><nl/>
+   <nl/><color r="0.4" g="0.8" b="1"/>
+   <text> Coordinates are easy to use if you remember</text><nl/>
+   <text> a few simple things:</text><nl/>
+   <nl/><color r="0.9" g="0.9" b="0.9"/>
+   <text> 1. </text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Click the compass in the lower-right corner of your</text><nl/>
+   <text>   screen to display your current coordinates.</text><nl/>
+   <nl/><color r="0.9" g="0.9" b="0.9"/>
+   <text> 2. </text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The bottom left hand corner of the map is location 0,0.</text><nl/>
+   <nl/><color r="0.9" g="0.9" b="0.9"/>
+   <text> 3. </text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Moving North will increase the second coordinate.</text><nl/>
+   <text>   Example: you start at 20,20. Move one step North,</text><nl/>
+   <text>   you'll be at 20,21.</text><nl/>
+   <nl/><color r="0.9" g="0.9" b="0.9"/>
+   <text> 4. </text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Moving East will increase the first coordinate.</text><nl/>
+   <text>   Example: you start at 20,20. Move one step East,</text><nl/>
+   <text>   you'll be at 21,20.</text><nl/>
+   <nl/><color r="0.9" g="0.9" b="0.9"/>
+   <text> 5. </text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Moving South will decrease the second coordinate.</text><nl/>
+   <text>   Example: you start at 20,20. Move one step South,</text><nl/>
+   <text>   you'll be at 20,19.</text><nl/>
+   <nl/><color r="0.9" g="0.9" b="0.9"/>
+   <text> 6. </text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Moving West will decrease the first coordinate.</text><nl/>
+   <text>   Example: you start at 20,20. Move one step West,</text><nl/>
+   <text>   you'll be at 19,20.</text><nl/>
+   <nl/>
+   <nl/><color r="0.9" g="0.9" b="0.9"/>
+   <text> On </text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> the left side of your map screen (tab key), you can see</text><nl/>
+   <text> the coordinates of your cursor over the map.</text><nl/>
+   <text> So if you have the coordinates of a specific location,</text><nl/>
+   <text> all you need to do is move your cursor as described above</text><nl/>
+   <text> until it shows the right cursor position and click</text><nl/>
+   <text> on the map. You will then start to walk there.</text><nl/>
+   <text> This may not work in all places, since there might be no</text><nl/>
+   <text> direct path to your target destination.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text> </text><link ref="HelpPage" title="Retour à l'index"/>
+   <text>                            </text><link ref="HP Interface" title="Page 1 >>>"/>
+   <nl/>
+</Page>
+
+<Page Name="AbbrAcr">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="HelpPage" title="Retour"/>
+   <link x="437" y="2" ref="HelpPage" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">          Aide d'Eternal Lands</text><nl/>
+   <text>         What does this mean...</text><nl/>
+   
+   <nl/>
+   <size>Medium</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> - Abbreviations and Acronyms-</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> IP   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Isla Prima, the map you first enter the game on.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> WS   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> White Stone</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> WSC  -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> White Stone City</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> LS   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Lakeside, the little village by the docks of the</text><nlkx/>
+   <text> huge White Stone/Lakeside map</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> DP   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Desert Pines</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> CC   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Crystal Cavern</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> VotD -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Valley of the Dwarves, also called Mynadar</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> PL   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Portland</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> GP   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Grubani Peninsula</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> KF   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Kilaran Field</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> SKF  -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> South Kilaran Field</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> MM   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Morcraven Marsh</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> NC   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Nordcarn</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> TG   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Tarsengaard</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Serp -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Titanium Serpent Sword</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> FE   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> fire essence</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> EFE  -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Enriched Fire Essence</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> WE   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> water essence</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> LE   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> life essence</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> ME   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> magic essence</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> HE   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> health essence</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> SR   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> spirit restoration potion</text><nlkx/>
+   <text> (also can be called spirit rest or mind rest)</text><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> BR   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> body restoration potion (also called body rest)</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> afk  -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Away From Keyboard</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> ty   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Thank you</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> yw   -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> You're welcome</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> tyvm -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Thank you very much</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> brb  -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> be right back</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> lol  -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> laughing out loud</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> omg  -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> oh my god</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> iirc -</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> if I recall/remember correctly</text><nl/>
+   <nl/>
+   
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="HelpPage" title="Retour à l'index"/>
+   <nl/>
+</Page>
+
+<Page Name="tips">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="HelpPage" title="Retour"/>
+   <link x="437" y="2" ref="HelpPage" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">          Aide d'Eternal Lands</text><nl/>
+   <text>                  Tips</text><nl/>
+   
+   <size>Small</size>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> If</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> you are planning on making a test character to try</text><nl/>
+   <text> out the game or experiment on your character's looks</text><nl/>
+   <text> first, please still follow the name creation rules. Any</text><nl/>
+   <text> obscene names or utterly stupid senseless names such as</text><nl/>
+   <text> kdjfgli4577dl WILL be deleted, no matter what their</text><nl/>
+   <text> purpose.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> You</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> need to eat food (fruits, veggies, bread, cooked</text><nl/>
+   <text> meat) to keep your food level (yellow bar) over 0. When</text><nl/>
+   <text> your food level is over 0, you automatically heal 1 hp</text><nl/>
+   <text> per minute.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> The</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Tutorial NPC (located right near wraith where you</text><nl/>
+   <text> first entered the game) offers mini quests which help you</text><nl/>
+   <text> learn how to navigate around EL. You get free armour and</text><nl/>
+   <text> a weapon when you complete it.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> The</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Tutorial NPC (located right near wraith where you</text><nl/>
+   <text> first entered the game) can heal you until you get your</text><nl/>
+   <text> attack skill to 17.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> There</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> are several ways to adjust your ingame picture</text><nl/>
+   <text> and angle. You can use your left, right, up, and down</text><nl/>
+   <text> arrow keys, or move your mouse up/down or side to side</text><nl/>
+   <text> while holding your mouse's middle button/wheel down at</text><nl/>
+   <text> the same time.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> For</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> combat training, start out in this order: rabbits,</text><nl/>
+   <text> rats, beavers, deer. You should not move on to the next</text><nl/>
+   <text> animal until you can safely fight rabbits with no health</text><nl/>
+   <text> loss. Don't forget to eat to maintain a positive food</text><nl/>
+   <text> level. To engage the animal in fighting, make sure you</text><nl/>
+   <text> are close to it and just click on it. You should see your</text><nl/>
+   <text> cursor turn into a little sword when it is over the</text><nl/>
+   <text> animal.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Food</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> can be bought at the taverns (orange dots on your</text><nl/>
+   <text> map). Veggies and fruit can be harvested, and bread can</text><nl/>
+   <text> be found on the ground in bags on the path near the</text><nl/>
+   <text> docks.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> If</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> you die while fighting animals, you will end up in</text><nl/>
+   <text> the underworld. To get out of the underworld, you need to</text><nl/>
+   <text> head north (use your compass on the right of your</text><nl/>
+   <text> screen) until you come to some large orange steps with</text><nl/>
+   <text> candles on each side. That is the exit.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> You</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> can sell raw meat and rabbit furs at the tavern for</text><nl/>
+   <text> gc (EL's currency, "Gold Coins"), or you can cook the</text><nl/>
+   <text> raw meat over a burning campfire for food.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> The</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> easiest way to make gc is to sell flowers that you</text><nl/>
+   <text> harvest at a flower shop (pink dots on your tabbed map).</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> The</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> EL forums are a great way to get more help and</text><nl/>
+   <text> information. Also click on the encyclopedia tab for more</text><nl/>
+   <text> detailed information on anything mentioned here.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> EL</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> also has some great fan help sites, well worth the</text><nl/>
+   <text> reading.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> To</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> leave Isla Prima (the map you are on), you can walk</text><nl/>
+   <text> down to the docks and click on the flag on the ship you</text><nl/>
+   <text> see there. That will transport you to Lakeside.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> An</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> easy way to mark points on your tabbed map: right</text><nl/>
+   <text> click on the spot you want to mark (that will make a</text><nl/>
+   <text> yellow x), then type what you want to call it, then hit</text><nl/>
+   <text> enter. That will make your x and location name green and</text><nl/>
+   <text> will stay there until you remove it. To remove it, go</text><nl/>
+   <text> back into your tabbed map, and hit your ctrl key and</text><nl/>
+   <text> right click on the x. That will remove both the x and the</text><nl/>
+   <text> name.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> You</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> can get harvest experience for the first 120 items</text><nl/>
+   <text> you harvest per EL hour. Once you have finished that</text><nl/>
+   <text> amount, you will get no more experience until the new</text><nl/>
+   <text> hour. You can continue harvesting to gather the item. You</text><nl/>
+   <text> must be logged in when the new hour starts in order to</text><nl/>
+   <text> be able to get experience for that hour.</text><nl/>
+   
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="HelpPage" title="Retour à l'index"/>
+   <nl/>
+</Page>
+
+<Page Name="NFAQ">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="HelpPage" title="Retour"/>
+   <link x="437" y="2" ref="HelpPage" title="Index"/>
+   <text x="2" y="18">Page 1/2</text>
+   <link x="450" y="18" ref="NFAQ2" title=">>>"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">          Aide d'Eternal Lands</text><nl/>
+   <text>               Newbie FAQ</text><nl/>
+   
+   <size>Small</size>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> I'm new, what do I do?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Well the easiest way to start is to visit the Tutorial</text><nl/>
+   <text> NPC who is located right near the Wraith where you</text><nl/>
+   <text> first joined the game. He will teach you some basic EL</text><nl/>
+   <text> skills, such as harvesting, hunting animals, and finding</text><nl/>
+   <text> your way around the maps. When you are done with him,</text><nl/>
+   <text> he will give you free armour and a weapon.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> What is a HUD?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The HUD (Heads Up Display) is the brown</text><nl/>
+   <text> bar at the bottom and right of your screen that has all</text><nl/>
+   <text> your icons and information bars on it.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> What is this "console" I hear people talk about?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The phrases "console" and "F1" mean the same thing. Your</text><nl/>
+   <text> console mode is where all your chat is located since you</text><nl/>
+   <text> last logged on. If you hit your F1 key, or your computer</text><nl/>
+   <text> monitor icon in your HUD, it will show a black screen</text><nl/>
+   <text> with all of your chat that has rolled off your screen.</text><nl/>
+   <text> You can scroll up or down with your arrow keys to see</text><nl/>
+   <text> everything that was said.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> How do I eat?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Click on your "use" icon (the pointy finger)</text><nl/>
+   <text> at the bottom of your screen on the HUD. Then</text><nl/>
+   <text> click on your food item that is in your inventory.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> How do I see my inventory?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Click on the bag icon in your HUD. That will open up</text><nl/>
+   <text> your inventory and you can see everything in your bag.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> How do I read my books?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Click on the "use" icon at the bottom of your screen</text><nl/>
+   <text> and then click on the book in your inventory.</text><nl/>
+   <text> It will disappear and you will get a message saying</text><nl/>
+   <text> you are researching "such and such book".</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> How do I know what level I am?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Click on the bar graph icon in your HUD and that will</text><nl/>
+   <text> bring up a chart that shows all your skill levels</text><nl/>
+   <text> and your nexuses and attributes.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> How do I walk?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Click on the "walk" icon (first one from the left)</text><nl/>
+   <text> and just click the ground a little ways away.</text><nl/>
+   <text> You will walk to that spot. You can also hit your "home"</text><nl/>
+   <text> key and you will walk forward 1 step. For more advanced</text><nl/>
+   <text> walking, hit "tab" key and click on the spot you want to</text><nl/>
+   <text> get to on the map. Hit tab again, and you will see</text><nl/>
+   <text> yourself walking to that spot!</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Does sitting make me heal faster?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> When sitting, every minute there is a little chance to</text><nl/>
+   <text> regenerate 2hp instead of only 1hp.</text><nl/>
+   <text> It also looks nice for roleplaying.</text><nl/>
+   <text> However it IS the courteous thing to do when you are at a</text><nl/>
+   <text> storage or mining/harvesting something. It lets more</text><nl/>
+   <text> people be able to reach around you to click on the</text><nl/>
+   <text> storage npc or item being mined/harvested.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Can you give me free stuff?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> No. Everyone here started as a newbie and had to learn</text><nl/>
+   <text> how to make money and get items on their own.</text><nl/>
+   <text> Please don't ask that in this game.</text><nl/>
+   <text> It will only make the other players annoyed with you.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> How do I look at the map to know where I am?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Click on your tab key or the map icon on your HUD.</text><nl/>
+   <text> You are where the blue X is on the map.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Help! I died and don't know where I am or how to get out!</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> You have landed in the underworld. To get out, you</text><nl/>
+   <text> need to head north until you reach the huge set of orange</text><nl/>
+   <text> steps with candles on each side. That is the exit.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> What is the easiest and fastest way to make money?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Kill rabbits and sell their fur and meat to any tavern</text><nl/>
+   <text> (orange dots on maps). You can also harvest flowers and</text><nl/>
+   <text> sell them to any flower shop (pink dots on maps).</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text> </text><link ref="HelpPage" title="Retour à l'index"/>
+   <text>                            </text><link ref="NFAQ2" title="Page 2 >>>"/>
+   <nl/>
+</Page>
+
+<Page Name="NFAQ2">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="HelpPage" title="Retour"/>
+   <link x="437" y="2" ref="HelpPage" title="Index"/>
+   <text x="2" y="18">Page 2/2</text>
+   <link x="450" y="18" ref="NFAQ" title=">>>"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">          Aide d'Eternal Lands</text><nl/>
+   <text>               Newbie FAQ</text><nl/>
+   
+   <size>Small</size>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Can somebody heal me?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Please don't ask people to heal you. If there are any</text><nl/>
+   <text> healers around, they will heal you if they want to.</text><nl/>
+   <text> Odds are they are more likely to do so if you do NOT ask.</text><nl/>
+   <text> Tutorial NPC will heal you if your attack is below 17.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>  
+   <text> How do I cook meat?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> First you need to find a burning campfire.</text><nl/>
+   <text> You need to click on your "use with" (fist) icon, then</text><nl/>
+   <text> drag the raw meat over to the fire and click again right</text><nl/>
+   <text> on the fire to "drop" the meat. It will automatically</text><nl/>
+   <text> show up then in your inventory as cooked meat.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> How do I start a fire?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> You need to find an outdoor campfire, such as the one</text><nl/>
+   <text> at the beam point on Isla Prima. You then need a</text><nl/>
+   <text> fire essence (see alchemy in the encyclopedia) and</text><nl/>
+   <text> a branch or log. Click on your "use with" (fist) icon,</text><nl/>
+   <text> then click on your log and drag it over to the campfire.</text><nl/>
+   <text> Click again to drop it. You will get a white message</text><nl/>
+   <text> saying "you have put logs on the fire". Repeat with the</text><nl/>
+   <text> fire essence. Your fire should burst into blaze.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Where can I get swords and armour?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> You can do the 3 mini quests of the Tutorial NPC right</text><nl/>
+   <text> near Wraith (where you first entered the game).</text><nl/>
+   <text> He offers free armour and a weapon when you successfully</text><nl/>
+   <text> complete them. You also can buy them from blacksmith shops</text><nl/>
+   <text> or other players but first you need to earn some money.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> How do I equip weapons and armour?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Click on the item and drag it to one of the 8 squares</text><nl/>
+   <text> on the right side of your inventory window.</text><nl/>
+   <text> You may equip up to 8 items at one time.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Where do I find more quests?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> To find quests explore the maps and talk to the NPCs you</text><nl/>
+   <text> meet (people with a blue name), some of them could have a</text><nl/>
+   <text> quest for you; some quests are easy, but some are difficult</text><nl/>
+   <text> and require you to go in dangerous places: wait till you</text><nl/>
+   <text> are more experienced before trying to complete them.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> What attributes/perks/nexuses should I get?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Go to the Wraith and read each description.</text><nl/>
+   <text> That is something you need to decide for yourself.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> How do I get the books I need from the library?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> You don't get books from the library, you get books</text><nl/>
+   <text> from the booksellers. The booksellers are spread out all</text><nl/>
+   <text> across EL, check your encyclopedia for exact locations.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> What is the Joker?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The Joker is an NPC (non-playing character) that spawns</text><nl/>
+   <text> randomly on all of the maps. If you find him and click</text><nl/>
+   <text> on him, you will win a prize as long as you have a slot</text><nl/>
+   <text> and emu available to carry it. Once somebody finds him,</text><nl/>
+   <text> he disappears and respawns someplace else.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> How long is an ingame hour?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> An ingame hour is just about as long as a real life hour,</text><nl/>
+   <text> give or take a minute.</text><nl/>
+   <text> It isn't exact down to the second, but close enough.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Why do we have wine/ale/mead if I can't drink it?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Wine, ale, and mead are used in potion making.</text><nl/>
+   <text> You can learn about potions in the encyclopedia.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> What is a bot?</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> A bot is a character that is controlled by a program</text><nl/>
+   <text> instead of a person, and must follow a special set of</text><nl/>
+   <text> ingame rules.</text><nl/>
+   <text> All the info and rules about bots can be found in the</text><nl/>
+   <text> Bots section of the EL forums:</text><nl/>
+   <text> http://www.eternal-lands.com/forum/index.php?showforum=48</text><nl/>
+   
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text> </text><link ref="HelpPage" title="Retour à l'index"/>
+   <text>                            </text><link ref="NFAQ" title="Page 1 >>>"/>
+   <nl/>
+</Page>
+
+<Page Name="SFAQ">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="HelpPage" title="Retour"/>
+   <link x="437" y="2" ref="HelpPage" title="Index"/>
+   <text x="2" y="18">Page 1/2</text>
+   <link x="450" y="18" ref="SFAQ2" title=">>>"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">          Aide d'Eternal Lands</text><nl/>
+   <text>               Skills FAQ</text><nl/>
+   
+   <size>Small</size>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> What is.....?</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Harvesting:</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This skill lets you collect the resources found in the</text><nl/>
+   <text> Eternal Lands. Almost every other skill needs the items</text><nl/>
+   <text> you mine or harvest, so this is a good useful way to start</text><nl/>
+   <text> getting experience. To harvest flowers, herbs, fruits and</text><nl/>
+   <text> vegetables, you do not need any tools. You need leather</text><nl/>
+   <text> gloves to harvest cactus and sulphur, and a pickaxe to</text><nl/>
+   <text> harvest coal, quartz, gems, and metal ore. You also need</text><nl/>
+   <text> the appropriate knowledge (book reading) and nexuses to</text><nl/>
+   <text> harvest quartz and higher.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Manufacturing:</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> A skill to make clothing, weapons, and armour.</text><nl/>
+   <text> To manufacture something you need the appropriate</text><nl/>
+   <text> ingredients and tools (check encyclopedia) in your</text><nl/>
+   <text> inventory. You will also need the appropriate knowledge</text><nl/>
+   <text> and nexuses to manufacture most items. Manufacturing is</text><nl/>
+   <text> done in the Manufacturing window (hammer and anvil icon).</text><nl/>
+   <text> Click the ingredients to move them to the slots, then</text><nl/>
+   <text> click Mix to make the item. You need a positive food</text><nl/>
+   <text> level to be able to manufacture any item. The higher</text><nl/>
+   <text> your skill level, the less you will fail.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Alchemy:</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Alchemy is the making of metal bars (used in</text><nl/>
+   <text> manufacturing and some potions), and essences used in</text><nl/>
+   <text> magic spells. Alchemy is also done in the Manufacturing</text><nl/>
+   <text> window (hammer and anvil icon). Click the ingredients to</text><nl/>
+   <text> move them to the component slots, then click Mix to make</text><nl/>
+   <text> the item. You need a positive food level to be able to</text><nl/>
+   <text> use your alchemy skill. The higher the skill the less</text><nl/>
+   <text> you will fail in alchemy.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Potions:</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This skill lets you make all kinds of potions</text><nl/>
+   <text> that can help you in all skills. To make potions you need</text><nl/>
+   <text> vials, the appropriate ingredients and a Mortar and</text><nl/>
+   <text> Pestle in your inventory. As with all skills, you will</text><nl/>
+   <text> also need the appropriate knowledge and nexuses. Potions</text><nl/>
+   <text> are made in the Manufacturing window (hammer and anvil</text><nl/>
+   <text> icon). Click the ingredients to move them to the slots,</text><nl/>
+   <text> then click Mix to make the potion. You need a positive</text><nl/>
+   <text> food level to be able to make any potion.</text><nl/>
+   <text> The higher your skill level, the less you will fail in</text><nl/>
+   <text> potionmaking.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text> </text><link ref="HelpPage" title="Retour à l'index"/>
+   <text>                            </text><link ref="SFAQ2" title="Page 2 >>>"/>
+   <nl/>
+</Page>
+
+<Page Name="SFAQ2">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="HelpPage" title="Retour"/>
+   <link x="437" y="2" ref="HelpPage" title="Index"/>
+   <text x="2" y="18">Page 2/2</text>
+   <link x="450" y="18" ref="SFAQ" title=">>>"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">          Aide d'Eternal Lands</text><nl/>
+   <text>               Skills FAQ</text><nl/>
+   
+   <size>Small</size>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> What is.....?</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magic:</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> A skill for spellcasters. There are many helpful</text><nl/>
+   <text> and fun spells available to the student of the magic</text><nl/>
+   <text> arts, but this is the only skill with required levels</text><nl/>
+   <text> for each spell. The higher your skill level, the better</text><nl/>
+   <text> and more powerful spells you are allowed to attempt. To</text><nl/>
+   <text> cast any spell you need the correct sigils (purchased</text><nl/>
+   <text> from magic shops) and essences (either made by an</text><nl/>
+   <text> alchemist, or purchased from magic shops). Sigils are</text><nl/>
+   <text> permanent, meaning: once bought they will remain forever.</text><nl/>
+   <text> To cast a spell you need to have the appropriate</text><nl/>
+   <text> essences in your inventory. Then open your Magic window</text><nl/>
+   <text> (magic wand icon). Your sigils are contained here. Click</text><nl/>
+   <text> the sigils in the correct order and then click Cast to</text><nl/>
+   <text> invoke the magic spell. Magic uses ethereal points, also</text><nl/>
+   <text> called mana (your blue bar).</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Summoning:</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> A skill to summon living creatures from a set of</text><nl/>
+   <text> ingredients. Summoning is a popular skill for advanced</text><nl/>
+   <text> fighters, since you can use these creatures to attack</text><nl/>
+   <text> opponents. Many summon just for fun also. Summoning is</text><nl/>
+   <text> done in the Manufacturing window (hammer and anvil</text><nl/>
+   <text> icon). Click the correct ingredients to move them to the</text><nl/>
+   <text> slots, then click Mix to summon the creature. These</text><nl/>
+   <text> creatures have a short life span. You need a positive</text><nl/>
+   <text> food level to be able to use your summoning skill. The</text><nl/>
+   <text> higher your skill level, the less you will fail in</text><nl/>
+   <text> summoning.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Attack:</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> A skill that determines your chances to hit an opponent</text><nl/>
+   <text> and to deliver some damage. With a higher skill</text><nl/>
+   <text> level comes the ability to "see" your opponent's</text><nl/>
+   <text> weaknesses, and thus allowing you to land more</text><nl/>
+   <text> successful blows.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Defense:</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> A skill that allows you to dodge attacks from your</text><nl/>
+   <text> opponent. With a higher skill level comes the ability</text><nl/>
+   <text> to "see" your opponent's offensive strategies, and thus</text><nl/>
+   <text> allowing you to react to and avoid those attacks.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Crafting:</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> A skill for more advanced players. This is where you make</text><nl/>
+   <text> "jewelry"...rings and medallions, both plain and magical.</text><nl/>
+   <text> Your teleport rings and fighting medallions are the most</text><nl/>
+   <text> popular items made with this skill.However this skill</text><nl/>
+   <text> requires a LOT of reading, gold and silver bars</text><nl/>
+   <text> (alchemy), plenty of gc, and at least one artificial</text><nl/>
+   <text> nexus to even attempt to start. You need a positive food</text><nl/>
+   <text> level to craft, and the higher your skill level,</text><nl/>
+   <text> the less you will fail making items.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text> </text><link ref="HelpPage" title="Retour à l'index"/>
+   <text>                            </text><link ref="SFAQ" title="Page 1 >>>"/>
+   <nl/>
+</Page>
+
+<Page Name="Passwords">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="HelpPage" title="Retour"/>
+   <link x="437" y="2" ref="HelpPage" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>             Choosing Passwords</text><nl/>
+   
+   <size>Small</size>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Creating Strong Passwords:</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Passwords are often guessed, or 'cracked' by trying</text><nl/>
+   <text> common words, phrases, sequences of characters, or</text><nl/>
+   <text> personal information as passwords. Therefore, simple</text><nl/>
+   <text> passwords should be avoided, such as 'pass', or your</text><nl/>
+   <text> username.</text><nl/>
+   <nl/>
+   <text> The strongest passwords are longer, and contain upper</text><nl/>
+   <text> and lowercase letters, digits, and symbols. A good</text><nl/>
+   <text> idea is to create passphrases which are easy for you</text><nl/>
+   <text> to remember but hard for others to guess, and make</text><nl/>
+   <text> your passwords from the starting letters.</text><nl/>
+   <text> For example, I might use 'Iw2faRS', standing for 'I</text><nl/>
+   <text> want to find a Rostogol Stone'. This would be very hard</text><nl/>
+   <text> for somebody else to guess, even using a dictionary</text><nl/>
+   <text> attack.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Good Password Practices:</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> However, password strength isn't the only thing you may</text><nl/>
+   <text> have to worry about. Here are some other tips which you</text><nl/>
+   <text> should remember when choosing a password:</text><nl/>
+   <nl/>
+   <text> * Use passwords you can remember; A strong password</text><nl/>
+   <text>   will be useless if you write it down, and it is found.</text><nl/>
+   <text>   This also applies to the built-in password memory in</text><nl/>
+   <text>   el.ini - if your computer is compromised, or shared,</text><nl/>
+   <text>   someone else will likely discover your password.</text><nl/>
+   <nl/>
+   <text> * Don't reuse passwords you have for other accounts or</text><nl/>
+   <text>   services. If somebody finds out one password, you</text><nl/>
+   <text>   might lose far more than your Eternal Lands account.</text><nl/>
+   <nl/>
+   <text> * Change your password if you suspect someone may know</text><nl/>
+   <text>   it, or be easily able to guess it. You can change it</text><nl/>
+   <text>   often if you want extra security, using #change_pass.</text><nl/>
+   <nl/>
+   <text> * Finally, never, NEVER give your password to anybody.</text><nl/>
+   <text>   Doing so is not only foolish, but also breaks rule #4.</text><nl/>
+   <text>   Remember, if you lose your account this way, you'll</text><nl/>
+   <text>   have no help getting it back!</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="HelpPage" title="Retour à l'index"/>
+   <nl/>
+</Page>
+
+<Page Name="Calendar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="HelpPage" title="Retour"/>
+   <link x="437" y="2" ref="HelpPage" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>           Calendar of the Elders</text><nl/>
+   <size>Small</size>
+   <nl/><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The world of Draia uses it's own calendar.</text><nl/>
+   <text> This calendar is known as the Calendar of the Elders.</text><nl/>
+   <text> It has a year of 360 days, and each day is 6 hours long.</text><nl/>
+   <text> The Elder-year has 12 months of 30 days, each month is</text><nl/>
+   <text> divided into five 6 day periods.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> ~ The Months ~</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Aluwia</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Aluwia marks the beginning of the Elder year. It is the</text><nl/>
+   <text> first month of spring, also know as Month of Aluwen,</text><nl/>
+   <text> The birth or The beginning.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Seedar</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The second month is Seedar. This month is a month spent</text><nl/>
+   <text> planning, planting, and preparing.</text><nl/>
+   <text> Also know as Seed-time.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Akbar</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Rain month. Prayers go to the hope for rain. With the aid</text><nl/>
+   <text> of Centau the lands may be blessed with water.</text><nl/>
+   <text> End of spring.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zartia</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The month of beauty. Flowers are abundant and the lands</text><nl/>
+   <text> are fertile. Name from Zarin, the Goddess of Beauty and</text><nl/>
+   <text> the Arts.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Elandra</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Midsummer, the peak of summer which is a blessing in some</text><nl/>
+   <text> parts and a hot dry month in the rain/dry season parts.</text><nl/>
+   <text> Name from Elandria.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Viasia</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Month of the mystics, also called Goldleaf.</text><nl/>
+   <text> Wielders of the magical or arcane will feel a special</text><nl/>
+   <text> bond to the lands.</text><nl/>
+   <text> End of summer.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Fruitfall</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Time to harvest, beginning of autumn and also a time to</text><nl/>
+   <text> remember lost ones</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Mortia</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Darkness falls over the lands. This is height of decay.</text><nl/>
+   <text> Supplies not prepared will rot, animals born likely to be</text><nl/>
+   <text> freaks. Followers of Mortos, the god of destruction, hold</text><nl/>
+   <text> this month in high esteem.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Carnelar</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Month of wise choices. Winter is coming, it is time to</text><nl/>
+   <text> make preparations. Gathering of supplies for the winter,</text><nl/>
+   <text> many sacrifices to the gods. End of fall.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nimlos</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Sometimes refered to as "the flake" or "the end"</text><nl/>
+   <text> Beginning of winter/rain season.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Chimar</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The Month of the Chimeran wolves. A harsh cold month even</text><nl/>
+   <text> the rain forests/jungles are colder than usual.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vesepia</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Month of suffering and betrayal. Many deaths as supplies</text><nl/>
+   <text> run out. End of winter/rain season.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> ~ The Days ~</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <nl/>
+   <text> There is no such term as week in the Elders' calendar.</text><nl/>
+   <text> When referring to a date, you state day, month and year.</text><nl/>
+   <text> The days of the Elders are: Aurun, Dranun, Worun,</text><nl/>
+   <text> Mortun, Zarun and Terun.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Aurun</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The First Day and the mark of dawn, the first light or</text><nl/>
+   <text> the beginning.</text><nl/>
+   <text> This is a work-day for the commoners.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dranun</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The World Day, where important decisions are taken.</text><nl/>
+   <text> This is a work-day for the commoners.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Worun</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The Weather and Godsday, which means that you often do</text><nl/>
+   <text> Temple service.</text><nl/>
+   <text> This is a day of worship for the commoners.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Mortun</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The Day of sorrow. The day is in memory of the dead.</text><nl/>
+   <text> This is a work-day for the commoners.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zarun</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The Joy-day, a day of happiness. There is usually some</text><nl/>
+   <text> kind of festival held at night after work.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Terun</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The Day of the Loved Ones. For the commoners its a half</text><nl/>
+   <text> day of work, then rest.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> ~ The Special Days ~</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <nl/>
+   <text> There are many special days: they happen randomly</text><nl/>
+   <text> and unpredictably.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Scholars Day</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> More experience in any skill, cummulative with the gods</text><nl/>
+   <text> bonus exp.</text><nl/>
+   <text> Role Playing: A group of scholars is visting our lands,</text><nl/>
+   <text> spreading knowledge all over.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Solar Flares</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Today, if you are outside at daytime, you lose 2 hp/min.</text><nl/>
+   <text> Role Playing: Our scientists have noticed a solar</text><nl/>
+   <text> activity increase, so the UV rays and the solar wind are</text><nl/>
+   <text> going to cause damage to all living beings (Isla Prima</text><nl/>
+   <text> not affected). We recommend staying indoors during the</text><nl/>
+   <text> daytime.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Day of the print</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Today there is a chance that when you start reading a</text><nl/>
+   <text> book you will instantly assimilate the knowledge.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Acid Rain Day</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Each minute you spend outside when it rains, there</text><nl/>
+   <text> is a chance for the items you WEAR to get damaged or</text><nl/>
+   <text> destroyed.</text><nl/>
+   <text> Role Playing: Our scientists have discovered an increase</text><nl/>
+   <text> in the acidity of the rain, due to the increased</text><nl/>
+   <text> pollution from the dwarf and gnome factories. Anyone</text><nl/>
+   <text> being hit by the rain might lose some of the items they</text><nl/>
+   <text> wear.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Day of the Dead</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> This day, there is a random chance that when an entity</text><nl/>
+   <text> dies (human or computer controlled) it will respawn full</text><nl/>
+   <text> health where it died, without droping any items or using</text><nl/>
+   <text> rostogol stones.</text><nl/>
+   <text> Role Playing: Mortos has some extra power today, so he</text><nl/>
+   <text> will randomly save any living (or undead) being from</text><nl/>
+   <text> its ultimate fate.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Day of Fasting</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> No eating this day.</text><nl/>
+   <text> Role Playing: Today is the day when we pay respect to our</text><nl/>
+   <text> gods, wether we respect them or not :D</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Reconstruction Day</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Today, there is a chance that when you use an item, it</text><nl/>
+   <text> will not dissapear from your inventory.</text><nl/>
+   <text> Role Playing: For reasons unknown to us, perhaps a time</text><nl/>
+   <text> space anomaly, some items do not dissapear after being</text><nl/>
+   <text> used.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Scotty's Vacation</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> No #beam me today.</text><nl/>
+   <text> Role Playing: Umm.. Scotty has to take his cat to the vet</text><nl/>
+   <text> today, so he can't beam you up.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Green Day</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> No harvesting of any kind today.</text><nl/>
+   <text> Role Playing: Today we honor Mother Nature by not</text><nl/>
+   <text> stripping her off her resources.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Decreased Harvesting Events Day</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Today there is reduced chance to trigger random</text><nl/>
+   <text> harvesting events.</text><nl/>
+   <text> Role Playing: Gaia is pissed off today, she decleared</text><nl/>
+   <text> that today random events while harvesting will be even</text><nl/>
+   <text> more rare.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Increased Harvesting Events Day</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Today there is an increased chance to trigger random</text><nl/>
+   <text> harvesting events.</text><nl/>
+   <text> Role Playing: Gaia is happy today, she is granting</text><nl/>
+   <text> additional random events to those that harvest today.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Day of Aleksei Stakhanov</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Experience x3 from Harvesting.</text><nl/>
+   <text> Role Playing: Aleksei Stakhanov is in the town today,</text><nl/>
+   <text> teaching how to harvest resources more effectively.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Scientists Day</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> No knowledge required today (for harvest, manufacture,</text><nl/>
+   <text> alchemy, etc.).</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Peace Day</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> No fighting today, you can't attack players, animals or</text><nl/>
+   <text> monsters, and the animals or monsters won't attack you</text><nl/>
+   <text> either.</text><nl/>
+   <text> Role Playing: Today we celebrate life and, as such, we</text><nl/>
+   <text> will not fight with eachother, nor will will harm any</text><nl/>
+   <text> life form.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Day of the Brave</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> No fleeing from combat today (not even with diss rings).</text><nl/>
+   <text> Role Playing: Today everyone is so brave, so that no one</text><nl/>
+   <text> can flee from a fight. So all the fights are to death.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> No Drops Day</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> No items drop when players or creatures die.</text><nl/>
+   <text> Rostogol stones will dissapear as usually though.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Day of No Rostogols</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Today the rostogol stones do not work.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Day of No Grief</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Items don't break in combat today.</text><nl/>
+   <text> Role Playing: Today our planet is passing throughout an</text><nl/>
+   <text> area in our universe where the electromagnetic law is</text><nl/>
+   <text> slightly different, and this is causing the armors,</text><nl/>
+   <text> weapons and clothes to never break for the duration of</text><nl/>
+   <text> this day.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Day of More Grief</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Higher chances of items breaking in combat, today.</text><nl/>
+   <text> Role Playing: Today our planet is passing throughout an</text><nl/>
+   <text> area in our universe where the electromagnetic law is</text><nl/>
+   <text> slightly different, and this is causing the armors,</text><nl/>
+   <text> weapons and clothes to be slightly weaker, thus</text><nl/>
+   <text> increasing their chance to break.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Day of Sun Tzu</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> You get double experience for Attack and Defense.</text><nl/>
+   <text> Role Playing: Sun Tzu is in town, teaching people about</text><nl/>
+   <text> how to be better at killing others.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Healing Day</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> 5 health points restored every minute, regardless of</text><nl/>
+   <text> food level.</text><nl/>
+   <text> Role Playing: Today it is Aluwen's birthday, so everyone</text><nl/>
+   <text> get their health restored much, much faster.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Labour Day</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> No manufacturing (anything requiring the mix window)</text><nl/>
+   <text> today.</text><nl/>
+   <text> Role Playing: Today we celebrate the labour day, by..,</text><nl/>
+   <text> umm not working. Makes perfect sense, doesn't it?</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Decreased Rare Manufacturing Day</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Decreased rate of producing a better product today while</text><nl/>
+   <text> creating new items (manufacture, alchemy, etc.).</text><nl/>
+   <text> Role Playing: All the gods that patron manufacture</text><nl/>
+   <text> related skills are mad at j00, so that might reflect in</text><nl/>
+   <text> your today's production of items.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Increased Rare Manufacturing Day</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Increased rate of producing a better product today while</text><nl/>
+   <text> creating items (manufacture, alchemy, etc.).</text><nl/>
+   <text> Role Playing: All the gods that patron manufacture</text><nl/>
+   <text> related skills are happy, so that might reflect in your</text><nl/>
+   <text> today's production of items.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Day of Murphy</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> ALL the failures are critical (ingredients lost).</text><nl/>
+   <text> Role Playing: Anything that can go wrong, will.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="HelpPage" title="Retour à l'index"/>
+   <nl/>
+</Page>
+</Help>

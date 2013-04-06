@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<filter>
+		<toolong>Palabra demasiado larga, el límite está in 15 caracteres.</toolong>
+		<tooshort>Palabra demasiado corta, sólo palabras de dos o más caracteres están permitidas.</tooshort>
+		<notadd>Palabra NO añadida a la lista de filtros.</notadd>
+		<already>%s ya está incluída en la lista.</already>
+		<add>OK, %s se añadió a la lista.</add>
+		<norem>Palabra NO eliminada de la lista.</norem>
+		<not>%s no está en la lista de filtros.</not>
+		<rem>%s se eliminó de tu lista de filtros.</rem>
+		<none>Lista de filtros vacía!</none>
+		<cur>Actualmente estás filtrando</cur>
+		<flistfull>Tu lista de filtros está llena, no puedes añadir más.</flistfull>
+	</filter>
+	<ignore>
+		<toolong>Nombre demasiado largo, el límite está in 15 caracteres.</toolong>
+		<tooshort>Nombre demasiado corto, sólo nombres de dos o más caracteres están permitidos.</tooshort>
+		<noadd>Nombre NO añadido a la lista de filtros.</noadd>
+		<already>%s ya está incluído en la lista.</already>
+		<full>Tu lista de ignorados está llena, operación imposible.</full>
+		<add>%s fue añadido a tu lista.</add>
+		<norem>Nombre NO eliminado de la lista.</norem>
+		<not>%s no está en tu lista de ignorados.</not>
+		<rem>%s fue eliminado de tu lista de ignorados.</rem>
+		<none>Tu lista de ignorados está vacía!</none>
+		<cur>Ahora mismo está ignorando a</cur>
+	</ignore>
+	<misc>
+		<log>Monitorizando conexión</log>
+		<card>Tarjeta de video</card>
+		<vendor>Información del fabricante</vendor>
+		<ext>Extensiones soportadas</ext>
+		<opengl>Versión de OpenGL</opengl>
+	</misc>
+	<loading_msg>
+		<init_opengl>Iniciando extensiones OpenGL</init_opengl>
+		<init_random>Generando semilla aleatoria</init_random>
+		<load_ignores>Cargando listas Ignore</load_ignores>
+		<load_filters>Cargando filtros</load_filters>
+		<load_lists>Cargando listas</load_lists>
+		<load_cursors>Cargando cursores</load_cursors>
+		<bld_glow>Cargando tablas</bld_glow>
+		<init_lists>Iniciando listas</init_lists>
+		<init_actor_defs>Iniciando definiciones de actores</init_actor_defs>
+		<load_map_tiles>Cargando mapas</load_map_tiles>
+		<init_lights>Iniciando luces</init_lights>
+		<init_logs>Iniciando bitácoras</init_logs>
+		<read_config>Leyendo configuración</read_config>
+		<init_weather>Iniciando clima</init_weather>
+		<init_audio>Iniciando audio</init_audio>
+		<load_icons>Cargando iconos</load_icons>
+		<load_textures>Cargando texturas</load_textures>
+		<init_network>Iniciando red</init_network>
+		<init_timers>Iniciando contadores</init_timers>
+		<load_encyc>Cargando Enciclopedia</load_encyc>
+		<init_display>Iniciando display</init_display>
+		<prep_op_win>Preparando ventana de inicio</prep_op_win>
+		<load_map>Cargando mapa</load_map>
+		<load_3d_object>Cargando objetos 3D</load_3d_object>
+		<load_2d_object>Cargando objetos 2D</load_2d_object>
+		<load_lights>Cargando luces</load_lights>
+		<load_particles>Cargando partículas</load_particles>
+		<bld_sectors>Construyendo sectores</bld_sectors>
+		<init_done>Listo</init_done>
+	</loading_msg>
+	<cmd>
+		<help_rq>#help request</help_rq>
+		<help_cmd>help</help_cmd>
+		<char_cmd>#</char_cmd>
+		<char_at>@</char_at>
+		<char_slash>/</char_slash>
+		<gm_cmd>#gm</gm_cmd>
+		<mod_cmd>#mod</mod_cmd>
+		<bc_cmd>#bc</bc_cmd>
+		<msg_accept_buddy> quiere añadirte a su lista de amigos </msg_accept_buddy>
+		<filter>filter</filter>
+		<filters>filters</filters>
+		<unfilter>unfilter</unfilter>
+		<ignore>ignore</ignore>
+		<ignores>ignores</ignores>
+		<unignore>unignore</unignore>
+		<markpos>markpos</markpos>
+		<mark>mark</mark>
+		<unmark>unmark</unmark>
+		<stats>stats</stats>
+		<time>time</time>
+		<date>date</date>
+		<exit>exit</exit>
+		<msg>msg</msg>
+		<afk>afk</afk>
+		<glinfo>glinfo</glinfo>
+	</cmd>
+</root>

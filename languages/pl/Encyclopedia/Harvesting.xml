@@ -1,0 +1,2277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Harvesting>
+<Page name="Plants">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harvesting" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text>
+   <nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Tu znajdziesz informacje o roslinach ktore da sie zbierac.</text><nl/>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text>Rosliny</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Blue_Star_Flower" title="Blue Star Flower"/><text>               </text>
+   <link ref="Valerian" title="Valerian"/>
+   <nl/>
+   <link ref="Impatiens" title="Impatiens"/><text>                      </text>
+   <link ref="Rue" title="Rue"/>
+   <nl/>
+   <link ref="Lilacs" title="Lilacs"/><text>                         </text>
+   <link ref="Poppies" title="Poppies"/>
+   <nl/>
+   <link ref="Red_Snapdragons" title="Red Snapdragons"/><text>                </text>
+   <link ref="Dandelions" title="Dandelions"/>
+   <nl/>
+   <link ref="Tiger_Lilly" title="Tiger Lilly"/><text>                    </text>
+   <link ref="Poison_Ivy" title="Poison Ivy"/>
+   <nl/>
+   <link ref="Blue_Lupine" title="Blue Lupine"/><text>                    </text>
+   <link ref="Red_Toadstool" title="Red Toadstool"/>
+   <nl/>
+   <link ref="Chrysanthemum" title="Chrysanthemum"/><text>                  </text>
+   <link ref="Tulips" title="Tulips"/>
+   <nl/>
+   <link ref="Cactus" title="Cactus"/><text>                         </text>
+   <link ref="Red_Currant" title="Red Currant"/>
+   <nl/>
+   <link ref="Yellow_Rose" title="Yellow Rose"/><text>                    </text>
+   <link ref="Blueberry" title="Blueberry"/>
+   <nl/>
+   <link ref="Red_Rose" title="Red Rose"/><text>                       </text>
+   <link ref="Henbane" title="Henbane"/>
+   <nl/>
+   <link ref="Black_Rose" title="Black Rose"/><text>                     </text>
+   <link ref="Mullein" title="Mullein"/>
+   <nl/>
+   <link ref="White_Asiatic_Lilly" title="White Asiatic Lilly"/><text>            </text>
+   <link ref="Nightshade" title="Nightshade"/>
+   <nl/>
+   <link ref="Swamp_Candles" title="Swamp Candles"/><text>                  </text>
+   <link ref="Yarrow" title="Yarrow"/>
+   <nl/>
+   <link ref="Sunflowers" title="Sunflowers"/><text>                     </text>
+   <link ref="Wormwood" title="Wormwood"/>
+   <nl/>
+   <link ref="Wheat" title="Wheat"/><text>                          </text>
+   <link ref="White_Chanterelle" title="White Chanterelle"/>
+   <nl/>
+   <link ref="Cotton" title="Cotton"/><text>                         </text>
+   <link ref="Ogre_Toes" title="Ogre Toes"/>
+   <nl/>
+   <link ref="Daffodils" title="Daffodils"/><text>                      </text>
+   <link ref="Tree_Mushroom" title="Tree Mushrooms"/>
+   <nl/>
+   <link ref="Mugwort" title="Mugwort"/><text>                        </text>
+   <text> </text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Harvesting" title="Wroc do Indeksu Zbieractwa"/>
+   <nl/>
+</Page>
+<Page name="Minerals">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harvesting" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text>
+   <nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Tu znajdziesz informacje o mineralach i krysztalach ktore</text><nl/>
+   <text> da sie zbierac.</text>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text>Mineraly i Krysztaly</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Sulphur" title="Sulphur"/><text>                        </text>
+   <link ref="Sapphires" title="Sapphires"/>
+   <nl/>
+   <link ref="Coal" title="Coal"/><text>                           </text>
+   <link ref="Rubies" title="Rubies"/>
+   <nl/>
+   <link ref="Quartz" title="Quartz"/><text>                         </text>
+   <link ref="Diamonds" title="Diamonds"/>
+   <nl/>
+   <link ref="Blue_Quartz" title="Blue Quartz"/><text>                    </text>
+   <link ref="Turquoise" title="Turquoise"/>
+   <nl/>
+   <link ref="Rose_Quartz" title="Rose Quartz"/><text>                    </text>
+   <link ref="Amber" title="Amber"/><text> *</text>
+   <nl/>
+   <link ref="Gypsum" title="Gypsum"/><text>                         </text>
+   <link ref="Obsidian" title="Obsidian"/><text> *</text>
+   <nl/>
+   <link ref="Emeralds" title="Emeralds"/><text>                       </text>
+   <text> </text>
+   <nl/>
+   <nl/>
+   <text> * wskazuje te przedmioty, ktore juz odkryto, ale nie</text><nl/>
+   <text> wiadomo jeszcze jak je zbierac ani jak je wykorzystywac.</text><nl/>
+   <text> Nasi naukowcy jeszcze nad tym pracuja.</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Harvesting" title="Wroc do Indeksu Zbieractwa"/>
+   <nl/>
+</Page>
+<Page name="Ores">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harvesting" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text>
+   <nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Tu znajdziesz informacje o wszystkich rudach metali jakie</text><nl/>
+   <text> tylko da sie zbierac.</text>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text>Rudy Metali</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Iron_Ore" title="Iron Ore"/><text>                       </text>
+   <link ref="Copper" title="Copper Ore"/>
+   <nl/>
+   <link ref="Silver_Ore" title="Silver Ore"/><text>                     </text>
+   <link ref="Seridium" title="Seridium Ore"/>
+   <nl/>
+   <link ref="Gold_Ore" title="Gold Ore"/><text>                       </text>
+   <link ref="Cinnabar" title="Cinnabar Ore"/>
+   <nl/>
+   <link ref="Titanium_Ore" title="Titanium Ore"/><text>                   </text>
+   <link ref="Dvarium" title="Dvarium"/><text> *</text>
+   <nl/>
+   <link ref="Hydrogenium" title="Hydrogenium Ore"/><text>                </text>
+   <link ref="Irilium" title="Irilium"/><text> *</text>
+   <nl/>
+   <link ref="Tin" title="Tin Ore"/><text>                        </text>
+   <text> </text>
+   <nl/>
+   <link ref="Wolfram" title="Wolframite Ore"/><text>                 </text>
+   <text> </text>
+   <nl/>
+   <nl/>
+   <text> * wskazuje te rudy, ktore juz odkryto, ale nie</text><nl/>
+   <text> wiadomo jeszcze jak je zbierac ani jak je wykorzystywac.</text><nl/>
+   <text> Nasi naukowcy jeszcze nad tym pracuja.</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Harvesting" title="Wroc do Indeksu Zbieractwa"/>
+   <nl/>
+</Page>
+<Page name="Harv_Other">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harvesting" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text>
+   <nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Tu znajdziesz informacje o innych przedmiotach ktore</text><nl/>
+   <text> da sie zbierac, a ktore ciezko skategoryzowac.</text>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text>Inne, zbieralne</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Wood_Branches" title="Branches"/><text>    - </text><link ref="Wood_Branches" title="Galezie"/>
+   <nl/>
+   <link ref="Wood_Logs" title="Wood Logs"/><text>   - </text><link ref="Wood_Logs" title="Drewno"/>
+   <nl/>
+   <link ref="Beehive" title="Beehive"/><text>     - </text><link ref="Beehive" title="Ul Pszczeli"/>
+   <nl/>
+   <link ref="Fruit" title="Fruit"/><text>       - </text><link ref="Fruit" title="Owoce"/>
+   <nl/>
+   <link ref="Vegetables" title="Vegetables"/><text>  - </text><link ref="Vegetables" title="Warzywa"/>
+   <nl/>
+   <link ref="Yew" title="Yew"/><text>         - </text><link ref="Yew" title="Cis"/>
+   <nl/>
+   <link ref="Dung" title="Dung"/><text>        - </text><link ref="Dung" title="Gnoj"/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Harvesting" title="Wroc do Indeksu Zbieractwa"/>
+   <nl/>
+</Page>
+<Page name="Stones">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harvesting" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text>
+   <nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Tu znajdziesz informacje o kamieniach ktore czasem</text><nl/>
+   <text> udaje sie wydobyc z krysztalow lub mineralow.</text>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text>Kamienie</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Serpent_Stone" title="Serpent Stone"/>
+   <nl/>
+   <link ref="Enrich_Stone" title="Enrichment Stone"/>
+   <nl/>
+   <link ref="Binding_Stone" title="Binding Stone"/>
+   <nl/>
+   <link ref="Rostogol_Stone" title="Rostogol Stone"/>
+   <nl/>
+   <link ref="PP_Removal_Stone" title="Pickpoint Removal Stones"/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Harvesting" title="Wroc do Indeksu Zbieractwa"/>
+   <nl/>
+</Page>
+<Page name="Wood_Logs">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                 Wood Logs</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Drewno, uzywane do rozpalania ognisk.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  4</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   0</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         3 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Harv_Other" title="Wroc do Indeksu"/>
+</Page>
+<Page name="Wood_Branches">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>               Wood Branches</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Ashes" title="Ashes"/><nlkx/>
+   <text> Oraz do rozpalania ognisk.</text><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text>
+   <text> Wymagany Inorganic Nexus:     4</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  4</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   0</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         2 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Harv_Other" title="Wroc do Indeksu"/>
+</Page>
+<Page name="Blue_Star_Flower">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>              Blue Star Flower</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="P_Spirit Restoration" title="Potion of Spirit Restoration"/><nlkx/>
+   <link ref="Water Essence" title="Water Essence"/><nlkx/>
+   <link ref="Blue Dye" title="Blue Dye"/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  4</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   0</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Impatiens">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                 Impatiens</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Magic Essence" title="Magic Essence"/>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  4</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   0</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Lilacs">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                   Lilacs</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Magic Essence" title="Magic Essence"/><nlkx/>
+   <link ref="P_Harvesting" title="Potion of Harvesting"/><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  4</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   0</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Red_Snapdragons">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>              Red Snapdragons</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Fire Essence" title="Fire Essence"/><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  4</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   0</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Tiger_Lilly">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                Tiger Lilly</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Energy Essence" title="Energy Essence"/><nlkx/>
+   <link ref="P_Attack" title="Potion of Attack"/><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  4</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   0</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Blue_Lupine">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                Blue Lupine</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Water Essence" title="Water Essence"/><nlkx/>
+   <link ref="P_Mana" title="Potion of Mana"/><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  4</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   1</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Chrysanthemum">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                Chrysanthemum</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="P_Manufacturing" title="Potion of Manufacturing"/><nlkx/>
+   <link ref="Health Essence" title="Health Essence"/><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  5</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   2</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Red_Rose">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                  Red Rose</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Fire Essence" title="Fire Essence"/><nlkx/>
+   <link ref="Red Dye" title="Red Dye"/><nlkx/>
+   <link ref="Orange Dye" title="Orange Dye"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  11</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   6</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Yellow_Rose">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                Yellow Rose</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="P_Will" title="Potion of Will"/><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  10</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   6</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Black_Rose">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                 Black Rose</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="P_Magic" title="Potion of Magic"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  12</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   6</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="White_Asiatic_Lilly">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>            White Asiatic Lilly</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Air Essence" title="Air Essence"/><nlkx/>
+   <link ref="P_Summoning" title="Potion of Summoning"/><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  12</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   8</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Swamp_Candles">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>               Swamp Candles</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Earth Essence" title="Earth Essence"/><nlkx/>
+   <link ref="P_Defense" title="Potion of Defense"/><nlkx/>
+   <nl/><nl/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  15</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   11</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Sunflowers">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                 Sunflowers</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Life Essence" title="Life Essence"/><nlkx/>
+   <link ref="P_Healing" title="Potion of Minor Healing"/><nlkx/>
+   <link ref="Orange Dye" title="Orange Dye"/><nlkx/>
+   <link ref="P_Body Restoration" title="Potion of Body Restoration"/><nlkx/>
+   <link ref="P_Manufacturing" title="Potion of Manufacturing"/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  16</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   12</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Fruit">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                   Fruit</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Slodkie i soczyste pozywienie.</text><nlkx/>
+   <text> Przywraca 20 punktow jedzenia.</text><nlkx/>
+   <text> Uzywane do: </text><link ref="P_Feasting" title="Potion of Feasting"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  22</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   18</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Harv_Other" title="Wroc do Indeksu"/>
+</Page>
+<Page name="Vegetables">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                 Vegetables</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zdrowe pozywienie dla idealnej diety.</text><nlkx/>
+   <text> Przywraca 15 punktow jedzenia.</text><nlkx/>
+   <text> Uzywane do: </text><link ref="P_Reasoning" title="Potion of Reasoning"/><nlkx/>
+   <link ref="P_Feasting" title="Potion of Feasting"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  24</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   20</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Harv_Other" title="Wroc do Indeksu"/>
+</Page>
+<Page name="Cactus">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                   Cactus</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Kolczasta roslina spotykana na suchych terenach.</text><nlkx/>
+   <text> Uzywane do: </text><link ref="Death Essence" title="Death Essence"/><nlkx/>
+   <link ref="P_Vitality" title="Potion of Vitality"/><nlkx/>
+   <link ref="P_Coordination" title="Potion of Coordination"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  8</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   4</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         4 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Sulphur">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                  Sulphur</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Latwopalna, zolta substancja czesto spotykana</text><nlkx/>
+   <text> w poblizu zloz srebra.</text><nlkx/>
+   <text> Uzywane do: </text><link ref="Fire Essence" title="Fire Essence"/><nlkx/>
+   <link ref="Earth Essence" title="Earth Essence"/><nlkx/>
+   <link ref="Blackpowder" title="Blackpowder"/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="W_LGloves" title="Leather Gloves"/><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  18</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   14</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         2 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Wroc do Indeksu Mineralow"/>
+</Page>
+<Page name="Coal">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                    Coal</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Utworzona pod ziemia z rozkladajacych sie roslin</text><nlkx/>
+   <text> twarda, czarna bryla wegla uzywana jest jako</text><nlkx/>
+   <text> paliwo.</text><nlkx/>
+   <text> Uzywana do: </text><link ref="Earth Essence" title="Earth Essence"/><nlkx/>
+   <link ref="Alchemy" title="Wytapiania Metali"/><nlkx/>
+   <link ref="Black Dye" title="Black Dye"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  21</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   25</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         2 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Wroc do Indeksu Mineralow"/>
+</Page>
+<Page name="Quartz">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                   Quartz</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Twardy krysztal, ktory da sie przetopic na szklo.</text><nlkx/>
+   <text> Za oplata Harvy przetapia kwarc na szklane fiolki.</text><nlkx/>
+   <text> Uzywane do: </text><link ref="Empty_Vial" title="Empty Vial"/><nlkx/>
+   <link ref="Matter Essence" title="Matter Essence"/><nlkx/>
+   <link ref="Alembic" title="Alembic"/><nlkx/>
+   <link ref="Death Essence" title="Death Essence"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Quartz Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     1</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  20</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   16</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         2 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Wroc do Indeksu Mineralow"/>
+</Page>
+<Page name="Blue_Quartz">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                Blue Quartz</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Niebieska odmiana kwarcu (Quartz).</text><nlkx/>
+   <text> Uzywane do: </text><link ref="Matter Essence" title="Matter Essence"/><nlkx/>
+   <link ref="Water Essence" title="Water Essence"/><nlkx/>
+   <link ref="P_Spirit Restoration" title="Potion of Spirit Restoration"/><nlkx/>
+   <link ref="P_Craft" title="Potion of Crafting"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Blue Quartz Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     1</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  21</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   17</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         2 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Wroc do Indeksu Mineralow"/>
+</Page>
+<Page name="Rose_Quartz">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                Rose Quartz</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Rozowa odmiana kwarcu (Quartz).</text><nlkx/>
+   <text> Uzywane do: </text><link ref="P_Body Restoration" title="Potion of Body Restoration"/><nlkx/>
+   <link ref="Matter Essence" title="Matter Essence"/><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Rose Quartz Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     1</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  21</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   17</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         2 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Wroc do Indeksu Mineralow"/>
+</Page>
+<Page name="Iron_Ore">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                  Iron Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Twarda ruda zelaza czesto spotykana w jaskiniach.</text><nlkx/>
+   <text> Uzywane do: </text><link ref="Iron Bar" title="Iron Bars"/><nlkx/>
+   <link ref="Steel Bar" title="Steel Bars"/><nlkx/>
+   <link ref="Matter Essence" title="Matter Essence"/><nlkx/>
+   <link ref="Energy Essence" title="Energy Essence"/>
+   <link ref="P_Manufacturing" title="Potion of Manufacturing"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Iron Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     2</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  27</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   23</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         4 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Ores" title="Wroc do Indeksu Rud Metali"/>
+</Page>
+<Page name="Silver_Ore">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                 Silver Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Podziemna ruda metalu o bardzo szerokim zastosowaniu.</text><nlkx/>
+   <text> Uzywane do: </text><link ref="Silver Bar" title="Silver Bar"/><nlkx/>
+   <link ref="P_Defense" title="Potion of Defense"/><nlkx/>
+   <link ref="P_Will" title="Potion of Will"/><nlkx/>
+   <link ref="P_Manufacturing" title="Potion of Manufacturing"/><nlkx/>
+   <link ref="Air Essence" title="Air Essence"/><nlkx/>
+   <link ref="Energy Essence" title="Energy Essence"/><nlkx/>
+   <link ref="Life Essence" title="Life Essence"/><nlkx/>
+   <link ref="Health Essence" title="Health Essence"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Silver Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     2</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  28</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   24</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         2 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Ores" title="Wroc do Indeksu Rud Metali"/>
+</Page>
+<Page name="Gold_Ore">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                  Gold Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Rzadka i wartosciowa ruda spotykana w jaskiniach.</text><nlkx/>
+   <text> Uzywane do: </text><link ref="Gold Bar" title="Gold Bar"/><nlkx/>
+   <link ref="Spirit Essence" title="Spirit Essence"/><nlkx/>
+   <link ref="P_Attack" title="Potion of Attack"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Gold Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     3</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  36</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   37</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         3 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Ores" title="Wroc do Indeksu Rud Metali"/>
+</Page>
+<Page name="Emeralds">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                  Emeralds</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Rzadki, ciemno-zielony klejnot spotykany w glebokich,</text><nlkx/>
+   <text> niebezpiecznych jaskiniach.</text><nlkx/>
+   <text> Uzywane do: </text><link ref="P_Emer" title="Polished Emeralds"/><nlkx/>
+   <link ref="Magic Essence" title="Magic Essence"/><nlkx/>
+   <link ref="P_Rad" title="Potion of Radiation Protection"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Emerald Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     4</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  36</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   32</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         3 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Wroc do Indeksu Mineralow"/>
+</Page>
+<Page name="Sapphires">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                 Sapphires</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zimny, niebieski klejnot spotykany w srodkowej</text><nlkx/>
+   <text> czesci Seridii.</text><nlkx/>
+   <text> Uzywane do: </text><link ref="P_Saph" title="Polished Sapphires"/><nlkx/>
+   <link ref="Water Essence" title="Water Essence"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Sapphire Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     4</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  39</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   35</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         3 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Wroc do Indeksu Mineralow"/>
+</Page>
+<Page name="Rubies">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                   Rubies</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Odnalezienie krwistoczerwonych rubinow wymaga</text><nlkx/>
+   <text> sporej odwagi.</text><nlkx/>
+   <text> Uzywane do: </text><link ref="P_Ruby" title="Szlifowane Klejnoty"/><nlkx/>
+   <link ref="Jewelry" title="Pierscieniach"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Ruby Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     4</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  41</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   37</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         3 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Wroc do Indeksu Mineralow"/>
+</Page>
+<Page name="Diamonds">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                  Diamonds</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Tylko garsc ekspertow jest w stanie odnalezc i</text><nlkx/>
+   <text> wydobywac Diamenty - najtwardsze i</text><nlkx/>
+   <text> najwartosciowsze kamienie szlachetne.</text><nlkx/>
+   <text> Uzywane do: </text><link ref="P_Diam" title="Polished Diamonds"/>
+   <link ref="Air Essence" title="Air Essence"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Diamond Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     4</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  44</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   40</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         3 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Wroc do Indeksu Mineralow"/>
+</Page>
+<Page name="Titanium_Ore">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                Titanium Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Dodatek do metali, ktory powoduje iz produkowane</text><nlkx/>
+   <text> bronie i zbroje sa mocniejsze, lecz ciagle</text><nlkx/>
+   <text> bardzo lekkie.</text><nlkx/>
+   <text> Uzywane do: </text><link ref="Titanium Bar" title="Titanium Bar"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Titanium Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     5</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  42</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   38</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Ores" title="Wroc do Indeksu Rud Metali"/>
+</Page>
+<Page name="Blueberry">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                 Blueberry</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Extract_RBR" title="Ekstrakt RBR"/><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  40</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   36</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="White_Chanterelle">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>             White Chanterelle</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Med_Heaven" title="Heaven Spawner Medallion"/><nlkx/>
+   <link ref="Med_Life" title="Medallion of Life"/><nlkx/>
+   <link ref="Extract_WOT" title="Ekstrakty"/><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+    <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  49</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   45</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Cotton">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                   Cotton</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Thread" title="Thread"/><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  18</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   14</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Red_Currant">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                Red Currant</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Extract_RBR" title="Ekstrakt RBR"/><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  38</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   34</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Dandelions">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                 Dandelions</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="P_Accuracy" title="Potion of Accuracy"/><nlkx/>
+   <link ref="P_Potion" title="Potion of Potion"/><nlkx/>
+   <link ref="Extract_NMD" title="Ekstrakty"/><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  29</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   33</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Daffodils">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                 Daffodils</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Extract_WDF" title="Ekstrakty"/><nlkx/>
+   <link ref="P_Invis" title="Potion of Invisibility"/><nlkx/>
+   <link ref="P_Alchemy" title="Potion of Alchemy"/><nlkx/>
+   <link ref="Yellow Dye" title="Yellow Dye"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  28</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   22</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Henbane">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                  Henbane</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Extract_PHP" title="Ekstraktow"/><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  43</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   39</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Mugwort">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                  Mugwort</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Extract_WVM" title="Ekstrakt WVM"/><nlkx/>
+   <link ref="Green Dye" title="Green Dye"/><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  29</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   25</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Mullein">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                  Mullein</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Extract_NMD" title="Ekstrakt NMD"/><nlkx/>
+   <link ref="P_Invis" title="Potion of Invisibility"/><nlkx/>
+   <link ref="P_Evasion" title="Potion of Evasion"/><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  45</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   41</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Nightshade">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                 Nightshade</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="P_Potion" title="Potion of Potion"/><nlkx/>
+   <link ref="Extract_NMD" title="Ekstrakty"/><nlkx/>
+   <link ref="Purple Dye" title="Purple Dye"/><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  46</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   42</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Ogre_Toes">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                 Ogre Toes</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="P_Extra_Mana" title="Potion of Extra Mana"/><nlkx/>
+   <link ref="Extract_WOT" title="Ekstrakty"/><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  50</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   46</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Poison_Ivy">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                 Poison Ivy</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Extract_PHP" title="Ekstrakt PHP"/>
+   <link ref="P_Caltrops" title="Poisoned Caltrops"/><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="W_LGloves" title="Leather Gloves"/><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  34</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   30</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Poppies">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                 Poppies</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="P_Antidote" title="Poison Antidote"/><nlkx/>
+   <link ref="Extract_PHP" title="Ekstrakty"/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  32</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   28</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Rue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                    Rue</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="P_Antidote" title="Poison Antidote"/>
+   <link ref="P_Potion" title="Potion of Potion"/><nlkx/>
+   <link ref="Extract_RBR" title="Ekstrakt RBR"/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  31</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   27</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Tree_Mushroom">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>               Tree Mushroom</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Extract_WOT" title="Ekstrakt WOT"/><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  51</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   47</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Red_Toadstool">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>               Red Toadstool</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Jedyny jadalny - acz trujacy - gatunek</text><nlkx/>
+   <text> grzybow. Posiada 5% szansy na otrucie</text><nlkx/>
+   <text> konsumenta. Nie posiada opoznienia - mozna</text><nlkx/>
+   <text> zjadac jeden za drugim. Jedna sztuka dodaje</text><nlkx/>
+   <text> 10 punktow jedzenia.</text><nlkx/>
+   <nlkx/>
+   <text> Uzywane do: </text><link ref="P_TS" title="Potion of True Sight"/><nlkx/>
+   <link ref="Med_Harv" title="Harvester Medallion"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  35</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   31</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         2 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Tulips">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                   Tulips</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Extract_YWT" title="Ekstrakt YWT"/><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  37</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   33</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Valerian">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                  Valerian</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="P_Accuracy" title="Potion of Accuracy"/><nlkx/>
+   <link ref="Extract_WVM" title="Ekstrakty"/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  30</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   26</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Wormwood">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                  Wormwood</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Extract_YWT" title="Ekstrakt YWT"/><nlkx/>
+   <link ref="P_Invis" title="Potion of Invisibility"/><nlkx/>
+   <link ref="P_TS" title="Potion of True Sight"/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  48</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   44</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Yarrow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                   Yarrow</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="P_Antidote" title="Poison Antidote"/><nlkx/>
+   <link ref="P_Evasion" title="Potion of Evasion"/><nlkx/>
+   <link ref="Extract_YWT" title="Ekstrakt YWT"/><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  47</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   43</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Wheat">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                   Wheat</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Potions" title="Ekstrakty"/><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           -</text><nl/>
+   <text> Wymagany Inorganic Nexus:     0</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  13</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   17</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Wroc do Indeksu Roslin"/>
+</Page>
+<Page name="Beehive">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                  Beehive</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Pszczeli ul nie jest obecnie wykorzystywany.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="W_LGloves" title="Leather Gloves"/><nl/>
+   <text> Wymagany Inorganic Nexus:     2</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  19</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   15</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         5 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Harv_Other" title="Wroc do Indeksu"/>
+</Page>
+<Page name="Amber">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                   Amber</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Naukowcy nie wiedza jeszcze, do czego mogli by</text><nlkx/>
+   <text> wykorzystac bursztyn.</text><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              ?</text><nl/>
+   <text> Wymagane narzedzia:           ?</text><nl/>
+   <text> Wymagany Inorganic Nexus:     ?</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  ?</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   ?</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         ? EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Wroc do Indeksu Mineralow"/>
+</Page>
+<Page name="Gypsum">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                   Gypsum</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Misc" title="Tools"/>
+   <link ref="Summoning" title="Summoning Stones"/>
+   <link ref="Potions" title="Ekstrakty"/><nl/>
+   <link ref="Invasionmeter" title="Invasionmeter"/><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Gypsum Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     2</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  23</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   19</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         10 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Wroc do Indeksu Mineralow"/>
+</Page>
+<Page name="Obsidian">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                  Obsidian</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Naukowcy nie wiedza jeszcze, do czego mogli by</text><nlkx/>
+   <text> wykorzystac obsydian.</text><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              ?</text><nl/>
+   <text> Wymagane narzedzia:           ?</text><nl/>
+   <text> Wymagany Inorganic Nexus:     ?</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  ?</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   ?</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         ? EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Wroc do Indeksu Mineralow"/>
+</Page>
+<Page name="Turquoise">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                 Turquoise</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="P_Heat" title="Potion of Heat Protection"/><nlkx/>
+   <link ref="Lightmeter" title="Lightmeter"/><nlkx/>
+   <link ref="Engineering" title="Astrology Indicators"/><nlkx/>
+   <link ref="Mana_Drain_Ward" title="Mana Drain Ward"/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     4</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  69</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   65</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         5 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Wroc do Indeksu Mineralow"/>
+</Page>
+<Page name="Cinnabar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                  Cinnabar</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Mercury" title="Mercury"/><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Cinnabar Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="W_LGloves" title="Leather Gloves"/><nl/>
+   <text> Wymagany Inorganic Nexus:     6</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  79</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   75</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         2 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Ores" title="Wroc do Indeksu Rud Metali"/>
+</Page>
+<Page name="Copper">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                 Copper Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Do zbierania rudy miedzi niezbedne jest</text><nlkx/>
+   <text> </text><link ref="Conglo" title="Matter Conglomerate"/><text>. Kazda jedna sztuka</text><nl/>
+   <text>       rudy pochlania jedna sztuke Matter Conglomerate</text><nl/>
+   <text>       Uzywane do: </text><link ref="Copper Bar" title="Copper Bar"/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Copper Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     6</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  66</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   62</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         5 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Ores" title="Wroc do Indeksu Rud Metali"/>
+</Page>
+<Page name="Dvarium">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                  Dvarium</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Rzadka i bardzo cenna ruda metalu.</text><nlkx/>
+   <text> Uzywane do:             </text><link ref="Dvarium Bar" title="Dvarium Bar"/><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Dvarium Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     6</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  94</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   90</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         5 EMU</text><nl/>	
+   <nl/>
+   <text> Uwaga: Zbieranie tej rudy wymaga posiadania mieczy Iron</text><nl/>
+   <text>        Broad Sword. Kazda jedna grudka rudy pochlania</text><nl/>
+   <text>        jeden miecz.</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Ores" title="Wroc do Indeksu Rud Metali"/>
+</Page>
+<Page name="Hydrogenium">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>              Hydrogenium Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Miejsce wystepowania tej rudy jest bardzo pilnie</text><nlkx/>
+   <text> strzezonym sekretem.</text><nlkx/>
+   <text> Uzywane do: </text><link ref="Hydrogenium Bar" title="Hydrogenium Bar"/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Hydrogenium Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     6</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  59</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   55</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         1 EMU</text><nl/>	
+   <nl/>
+   <text> Uwaga: Zbieranie tej rudy wymaga posiadania mieczy Steel</text><nl/>
+   <text>        2 Edged. Kazda jedna grudka rudy pochlania</text><nl/>
+   <text>        jeden miecz.</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Ores" title="Wroc do Indeksu Rud Metali"/>
+</Page>
+<Page name="Seridium">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                Seridium Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Seridium Bar" title="Seridium Bar"/><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Seridium Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     6</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  69</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   71</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         5 EMU</text><nl/>	
+   <nl/>
+   <text> Uwaga: Zbieranie tego przedmiotu wymaga posiadania</text><nl/>
+   <text>        Matter Conglomerate. Kazda jedna grudka rudy</text><nl/>
+   <text>        pochlania 1 sztuke Matter Conglomerate.</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Ores" title="Wroc do Indeksu Rud Metali"/>
+</Page>
+<Page name="Irilium">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                  Irilium</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Nasi naukowcy ciagle badaja ten material</text><nlkx/>
+   <text> Uzywane do: </text><text> ???</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              ?</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     ?</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  ?</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   ?</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         ? EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Ores" title="Wroc do Indeksu Rud Metali"/>
+</Page>
+<Page name="Tin">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                  Tin Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Tin Bar" title="Tin Bar"/><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Tin Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     6</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  62</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   58</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         5 EMU</text><nl/>	
+   <nl/>
+   <text> Uwaga: Zbieranie tej rudy wymaga posiadania mieczy Iron</text><nl/>
+   <text>        Sword. Kazda jedna grudka rudy pochlania</text><nl/>
+   <text>        jeden miecz.</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Ores" title="Wroc do Indeksu Rud Metali"/>
+</Page>
+<Page name="Wolfram">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>               Wolframite Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Rzadki i bardzo ciezki metal.</text><nlkx/>
+   <text> Uzywany do: </text><link ref="Wolfram Bar" title="Wolfram Bar"/><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              Wolframite Mining</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Pickaxe" title="Pickaxe"/><nl/>
+   <text> Wymagany Inorganic Nexus:     6</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  64</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   60</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         10 EMU</text><nl/>	
+   <nl/>
+   <text> Uwaga: Zbieranie tej rudy wymaga posiadania mieczy Steel</text><nl/>
+   <text>        Long Sword. Kazda jedna grudka rudy pochlania jeden</text><nl/>
+   <text>        miecz.</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Ores" title="Wroc do Indeksu Rud Metali"/>
+</Page>
+<Page name="Yew">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                    Yew</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Archery" title="Arrows"/><nlkx/>
+   <link ref="Archery" title="Bolts"/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="T_Saw" title="Saw"/><nl/>
+   <text> Wymagany Inorganic Nexus:     6</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  84</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   80</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         2 EMU</text><nl/>	
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Harv_Other" title="Wroc do Indeksu"/>
+</Page>
+<Page name="Dung">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>                    Dung</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Saltpetre" title="Saltpetre"/><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagana wiedza:              -</text><nl/>
+   <text> Wymagane narzedzia:           </text><link ref="W_LGloves" title="Leather Gloves"/><nl/>
+   <text> Wymagany Inorganic Nexus:     6</text><nl/>
+   <text> Doswiadczenie w Zbieractwie:  104</text><nl/>
+   <text> Zalecany Poziom Zbieractwa:   100</text><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         3 EMU</text><nl/>	
+   <nl/>
+   <text> Uwaga: Ten przedmiot mozna skladowac jedynie w </text><nl/>
+   <text>        Magzynie Materialow Niebezpiecznych.</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Harv_Other" title="Wroc do Indeksu"/>
+</Page>
+<Page name="Serpent_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Stones" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>               Serpent Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywany do produkcji zaawansowancych przedmiotow.</text><nlkx/>
+   <text> Takze w alchemi i przywolywaniu.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Uwaga: Ten przedmiot moze byc przypadkowo znaleziony badz</text><nl/>
+   <text>       to w czasie zbierania rud metali lub mineralow, jak</text><nl/>
+   <text>       i rowniez wsrod przedmiotow gubionych przez potwory.</text>
+   <nl/><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Stones" title="Wroc do Indeksu Kamieni"/>
+</Page>
+<Page name="Enrich_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Stones" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>              Enrichment Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Enriched Fire Essence" title="Enriched Fire Essence"/><nlkx/>
+   <link ref="Enriched Life Essence" title="Enriched Life Essence"/><nlkx/>
+   <link ref="Enriched Magic Essence" title="Enriched Magic Essence"/><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Uwaga: Ten przedmiot moze byc przypadkowo znaleziony w</text><nl/>
+   <text>       w czasie zbierania rud metali lub mineralow.</text><nl/><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Stones" title="Wroc do Indeksu Kamieni"/>
+</Page>
+<Page name="Binding_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Stones" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>               Binding Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywany do wytwarzania zaawansowanego ekwipunku,</text><nlkx/>
+   <text> glownie mieczy, koron i niektorych zbroi.</text>
+   <nlkx/>
+   <text> Uwaga: Ten przedmiot moze byc przypadkowo znaleziony</text><nl/>
+   <text>       w czasie zbierania rud metali lub mineralow.</text><nl/><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Stones" title="Wroc do Indeksu Kamieni"/>
+</Page>
+<Page name="Rostogol_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Stones" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>               Rostogol Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Kiedy umierasz posiadajac ten kamien przy sobie</text><nlkx/>
+   <text> to nie stracisz nic, procz tego kamienia.</text><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Uwaga: Ten przedmiot moze byc przypadkowo znaleziony badz</text><nl/>
+   <text>       to w czasie zbierania rud metali lub mineralow, jak</text><nl/>
+   <text>       i rowniez wsrod przedmiotow gubionych przez monstra.</text>
+   <nl/><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link Tref="Stones" title="Wroc do Indeksu Kamieni"/>
+</Page>
+<Page name="PP_Removal_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Stones" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text><nl/>
+   <color>red</color>
+   <text>          Pickpoint Removal Stones</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Rzadkie kamienie ktore pozwalaja na odzyskiwanie</text><nlkx/>
+   <text> Punktow Przydzialu przydzielonych atrybutom.</text><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Uwaga: Nie isnieje kamien o nazwie "Pickpoint Removal</text><nl/>
+   <text> Stone". Istnieja zas poszczegolne kamienie, kazdy</text><nl/>
+   <text> odpowiadajacy danemu atrybutowi, np. "Instinct Removal</text>
+   <text> Stone" lub "<link ref="Nx_Inorganic" title="Inorganic"/> Nexus Removal</text><nl/>
+   <text> Stone".</text><nl/>
+   <nl/>
+   <text> Inaczej niz w przypadku innych kamieni, te moga byc</text><nl/>
+   <text> znalezione takze w czasie zbierania roslin.</text><nl/><nl/>
+   <text> Uklada sie w Stos:            Tak</text><nl/>
+   <text> Waga:                         2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Stones" title="Wroc do Indeksu Kamieni"/>
+</Page>
+</Harvesting>

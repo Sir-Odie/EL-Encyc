@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Archery>
+<Page name="Short_Bow">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Archery" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Korte Boog</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="16" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> +4 Projectiel Nauwkeurigheid, Afvuursnelheid 30.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> ???.</text><nl/>
+	<text> Gereedschappen: ???</text><nl/>
+	<text> Kennis Vereist: ???</text><nl/>
+	<text> Geadviseerd Level: ???</text><nl/>
+	<text> Ervaring Gegeven: ???</text><nl/>
+	<text> Voedsel Kosten: ???</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 7 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Archery" title="Terug Naar Boogschieten Index"/>
+</Page>
+<Page name="Long_Bow">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Archery" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Lange Boog</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="15" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> +2 Projectiel Nauwkeurigheid, Afvuursnelheid 23,</text><nlkx/>
+	<text> krachtiger dan een Korte Boog.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> ???.</text><nl/>
+	<text> Gereedschappen: ???</text><nl/>
+	<text> Kennis Vereist: ???</text><nl/>
+	<text> Geadviseerd Level: ???</text><nl/>
+	<text> Ervaring Gegeven: ???</text><nl/>
+	<text> Voedsel Kosten: ???</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 7 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Archery" title="Terug Naar Boogschieten Index"/>
+</Page>
+<Page name="Recurve_Bow">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Archery" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Recurve Boog</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="18" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> +6 Projectiel Nauwkeurigheid, Afvuursnelheid 27,</text><nlkx/>
+	<text> krachtiger dan een Lange Boog.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> ???.</text><nl/>
+	<text> Gereedschappen: ???</text><nl/>
+	<text> Kennis Vereist: ???</text><nl/>
+	<text> Geadviseerd Level: ???</text><nl/>
+	<text> Ervaring Gegeven: ???</text><nl/>
+	<text> Voedsel Kosten: ???</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 7 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Archery" title="Terug Naar Boogschieten Index"/>
+</Page>
+<Page name="Elven_Bow">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Archery" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Elven Boog</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="19" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> +10 Projectiel Nauwkeurigheid, Afvuursnelheid 27,</text><nlkx/>
+	<text> krachtiger dan een Recurve Boog.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> ???.</text><nl/>
+	<text> Gereedschappen: ???</text><nl/>
+	<text> Kennis Vereist: ???</text><nl/>
+	<text> Geadviseerd Level: ???</text><nl/>
+	<text> Ervaring Gegeven: ???</text><nl/>
+	<text> Voedsel Kosten: ???</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 7 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Archery" title="Terug Naar Boogschieten Index"/>
+</Page>
+<Page name="Crossbow">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Archery" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Kruisboog</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="17" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> +8 Projectiel Nauwkeurigheid, Afvuursnelheid 20.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> ???.</text><nl/>
+	<text> Gereedschappen: ???</text><nl/>
+	<text> Kennis Vereist: ???</text><nl/>
+	<text> Geadviseerd Level: ???</text><nl/>
+	<text> Ervaring Gegeven: ???</text><nl/>
+	<text> Voedsel Kosten: ???</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 7 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Archery" title="Terug Naar Boogschieten Index"/>
+</Page>
+<Page name="Arrows">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Archery" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Training Pijlen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="14" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Training pijlen, niet geschikt voor PK!</text><nlkx/>
+	<text> </text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> </text><nl/>
+	<text> Dit item kan niet worden geproduceerd.</text><nl/>
+	<text> </text><nl/>
+	<text> </text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>               </text><link ref="Archery" title="Terug Naar Boogschieten Index"/>
+</Page>
+<Page name="PK_Arrows">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Archery" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  PK Pijlen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="14" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> +10 Projectiel Nauwkeurigheid.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Pijlpunt, 1 Taxus, 1 Lucht Essentie, 1 Havik Veer</text><nl/>
+	<text> Gereedschappen: Mes</text><nl/>
+	<text> Kennis Vereist: PK Pijlen</text><nl/>
+	<text> Nexus Vereist: Kunstmatig: 2</text><nl/>
+	<text> Geadviseerd Engineering Level: 27</text><nl/>
+	<text> Ervaring Gegeven: 115</text><nl/>
+	<text> Voedsel Kosten: 20</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>               </text><link ref="Archery" title="Terug Naar Boogschieten Index"/>
+</Page>
+<Page name="Magic_Arrows">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Archery" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Magische Pijlen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="20" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> 15 normale schade, 15 magie schade, -30 Verdedigen,</text><nlkx/>
+	<text> +15 Projectiel Nauwkeurigheid, -15 Kritiek Raken,</text><nlkx/>
+	<text> -25 Nauwkeurigheid, erg snel met herladen.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Let op: de formule produceert 75 pijlen per keer.</text><nl/>
+	<text> </text><nl/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Verrijkte Magie Essentie, 50 Pijlpunten,</text><nl/>
+	<text> 50 Taxussen, 50 Havik Veren</text><nl/>
+	<text> Gereedschappen: Mes</text><nl/>
+	<text> Kennis Vereist: Magische Pijlen</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 2</text><nl/>
+	<text> Geadviseerd Engineering Level: 31</text><nl/>
+	<text> Ervaring Gegeven: 2000</text><nl/>
+	<text> Voedsel Kosten: 20</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>               </text><link ref="Archery" title="Terug Naar Boogschieten Index"/>
+</Page>
+<Page name="Fire_Arrows">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Archery" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Vuur Pijlen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="21" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> 15 normale schade, 35 hitte schade, -30 Verdedigen,</text><nlkx/>
+	<text> -10 Projectiel Nauwkeurigheid, -15 Kritiek Raken,</text><nlkx/>
+	<text> -25 Nauwkeurigheid.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Let op: de formule produceert 80 pijlen per keer.</text><nl/>
+	<text> </text><nl/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Verrijkte Vuur Essentie, 50 Pijlpunten,</text><nl/>
+	<text> 50 Taxussen, 50 Havik Veren.</text><nl/>
+	<text> Gereedschappen: Mes</text><nl/>
+	<text> Kennis Vereist: Vuur Pijlen</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 2</text><nl/>
+	<text> Geadviseerd Engineering Level: 35</text><nl/>
+	<text> Ervaring Gegeven: 2300</text><nl/>
+	<text> Voedsel Kosten: 20</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>               </text><link ref="Archery" title="Terug Naar Boogschieten Index"/>
+</Page>
+<Page name="Ice_Arrows">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Archery" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  IJs Pijlen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="22" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> 40 kou schade, -25 Nauwkeurigheid,</text><nlkx/>
+	<text> -15 Projectiel Nauwkeurigheid, -15 Kritiek Raken,</text><nlkx/>
+	<text> -30 Verdedigen, erg langzaam met herladen.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Let op: de formule produceert 60 pijlen per keer.</text><nl/>
+	<text> </text><nl/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Verrijkte Water Essentie, 50 Pijlpunten,</text><nl/>
+	<text> 50 Taxussen, 50 Havik Veren.</text><nl/>
+	<text> Gereedschappen: Mes</text><nl/>
+	<text> Kennis Vereist: IJs Pijlen</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 2</text><nl/>
+	<text> Geadviseerd Engineering Level: 33</text><nl/>
+	<text> Ervaring Gegeven: 2100</text><nl/>
+	<text> Voedsel Kosten: 20</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>               </text><link ref="Archery" title="Terug Naar Boogschieten Index"/>
+</Page>
+<Page name="Explosive_Arrows">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Archery" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Explosieve Pijlen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="23" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> ???</text><nlkx/>
+	<text> </text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> ???.</text><nl/>
+	<text> Gereedschappen: ???</text><nl/>
+	<text> Kennis Vereist: ???</text><nl/>
+	<text> Geadviseerd Level: ???</text><nl/>
+	<text> Ervaring Gegeven: ???</text><nl/>
+	<text> Voedsel Kosten: ???</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>               </text><link ref="Archery" title="Terug Naar Boogschieten Index"/>
+</Page>
+<Page name="Bolts">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Archery" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Kruisboog Training Pijlen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="13" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Kruisboog training pijlen, niet geschikt voor PK!</text><nlkx/>
+	<text> </text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> </text><nl/>
+	<text> Dit item kan niet worden geproduceerd.</text><nl/>
+	<text> </text><nl/>
+	<text> </text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>               </text><link ref="Archery" title="Terug Naar Boogschieten Index"/>
+</Page>
+<Page name="PK_Bolts">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Archery" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Kruisboog PK Pijlen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="13" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> +15 Projectiel Nauwkeurigheid.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Pijlpunt, 1 Taxus, 1 Lucht Essentie, 1 Valk Veer.</text><nl/>
+	<text> Gereedschappen: Mes</text><nl/>
+	<text> Kennis Vereist: Kruisboog PK Pijlen</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 2</text><nl/>
+	<text> Geadviseerd Engineering Level: 29</text><nl/>
+	<text> Ervaring Gegeven: 120</text><nl/>
+	<text> Voedsel Kosten: 20</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>               </text><link ref="Archery" title="Terug Naar Boogschieten Index"/>
+</Page>
+<Page name="Magic_Bolts">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Archery" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Kruisboog Magische Pijlen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="24" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> 10 normale schade, 10 magie schade, -30 Verdedigen,</text><nlkx/>
+	<text> +15 Projectiel Nauwkeurigheid, -15 Kritiek Raken,</text><nlkx/>
+	<text> -15 Nauwkeurigheid, 7% kans op mana verwijderen,</text><nlkx/>
+	<text> erg snel met herladen!</text><nlkx/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Let op: de formule produceert 60 kruisboog pijlen per keer</text><nl/>
+	<text> </text><nl/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Verrijkte Magie Essentie, 60 Pijlpunten,</text><nl/>
+	<text> 60 Taxussen, 60 Valk Veren.</text><nl/>
+	<text> Gereedschappen: Mes</text><nl/>
+	<text> Kennis Vereist: Kruisboog Magische Pijlen</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 3</text><nl/>
+	<text> Geadviseerd Engineering Level: 40</text><nl/>
+	<text> Ervaring Gegeven: 2600</text><nl/>
+	<text> Voedsel Kosten: 20</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>               </text><link ref="Archery" title="Terug Naar Boogschieten Index"/>
+</Page>
+<Page name="Fire_Bolts">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Archery" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>            Kruisboog Vuur Pijlen</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="0" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> 10 normale schade, 10 hitte schade, -30 Verdedigen,</text><nlkx/>
+	<text> -15 Nauwkeurigheid, -10 Projectiel Nauwkeurigheid,</text><nlkx/>
+	<text> -15 Kritiek Raken, 15% kans op mana verbranden.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Let op: de formule produceert 65 kruisboog pijlen per keer</text><nl/>
+	<text> </text><nl/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Verrijkte Vuur Essentie, 65 Pijlpunten,</text><nl/>
+	<text> 65 Taxussen, 65 Valk Veren.</text><nl/>
+	<text> Gereedschappen: Mes</text><nl/>
+	<text> Kennis Vereist: Kruisboog Vuur Pijlen</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 3</text><nl/>
+	<text> Geadviseerd Engineering Level: 43</text><nl/>
+	<text> Ervaring Gegeven: 2800</text><nl/>
+	<text> Voedsel Kosten: 20</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>               </text><link ref="Archery" title="Terug Naar Boogschieten Index"/>
+</Page>
+<Page name="Ice_Bolts">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Archery" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Kruisboog IJs Pijlen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="1" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> 10 normale schade, 10 kou schade, -30 Verdedigen,</text><nlkx/>
+	<text> -15 Nauwkeurigheid, -15 Projectiel Nauwkeurigheid,</text><nlkx/>
+	<text> -15 Kritiek Raken, 10% kans op afkoeling,</text><nlkx/>
+	<text> erg langzaam met herladen!</text><nlkx/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Let op: de formule produceert 30 kruisboog pijlen per keer</text><nl/>
+	<text> </text><nl/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Verrijkte Water Essentie, 30 Pijlpunten,</text><nl/>
+	<text> 30 Taxussen, 30 Valk Veren.</text><nl/>
+	<text> Gereedschappen: Mes</text><nl/>
+	<text> Kennis Vereist: Kruisboog IJs Pijlen</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 4</text><nl/>
+	<text> Geadviseerd Engineering Level: 45</text><nl/>
+	<text> Ervaring Gegeven: 3000</text><nl/>
+	<text> Voedsel Kosten: 20</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>               </text><link ref="Archery" title="Terug Naar Boogschieten Index"/>
+</Page>
+<Page name="Explosive_Bolts">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Archery" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>          Kruisboog Explosieve Pijlen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="2" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> ???</text><nlkx/>
+	<text> </text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> ???.</text><nl/>
+	<text> Gereedschappen: ???</text><nl/>
+	<text> Kennis Vereist: ???</text><nl/>
+	<text> Nexus Vereist: ???</text><nl/>
+	<text> Geadviseerd Level: ???</text><nl/>
+	<text> Ervaring Gegeven: ???</text><nl/>
+	<text> Voedsel Kosten: ???</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>               </text><link ref="Archery" title="Terug Naar Boogschieten Index"/>
+</Page>
+</Archery>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gods>
+<Page name="ALUWEN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                   DIEUX</text><nl/>
+   <color>red</color>
+   <text>      Aluwen - Dieu de la Défense</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Lieu: Corren Village / Desert Pines</text><nl/>
+   <text>      Forest of the Fall / White Stone</text><nl/>
+   <text> Prêtre: Noria</text><nl/>
+   <text> Avantages: Les fidèles gagnent plus d'expérience en</text><nl/>
+   <text>           Défense</text><nl/>
+   <text> Ennemis: Mortos, Selain.</text><nl/>
+   <text> Niveau de départ: -2 En Défense</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Retour aux Dieux"/><nl/>
+</Page>
+<Page name="UNOLAS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                   DIEUX</text><nl/>
+   <color>red</color>
+   <text>      Unolas - Dieu de la Magie</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Lieu: Vermor Castle, Whitestone City</text><nl/>
+   <text> Prêtre: Adrian</text><nl/>
+   <text> Avantages: Les fidèles gagnent plus d'expérience en Magie</text><nl/>
+   <text> Ennemis: Zarin, Lucaa.</text><nl/>
+   <text> Niveau de départ: -2 en Magie</text><nl/>
+   <text> Note: Beaucoup de monstres pour protéger le prêtre.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Retour aux Dieux"/><nl/>
+</Page>
+<Page name="MORTOS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                   DIEUX</text><nl/>
+   <color>red</color>
+   <text>      Mortos - Dieu de l'Attaque</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Lieu: Catacombes de Naralik</text><nl/>
+   <text> Prêtre: Dirhyan</text><nl/>
+   <text> Avantages: Les fidèles gagnent plus d'expérience en</text><nl/>
+   <text>           Attaque</text><nl/>
+   <text> Ennemis: Aluwen, Elandria.</text><nl/>
+   <text> Niveau de départ: -2 en Attaque</text><nl/>
+   <text> Note: Envahi par des Orques Males, Femelles et Armés.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Retour aux Dieux"/><nl/>
+</Page>
+<Page name="SELAIN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                   DIEUX</text><nl/>
+   <color>red</color>
+   <text>      Selain - Dieu de l'Invocation</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Lieu: Tree Town, Whitestone City</text><nl/>
+   <text> Prêtre: Sylpho</text><nl/>
+   <text> Avantages: Les fidèles gagnent plus d'expérience en</text><nl/>
+   <text>           Invocation</text><nl/>
+   <text> Ennemis: Aluwen, Glilin.</text><nl/>
+   <text> Niveau de départ: -2 en Invocation</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Retour aux Dieux"/><nl/>
+</Page>
+<Page name="GLILIN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                   DIEUX</text><nl/>
+   <color>red</color>
+   <text>      Glilin - Dieu de la Fabrication</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Lieu: Nordcarn</text><nl/>
+   <text> Prêtre: Baostas</text><nl/>
+   <text> Avantages: Les fidèles gagnent plus d'expérience en</text><nl/>
+   <text>           Fabrication</text><nl/>
+   <text> Ennemis: Selian, Lucaa.</text><nl/>
+   <text> Niveau de départ: -2 en Fabrication</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Retour aux Dieux"/><nl/>
+</Page>
+<Page name="ELANDRIA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                   DIEUX</text><nl/>
+   <color>red</color>
+   <text>      Elandria - Dieu de l'Alchimie</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color>red</color>
+   <text>   Pas encore implémenté</text><nl/>
+   <nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Lieu: Evergreen Forest / Desert Pines</text><nl/>
+   <text> Prêtre: Romira (Pas encore dans son temple)</text><nl/>
+   <text> Avantages: Les fidèles gagnent plus d'expérience en</text><nl/>
+   <text>           Alchimie</text><nl/>
+   <text> Ennemis: Zarin, Mortos.</text><nl/>
+   <text> Niveau de départ: -2 en Alchimie</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Retour aux Dieux"/><nl/>
+</Page>
+<Page name="ZARIN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                   DIEUX</text><nl/>
+   <color>red</color>
+   <text>      Zarin - Dieu de l'Artisanat</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Lieu: Tarsengaard</text><nl/>
+   <text> Prêtre: Durnam</text><nl/>
+   <text> Avantages: Les fidèles gagnent plus d'expérience en</text><nl/>
+   <text>           Artisanat</text><nl/>
+   <text> Ennemis: Elandria, Unolas.</text><nl/>
+   <text> Niveau de départ: -2 en Artisanat</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Retour aux Dieux"/><nl/>
+</Page>
+<Page name="LUCAA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>         Lucaa - Harvesting Goddess</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> To follow the path of Lucaa is to embrace the raw forces</text><nl/>
+   <text> of nature and to live by the whim of the Queen of Nature.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Location: Roanof Island, Tarsengaard</text><nl/>
+   <text> Priest: Quira (Not yet in the temple).</text><nl/>
+   <text> Benefits: Followers get more Harvesting experience</text><nl/>
+   <text> Enemies: Unolas, Glilin.</text><nl/>
+   <text> Starting worship level: rank -2</text><nl/>
+   <nl/><nl/>
+   <text> Note: The way to get to Roanof is currently unknown.</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+<Page name="JAYDEN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>          Jayden - Potion Goddess</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> To follow the path of Jayden is to show patience and</text><nl/>
+   <text> reason and not accept the quick solution to complex</text><nl/>
+   <text> problems, else the mixture will fail.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Location: Morcraven Marsh</text><nl/>
+   <text> Priest: Iazurn (Not yet in the temple).</text><nl/>
+   <text> Benefits: Followers get more Potion experience</text><nl/>
+   <text> Enemies: Galienne, LaForge.</text><nl/>
+   <text> Starting worship level: rank -2</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+<Page name="LAFORGE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>         LaForge - Engineering God</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> To follow the path of LaForge is to create and engineer</text><nl/>
+   <text> items and concepts that stretch the concept of the world</text><nl/>
+   <text> and advance the knowledge of science.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Location: Arius</text><nl/>
+   <text> Priest: Diesel</text><nl/>
+   <text> Benefits: Followers get more Engineering experience</text><nl/>
+   <text> Enemies: Jayden, Galienne.</text><nl/>
+   <text> Starting worship level: rank -2</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+<Page name="XIAO">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>             Xiao - Ranging God</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> To follow the path of Xiao is to have true aim, kill</text><nl/>
+   <text> swiftly, live secretly, and honor those of the clan.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Location: Ruins of Tirnym</text><nl/>
+   <text> Priest: Marn (Not yet in the temple).</text><nl/>
+   <text> Benefits: Followers get more Ranging experience</text><nl/>
+   <text> Enemies: Unknown</text><nl/>
+   <text> Starting worship level: rank -2</text><nl/>
+   <nl/><nl/>
+   <text> Our scholars are still in pursuit of knowledge about</text><nl/>
+   <text> this deity.</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+<Page name="GALIENNE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>        Galienne - Tailoring Goddess</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> To follow Galienne is to inspire others and strive to</text><nl/>
+   <text> achieve perfection of your craft.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Location: Glacmor</text><nl/>
+   <text> Priest: Tyra (Not yet in the temple).</text><nl/>
+   <text> Benefits: Followers get more Tailoring experience</text><nl/>
+   <text> Enemies: Jayden, LaForge.</text><nl/>
+   <text> Starting worship level: rank -2</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+</Gods>

@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Perks>
+<Page name="P_PS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		                Powersaving</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 3 punkty, 100 zlota</text><nl/>
+   <text> Poziom jedzenia nie zmniejszy sie jesli nie odzyskujesz</text><nl/>
+   <text> punktow many/zycia i nie czytasz zadnej ksiazki.</text><nl/>
+   <text> Nie laczy sie z "Can't get enough" i "Power Hungry".</text>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_FR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		              Fast Regenration</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 3 punkty, 100 zlota</text><nl/>
+   <text> Mana i zdrowie regeneruja sie 3 razy szybciej.</text><nl/><nl/>
+   <text> Usuniecie: ten perk mozna usunac takze przy uzyciu</text><nl/>
+   <text> odpowiedniego kamienia (bardzo drogiego). Uzycie go zwroci</text><nl/>
+   <text> Ci 10 punktow przydzialu. Usuniecie perka</text><nl/>
+   <text> nie zwroci wydanych pieniedzy.</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_SD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		               Self Destruction</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 5 punktow, 130 zlota</text><nl/>
+   <text> Kiedy giniesz, kazdy przeciwnik walczacy z toba otrzymuje</text><nl/>
+   <text> 10-15 punktow obrazen (niezaleznie od zbroji i obrony).</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_EX">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 			                 Excavator</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 5 punktow, 150 zlota</text><nl/>
+   <text> Podwaja ilosc jaka mozesz zbierac. Np. mozesz zebrac</text><nl/>
+   <text> dwie rudy metalu na raz.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Uwaga: Perk ten nie podwaja ilosci otrzymywanych punktow</text><nl/>
+   <text> doswiadczenia!</text><nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_MM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		              Monster Magnetism</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 5 punktow, 1500 zlota</text><nl/>
+   <text> Potwory Cie ignoruja i przestaja atakowac. Beda jednak</text><nl/>
+   <text> walczyc jesli to Ty zaatakujesz pierwszy/a.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Perk nie dziala na:</text><nl/>
+   <text> - Arctic Chimeran Wolves;</text><nl/>
+   <text> - Smoki;</text><nl/>
+   <text> - Leonard, leopard-ludojad;</text><nl/>
+   <text> - Potwory przywolane na arenach;</text><nl/>
+   <text> - Potwory inwazyjne (o czerwonej nazwie).</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_EV">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		                Evanescence</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 5 punktow, 200 zlota</text><nl/>
+   <text> Kazdy udany cios, jaki zadaje Twoj przeciwnik, ma 10%</text><nl/>
+   <text> szans na miniecie celu.</text>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_CG">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		                Careful Guy</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 5 punktow, 250 zlota</text><nl/>
+   <text> Redukuje szanse utraty przedmiotow gdy giniesz,</text><nl/>
+   <text> z 50% do 40%.</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_BP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		                Body Piercing</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 7 punktow, 150 zlota.</text><nl/>
+   <text> Zwieksza o 10% szanse na ominiecie zbroji przeciwnika.</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_FM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		                   Fatal Man</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 7 punktow, 150 zlota</text><nl/>
+   <text> Zwieksza o 10% szanse na zaliczenie trafienia niezaleznie</text><nl/>
+   <text> od umiejetnosci obrony przeciwnika.</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_CO">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		                  Conjurer</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 7 punktow, 250 zlota</text><nl/>
+   <text> Podczas przywolywania koszt many jest zmniejszony o</text><nl/>
+   <text> polowe.</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_IGD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		             I Glow in the Dark</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 7 punktow, 250 zlota</text><nl/>
+   <text> Kazdemu przeciwnikowi, z ktorym walczysz, wyrzadza 2</text><nl/>
+   <text> punkty obrazen od promieniowania. Dodatkowo, z kazdym</text><nl/>
+   <text> celnie zadanym ciosem zabiera przeciwnikowi 2 punkty</text>
+   <text> zycia.</text>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_TNF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		              There is no Fork</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 7 punktow, 250 zlota</text><nl/>
+   <text> Twoj poziom obrony pozostaje bez zmian, bez wzlgedu na to</text><nl/>
+   <text> z iloma przeciwnikami walczysz na raz.</text><nl/>
+   <text> Nie dziala z "I can't dance".</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_MS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		                 Mirror Skin</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 7 punktow, 300 zlota</text><nl/>
+   <text> 10% szans, ze uderzenie ktore otrzymales/as zostanie</text><nl/>
+   <text> odbite a obrazenia ktore zadal cios zostana przeniesione</text><nl/>
+   <text> na przeciwnika.</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_NMT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		                  No More Tears</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 7 punktow, 1000 zlota</text><nl/>
+   <text> Szansa stracenia przedmiotow noszonych w czasie walki</text><nl/>
+   <text> jest zredukowana do 1/4 normalnej szansy.</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_IEDP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text>              I Eat Dead People</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 3 points, 10000 gold</text><nl/>
+   <text> Pozwala zjadac kosci. Jedna kosc to 10 punktow jedzenia,</text><nl/>
+   <text> bez cooldown.</text><nl/>
+   <text> Usuniecie: ten perk mozna usunac takze przy uzyciu</text><nl/>
+   <text> odpowiedniego kamienia (bardzo drogiego). Uzycie go zwroci</text><nl/>
+   <text> Ci 3 punkty przydzialu, ale nie zwroci wydanych pieniedzy.</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_PH">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		                Power Hungry</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: -3 punkty</text><nl/>
+   <text> 3 punkty jedzenia ubywaja co minute. Normalnie ubywa</text><nl/>
+   <text> tylko 1 punkt na minute.</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_ICD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		                I Can't Dance</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: -5 punktow, 1000 gc</text><nl/>
+   <text> Dodatkowe obnizenie obrony o 15 podczas walki z wieloma</text><nl/>
+   <text> przeciwnikami na raz.</text><nl/>
+   <text> Nie dziala z "There is no fork".</text><nl/>
+   <text> Usuniecie: ten perk mozna usunac takze przy uzyciu</text><nl/>
+   <text> odpowiedniego kamienia (bardzo drogiego). Uzycie go wymaga</text><nl/>
+   <text> posiadnania 5 wolnych punktow przydzialu. Usuniecie nie</text><nl/>
+   <text> wydanych pieniedzy.</text>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_GB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		                Gelatine Bones</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: -6 punktow</text><nl/>
+   <text> Kazde obrazenia jakie otrzymujesz (bez wzgledu czy sa to</text><nl/>
+   <text> obrazenia od zimna, goraca, promieniowania magii itp.) sa</text><nl/>
+   <text> powiekszone o dodatkowe 5 punktow zycia.</text><nl/><nl/>
+   <text> Usuniecie: ten perk mozna usunac takze przy uzyciu</text><nl/>
+   <text> odpowiedniego kamienia (bardzo drogiego). Uzycie go wymaga</text><nl/>
+   <text> posiadania 6 wolnych punktow przydzialu.</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_G">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		                   Godless</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: -8 punkty</text><nl/>
+   <text> Nie pozwala sluzyc zadnemu bogu (jesli wybrales perk</text><nl/>
+   <text> po tym jak ukonczyles zadania dla boga, to zostana</text><nl/>
+   <text> one wykasowane).</text><nl/>
+   <nl/>
+   <text> Usuniecie: ten perk mozna usunac przy uzyciu</text><nl/>
+   <text> odpowiedniego kamienia (bardzo drogiego). Uzycie go wymaga</text><nl/>
+   <text> posiadania 8 wolnych punktow przydzialu.</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_H">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		                   Hellspawn</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: -10 punktow, 15000 gc</text><nl/>
+   <text> Kazdorazowo gdy wchodzisz na nowa mape lub wchodzisz</text><nl/>
+   <text> czy wychodzisz z budynku, masz 20% szanse na wyladowanie</text><nl/>
+   <text> w piekle (bez straty przedmiotow).</text><nl/><nl/>
+   <text> Usuniecie: ten perk mozna usunac takze przy uzyciu</text><nl/>
+   <text> odpowiedniego kamienia (bardzo drogiego). Uzycie go wymaga</text><nl/>
+   <text> posiadania 10 wolnych punktow przydzialu. Usuniecie perka</text><nl/>
+   <text> nie zwroci wydanych pieniedzy.</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_A">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text> 		                  Antisocial</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: -10 punktow, 15000 gc</text><nl/>
+   <text> Zaden NPC nie sprzeda/kupi rzeczy od ciebie. Ciagle </text><nl/>
+   <text> mozesz kupowac sigile ze sklepu magicznego oraz korzystac</text><nl/>
+   <text> z Magazynu (Storage).</text><nl/><nl/>
+   <text> Usuniecie: ten perk mozna usunac takze przy uzyciu</text><nl/>
+   <text> odpowiedniego kamienia (bardzo drogiego). Uzycie go wymaga</text><nl/>
+   <text> posiadania 10 wolnych punktow przydzialu. Usuniecie perka</text><nl/>
+   <text> nie zwroci wydanych pieniedzy.</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_ScD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text>                 Scotty Died</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: -3 punkty, 10000 gc</text><nl/>
+   <text> Majac ten perk nie bedziesz w stanie korzystac z #beam me.</text><nl/>
+   <text> Jezeli zabladzisz i nie bedziesz w stanie znalezc wyjscia</text><nl/>
+   <text> jedynym rozwiazaniem bedzie #suicide, pierscien</text><nl/>
+   <text> teleportacyjny lub zaklecie.</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_HoS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text>             Harvester of Sorrow</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: -5 punktow, 100000 gc</text><nl/>
+   <text> Jesli trafisz na przypadkowy teleport nexus w czasie</text><nl/>
+   <text> zbierania surowcow, zostaniesz wyslany na Kilaran Field</text><nl/>
+   <text> (Mapa PK).</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_Sk">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text>                   Skeptic</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 30000 gc</text><nl/>
+   <text> Astologia nie dziala na Ciebie: koniec bonusow,</text><nl/>
+   <text> koniec negatywnych efektow.</text><nl/>
+   <color>red</color>
+   <nl/>
+   <text> UWAGA!! Ten perk jest dozywotni, nie da sie go usunac</text><nl/>
+   <text> poprzez #reset!</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_ONE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text>                     One</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Otrzymujesz: 6 punktow</text><nl/>
+   <text> Koszt: 60000 gc</text><nl/>
+   <text> Miny, kolczatki i Laski krzywdza Cie jeszcze mocniej,</text><nl/>
+   <text> nawet na mapach nie-PK.</text><nl/>
+   <nl/>
+   <text> Usuniecie: ten perk mozna usunac takze przy uzyciu</text><nl/>
+   <text> odpowiedniego kamienia, dostepnego jedynie poprzez</text><nl/>
+   <link ref="http://www.eternal-lands.com/page/shop.php" title="EL shop"/><text>.</text><nl/>
+   <text> Do usuniecia potrzebne Ci bedzie 6 wolnych punktow</text><nl/>
+   <text> przydzialu. Usuniecie perka nie zwroci wydanych</text><nl/>
+   <text> wczesniej pieniedzy.</text><nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_UND">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text>              The Underworlder</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 2 punkty, 20000 gc</text><nl/>
+   <text> Pozwala Ci na uzywanie zaklec teleportacji do pokoju</text><nl/>
+   <text> porali oraz pierscieni teleportacyjnych bedac w Piekle.</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_SUM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text>                The Summoner</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 5 punktow, 20000 gc</text><nl/>
+   <text> Dodaje +10% do ataku i obrony przywolanej przez Ciebie</text><nl/>
+   <text> istoty. Dodaje takze +5 obrazen oraz szans na uderzenie</text><nl/>
+   <text> krytyczne (Critical Hit).</text>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_AR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text>                  Artificer</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 7 punktow, 60000 gc</text><nl/>
+   <text> Zwieksza szanse na wytworzenie unikatowego przedmiotu</text><nl/>
+   <text> (np. enriched essence).</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_ER">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text>               Ethereal Ranger</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 5 punktow, 20000 gc</text><nl/>
+   <text> Dodaje 30% szans na to, ze nie stracisz strzaly/beltu po</text><nl/>
+   <text> tym jak zostanie on wystrzelony.</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_WH">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text>                 Wilhelm Hood</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 5 puktow, 20000 gc</text><nl/>
+   <text> Dostajesz o 15% wiecej doswiadczenia w Strzelectwie,</text><nl/>
+   <text> Twoje strzaly staja sie tez bardziej celne i zadaja o 15%</text><nl/>
+   <text> wiecej obrazen.</text><nl/>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+<Page name="P_N">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    Perki</text><nl/>
+   <color>red</color>
+   <text>                    Ninja</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Koszt: 5 puktow, 20000 gc</text><nl/>
+   <text> Masz 80% szans na pozostanie niewidzialnym (po</text><nl/>
+   <text> wczesniejszym uzyciu mikstury lub zaklecia</text><nl/>
+   <text> niewidzialnosci) w czasie atakowania przy uzyciu lukow i</text><nl/>
+   <text> kusz.</text>
+   <nl/>
+   <nl/><color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Powroc Do Perkow"/>
+   <nl/>
+</Page>
+</Perks>

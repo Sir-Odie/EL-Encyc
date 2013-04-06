@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Creatures>
+<Page name="Rabbits">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Rabbits</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Kroliki)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Wystepuja dwa, podstawowe gatunki krolikow:</text><nlkx/>
+   <text> Bialy (White Rabbit) i Brazowy (Brown Rabbit).</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Futra z krolikow mozesz wykorzystac do:</text><nl/>
+   <text>  Brown (Brazowy): </text><link ref="Fur_Gloves" title="Warm Fur Gloves"/><nlkx/>
+   <link ref="Fur_Boots" title="Fur Boots"/><nl/>
+   <nl/>
+   <text>  White (Bialy): </text><link ref="Hat_Fur" title="Fur Hat"/><nlkx/>
+   <link ref="P_Harvesting" title="Potion of Harvesting"/><nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Rat">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Rat</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Szczur)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Szczur.</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Szczurzych ogonkow mozesz uzyc do:</text><nlkx/>
+   <text>  </text><link ref="Fur_Boots" title="Fur Boots"/><nlkx/>
+   <link ref="Fur_Torso" title="Fur Torso"/><nlkx/>
+   <link ref="P_Magic" title="Potion of Magic"/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Beaver">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Beaver</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Bobr)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Bobr.</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Futer z bobra mozesz uzyc do:</text><nlkx/>
+   <text>  </text><link ref="Hat_Fur" title="Fur Hat"/><nlkx/>
+   <link ref="Fur_Pants" title="Fur Pants"/><nlkx/>
+   <link ref="P_Defense" title="Potion of Defense"/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Skunk">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Skunk</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                            (Skunks)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Skunks</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Skunksy zamieszkuja jedynie kontynent Irilion,</text><nlkx/>
+   <text> ktory nie jest specjalnie przyjazny nowym graczom.</text><nl/>
+   <nl/>
+   <text> Futer z Skunksa uzywa sie w:</text><nlkx/>
+   <text>  </text><link ref="Hat_Skunk" title="Skunk Hat"/><nlkx/>
+   <link ref="P_Accuracy" title="Potion of Accuracy"/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Racoon">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Racoon</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Szop)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Szop Pracz.</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Szopa mozna spotkac jedynie na kontynencie Irilion.</text><nlkx/>
+   <text> Niezbyt przyjaznym dla nowych graczy.</text><nl/>
+   <nl/>
+   <text> Futer z Szopa mozna uzyc do:</text><nlkx/>
+   <text>  </text><link ref="Hat_Racoon" title="Racoon Hat"/><nlkx/>
+   <link ref="P_Evasion" title="Potion of Evasion"/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Deer">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Deer</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                             (Jelen)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Jelen</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Futer z Jelenia mozna uzyc do:</text><nlkx/>
+   <text>  </text><link ref="Fur_Pants" title="Fur Pants"/><nlkx/>
+   <link ref="Fur_Torso" title="Fur Torso"/><nlkx/>
+   <link ref="P_Coordination" title="Potion of Coordination"/><nl/>
+   <nl/>
+   <text> Poroza przydaja sie w:</text><nlkx/>
+   <text>  </text><link ref="P_Summoning" title="Potion of Summoning"/><nlkx/>
+   <link ref="P_TS" title="Potion of True Sight"/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Snakes">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Snakes</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Weze)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> W EL wystepuja trzy gatunki wezy: Green (Zielony)</text><nlkx/>
+   <text> Red (Czerwony) oraz Brown (Brazowy).</text><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Skory wezy przydaja sie do Przywolywania oraz w</text><nl/>
+   <text> niektorych zadaniach (questach).</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Fox">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Fox</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                            (Lis)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Lis</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Lisie futra przydaja sie do produkcji:</text><nlkx/>
+   <text>  </text><link ref="Fox_Scarf" title="Fox Scarf"/><nlkx/>
+   <link ref="Cloak_Fur" title="Fur Cloak"/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Boar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Boar</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                            (Dzik)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Dzik</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Dziki to swietne zrodlo duzej ilosci kosci oraz</text><nl/>
+   <text> miesa ktore czesto wykorzystuje sie w Przywolywaniu</text><nl/>
+   <text> oraz w Miksturach.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Wolf">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Wolf</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Wilk)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Wilk.</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Z wilczych futer da sie wytwarzac:</text><nlkx/>
+   <text>  </text><link ref="Cloak_Fur" title="Fur Cloak"/><nlkx/>
+   <link ref="Fur_Boots" title="Fur Boots"/><nlkx/>
+   <link ref="Fur_Pants" title="Fur Pants"/><nlkx/>
+   <link ref="Fur_Torso" title="Fur Torso"/><nlkx/>
+   <link ref="P_Wildness" title="Potion of Wildness"/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Spiders">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Spiders</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Pajaki)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> W EL rozroznia sie dwa rodzaje pajakow:</text><nlkx/>
+   <text> Small (Male) oraz Large (Duze).</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Pajaki produkuja sporo nici, ktora moze byc uzyta</text><nl/>
+   <text> do produkcji przedmiotow (lub sprzedana graczom).</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Puma">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Puma</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                            (Puma)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Puma </text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Futro z Pumy wykorzystuje sie do produkcji:</text><nlkx/>
+   <text>  </text><link ref="P_Vitality" title="Potions of Vitality"/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Leopard">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Leopard</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Leopard)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Leopard </text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Futro z Leoparda nie jest jeszcze wykorzystwane</text><nlkx/>
+   <text> przez zadne przedmioty.</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Snow_Leopard">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Snow Leopard</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Leopard Sniezny)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Leopard Sniezny </text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Futro z tego Leoparda wykorzystywane jest w</text><nlkx/>
+   <text>  </text><link ref="P_Invis" title="Potion of Invisibility"/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Panther">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Black Panther</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Czarna Pantera)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarna Pantera </text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Futro z Czarnej Pantery nie jest jeszcze</text><nlkx/>
+   <text> wykozystwyane.</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Feran">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Feran</text><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Feran</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Rogi Ferana wykorzystywane sa przy produkcji:</text><nlkx/>
+   <text>  </text><link ref="P_Alchemy" title="Potion of Alchemy"/><nlkx/>
+   <link ref="P_Potion" title="Potion of Potion"/><nlkx/>
+   <link ref="Extract_WDF" title="Extracts"/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Tiger">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Tiger</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Tygrys)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Tygrys </text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Futro z Tygrysa nie jest w tej chwili do niczego</text><nlkx/>
+   <text>  </text><text>potrzebne.</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="White_Tiger">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 White Tiger</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Tygrys Bialy)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Tygrys Bialy </text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Z futra Bialego Tygrysa produkuje sie:</text><nlkx/>
+   <text>  </text><link ref="ST_TigerW" title="Tiger Summoning Stone"/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="BearB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Black Bear</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Niedzwiedz Czarny)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Niedzwiedz Czarny</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Futro tego Niedzwiedzia przydatne jest do:</text><nlkx/>
+   <text>  </text><link ref="P_Attack" title="Potions of Attack"/><nlkx/>
+   <link ref="ST_Bear" title="Bear Summoning Stone"/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="BearG">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Grizzly Bear</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Niedzwiedz Grizzli)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Niedzwiedz Grizzli</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Futro Grizzli wykorzystuje sie w:</text><nlkx/>
+   <text>  </text><link ref="P_Attack" title="Potions of Attack"/><nlkx/>
+   <link ref="ST_Bear" title="Bear Summoning Stone"/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="BearP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Polar Bear</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Niedzwiedz Polarny)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Niedzwiedz Polarny</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Futra z tego misia nie wykorzystuje sie w</text><nlkx/>
+   <text>  </text><text>tej chwili do niczego.</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Panda">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Panda Bear</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Niedzwiedz Panda)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Panda</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Tluste niedzwiadki Panda to swietne zrodlo kosci i</text><nl/>
+   <text> surowego miesa, tak potrzebnych przy przywolywaniu.</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Hawk">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Hawk</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                         (Jastrzab)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Jastrzab</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Z pozoru wygladajace na slabe i niegrozne ptaszki</text><nlkx/>
+   <text> w praktyce potrafia ostro dziabnac. Poluje sie na</text><nlkx/>
+   <text> nie dla pior.</text>
+   <nl/>
+   <text> Piora Jastrzebi wykorzystuje sie w:</text><nlkx/>
+   <text>  </text><link ref="P_Eng" title="Potion of Engineering"/><nl/>
+   <text>  </text><link ref="Archery" title="Strzelectwie"/><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Falcon">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Falcon</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Sokol)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Sokol</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Pazuty i ostry dziob tego ptaka sprawily juz</text><nlkx/>
+   <text> klopot niejednemu mysliwemu. Nie mniej jednak</text><nlkx/>
+   <text> piora tych ptakow stanowia nadal cenny lup.</text><nl/>
+   <nl/>
+   <text> Piora Sokoloa wykorzystywane sa w:</text><nlkx/>
+   <text>  </text><link ref="P_Eng" title="Potion of Engineering"/><nl/>
+   <text>  </text><link ref="Archery" title="Strzelectwie"/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Lion">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Lion</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                            (Lew)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Lew</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Grozne zwierze zamieszkujace glownie tereny</text><nlkx/>
+   <text> porosniete gesta dzungla.</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Penguins">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Penguins</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Pingwiny)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Pingwiny</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Pingiwny tradycyjnie zamieszkuja zimne, lodowe krainy.</text><nlkx/>
+   <text> Dla mysliwych sa dobrym zrodlem miesa i kosci.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Goblin">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Goblin</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Wystepuja dwa rodzaje Goblinow: Meski (Male) oraz</text><nlkx/>
+   <text> Zenski (Female). Istnieja takze Uzbrojone (Armed).</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Gobliny to paskudne, smierdzace gnidy. Czesto mozna</text><nlkx/>
+   <text> ich spotkac podrozujacych w 5-6 osobowych grupach,</text><nlkx/>
+   <text> zdaza sie takze ze podrozuja same. Wzrostem siegaja</text><nlkx/>
+   <text> maksymalnie 5 stop (1.5m), skore maja zielona, oczy</text><nlkx/>
+   <text> zoloto-brazowe, na ogol nie nosza niczego poza bronia.</text><nlkx/>
+   <text> Ta biora zwykle z szabrowania grobow i zwlok, czasem</text><nlkx/>
+   <text> od napotkanych przechodniow, ktorym po prostu zabraklo</text><nlkx/>
+   <text> szczescia. Gobliny sa za glupie by rozroznic dobro od</text><nlkx/>
+   <text> zla.</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Skeleton">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Skeleton</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                         (Szkielet)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Szkielet - ot, kupa ozywionych kosci.</text><nlkx/>
+   <text> Czasem uzbrojona kupa kosci (Armed).</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Szkielety to na ogol pozostalosci sprzed Wielkiej</text><nlkx/>
+   <text> Wojny (Great War). Bogowie zla, kiedy zabraklo im </text><nlkx/>
+   <text> krwi i ciala, zaczeli wskrzeszac kosci tworzac </text><nlkx/>
+   <text> potwory majace walczyc z Bogami Dobra. Na szczescie </text><nlkx/>
+   <text> nie udalo im sie pozyskac ich dusz. Pewna legenda glosi,</text><nlkx/>
+   <text> ze na pare dusz rzucona jednak zostala klatwa i musza </text><nlkx/>
+   <text> podazac za cieniem wlasnej osoby po wiecznosc.</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Gargoyle">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Gargoyles</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Gargulce)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Rozroznia sie trzy rodzaje Gargulcow: Niskie</text><nlkx/>
+   <text> (Short), Srednie (Mediu,) i Wysokie (Tall).</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Kiedy Krol Vermor zniknal w tajmeniczych okolicznosciach</text><nlkx/>
+   <text> (wiekszosc osob wierzy ze zginal, choc nigdy nie</text><nlkx/>
+   <text> odnaleziono ciala) jego Gargulce zostaly pozbawione</text><nlkx/>
+   <text> kontoroli. Wlocza sie teraz wieczorami po White Stone,</text><nlkx/>
+   <text> za dnia zas zamieniaja w kamienie. Niektorzy twierdza</text><nlkx/>
+   <text> ze nadal sa lojalne swojemu panu i ciagle probuja go</text><nlkx/>
+   <text> odnalezc... moze pewnego dnia im sie to uda...?</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Phantom_Warrior">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Phantom Warrior</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Widmo)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Widma</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Podobnie jak szkielety, Widma (Phantom Warriors)</text><nlkx/>
+   <text> zostaly powolane do sluzby Bogom Zla w czasie</text><nlkx/>
+   <text> Wielkiej Wojny. Niestety, braly udzial w bitwach,</text><nlkx/>
+   <text> sa zatem bardziej doswiadczone i zdecydowaniethe</text><nlkx/>
+   <text> silniejsze. Podczas gry ich ciala praktycznie nie</text><nlkx/>
+   <text> istnieja, ich umysly sa nadal silne i inteligentene</text><nlkx/>
+   <text> jak za zycia. Rozdarci w polsmierci slepo sluza swemu</text><nlkx/>
+   <text> panu - Mortosowi.</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Troll">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Troll</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Troll</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Troll to prymitywny brutal z inteligencja na</text><nlkx/>
+   <text> poziomie Cyklopa (Cyclop). Niestety ich umysly sa</text><nlkx/>
+   <text> odwrotnie proporcjonalnie do ich rozmiarow i sily.</text><nlkx/>
+   <text> To czyni z nich calkiem groznych przeciwnikow.</text><nlkx/>
+   <text> Przynajmniej dla typowego podroznika. Zawsze</text><nlkx/>
+   <text> wyposazone w potezne palki sieja spustoszenie i</text><nlkx/>
+   <text> smierc z kazdym zadanym ciosem.</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Orc">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Orcs</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Ork)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Wystepuje w odmianie Meskiej (Male) lub Zenskiej</text><nlkx/>
+   <text> (Female). Bywa takze Uzbrojony (Armed)</text><nlkx/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Glowny problem z Orkami polega na tym, ze sa dosc</text><nlkx/>
+   <text> inteligente. Potrafia stosowac taktyke i strategie.</text><nlkx/>
+   <text> Jako ze sa sporo wieksze od przecietnego czlowieka - budza</text><nlkx/>
+   <text> strach i przerazenie. Widok krwi rannych wrogow</text><nlkx/>
+   <text> motywuje ich jeszcze bardziej do agresywnego</text><nlkx/>
+   <text> atakowania. Wlasne zycie maja z nic, nie</text><nlkx/>
+   <text> iteresuje ich, czy przezyja czy nie. Beda walczyc</text><nl/>
+   <text> az do smierci. Wlasnej lub wroga.</text>
+   <nl/><nl/>
+   <text> Wzrostem siegaja 6-8 stop (1,8m-2,4m), skore maja w</text><nlkx/>
+   <text> odcieniach zieleni i brazu. Nosza wlasne, unikalne zbroje</text><nlkx/>
+   <text> oraz bronie - czesto produkowane na podstawie tego, co</text><nlkx/>
+   <text> uda im sie podpatrzec u innych ras.</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Ogre">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Male Ogre</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                            (Ogr)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Ogry</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Ogry to istoty ceniace samotnosc. Zyja pojedyczno,</text><nlkx/>
+   <text> z dala od innych ogrow. Nie toleruja obecnosci</text><nlkx/>
+   <text> innych, humanoidalnych stworzen na swoim terytorium.</text><nlkx/>
+   <text> Nie sa tak inteligentne jak Orki, sa leniwe i</text><nlkx/>
+   <text> niezdarne. Skore maja rozna, w odcieniach od</text><nlkx/>
+   <text> zielonego az po brzoskwiniowy (przypomminajacy kolor</text><nlkx/>
+   <text> ludzkiej skory). Mierza zwykle okolo 8 stop (2.4m)</text><nlkx/>
+   <text> wysokosci i sa wyjatkowo szerokie w pasie (z racji</text><nlkx/>
+   <text> swojego lenistwa).</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Cyclops">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Cyclop</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Cyklop)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Cyclops</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Cyklopy to klasyczne tepe olbrzymy, ktorych jedynim celem</text><nlkx/>
+   <text> jest atakowanie wszystkego co tylko sie rusza. Oczywistym</text><nlkx/>
+   <text> jest, ze nie posiadaja mozgu, nadrabiaja jednak sila i</text><nlkx/>
+   <text> rozmiarami. Niewiele wiadomo o ich stosunkach spolecznych,</text><nlkx/>
+   <text> poniwaz nikomu nie udalo sie zblizyc do Cyklopow na tyle</text><nlkx/>
+   <text> aby dowiedziec sie czegos wieecej.</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Fluffy">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Fluffy Rabbit</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Kroliczek Fluffy)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Fluffy Rabbits</text>
+   <nl/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> "Ooo, jaki sliczny, slodki kroliczek!"</text><nlkx/>
+   <text>      --To zwykle sa ostatnie slowa kazdego, kto</text><nlkx/>
+   <text> spotyka Kroliczka Fluffy.</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Chimera">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Chimeran Wolves</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Chimery)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Istnieja ich 4ry rodzaje: Pustynna (Desert),</text><nlkx/>
+   <text> Lesna (Forest), Gorska (Mountain) oraz Arktyczna</text><nlkx/>
+   <text> (Arctic).</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Z wykladu przypominaja olbrzymie, grozne i silne wilki.</text><nlkx/>
+   <text> Stworzone zostaly podczas nieudanego magicznego </text><nlkx/>
+   <text> eksperymentu. Jedynie najslilniejsi wojownicy sa w stanie</text><nlkx/>
+   <text> obronic sie przed atakami Chimer.</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Hobgob">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Hobgoblin</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Hobgoblin</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Hobgobliny zostaly stworzone przez Unolasa podczas</text><nlkx/>
+   <text> jego prob wykreowania inteligentniejszej formy </text><nlkx/>
+   <text> goblina. Eksperyment sie nie powiodl i w rezultacie</text><nlkx/>
+   <text> powstal silniejszy i zdaje sie jeszcze glupszy od zwyklego</text><nlkx/>
+   <text> goblina gatunek.</text><nlkx/>
+   <nl/>
+   <text> Maja niebieska skore a ich twarz przypomina swinski ryj.</text><nlkx/>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Yeti">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Yeti</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Yeti</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Teti to glupie, tepe i ekstremalnie niebrzpieczne</text><nlkx/>
+   <text> stworzenia. Skore maja pokryta cienka warstwa bialego</text><nlkx/>
+   <text> futra, ktore chroni ich przed mrozem. Wysokie na 8-10</text><nlkx/>
+   <text> stop (2,4m-3m) widza wszystko z duzej odleglosci.</text><nl/>
+   <nl/><nl/>
+   <text> Sa bardzo silne i okropnie agresywne, atakuja wszystko i</text><nl/>
+   <text> wszystkich. Zamieszkuja glebokie, ciemne jaskinie ktore</text><nl/>
+   <text> opuszczaja jedynie w poszukiwaniu pozywienia. Wielu</text><nl/>
+   <text> silnych wojownikow zgnielo z ich reki.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Giant">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Giant</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Gigant)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Giants</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Olbrzymi, agresywny gigant, silny i wyjatkowo</text><nlkx/>
+   <text> niebezpieczny, nawet dla grupy najlepszych wojownikow.</text><nlkx/>
+   <text> Na szczescie jest samotnikiem, rzadko spotyka sie chocby</text><nlkx/>
+   <text> dwoch osobnikow na raz.</text>
+   <nl/><nl/>
+   <text> Mimo iz z wygladu bardziej przypominaja ludzi, nie </text><nl/>
+   <text> najwiekszej ludzkiej zalety - mozgu. Sa glupie. Wyjatkowo</text><nl/>
+   <text> glupie.</text><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Feros">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Feros</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Feros</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Sporych rozmiarow stworzenie z rodziny kotowatych (mimo iz</text><nlkx/>
+   <text> porusza sie na dwoch nogach, zamiast wszystkich czterech).</text><nl/>
+   <text> Wyglada jak skrzyzowanie czlowieka z kotem.</text>
+   <nl/><nl/>
+   <text> Feros jest agresywnym monstrum, wyjatkowa inteligencja i</text><nl/>
+   <text> i kocia zwinnosc czynia go niebezpiecznym i trudnym</text><nl/>
+   <text> przeciwnikiem.</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Cockatrice">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Cockatrice</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Bazyliszek)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Bazyliszek</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Potwor ktory z wygladu przypomina olbrzymiego koguta</text><nlkx/>
+   <text> (takiego, na ktorym moglby latac Pan Twardowski).</text><nlkx/>
+   <text> Na pierwszy rzut oka widac ze jest spokrewniony z gadami,</text><nlkx/>
+   <text> szczegolnie ze smokiem - ma podobne skrzydla.</text><nlkx/>
+   <text> Legenda glosi ze Bazyliszek jest w stanie zabic samym</text><nl/>
+   <text> spojrzeniem, lecz tak na prawde jest po prostu wyjatkowo</text><nl/>
+   <text> groznym przeciwnikiem - zabija w sekunde.</text><nl/>
+   <nl/><nl/>
+   <text> Bazyliszek atakuje zwykle bardzo zaciekle, przy uzyciu</text><nlkx/>
+   <text> olbrzymiego dzioba i ostrych jak brzytwa pazurow.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="DragonR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Red Dragon</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Czerwony Smok)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Czerwony Smok</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Olbrzymie, majestatyczne, ekstremalnie niebezpieczne i</text><nlkx/>
+   <text> agresywne potwory, mogace jednym machnieciem lapy powalic</text><nlkx/>
+   <text> najlepszych i najbardziej zaprawionych w bojach rycerzy.</text><nlkx/>
+   <text> Wielkie kly, ostre pazury i ogon w ksztalcie wloczni</text><nlkx/>
+   <text> sprawiaja wszystkim ogromne trudnosci w walce.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="DragonB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Black Dragon</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (CZarny Smok)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarny Smok</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Olbrzymie, majestatyczne, ekstremalnie niebezpieczne i</text><nlkx/>
+   <text> agresywne potwory, mogace jednym machnieciem lapy powalic</text><nlkx/>
+   <text> najlepszych i najbardziej zaprawionych w bojach rycerzy.</text><nlkx/>
+   <text> Wielkie kly, ostre pazury i ogon w ksztalcie wloczni</text><nlkx/>
+   <text> sprawiaja wszystkim ogromne trudnosci w walce.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="DragonW">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                White Dragon</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Bialy Smok)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Bialy Smok</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Olbrzymie, majestatyczne, ekstremalnie niebezpieczne i</text><nlkx/>
+   <text> agresywne potwory, mogace jednym machnieciem lapy powalic</text><nlkx/>
+   <text> najlepszych i najbardziej zaprawionych w bojach rycerzy.</text><nlkx/>
+   <text> Wielkie kly, ostre pazury i ogon w ksztalcie wloczni</text><nlkx/>
+   <text> sprawiaja wszystkim ogromne trudnosci w walce.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Unicorn">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Unicorn</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Jednorozec)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Jednorozec</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Porazajaco piekny bialy rumak, z dlugim, lsniacym rogiem</text><nlkx/>
+   <text> imponujaco sterczacym z lba zwierzecia. Plotka glosi</text><nlkx/>
+   <text> ze ukazuje on sie jedynie dziewicom.</text>
+   <nl/><nl/>
+   <text> Jednorozca nie da sie zaatakowac.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Brownie">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Brownie</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Brownie</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Brownie to psotliwa i filarga rasa malych ludow o </text><nlkx/>
+   <text> spiczastych uszach. Czesto zyja w malych chatach lub</text><nlkx/>
+   <text> szopach. Specjalizuja sie w kradziezach wszystkiego</text><nlkx/>
+   <text> co tylko sie swieci i mieni. Jesli cos zniknelo z Twojego</text><nlkx/>
+   <text> domu, to juz wiesz czyja to sprawka...</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Wood_Sprite">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Wood Sprite</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Lesny Duszek)</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Lesny Duszek</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Delikatne i zwinne istoty zamieszkujace glownie w lasach,</text><nlkx/>
+   <text> powszechnie uwazane sa za straznikow drzew. W legendach</text><nlkx/>
+   <text> opowiada sie ze Lesne Duszki staja sie agresywne i moga</text><nlkx/>
+   <text> atakowac wtedy, gdy scinane sa drzewa.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Imp">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Imp</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Imp</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Wszystkim zawsze wydaje sie iz Impy sa agersywnymi</text><nlkx/>
+   <text> istotami. Nic bardziej mylnego! W rzeczywistosci sa mocno</text><nlkx/>
+   <text> uduchowione, i uwielbiaja psocic i figlowac. Jako domy</text><nlkx/>
+   <text> wybieraja wprawdzie ciemne jaskinie, lecz czesto</text><nlkx/>
+   <text> opuszczaja je w poszukiwaniu przyjaciol badz ofiar ich</text><nl/>
+   <text> kolejnych dowcipow.</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+<Page name="Leprechaun">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Leprechaun</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Leprechaun</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> To kolejna rasa niziolkow mocno zwiazana z osadami Ludzi.</text><nlkx/>
+   <text> Specjalizuja sie w naciaganiu ludzi na bezuzyteczne</text><nlkx/>
+   <text> klejnoty. Poruszaja sie wyjatkowo szybko i czesto nosza</text><nlkx/>
+   <text> przy sobie ciekawe skarby. Jesli tylko uda Ci sie jakiegos</text><nl/>
+   <text> zlapac, skarb bedzie Twoj.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Creatures" title="Wroc do Indeksu Potworow"/>
+</Page>
+</Creatures>

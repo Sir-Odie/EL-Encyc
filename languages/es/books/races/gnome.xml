@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf8"?>
+<book title="The Gnomes">
+	<page>
+		<title>Los Gnomos</title>
+		<author>  Autor desconocido</author>
+	</page>
+	<page>
+		<text>Los Gnomos son otra raza pequeña, similar a los Enanos, pero los Gnomos, al contrario que éstos, son avezados viajeros. Son también buenos artesanos y sastres, y unos excelentes dibujantes de mapas (aunque nunca puedes confiar en que un mapa sea fiel al cien por cien). Son muy curiosos y unos grandes inventores. También, probablemente, los más serviciales, generosos y desinteresados de todas las razas.
+		</text>
+	</page>
+</book>

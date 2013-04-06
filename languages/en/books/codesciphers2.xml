@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<book title="The Use of Codes and Ciphers">
+<page>
+  <title>The Use of Codes and Ciphers</title>
+  <author>Dival Celebrindal (Chief Archivist)</author>
+  </page>
+<page>
+  <title>Substitution codes - Part II</title>
+  <text>My research took me to many parts of the continent, and during my wanderings I found many old scriptures and parchments. It was one of these old parchments in which I discovered the use of other codes. These were codes used by a merchant's guild to set their prices in neighbouring towns. The first code they used was made like this: The sentence is split in half, then the letters in the second half are written in between the letters of the first half. "WOLF FURS WILL BE SOLD FOR 7GC ONLY" would become "WSOOLLFDFFUORRS7WGICLOLNBLEY" For a more complicated method, the sentence is first split into groups of three letters (including a couple of dummy letters at the end), and then the groups of letters are then mixed up into a pre-determined order (in this case the permutation is 12345678 > 36827514). "THIS MESSAGE IS TOP SECRET" becomes "SSA PSE TJX SME CRE STO THI GEI" ... the book continues with more permutations, but you decide you don't need to read further and close the book.</text>
+  </page>
+  </book>

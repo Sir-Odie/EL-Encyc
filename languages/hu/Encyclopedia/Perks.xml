@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Perks>
+<Page name="P_PS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                 Powersaving</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 3 points, 100 gc</text><nl/>
+   <text> Food level won't be decreased each minute if your health</text><nl/>
+   <text> or mana is not being restored, and you're not researching.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Note: This does not affect the food you lose when mining</text><nl/>
+   <text> or mixing.</text><nl/>
+   <nl/>
+   <text> Doesn't work with "Power Hungry".</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_FR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>              Fast Regeneration</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 3 points, 100 gc</text><nl/>
+   <text> Mana, health and attributes regenerate 3 times</text><nl/>
+   <text> faster than usual.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_SD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>              Self Destruction</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 5 points, 130 gc</text><nl/>
+   <text> When you die, each opponent fighting you gets 5-15 points</text><nl/>
+   <text> of damage regardless of armour and defense.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_EX">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                  Excavator</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 5 points, 150 gc</text><nl/>
+   <text> Doubles the quantity of your harvest. So you can get two</text><nl/>
+   <text> ores at a time, for example.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Note: This does not affect the exp you get harvesting.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_MM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>              Monster Magnetism</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 5 points, 1500 gc</text><nl/>
+   <text> Most monsters won't attack you, unless you attack first.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> The exceptions to this are:</text><nl/>
+   <text> - Arctic Chimeran Wolves;</text><nl/>
+   <text> - Dragons;</text><nl/>
+   <text> - Summons in PK areas;</text><nl/>
+   <text> - Invasion creatures (red name).</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_EV">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                 Evanescence</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 5 points, 200 gc</text><nl/>
+   <text> Every successful hit of your opponent, has a 10% chance</text><nl/>
+   <text> to miss.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_CG">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                 Careful Guy</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 5 points, 250 gc</text><nl/>
+   <text> Reduces the chance of losing items when you die from</text><nl/>
+   <text> default of 50% to 40%.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_BP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                Body Piercing</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 7 points, 150 gc.</text><nl/>
+   <text> Increase the chance of bypassing the opponent's armour</text><nl/>
+   <text> by 10%.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_FM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                  Fatal Man</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 7 points, 150 gc</text><nl/>
+   <text> Increase the chance of scoring a hit regardless of your</text><nl/>
+   <text> opponent's skills/defense by 10%.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_CO">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                  Conjurer</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 7 points, 250 gc</text><nl/>
+   <text> Mana cost is halved for summoning.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_IGD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>             I Glow in the Dark</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 7 points, 250 gc</text><nl/>
+   <text> Causes 5 points of damage to any enemy in combat.</text><nl/>
+   <text> Every time you hit or are hit, your opponents take 5</text><nl/>
+   <text> additional points of damage.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_TNF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>              There is no Fork</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 7 points, 250 gc</text><nl/>
+   <text> No defense penalty when fighting multiple opponents.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Doesn't work with "I can't dance".</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_MS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                 Mirror Skin</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 7 points, 300 gc</text><nl/>
+   <text> Every successful hit of your opponent, has a 10% chance</text><nl/>
+   <text> to be reflected back to the enemy.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_NMT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                No More Tears</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 7 points, 1000 gc</text><nl/>
+   <text> The chance of items being damaged or breaking while</text><nl/>
+   <text> fighting is reduced to 1/4 of normal chance.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_IEDP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>              I Eat Dead People</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 3 points, 10000 gc</text><nl/>
+   <text> Allows you to eat bones for 10 food points, no cooldown.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_PH">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                Power Hungry</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: -3 points</text><nl/>
+   <text> Every minute 3 points of food are taken. Normally only 1</text><nl/>
+   <text> food per minute is taken.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Doesn't work with "Powersaving".</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_ICD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                I Can't Dance</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: -5 points, 1000 gc</text><nl/>
+   <text> Additional 15 defense penalty when fighting multiple</text><nl/>
+   <text> opponents.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Doesn't work with "There is no fork".</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_GB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>               Gelatine Bones</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: -6 points</text><nl/>
+   <text> Additional 5 points of damage for any kind of damage</text><nl/>
+   <text> you get (heat, cold, radiation, magic, harvesting</text><nl/>
+   <text> events, etc...).</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_G">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                   Godless</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: -8 points</text><nl/>
+   <text> Doesn't allow you to serve any god.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Note: if you take this perk after starting to serve</text><nl/>
+   <text> a god, your status with every god will be reset.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_H">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                  Hellspawn</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: -10 points, 15000 gc</text><nl/>
+   <text> Each time you go to a new map or enter/exit a building,</text><nl/>
+   <text> you have 20% chance of going to the underworld (without</text><nl/>
+   <text> losing items or health).</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_A">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                 Antisocial</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: -10 points, 15000 gc</text><nl/>
+   <text> No NPC will sell/buy stuff from you. You can still buy</text><nl/>
+   <text> sigils from the magic shop and use storage.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_ScD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                 Scotty Died</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: -3 points, 10000 gc</text><nl/>
+   <text> No more beaming up.</text><nl/>
+   <text> Better keeping a ring in inventory from now on.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_HoS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>             Harvester of Sorrow</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: -5 points, 100000 gc</text><nl/>
+   <text> If you hit a teleport nexus while harvesting, you'll be</text><nl/>
+   <text> taken to Kilaran Field (PK map).</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_Sk">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                   Skeptic</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 30000 gc</text><nl/>
+   <text> The Astrology doesn't apply to you: no bonuses,</text><nl/>
+   <text> no penalties.</text><nl/>
+   <color>red</color>
+   <nl/>
+   <text> WARNING!! This perk is permanent, it will NOT be removed</text><nl/>
+   <text> by a #reset.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_ONE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                     One</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Gives: 6 pickpoints</text><nl/>
+   <text> Costs: 60000 gc</text><nl/>
+   <text> Mine, caltrops and wards affect you even on non PK maps.</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_UND">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>              The Underworlder</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Costs: 2 pickpoints, 20000 gc</text><nl/>
+   <text> Allows you to use the teleport to portals room (both</text><nl/>
+   <text> spells), and teleport rings directly from the Underworld.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_SUM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                The Summoner</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Costs: 5 pickpoints, 20000 gc</text><nl/>
+   <text> Gives +10% to your creature's attack and defense, as well</text><nl/>
+   <text> as +5 to its critical to hit and to damage.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_AR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                  Artificer</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Costs: 7 pickpoints, 60000 gc</text><nl/>
+   <text> Increases the chance of creating rare items (modable</text><nl/>
+   <text> weapons, enriched essences, etc...).</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_ER">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>               Ethereal Ranger</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Costs: 5 pickpoints, 20000 gc</text><nl/>
+   <text> You have 30% chance to not lose an arrow/bolt after</text><nl/>
+   <text> firing it.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_WH">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                 Wilhelm Hood</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Costs: 5 pickpoints, 20000 gc</text><nl/>
+   <text> You get 15% more ranging experience, your ranged weapons</text><nl/>
+   <text> are considerably more accurate and do 15% more damage.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+</Perks>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+   <label index="0" name="Channel %d">Afficher le canal %d</label>
+   <label index="1" name="Guild">Le cannal de discussion de votre guilde</label>
+   <label index="2" name="View All">Afficher les conversation de tous les cannaux</label>
+   <label index="3" name="None">Messages d'aucun canal</label>
+   <label index="4" name="Channels">Sélectionner un canal à rejoindre</label>
+   <label index="5" name="History">Voir tous les messages précédents</label>
+   <label index="6" name="Local">Discuter dans votre environnement immédiat</label>
+   <label index="7" name="PMs">Messages privés</label>
+   <label index="8" name="GMs">Messages de guildes</label>
+   <label index="9" name="Server">Messages du serveur</label>
+   <label index="10" name="Mod">Discussion des modérateurs</label>
+   
+   <channel number="1" name="Newbie Help">FAQ du jeu pour les nouveaux</channel>
+   <channel number="2" name="Gen Help">Aide générale/avancée</channel>
+   <channel number="3" name="Market">Commerce, emploi et vérification des prix</channel>
+   <channel number="4" name="EL Gen Chat">Discussion sur des sujets liés à EL</channel>
+	<channel number="5" name="Roleplay">Jeu de rôle</channel>
+	<channel number="6" name="Invasions">Chat about Invasions and Leonard</channel>
+	<channel number="7" name="Events">Chat about Contests and Events</channel>
+	<channel number="11" name="Prattler">Venez écoutez le bot historien</channel>
+   <channel number="20" name="Off Topic">Discussion sur (presque) n'importe quel sujet</channel>
+   <channel number="23" name="Czech/Slovak">Discussion en Tchèque et Slovaque</channel>
+   <channel number="24" name="Irilion">Discussion pour les visiteurs d'Irilion</channel>
+   <channel number="44" name="Polish">Discussion en Polonais</channel>
+   <channel number="105" name="Turkish">Discussion en Turc</channel>
+   <channel number="111" name="Hungarian">Discussion en Hongrois</channel>
+   <channel number="124" name="Trivia">Jouer au Trivial !</channel>
+   <channel number="206" name="German">Discussion en Allemand</channel>
+   <channel number="231" name="Swedish">Discussion en Suédois</channel>
+   <channel number="242" name="Italian">Discussion en Italien</channel>
+   <channel number="255" name="Spanish">Discussion en Espagnol</channel>
+   <channel number="381" name="Ex-Yugoslavian">Discussion en languages de l'Ex-Yugoslavie</channel>
+	<channel number="500" name="Portuguese">Discussion en Portugais</channel>
+	<channel number="734" name="Lithuanian">Chat in Lithuanian</channel>
+   <channel number="777" name="African">Discussion pour les Africains</channel>
+   <channel number="888" name="French">Discussion en Français</channel>
+   <channel number="999" name="Romanian">Discussion en Roumain</channel>
+   <channel number="1192" name="Japanese">Discussion en Japonais</channel>
+   <channel number="1500" name="Dutch">Discussion en Dannois</channel>
+   <channel number="2000" name="Irish">Discussion en Irlandais</channel>
+   <channel number="4900" name="Russian">Discussion en Russe</channel>
+   <channel number="9872" name="*nix">Discussion à propos de *nix (linux, *BSD, etc)</channel>
+</channels>

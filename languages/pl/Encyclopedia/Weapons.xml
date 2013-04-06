@@ -1,0 +1,1636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Weapons>
+<Page name="Bone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                    Bone</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Kosc)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  1-2</text>
+   <nlkx/>
+   <text> Celnosc:                    +1</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/>
+   <nl/>
+   <text> </text>
+   <nl/> 
+   <text> Ukladane w Stos:                  Tak</text>
+   <nl/>
+   <text> Waga:                             1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Branch">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                   Branch</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Galaz)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+    <text> Obrazenia:                  1-2</text>
+   <nlkx/>
+   <text> Celnosc:                    +1</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/>
+   <nl/>
+   <text> </text>
+   <nl/>
+   <text> Ukladane w Stos:                  Tak</text>
+   <nl/>
+   <text> Waga:                             1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="W_LGloves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Leather Gloves</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Skorzane Rekawice)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  1</text>
+   <nlkx/>
+   <text> Zbroja:                     +1</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               4 </text><link ref="Leather" title="Leather"/>
+   <nl/>
+   <text>                                   4 </text><link ref="Thread" title="Threat"/>
+   <nl/><nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Needle" title="Needle"/>
+   <nl/>
+   <text> Wymagany Nexus:                   brak</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   8</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  40</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   5</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             2 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="W_Pickaxe">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                   Pickaxe</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Kilof)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+      <text> Obrazenia:                  5-15</text>
+   <nlkx/>
+   <text> Obrona:                     -5</text>
+   <nlkx/>
+   <text> Celnosc:                    -5</text>
+   <nlkx/>
+   <text> Cios krytyczny:             -5</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +1</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Kilofow nie da sie produkowac.</text>
+   <nl/>
+   <text> Uzywane sa glownie do kopania rud i mineralow.</text>
+   <nl/><nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             5 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="W Battle Hammer">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>            Wooden Battle Hammer</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Drewniany Mlot Bitewny)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+      <text> Obrazenia:                  2-20</text>
+   <nlkx/>
+   <text> Obrona:                     -3</text>
+   <nlkx/>
+   <text> Celnosc:                    -2</text>
+   <nlkx/>
+   <text> Cios krytyczny:             -5</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   -5</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       1</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Tej broni nie da sie produkowac.</text>
+   <nl/><nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             8 EMU</text>
+   <nl/><nl/><nl/>
+      <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="I War Hammer">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>              Iron Battle Hammer</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Zelazny Mlot Bitewny)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  10-28</text>
+   <nlkx/>
+   <text> Obrona:                     -5</text>
+   <nlkx/>
+   <text> Celnosc:                    -6</text>
+   <nlkx/>
+   <text> Cios krytyczny:             -8</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   -8</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Tej broni nie da sie produkowac.</text>
+   <nl/><nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             6 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="W Staff">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                Wooden Staff</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Drewniany Kij)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  2-10</text>
+   <nlkx/>
+   <text> Obrona:                     +3</text>
+   <nlkx/>
+   <text> Celnosc:                    +4</text>
+   <nlkx/>
+   <text> Cios krytyczny:             +3</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   -5</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       1</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Tej broni nie da sie produkowac.</text>
+   <nl/><nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             6 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Q Staff">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                Quarterstaff</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Cwierckij)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  6-15</text>
+   <nlkx/>
+   <text> Obrona:                     +4</text>
+   <nlkx/>
+   <text> Celnosc:                    +6</text>
+   <nlkx/>
+   <text> Cios krytyczny:             +5</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   -4</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Tej broni nie da sie produkowac.</text>
+   <nl/><nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             6 EMU</text>
+   <nl/><nl/>
+   <text> Nazwa Quarterstaff pochodzi od sposobu trzymania kija.</text><nl/>
+   <text> Jedna reka trzyma sie kij w jego srorku, druga zas w</text><nl/>
+   <text> 1/4 jego dlugosci, czyli w cwiartce (z ang.: quarter).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Iron Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                 Iron Sword</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Zelazny Miecz)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  5-8</text>
+   <nlkx/>
+   <text> Obrona:                     +1</text>
+   <nlkx/>
+   <text> Celnosc:                    +1</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               10 </text><link ref="Iron Bar" title="Iron Bars"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Steel Bar" title="Steel Bar"/>
+   <nl/>
+   <text>                                   2 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Iron Sword</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        2</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   20</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  100</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   11</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             7 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Iron Broad Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>               Iron Broad Sword</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Szeroki Zelazny Miecz)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  7-10</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               12 </text><link ref="Iron Bar" title="Iron Bars"/>
+   <nl/>
+   <text>                                   2 </text><link ref="Steel Bar" title="Steel Bars"/>
+   <nl/>
+   <text>                                   3 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Iron Broad Sword</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        2</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   22</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  110</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   12</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             7 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Steel Long Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>               Steel Long Sword</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Dlugi Stalowy Miecz)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  9-11</text>
+   <nlkx/>
+   <text> Obrona:                     +2</text>
+   <nlkx/>
+   <text> Celnosc:                    +1</text>
+   <nlkx/>
+   <text> Cios Krytyczny:             +1</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       1</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               2 </text><link ref="Iron Bar" title="Iron Bars"/>
+   <nl/>
+   <text>                                   12 </text><link ref="Steel Bar" title="Steel Bars"/>
+   <nl/>
+   <text>                                   4 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Steel Long Sword</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        3</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   24</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  120</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   13</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             6 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="2e Steel Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>           Two Edged Steel Sword</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                  (Dwustronny Miecz Stalowy)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  10-14</text>
+   <nlkx/>
+   <text> Obrona:                     +1</text>
+   <nlkx/>
+   <text> Celnosc:                    +2</text>
+   <nlkx/>
+   <text> Cios krytyczny:             +1</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +2</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               2 </text><link ref="Iron Bar" title="Iron Bars"/>
+   <nl/>
+   <text>                                   16 </text><link ref="Steel Bar" title="Steel Bars"/>
+   <nl/>
+   <text>                                   4 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Two Edged Steel Sword</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        3</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   28</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  140</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   15</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             7 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Tit Steel Short Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>            Titanium Short Sword</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Tytanowy Miecz Krotki)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  10-14</text>
+   <nlkx/>
+   <text> Obrona:                     +2</text>
+   <nlkx/>
+   <text> Celnosc:                    +2</text>
+   <nlkx/>
+   <text> Cios krytyczny:             +1</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +3</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       3</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               6 </text><link ref="Titanium Bar" title="Titanium Bars"/>
+   <nl/>
+   <text>                                   16 </text><link ref="Steel Bar" title="Steel Bars"/>
+   <nl/>
+   <text>                                   5 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Titanium Short</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        4</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   32</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  160</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   17</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             3 EMU</text>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Tit Steel Long Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>            Titanium Long Sword</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Tytanowy Dlugi Miecz)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  12-20</text>
+   <nlkx/>
+   <text> Obrona:                     +3</text>
+   <nlkx/>
+   <text> Celnosc:                    +3</text>
+   <nlkx/>
+   <text> Cios krytyczny:             +2</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +4</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               8 </text><link ref="Iron Bar" title="Iron Bars"/>
+   <nl/>
+   <text>                                   8 </text><link ref="Steel Bar" title="Steel Bars"/>
+   <nl/>
+   <text>                                   6 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Enriched Fire Essence" title="Enriched Fire Essence"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Titanium Long</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        5</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   34</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  180</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   18</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             4 EMU</text>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Tit Steel Serpent Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>          Titanium Serpent Sword</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>              (Tytanowy Miecz Serpentynowy)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  15-25</text>
+   <nlkx/>
+   <text> Obrona:                     +4</text>
+   <nlkx/>
+   <text> Celnosc:                    +5</text>
+   <nlkx/>
+   <text> Cios krytyczny:             +5</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +6</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               12 </text><link ref="Iron Bar" title="Iron Bars"/>
+   <nl/>
+   <text>                                   2 </text><link ref="Steel Bar" title="Steel Bars"/>
+   <nl/>
+   <text>                                   7 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Enriched Fire Essence" title="Enriched Fire Essence"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Serpent_Stone" title="Serpent Stone"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Titanium Serpent</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        5</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   38</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  300</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   20</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             2 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Iron Axe">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                  Iron Axe</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Zelazny Topor)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  1-25</text>
+   <nlkx/>
+   <text> Obrona:                     -1</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +4</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       3</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               10 </text><link ref="Iron Bar" title="Iron Bars"/>
+   <nl/>
+   <text>                                    9 </text><link ref="Air Essence" title="Air Essences"/>
+   <nl/>
+   <text>                                   13 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/>
+   <text>                                   16 </text><link ref="Water Essence" title="Water Essences"/>
+   <nl/>
+   <text>                                    1 </text><link ref="Wood_Handle" title="Wood Handle"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Iron Axe</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        5</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   40</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  200</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   30</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             12 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Steel Axe">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                  Steel Axe</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Stalowy Topor)</text><nl/><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  5-30</text>
+   <nlkx/>
+   <text> Obrona:                     -1</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +6</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               12 </text><link ref="Steel Bar" title="Steel Bars"/>
+   <nl/>
+   <text>                                   11 </text><link ref="Air Essence" title="Air Essences"/>
+   <nl/>
+   <text>                                   18 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/>
+   <text>                                   23 </text><link ref="Water Essence" title="Water Essences"/>
+   <nl/>
+   <text>                                    1 </text><link ref="Wood_Handle" title="Wood Handle"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Steel Axe</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        5</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   45</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  240</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   35</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             8 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Titanium Axe">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                Titanium Axe</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Tytanowy Topor)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  10-35</text>
+   <nlkx/>
+   <text> Obrona:                     -1</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +8</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               12 </text><link ref="Titanium Bar" title="Titanium Bars"/>
+   <nl/>
+   <text>                                   20 </text><link ref="Air Essence" title="Air Essences"/>
+   <nl/>
+   <text>                                    1 </text><link ref="Enriched Fire Essence" title="Enriched Fire Essence"/>
+   <nl/>
+   <text>                                    1 </text><link ref="Enriched Water Essence" title="Enriched Water Ess."/>
+   <nl/>
+   <text>                                    1 </text><link ref="Wood_Handle" title="Wood Handle"/>
+   <nl/>
+   <text>                                    4 </text><link ref="Serpent_Stone" title="Serpent Stones"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Titanium Axe</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        5</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   49</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  300</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   39</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             6 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Emerald Claymore">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>               Emerald Claymore</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Szmaragdowy Claymore)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  27</text>
+   <nlkx/>
+   <text> Obrona:                     +2</text>
+   <nlkx/>
+   <text> Celnosc:                    +7</text>
+   <nlkx/>
+   <text> Cios ktytyczny:             +6</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +4</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               2 </text><link ref="Wolfram Bar" title="Wolfram Bars"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Binding_Stone" title="Binding Stone"/>
+   <nl/>
+   <text>                                   3 </text><link ref="Titanium Bar" title="Titanium Bars"/>
+   <nl/>
+   <text>                                   1 </text><link ref="P_Emer" title="Polished Emerald"/>
+   <nl/>
+   <text>                                   20 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Emerald Claymore</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        6</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   40</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  600</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   40</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             20 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Cutlass">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                   Cutlass</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Kordelas)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  22-24</text>
+   <nlkx/>
+   <text> Obrona:                     +2</text>
+   <nlkx/>
+   <text> Celnosc:                    +15</text>
+   <nlkx/>
+   <text> Cios ktytyczny:             +6</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +5</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               2 </text><link ref="Wolfram Bar" title="Wolfram Bars"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Binding_Stone" title="Binding Stone"/>
+   <nl/>
+   <text>                                   2 </text><link ref="Titanium Bar" title="Titanium Bars"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Steel Bar" title="Steel Bar"/>
+   <nl/>
+   <text>                                   30 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Cutlass</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        6</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   42</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  800</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   42</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             23 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Sunbreaker">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                 Sunbreaker</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  18-20</text>
+   <nlkx/>
+   <text> Celnosc:                    +2</text>
+   <nlkx/>
+   <text> Cios ktytyczny:             +1</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +15</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               2 </text><link ref="Wolfram Bar" title="Wolfram Bars"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Binding_Stone" title="Binding Stone"/>
+   <nl/>
+   <text>                                   2 </text><link ref="Titanium Bar" title="Titanium Bars"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Steel Bar" title="Steel Bar"/>
+   <nl/>
+   <text>                                   25 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Sunbreaker</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        6</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   44</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  1000</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   44</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             25 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Orc Slayer">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                  Orc Slayer</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Zabojca Orkow)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  35-40</text>
+   <nlkx/>
+   <text> Obrona:                     +1</text>
+   <nlkx/>
+   <text> Cios ktytyczny:             +1</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +1</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               2 </text><link ref="Wolfram Bar" title="Wolfram Bars"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Binding_Stone" title="Binding Stone"/>
+   <nl/>
+   <text>                                   4 </text><link ref="Titanium Bar" title="Titanium Bars"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Steel Bar" title="Steel Bar"/>
+   <nl/>
+   <text>                                   25 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Orc Slayer</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        6</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   46</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  1200</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   46</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             30 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Eagle Wing">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                  Eagle Wing</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Orle Skrzydlo)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  10-35</text>
+   <nlkx/>
+   <text> Obrona:                     +6</text>
+   <nlkx/>
+   <text> Celnosc:                    +5</text>
+   <nlkx/>
+   <text> Cios ktytyczny:             +5</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +5</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               2 </text><link ref="Wolfram Bar" title="Wolfram Bars"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Binding_Stone" title="Binding Stone"/>
+   <nl/>
+   <text>                                   3 </text><link ref="Titanium Bar" title="Titanium Bars"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Steel Bar" title="Steel Bar"/>
+   <nl/>
+   <text>                                   18 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Eagle Wing</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        6</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   48</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  1400</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   46</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             25 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Rapier">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                   Rapier</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  20-25</text>
+   <nlkx/>
+   <text> Obrona:                     +2</text>
+   <nlkx/>
+   <text> Celnosc:                    +5</text>
+   <nlkx/>
+   <text> Cios ktytyczny:             +17</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +5</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               2 </text><link ref="Wolfram Bar" title="Wolfram Bars"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Binding_Stone" title="Binding Stone"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Titanium Bar" title="Titanium Bars"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Steel Bar" title="Steel Bar"/>
+   <nl/>
+   <text>                                   18 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Rapier</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        6</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   50</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  1600</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   46</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             20 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Jagged Saber">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                 Jagged Saber</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Wyszczerbiona Szabla)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  30</text>
+   <nlkx/>
+   <text> Celnosc:                    +10</text>
+   <nlkx/>
+   <text> Cios ktytyczny:             +2</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +1</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               2 </text><link ref="Wolfram Bar" title="Wolfram Bars"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Binding_Stone" title="Binding Stone"/>
+   <nl/>
+   <text>                                   2 </text><link ref="Titanium Bar" title="Titanium Bars"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Steel Bar" title="Steel Bar"/>
+   <nl/>
+   <text>                                   10 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Jagged Saber</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        6</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   52</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  1800</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   46</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             20 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Bronze Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                Bronze Sword</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Miecz z Brazu)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  50-70</text>
+   <nlkx/>
+   <text> Celnosc:                    +5</text>
+   <nlkx/>
+   <text> Cios ktytyczny:             +5</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +6</text>
+   <nlkx/>
+   <text> Szanse na zniszczenie:      1/25</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               1 </text><link ref="Bronze Bar" title="Bronze Bar"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Enriched Death Essence" title="Enriched Death Essence"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Enriched Fire Essence" title="Enriched Fire Essence"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Bronze Sword</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        6</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   78</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  4500</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   40</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             30 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Dragon Blade">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                Dragon Blade</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Smocze Ostrze)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  25-35</text>
+   <nlkx/>
+   <text> Celnosc:                    +3</text>
+   <nlkx/>
+   <text> Cios ktytyczny:             +3</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +3</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       7</text>
+   <nlkx/>
+   <text> Bonus do zdrowia i many:    +20</text>
+   <nlkx/>
+   <text> Szanse na spalenie many:    2%</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               2 </text><link ref="Wolfram Bar" title="Wolfram Bars"/>
+   <nl/>
+   <text>                                   2 </text><link ref="Enriched Magic Essence" title="Enriched Magic Ess."/>
+   <nl/>
+   <text>                                   2 </text><link ref="Enriched Life Essence" title="Enriched Life Essences"/>
+   <nl/>
+   <text>                                   2 </text><link ref="Enriched Fire Essence" title="Enriched Fire Essences"/>
+   <nl/>
+   <text>                                   1 Black Dragon Scale</text>
+   <nl/>
+   <text>                                   1 Red Dragon Scale</text>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Dragon Blade Building</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        6</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   75</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  4000</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   30</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             15 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Golden Star Mace">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>              Golden Star Mace</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Zlota Maczuga Gwiazd)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  10-20</text>
+   <nlkx/>
+   <text> Obrona:                     +62</text>
+   <nlkx/>
+   <text> Celnosc:                    +2</text>
+   <nlkx/>
+   <text> Cios ktytyczny:             +5</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +5</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       ???</text>
+   <nlkx/>
+   <text> 0.3% na zdegradowanie przedmiotu przeciwnika.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               ??? </text>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  ???</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        ???</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   ???</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  ???</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   ???</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             8 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Spear">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                    Spear</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Wlocznia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  5-65</text>
+   <nlkx/>
+   <text> Obrona:                     -3</text>
+   <nlkx/>
+   <text> Celnosc:                    -1</text>
+   <nlkx/>
+   <text> Cios ktytyczny:             -5</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   -5</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               2 </text><link ref="Wolfram Bar" title="Wolfram Bars"/>
+   <nl/>
+   <text>                                   2 </text><link ref="Serpent_Stone" title="Serpent Stones"/>
+   <nl/>
+   <text>                                   2 </text><link ref="Titanium Bar" title="Titanium Bars"/>
+   <nl/>
+   <text>                                   1 </text><link ref="Steel Bar" title="Steel Bar"/>
+   <nl/>
+   <text>                                   1 </text><link ref="W Staff" title="Wooden Staff"/>
+   <nl/>
+   <text>                                   30 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Spear Building</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        6</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   42</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  900</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   42</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             6 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Halberd">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                   Halberd</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                         (Halabarda)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  40-55</text>
+   <nlkx/>
+   <text> Celnosc:                    -2</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               2 </text><link ref="Wolfram Bar" title="Wolfram Bars"/>
+   <nl/>
+   <text>                                   4 </text><link ref="Serpent_Stone" title="Serpent Stone"/>
+   <nl/>
+   <text>                                   5 </text><link ref="Titanium Bar" title="Titanium Bars"/>
+   <nl/>
+   <text>                                   5 </text><link ref="Steel Bar" title="Steel Bar"/>
+   <nl/>
+   <text>                                   20 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Halberd Building</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        6</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   66</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  4200</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   42</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             6 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Scythe">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                   Scythe</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Kosa)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  20-45</text>
+   <nlkx/>
+   <text> Celnosc:                    +4</text>
+   <nlkx/>
+   <text> Cios ktytyczny:             +4</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +4</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       7</text>
+   <nlkx/>
+   <text> 1% Szans na zadanie 150 obrazen.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               ??? </text>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  ???</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        ???</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   ???</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  ???</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   ???</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             15 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Rad_TitLong">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>       Radioactive Titanium Long Sword</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  15-20</text><nlkx/>
+   <text> Obrona:                     +3</text><nlkx/>
+   <text> Celnosc:                    +3</text><nlkx/>
+   <text> Cios ktytyczny:             +2</text><nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +4</text><nlkx/>
+   <text> Obrazenia od Radiacji:      +14</text><nlkx/>
+   <text> Wymagany Human Nexus:       4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               1 </text><link ref="Dvarium Bar" title="Dvarium Bar"/><nl/>
+   <text>                                   1 </text><link ref="Enriched Fire Essence" title="Enriched Fire Ess."/><nl/>
+   <text>                                   2 </text><link ref="Tit Steel Long Sword" title="Titanium Long Sword"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Enhanced Weapons</text><nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/><nl/>
+   <text> Wymagany Artificial Nexus:        6</text><nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   85</text><nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  5000</text><nl/>
+   <text> Koszt Jedzenia:                   40</text><nl/>
+   <text> Ukladane w Stos:                  Nie</text><nl/>
+   <text> Waga:                             4 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Rad_Rapier">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>             Radioactive Rapier</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  20-20</text><nlkx/>
+   <text> Obrona:                     +2</text><nlkx/>
+   <text> Celnosc:                    +5</text><nlkx/>
+   <text> Cios ktytyczny:             +17</text><nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +5</text><nlkx/>
+   <text> Obrazenia od Radiacji:      +15</text><nlkx/>
+   <text> Wymagany Human Nexus:       6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               3 </text><link ref="Dvarium Bar" title="Dvarium Bar"/><nl/>
+   <text>                                   2 </text><link ref="Enriched Fire Essence" title="Enriched Fire Ess."/><nl/>
+   <text>                                   2 </text><link ref="Rapier" title="Rapiers"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Enhanced Weapons</text><nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/><nl/>
+   <text> Wymagany Artificial Nexus:        6</text><nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   89</text><nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  6000</text><nl/>
+   <text> Koszt Jedzenia:                   40</text><nl/>
+   <text> Ukladane w Stos:                  Nie</text><nl/>
+   <text> Waga:                             20 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+<Page name="Frying Pan">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <color>red</color>
+   <text>                 Frying Pan</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                         (Patelnia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Obrazenia:                  15-20</text>
+   <nlkx/>
+   <text> Cios ktytyczny:             +4</text>
+   <nlkx/>
+   <text> Obrazenia od Ciosu Kryt.:   +4</text>
+   <nlkx/>
+   <text> Wymagany Human Nexus:       2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:               10 </text><link ref="Iron Bar" title="Iron Bars"/>
+   <nl/>
+   <text>                                   5 </text><link ref="Steel Bar" title="Steel Bars"/>
+   <nl/>
+   <text>                                   10 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:                  Frying Pan Building</text>
+   <nl/>
+   <text> Wymagane Narzedzia:               </text><link ref="Hammer" title="Hammer"/>
+   <nl/>
+   <text> Wymagany Artificial Nexus:        3</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa:   27</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie:  150</text>
+   <nl/>
+   <text> Koszt Jedzenia:                   16</text>
+   <nl/>
+   <text> Ukladane w Stos:                  Nie</text>
+   <nl/>
+   <text> Waga:                             14 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Wroc do Indeksu Broni"/>
+</Page>
+</Weapons>

@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Engineering>
+<Page name="Ashes">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Ashes</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Popiol)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Saltpetre" title="Saltpetre"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Fire Essence, 3 Branches.</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 1</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 1</text>
+   <nl/>
+   <text> Koszt Jedzenia: 2</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Ropes">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Ropes</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Liny)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Snare" title="Snares"/><text>.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 5 Threads.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Rope Building</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 4</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 4</text>
+   <nl/>
+   <text> Koszt Jedzenia: 4</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Nails">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Nails</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Gwozdzie)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Engineering" title="Landmines"/><text>.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Iron Bars.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Hammer</text>
+   <nl/>
+   <text> Wymagana Wiedza: Nails Building</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 7</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 7</text>
+   <nl/>
+   <text> Koszt Jedzenia: 4</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Saltpetre">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Saltpetre</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Saletra)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Blackpowder" title="Blackpowder"/><text> i do farb.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 5 Dung, 2 Ashes.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Bucket</text>
+   <nl/>
+   <text> Wymagana Wiedza: Saltpetre Manufacturing</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 1</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 10</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 25</text>
+   <nl/>
+   <text> Koszt Jedzenia: 10</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Blackpowder">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Blackpowder</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Czarny Proch)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Engineering" title="Landmines"/><text>.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 5 Saltpetres, 2 Coals, 1 Sulphur.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Blackpowder Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 1</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 14</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 40</text>
+   <nl/>
+   <text> Koszt Jedzenia: 12</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <text> Uwaga: ten przedmiot mozna przechowywac tylko w</text><nl/>
+   <text>        Magazynie Materialow Niebezpiecznych.</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Snare">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Snare</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Sidla)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Pulapka ktora zatrzymuje graczy na 2 sekundy.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Iron Bar, 4 Ropes, 6 Magic Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Snare Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 1</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 20</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 85</text>
+   <nl/>
+   <text> Koszt Jedzenia: 28</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 10 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Caltrops">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Caltrops</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Kolczatki)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Ostre kolce ktore zadaja 15 obrazen + 1 za kazdy</text><nlkx/>
+   <text> poziom Inzynierii (osoby ktora rozrzucila</text><nlkx/>
+   <text> kolczatki). Dziala samoczynnie.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 3 Iron Bars, 2 Fire Essences, 4 Death Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Caltrops Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 1</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 16</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 50</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 10 EMU</text>
+   <nl/><nl/>
+   <text> Uwaga: Ten przedmiot moze byc przechowywany jedynie</text><nl/>
+   <text>        w Magazynie Materialow Niebezpiecznych.</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="P_Caltrops">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Poisoned Caltrops</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Zatrute Kolczatki)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Ostre kolce pokryte trucizna. Zadaja 15 obrazen + 5</text><nlkx/>
+   <text> za kazdy poziom Inzynierii (osoby ktora rozrzuca.</text><nlkx/>
+   <text> kolczatki). Dziala samoczynnie.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 3 Iron Bars, 2 Fire Essences, 3 Death Essences,</text>
+   <nl/>
+   <text> 8 Poison Ivys.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Poisoned Caltrops Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 1</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 18</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 65</text>
+   <nl/>
+   <text> Koszt Jedzenia: 28</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 10 EMU</text>
+   <nl/><nl/>
+   <text> Uwaga: ten przedmiot mozna przechowywac jedynie w</text><nl/>
+   <text>        Magazynie Materialow Niebezpiecznych.</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Lightmeter">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Lightmeter</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Miernik Swiatla)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Urzadzenie sluzace do pomiaru natezenia swiatla.</text><nlkx/>
+   <text> Pomaga ustalic jak bardzo jest sie widocznym w</text><nlkx/>
+   <text> danym miejscu. Szansa na zniszczenie po uzyciu:</text><nl/>
+   <text> 1/1000.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Enriched Fire Essence, 10 Turquoises,</text><nl/>
+   <text> 10 Polished Sapphires.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Lightmeter Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 3</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 32</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 1500</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="S_Landmine">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Small Landmine</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Mala Mina)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Mina zakopana w ziemi. Zadaje 45 obrazen + 1 na</text><nlkx/>
+   <text> kazde 5 poziomow Inzynierii. Dziala samoczynnie.</text><nlkx/>
+   <nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Blackpowders, 6 Nails, 2 Iron Bars, 5 Death Essences,</text><nl/>
+   <text> 5 Magic Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Small Landmine Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 34</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 170</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="M_Landmine">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Medium Landmine</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Srednia Mina)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Mina zakopywana w ziemi. Zadaje 75 obrazen + 1 na</text><nlkx/>
+   <text> kazde 5 poziomow Inzynierii. Dziala samoczynnie.</text><nlkx/>
+   <nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 3 Blackpowders, 10 Nails, 3 Iron Bars, 5 Death Essences,</text><nl/>
+   <text> 5 Magic Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Medium Landmine Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 36</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 185</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 5 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="L_Landmine">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Large Landmine</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                         (Duza Mina)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Mina zakopywana w ziemi. Zadaje 125 obrazen + 1 na</text><nlkx/>
+   <text> kazde 5 poziomow Inzynierii. Dziala samoczynnie.</text><nlkx/>
+   <nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 5 Blackpowders, 10 Nails, 4 Iron Bars, 5 Death Essences,</text><nl/>
+   <text> 5 Magic Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Large Landmine Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 42</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 220</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 10 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="RC_Landmine">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 RC Landmine</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                  (Zdalnie Sterowana Mina)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Mina zakopywana w ziemi. Zadaje 75 obrazen +1 za</text><nlkx/>
+   <text> kazde 5 poziomow Inzynierii osoby, ktora zalozyla</text><nlkx/>
+   <text> mine. Zdalnie sterowana poprzez detonator.</text><nlkx/>
+
+   <text> Utrzymuje sie mniej-wiecej przez 5 minut.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 3 Blackpowders, 4 Nails, 2 Iron Bars, 5 Death Essences,</text><nl/>
+   <text> 8 Magic Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: RC Landmine Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 44</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 240</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="RC_Detonator">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              RC Mine Detonator</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Detonator Min RC)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Detonator do zdalnie sterowanych min.</text><nlkx/>
+   <text> Jednorazowego uzycia.</text><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Uwaga: produkcja detonatorow wytwarza 10 sztuk na raz.</text><nl/>
+   <nl/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Enriched Magic Essence, 24 Energy Essences,</text><nl/>
+   <text> 10 Matter Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: RC Detonator Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 5</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 52</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 3000</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Barricade">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Barricade</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Barykada)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> ???</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Barricades Building</text>
+   <nl/>
+   <text> Wymagany Nexus: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: ???</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: ???</text>
+   <nl/>
+   <text> Waga: ???</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="EN_Cloak_CAM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Cape of Passive Camouflage</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Plaszcz Kamuflazu)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Noszac ten plaszcz zyskujesz odrobine kamuflazu</text><nlkx/>
+   <text> przez co trudniej Cie dostrzec - szczegolnie w</text><nlkx/>
+   <text> ciemnych miejscach i jaskiniach.</text><nlkx/>
+   <text> Odejmuje 20 punktow od Wskazinka Swiatla (Light Modifier).</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: Camouflage Cape Building</text>
+   <nl/>
+   <text> Wymagany Nexus: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: ???</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Night_Visor">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Night Visor</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Nocna Maska)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Magicznie przeksztalca fotony podczerwieni w</text><nlkx/>
+   <text> widzialne swiatlo co pomaga Ci znacznie lepiej</text><nlkx/>
+   <text> widziec w nocy.</text><nl/>
+   <text> Premia do Percepcji: +30.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Bronze Bar, 2 Seridium Bars, 3 Enriched Magic Essences,</text>
+   <nl/>
+   <text> 2 Binding Stones.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: Night Visor Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 7</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 50</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 3000</text>
+   <nl/>
+   <text> Koszt Jedzenia: 28</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Ind_AD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Attack/Defense Indicator</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Wskaznik Ataku/Obrony)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Pokazuje efekty astrologii oddzialywujace na Twoj</text><nlkx/>
+   <text> Atak i Obrone.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Rope, 4 Turquoises, 3 Bones.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Attack/Defense Indicator Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 2</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 22</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 90</text>
+   <nl/>
+   <text> Koszt Jedzenia: 20</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Ind_Crit">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Criticals Indicator</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                (Wskaznik Uderzen Krytycznych)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Pokazuje skutki dzialania Astrologii na szanse</text><nlkx/>
+   <text> zadania krytycznego uderzenia.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Rope, 3 Turquoises, 1 Polished Ruby, 3 Bones.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Criticals Indicator Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 2</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 24</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 100</text>
+   <nl/>
+   <text> Koszt Jedzenia: 20</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Ind_AccMag">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Accuracy/Magic Indicator</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                  (Wskaznik Celnosci/Magii)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Pokazuje efekty dzialania Astologii na Twoje</text><nlkx/>
+   <text> wspolczynniki Celnosci i Magii</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Rope, 3 Turquoises, 1 Polished Emerald, 4 Bones.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Accuracy/Magic Indicator Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 2</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 26</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 115</text>
+   <nl/>
+   <text> Koszt Jedzenia: 20</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Ind_HarvDegr">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Harvest/Degrade Indicator</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>               (Wskaznik Zbierania/Degradowania)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Pokazuje skutki dzialania Astrologii na szanse</text><nlkx/>
+   <text> zdegradowania przedmiotu oraz na wspolczynnik</text><nlkx/>
+   <text> wplywajacy na ilosc przypadkowych zdarzen</text><nl/>
+   <text> wystepujacych w czasie zbierania.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Rope, 5 Turquoises, 4 Bones.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Harvest/Degrade Indicator Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 2</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 28</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 130</text>
+   <nl/>
+   <text> Koszt Jedzenia: 20</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Ind_RareFail">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Make Rare/Fail Indicator</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>               (Wskaznk Unikat/Niepowodzenie)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Pokazuje skutek dzialania Astologii na Twoje szanse</text><nlkx/>
+   <text> wykonania unikatowego przedmiotu (np. EFE) oraz</text><nlkx/>
+   <text> wplyw na wspolczynnik decydujacy o niepowodzeniu</text><nlkx/>
+   <text> przy tworzeniu przedmiotu.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Rope, 4 Turquoises, 2 Polished Sapphires, 3 Bones.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Make Rare/Fail Indicator Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 2</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 30</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 150</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Predictor">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color>red</color>
+   <text>              Predictor Stones</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Przewiduje skutki dzialania Astrologii.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Po uzyciu pokazuje przeiwdywalne skutki dzialania</text><nl/>
+   <text> astrologii na poszczegolne wskazniki. Przewiduje na</text><nl/>
+   <text> 20, 40 i 60 minut do przodu. Istnieje 10 takich kamieni</text><nl/>
+   <text> po jednym dla kazdego rodzaju wskaznika.</text>
+   <nl/><nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/>
+   <text> Uklada sie w stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="ArrowBolt_Head">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Arrow/Bolt Head</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Groty Strzal)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Archery" title="Arrows"/><text> i </text><link ref="Archery" title="Bolts"/><text>.</text>
+   <nl/><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Uwaga: produkowanie grotow tworzy 2 groty na raz.</text><nl/>
+   <nl/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Iron Bar, 1 Fire Essence, 1 Water Essence.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Arrow/Bolt Head Mold</text>
+   <nl/>
+   <text> Wymagana Wiedza: Arrow/Bolt Head</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 3</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 25</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 105</text>
+   <nl/>
+   <text> Koszt Jedzenia: 20</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Invasionmeter">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Invasionmeter</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Miernik Inwazji)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Sluzy do pomiaru liczby potworow oraz ich sily.</text><nlkx/>
+   <text> Potworow, ktore pochodza z inwazji. Szanse na</text><nlkx/>
+   <text> zniszczenie po kazdym uzyciu: 1/10.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Enriched Magic Essence, 1 Refined Vegetal Mixture,</text><nl/>
+   <text> 1 Gypsum.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Invasionmeter Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 38</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 220</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Mana_Drain_Ward">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Mana Drain Ward</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Laska Wyssania Many)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Kazdy krok jaki zrobisz w strefie objetej</text><nlkx/>
+   <text> zasiegiem Laski bedzie Cie kosztowal 3 punkty</text><nlkx/>
+   <text> many +1 punkt za kazde 8 poziomow Inzynierii tej</text><nlkx/>
+   <text> osoby, ktora postawila Laske. Isnieje okolo 5 minut.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 35 Energy Essences, 35 Air Essences, 35 Death Essences,</text><nl/>
+   <text> 10 Yews, 10 Turquoises.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Mana Drain Ward</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 46</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 260</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Mana_Burn_Ward">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Mana Burn Ward</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Laska Spalenia Many)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Kazdy krok jaki zrobisz bedac w strefie objetej</text><nlkx/>
+   <text> zasiegiem Laski bedzie Cie kosztowal 3 punkty</text><nlkx/>
+   <text> many +1 za kazde 10 poziomow Inzynierii tej osoby</text><nlkx/>
+   <text> ktora postawila Laske. Isnieje okolo 3 minut.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 40 Energy Essences, 40 Air Essences, 40 Death Essences,</text><nl/>
+   <text> 20 Yews, 30 Polished Rubies.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Mana Burn Ward</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 48</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 290</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="Inv_Remove_Ward">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Invisibility Removal Ward</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>             (Laska Niszczenia Niewidzialnosci)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Z kazdym krokiem jaki zrobisz bedac w strefie</text><nlkx/>
+   <text> obietej zasiegiem tej Laski bedziesz narazony na</text><nlkx/>
+   <text> 20% szanse (+1% za kazde 4 poziomy Inzynierii)</text><nlkx/>
+   <text> utraty niewidzialnosci. Laska, nim zniknie,</text><nlkx/>
+   <text> isnieje okolo 3 minut.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 45 Energy Essences, 45 Air Essences, 45 Death Essences,</text><nl/>
+   <text> 20 Yews, 30 Polished Emeralds.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Invisibility Removal Ward</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 54</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 320</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+<Page name="MI_Remove_Ward">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Magic Immunity Removal Ward</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>        (Laska Zniszczenia Niewrazliwosci na Magie)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Z kazdym krokiem jaki zrobisz bedac w strefie</text><nlkx/>
+   <text> obietej zasiegiem tej Laski bedziesz narazony na</text><nlkx/>
+   <text> 10% szanse (+1% za kazde 4 poziomy Inzynierii)</text><nlkx/>
+   <text> na utrate Niewrazliosci na Magie.</text><nlkx/>
+   <text> Laska, nim zniknie, istnieje okolo 3 minut.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 30 Energy Essences, 90 Magic Essences, 10 Death Essences,</text><nl/>
+   <text> 20 Yews, 10 Gold Bars.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Magic Immunity Removal Ward</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 56</text>
+   <nl/>
+   <text> Doswiadczenie w Inzynierii: 340</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Wroc do Indeksu Inzynierii"/>
+</Page>
+</Engineering>

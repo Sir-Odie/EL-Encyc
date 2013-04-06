@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text>
+	<title>Oyun-Içi Kurallari</title>
+	<info>
+		<short>Tam açiklamasini görmek için kurala basiniz. Sagdaki kaydirma çubugunu kullanarak fazladan kural görebilirsiniz.
+		</short>
+	</info>
+	<rule>
+		<short>Uygun Dil Kullanma.</short>
+		<long>Açikça cinsel, tehdit edici, küfürlü, lekeleyen, açik saçik, nefret uyandiran, irkçi, etnik veya saldirgan dil kullanmayiniz. Bu hem açikça hem de kast edilen dil, resimler, veya bu tür seyleri içeren sayfalar için geçerlidir. Kelimelere maksatli degismeler yapip, filtreyi yan geçmeyi de içermektedir.</long>
+	</rule>
+	<rule>
+		<short>Taciz Etme.</short>
+		<long>Taciz etme kullanilan dil tarziyla sinirli degildir; niyet veya istegi de kapsar. Bu hem açikça ve kast edilen dili hem de sistematik ve/veya devamli olarak istenilmeyen ve rahatsiz edici eylemleri içerir. Bu, Eternal Lands gönüllülerin, denetleyicilerin veya diger oyuncularin özel veya kisisel bilgileri hakkinda bahsetmeyi, yayinlamayi ve dagitmayi da kapsar. Devamli belirli bir oyuncuyu veya sahislari hedefleyerek rahatsiz etmek agir cezalara yol açar.</long>
+	</rule>
+	<rule>
+		<short>Baskalarina Saygi.</short>
+		<long>Baskalarinin haklarina ve onlarin bu oyundan zevk alma haklarina saygi göstermelisiniz.
+Gerekli saygiyi göstermek için üyeleri, denetleyicileri, gönüllüleri veya gelistiricileri dolandiramazsiniz, rahatsiz edemezsiniz, tehdit edemezsiniz, asagilayamazsiniz, dalga geçmezsiniz, aciya sebebiyet veremezsiniz ve/veya diger istenilmeyen asiri ilgiyi göstermezsiniz.
+Irkçi, cinsiyetçi, din-karsiti, etnik-karsiti, gay-karsiti veya diger kin besleyici felsefeleri, veya açikça cinsel olan konulari halk içinde baslatmayiniz, taraf olmayiniz, katilmayiniz, tartismayiniz. Bu tür davranislar sergileyen klan ve gruplari Eternal Lands'in içinde organize etmeyiniz, parçasi olmayiniz, forumlarina katilmayiniz.
+Yeni baslayanlarin çevreyle tanismalari ve acemi hatalari yapma esnasinda onlari himaye etmeyiniz, yanlis yönlendirmeyiniz veya onlar sayesinde avantaj saglamayiniz.
+**Not** Bu, PK, PVP, "yaratik dogma yerlerini çalmak", torba çalmak, veya klan/klanlar arasi sorunlari içermez. Bunlar normal oynayis tarzidir ve böyle ele alinir.</long>
+	</rule>
+	<rule>
+		<short>Sifrenizi Baskalarina Dagitma.</short>
+		<long>Sifrenizi herhangi birine verdiginiz an, karakter paylasim amaçli bile olsa, o karakterin bütün haklarindan vazgeçmis sayilirsiniz. Sifrenizi baskalarina verdikten sonra, karakterinizin yapmis oldugu eylemlerden veya hesabinizin iadesinden Eternal Lands sorumlu degildir.</long>
+	</rule>
+	<rule>
+		<short>Hile Yapma.</short>
+		<long>Oyun içinde hile yapmak, yasal olmayan istemci kullanmak, kayitsiz ve/veya onaylanmamis botlar, makro kullanmak, otomasyon yapmak, komut dizisi yapmak, hatarlardan faydalanmak, birden fazla karakteri tasimaci olarak kullanmak, veya baska yasak multi-play türü kullanmak demektir*.
+Bot kullanmak icin, onun kayitli ve onayli olmasi gerekir; istemci kurallarina uygun olmali ve bütün kodun açik kaynak olmasi gerekir. Eger oyunda hata bulursaniz, Eternal Lands'in sahiplerine hemen bildirmelisiniz.
+
+*Yasak multi-play:
+tek karakterin saglayamayacagi avantajlari birden fazla karakter kullanarak saglamaktir. Bunlarla sinirli olmayip yasak olan multi-play durumlari: tasimaci karakter kullanmak, ölüm torbasi beklemek, pvp antrenman, yeni karakter ile oyunculari PK haritalarina yemleyip asil karakter ile içerde beklemek. Unutmayiniz ki yasak multi-play türlerini teker teker ifade edebilmemiz çok zordur, bu yüzden bu konular gözden geçirilip, cezalar duruma göre degisebilir.
+
+1. Ayni kisinin ayni IP'den takasi yasaktir. Eger yakalanirsaniz, ve gerçek aile/es oldugunuzu kanitlayamazsaniz, cezalandirilirsiniz (Bu, diger kurallari ihlal etmenizi yasal kilmaz). Kanit, duruma göre belirlenecektir. Ayni IP'den takasi suiistimal etmek ve/veya yalan söylemek ciddi sonuçlara yol açar.
+2. Araci karakterler yasaktir ve karakterler arasinda ayni IP'den takasi yasal kilmazlar. (Bu, sirf farkli IP edinip takasi gerçeklestirmek için baska birisinin sizin karakterlerinizin birine girmesini de içerir)
+3. Bu kurali devre disi birakmak için ayni IP'den baglanan karakterler arasinda torba takasi yasaktir.
+4. "Iyi" yetistirilmis karakterlerin ayni IP'den takas yapmalarina ayricalik tanimiyoruz.
+5. Birden fazla karakter sahibi olmak ANCAK birbirleriyle etkilesimde bulunmamak ve birbirlerine yardim etmemek sartiyla yasaldir.
+6. Klan depolari, program tarafindan yürütülmüyorsa bile, bot olarak sayilir. Onlarin da bot oldugu bildirilmeli ve resmi listeye kayit edilmeleri gerekir. Onlar bütün oyun-içi VE bütün bot kurallarina uymalari gerekir.</long>
+	</rule>
+	<rule>
+		<short>Uygun Isim Kullanma.</short>
+		<long>Lütfen açik saçik, kaba, dindisi, saldirgan, tamamen anlamsiz ve aptalca (ör. dfjritq47fa) veya taklit amaçli karakter ismi yaratmayiniz. Isimlerin hecelenebilir kelimeler olmasi, kisaltma, isim bas harfleri, veya rastgele harfler olmamasi gerekir; numaralarin olup olmamasi fark etmez. Alfabetik olmayan karakterlerin sayisi alfabetik olanlarin sayisini geçemez, ve en fazla 2 ile sinirlidir.
+		Unutmayiniz ki, seçtiginiz isim oyunun atmosferini etkiler. Uygun olmayan isimler oyunda geçirdiginiz süreye bagli kalmayip kilitlenir.</long>
+	</rule>
+	<rule>
+		<short>Taklit Etme.</short>
+		<long>Eternal Lands, sahiplerini, gelistiricilerini, denetleyicilerini, oyuncularini, botlarini, npc'lerini veya klanlarini taklit etmek yasaktir. Bu, isimlere degisiklikler yaparak baskalarini kandirmayi, yanlis temsil etmeyi veya yanlis bilgi vermeyi de içerir. Ayrica, bot taklidi de yasaktir.</long>
+	</rule>
+	<rule>
+		<short>Karakter Yaratim Spami.</short>
+		<long>Cok sayida, ismi birbirine benzeyen karakter (ör. Player1, Player2, Player3) veya kisa bir süre içinde çok sayida karakter yaratmaya kalkmayiniz.</long>
+	</rule>
+	<rule>
+		<short>Uygun Olmayan Sitelere Link.</short>
+		<long>Açikca cinsel, açik saçik, agiza alinmaz veya kaba sitelere link vermeniz yasaktir. Bunlar "X Sinifi" olarak sayilir. Eger site sorgulanabilir madde içeriyorsa, "R Sinifi" sayilabilen bir sey, o zaman göndermeden önce uyari vermeniz gerekir. Hile, yasak istemci, hack veya kötücül virüs ve program, veya bunlari bulunduran siteleri göndermeniz ve tartismaniz yasaktir.</long>
+	</rule>
+	<rule>
+		<short>Alim ve Satim.</short>
+		<long>Eternal Lands gerçek veya oyundaki para/esya alim satim islemleriden sorumlu degildir, sorumlu tutulamaz. Herhangi bir forumda, yerel sohbette veya herkese açik herhangi bir kanalda karakter hesabi veya klan satmak ve ilan vermek yasaktir. Yaptiginiz hareketlerin sorumlulugunu ve bunlarin cezalarinin tümünü kabul ediyorsunuz. Eternal Lands bu sorumluluklarin hiçbirine üstlenmeyecektir.</long>
+	</rule>
+	<rule>
+		<short>Isimli Kanallarda Konuda Kalma.</short> 
+		<long>Kanal sohbeti, o kanalin var oldugu amaç ile ilgili olmasi lazim. Sohbetler, o kanalin amaci disina çikmamalidir. Sonuçtaki cezalar kanalda bulunan denetleyicilerin ihtiyatlarina baglidir.</long>
+	</rule>
+	<rule>
+		<short>Uygun Olmayan Reklam.</short>
+		<long>Eternal Lands içinde, Eternal Lands disi ticaret, faaliyet, organizasyon veya websitelerini pazarlamak, düzenlemek, reklamini yapmak ve talep etmek yasaktir.</long>
+	</rule>
+	<rule>
+		<short>Spam Yapma.</short>
+		<long>Spam yapmak, ayni sözcügü, cümleyi veya birbirine benzeyen sözcükleri ve cümleleri fazlaca tekrarlamak, bos ve alakasiz mesajlari bilerek arka arkaya göndermek demektir. Bu, insan çoklugunun bulundugu yerlerde* geçen ve bu bölgelerin amaci disina çikmasini saglayan ve spam olusturan asiri kisisel sohbetleri (herhangi bir dilde) de içerir.
+
+		*Insan çoklugunun bulundugu yerler, bunlarla sinirli olmayip, söyle siralanabilir: beam, depolar, ve kanallar, ki bunlar dil kanallari gibi denetlenmeyen kanallar da olabilir.
+		</long>
+	</rule>
+	<rule>
+		<short>Coklu Dil Kullanimi.</short>
+		<long>Ingilizce EL'deki resmi dilidir. Diger dilleri de destekliyor ve benimsiyoruz, çevirilere de bu yüzden çalisiyoruz. Ancak, beam'de* ve ayni zamanda kanallar 1, 3, ve 4*de Ingilizce konusmaniz gerekmektedir, bunlar nüfusu fazla olan yerler oldugu için yabanci dil kullanmak bu yerlerin amacini asar ve spam olusturur.
+
+		*Yabanci dilde basit bir satirlik selam vermek kabul edilebilir.</long>
+	</rule>
+	<rule>
+		<short>Torba Spami Yapma.</short>
+		<long>Hangi nedenle olursa olsun, yere büyük sayida torba birakmak yasaktir, ki bu, diger torbalarin kaybolmasina ve insanlarin geçici süre için ayaklarinin altina koyduklari esyalarin kaybolmasina neden olur.</long>
+	</rule>
+	<rule>
+		<short>Insan Coklulugunda Yaratik Cagirma.</short>
+		<long>Insanlarin çogunlukta bulundugu yerlerde (ör. bütün depolar, Wraith, beam, NPC'ler, gemiler, vs.) yaratik çagirmaya veya önceden çagirilmis yaratiklari getirmeye tesebbüs etmeyiniz. Ayrica, Isla Prima ve içinde IP'de dogal olarak bulunan yaratiklar (ör. tavsan ve kunduz) haricinde yaratik çagirmak yasaktir. Eger yaratik çagirmaniz, bunlarla sinirli olmayip, yukaridaki kurallar da dahil olmak üzere, baska oyunculari lag yapiyorsa veya kaynaklarin önünü kapatiyorsa, bir denetleyici tarafindan durmaniz ve baska bir yerde isinizi görmeniz istenebilir.</long>
+	</rule>
+	<rule>
+		<short>Kaynaklarin Alinmasini Engelleme.</short>
+		<long>Kaynaklar, bunlara sinirli olmamak üzere, gemiler, kapilar, köprüler ve kemeraltlaridir. Eger çekilmeniz istenmisse, lütfen insanlarin geçmesine izin veriniz.</long>
+	</rule>
+	<rule>
+		<short>Hack Yapma.</short>
+		<long>Sunuculardan bilgi aktarmaya, bilgi almaya, sunucudan gelen verileri engellemek veya hack yapmaya kalkismayiniz. Baskalarinin hesabini hack yapmaya veya onlarin sifrelerini size veya baskalarina vermelerine ikna etmeye çalismayiniz.</long>
+	</rule>
+	<rule>
+		<short>Hatalardan Faydalanma.</short> 
+		<long>Eternal Lands içindeki hatalari veya bozukluklari kendi faydaniza kullanmayiniz, sömürmeyiniz. Böyle bir hatanin veya bozuklugun (kullaniciya anormal yararlar veya istenmeyen faydalar gösteren) var oldugunu direk olarak ya da dolayli yollarla halka duyurmaniz kesinlikle yasaktir. Bu bilgiler direk olarak Eternal Lands'in sahiplerine gizli bir sekilde bildirilmesi gerekir.</long>
+	</rule>
+	<rule>
+		<short>Yasak Istemciler.</short> 
+		<long>Eternal Lands istemcisine degisiklikler yaparken, istemci sartlari ve kurallarina uymaniz, ve yasak istemcileri dagitmamaniz gerekir. Bütün yamalarin veya gayri resmi istemcilerin kullanimdan önce Eternal Lands sahiplerinden biri tarafindan (yani Entropy) onaylanmasi gerekir.</long>
+	</rule>
+	<rule>
+		<short>Makro ve Otomasyon.</short>
+		<long>Yasak otomasyon programlari, komutlari veya bilgisayarlari kullanmak yasaktir. Herhangi bir yasak otomasyon programi veya sistemi, cihazlari, bilgisayarlari veya komutlari kullanmaniz, oyundan dogrudan yasaklanmaniza neden olacaktir.</long>
+	</rule>
+	<rule>
+	        <short>Botlarin Bildirilmesi Gerekir.</short>
+	        <long>1. Bütün botlarin bildirilmesi ve ödenmesi gerekir. Aksi takdirde oyundan yasaklanirlar.
+
+2. Yerel sohbeti veya ana kanallari spam yapmadiklari ve herhangi bir oyun kuralini ihlal etmedikleri sürece sadece konusan botlar sorun degildir. 
+
+3. Artik alim satim yapabilen botlar sadece ödenmis olan botlardir.
+
+4. Ticaret botlari depo kapsaminda veya mesafesinde olamazlar.
+
+5. Sahiplerine tasimaci karakter ve benzeri gibi hizmet eden botlar yasaktir (multi-play oyun kurallarina bakiniz).
+
+6. Botlar toplanabilir cisimlerin mesafe alanina yerlestirilemezler. Durduklari yerden o cisimleri toplayamayacak kadar uzakta olmalari gerekir.
+
+7. Biz kabul etmedigimiz sürece Isla Prima'da bot bulundurulmasi yasaktir.
+
+8. Botlar belli bir program kullanarak veya el ile esya yapamazlar ve herhangi bir yetenekte seviye atlayamazlar*. Eger Oyuncu botu kendi eliyle seviye atlatmak istiyorsa, bunu karakterin bot olmasindan ONCE yapmasi ve otomasyon programi kullanmamasi lazim, ki bu oyun kurallarinin 5.sine aykiridir. Eger bot kendisine saldirabilecek canavarlarin oldugu bir haritadaysa, onun sadece orda kalip, bilgisayarin basinda olmayan oyuncu gibi saldiriya ugramasi sorun degildir. Ama botun saldirmasi ve ayrica canavar dogus noktasina koyulmasi yasaktir.
+
+9. Ticaret botlarin bir kaç özel durum haricinde sabit kalmalari lazim (arada bir depoya gitmek, veya ayricalik taninmissa, o botun donatilmaya gitmesi gibi).
+
+10. Resmi kanallarda konusma izni olan botlar sadece 15 dakikada bir mesaj yollama haklari vardir. Bu, yollayacaginiz yazinin tamami bir mesaja sigmasi demektir.
+
+11. Eger botunuzun onaylanmasindan SONRA yeni özellik eklemeyi diliyorsaniz, o özelliklerin ONCELIKLE Entropy tarafindan onaylanmasi lazim.
+
+*Herhangi bir yetenekte seviye atlamama kuralina ayricaliklar BELKI Entropy'nin haberi olduktan ve onaylandiktan sonra mümkün olabilir. Bu meseleleri onunla konusmaniz ve botunuzun niye seviye atlamasi geretigine dair bütün ayrintilari vermeniz gerekir.
+**Bu kurallara istenilen zaman kural eklenebilir veya gözden geçirilebilir.
+
+Botlarla ilgili bilgi (ör. bir bota nasil sahip olabilirim) burada siralanmistir: http://www.eternal-lands.com/forum/index.php?showtopic=13063</long>
+         </rule>
+         <rule>
+                <short>Yarisma Kurallarina Uyma.</short>
+                <long>Denetleyiciler yarismalarda ve diger etkinliklerde kurallar yaratip uygulayabilirler, ki bu etkinliklere katildiginiz an ve yaristiginiz süre boyunca bu kurallari kabul edip, bunlara uyacaginiz anlamina gelmektedir.</long>
+         </rule>
+         <rule>
+                <short>Cezalardan Kaçinma.</short>
+                <long>Cezalarda açik kapi aramanin veya bir yol bulup cezalari atlamaya kalkmanin sonucunda Eternal Lands oyunundan ve forumundan kalici olarak yasaklanabilirsiniz. Bunlarala sinirli olmamakla birlikte, yasaklardan, kilitlemelerden ve ufak cezalardan kurtulmak için ek karakterler kullanmayi ve yaratmayi da içerir.</long>
+          </rule>
+          <rule>
+                <short>Sorun Cikaran Kimse Olmayiniz.</short>
+                <long>Bilerek yapilan ve denetleyicilerin dikkatini çeken ve ilgisini gerektiren sorunlar çikarmayiniz.</long>
+          </rule>
+          <rule>
+      <short>Kanal Kurallarina Uyma.</short>
+      <long>Bütün Resmi Kanal Kurallari (1-20):
+1. Herhangi bir resmi kanalda koordinat vermek yasaktir. Oyuncularin etraflarini incelemeleri ve fark etmeleri lazim. Amaç kör bir sekilde her yere otomatik olarak yürümek degildir.
+2. Resmi kanallarin her hangi birinde görev yardimi vermek yasaktir. Eger soran oyuncu gerçekten takilmissa (sadece tembel degilse) ONA pm yollayip dogru yolu gösterebilirsiniz. Halk içinde görev konusu üzerinde konusmak, görevi yapmak isteyen diger oyuncular için görev yapma zevkini yok edebilir.
+3. Game secrets are not allowed to be publicly told, discussed or sold in any official channel. Again, it ruins the fun for everyone else.
+4. Players are allowed 1 ad per 5 minutes if applicable, such as guild recruitment ads on channel 4. This also applies as a per guild (or group) rule. One ad per guild or group (regardless who posts) per 5 minutes.
+5. Deathbags can be announced on channels 1, 2 and 4 (not on channel 3).
+6. Buying/Selling and price checks belong to channel 3.
+7. Guild recruitment and looking for PvP partner belong to channel 4.
+
+Newbie Help Channel Rules (#jc 1)
+1. The Newbie Help Channel is for newbie questions and answers only, chat is directed to #jc 4 (EL Chat) or #jc 20 (Offtopic Chat).
+2. Questions about monsters and other creatures stronger than wolf are directed to #jc 2.
+3. In general, only questions relating to levels less than 20 belong to this channel.
+4. Only Seridia (c1) questions; most Irillion (c2) questions directed to #jc 2, however low level subjects such as skunks and racoons are allowed in #jc 1.
+5. Anybody persisting in asking non-newbie questions or chatting about non-newbie stuff, after being asked to stop or move to #jc 2, will be denoobed.
+
+General Help Channel Rules (#jc 2)
+1. The channel is for Eternal Lands questions and answers only, chat is directed to #jc 4 (EL Chat) or #jc 20 (Offtopic Chat).
+
+Market Channel Rules (#jc 3)
+1. In Market Channel it's allowed: buying/selling ingame items, buying/selling ingame services*, asking price checks, posting lotteries.
+*services can include, but are not limited to:
+- hauling/muling harvestables for other players;
+- pk services;
+- bounties, with the following rule: NO NAMES ALLOWED TO BE MENTIONED.
+2. Players are allowed 1 ad per 5 minutes.
+3. Automated announcements (bots) need to be a minimum of 15 minutes apart.
+4. URL links need to be a minimum of 15 minutes apart per person/group.
+5. Multiple-bot owners cannot stack their bots' messages one on top of the other, they must be individually timed and spaced apart. It is discouraging, to say the least, for players to be faced with a wall of automated messages.
+6. Personal or guild restrictions and conditions, such as but not limited to, who you will not buy or sell from, are to be stated/discussed in pm, NOT in the public advertisement.
+7. Only one "line" per message/ad/announcement. This is equal to the amount of typing you can do in one post before you must hit your enter key to send it. (Yes it might actually look like two lines)
+8. Players and bots must post for themselves**. Any exceptions have met all required security standards to prevent fraudulent and illegal third-party posts.
+**Current exceptions:
+- EternalBroker
+- Guild NPCs (one member per guild can post for them once every 15 minutes)
+9. It's not allowed announcing death bags on Market Channel.
+
+EL General Chat Rules (#jc 4)
+1. EL general chat is just that... conversation about Eternal Lands. Not market ads, not personal chat, not chat about other games. Please take all off-topic chat to its appropriate channel, or if all else fails, the true off-topic channel jc 20.
+2. Ads such as guild recruitment are to be no less than 5 minutes apart, and please note it is one ad per guild/event/person.
+
+Official Contests Channel Rules (#jc 6):
+1. All prizes and conditions to win contest MUST be announced at the beginning of the contest before the players start.
+2. Contest holder MUST follow through to the end and give the stated prizes. Intentional logging out to avoid awarding the prizes will be punished.
+3. No changing of the rules or conditions of the contest after it has started.
+4. No substitutions of prizes (unless of greater value or adding additional items) after the contest has been stated and/or started.
+5. Only one contest at a time. Check first before starting one. Official contests and events take precedence.
+6. No lengthy general/off-topic chat during contests. Also keep the chatter down when there is no contest. With lengthy conversations and discussions, it's harder to check if any contest is currently on, and more difficult to get a contest started (the announcement can get lost in the chat).
+7. Do NOT make "PM PlayerX saying blah blah blah" contests WITHOUT PlayerX's permission. Doing so is in violation of ingame rules 2,3, and 25.</long>
+   </rule>
+          <rule>
+                 <short>Denetleme halk arasinda tartisilacak bir konu degildir.</short>
+                 <long>Oyun önlemleri, kurallari, tedbirleri ve prosedürleri hakkindaki sorun ve sorularinizi direk oyun yöneticilerine (yani Aislinn) veya belli bir denetleyiciye özel mesaj yolu ile bildirmeniz gerekir. Denetleyicilerle ilgili soru ve sorunlarinizi da özel olarak Alislinn ile görüsmeniz gerekir. Bütün özel mesajlar ilgili sahislar ile ortak karar alinmadigi sürece sakli kalir.</long>
+          </rule>
+	<info>
+		<short>Buradaki bütün kurallar istenilen zamanda degistirilebilir veya bunlara yenileri eklenebilir.</short>
+	</info>
+	<info>
+	        <short>Forumlari denetleme sirasinda ve kurallarin ihlali sonucundaki cezalara karar vermede Eternal Lands denetleyicilerin davaya göre irade kullanma otoriteleri vardir.</short>
+	</info>
+	<info>
+		<short>Eternal Lands Kullanim Kosullari'nin veya Forum Yönetim Yasasi'nin, yukarida açiklanmis bölgeler de dahil olmak üzere, tekrar tekrar ihlali sonucunda, oyundan ve forumlardan kalici yasaklama gerçeklesir.</short>
+		<long>Bu kurallari veya kural ruhunu çignemek (sadece kanun belgelerini degil) cezaya sonuç verebilir. Genellikle önce uyari verilir. Bu, derhal tedbir alinmasi gereken tekrarlayici suçlular veya agir suç isleyenler için geçerli degildir. Eger bu uyari göze alinmazsa ve ihlal devam ederse, suçun agirligina, siddetine ve denetleyicilerin kararina göre oyuncular (belli bir siraya bagli kalmamak üzere) sessizlestirilebilir, atilabilir, exp kaybedebilir, hatta yasaklanabilir. Sizinle ilgilenmesi gereken denetleyicinin seviyesi ne kadar yüksek olmasi gerekirse, ceza da o kadar agir olabilir.</long>
+	</info>
+</text>

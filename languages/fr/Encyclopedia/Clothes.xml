@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Clothes>
+<Page name="Fur_Gloves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  VETEMENTS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Gants de fourrure</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Protège du froid.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +1 contre le froid, +1 armor</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Niveau recommandé pour fabriquer: 0</text><nl/>
+   <text> Aucune recherche nécessaire</text><nl/>
+   <text> Poids: 1 EMU</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <text> Nourriture consommée: -1</text><nl/>
+   <text> Expérience de base gagnée en fabrication: 5</text><nl/>
+   <text> Matériaux requis:</text><nl/>
+   <text> 3 Peaux de Lapin Brun</text><nl/>
+   <text> 2 Bobines de Fil</text><nl/>
+   <text> Outil: Aiguille</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Retour aux Vêtements"/>
+</Page>
+<Page name="Fox_Scarf">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  VETEMENTS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Echarpe de Renard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Protège du froid.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> Ne peut être porté pour l'instant.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Niveau recommandé pour fabriquer: 3</text><nl/>
+   <text> Aucune recherche nécessaire</text><nl/>
+   <text> Poids: 2 EMU</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <text> Nourriture consommée: -2</text><nl/>
+   <text> Expérience de base gagnée en fabrication: 12</text><nl/>
+   <text> Matériaux requis:</text><nl/>
+   <text> 1 Peau de Renard</text><nl/>
+   <text> 1 Bobine de Fil</text><nl/>
+   <text> Outil: Aiguille</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Retour aux Vêtements"/>
+</Page>
+<Page name="Hat_Fur">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  VETEMENTS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Toque de Fourrure</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Protège du froid.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +2 contre le froid, -1 contre la chaleur</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Niveau recommandé pour fabriquer: 5</text><nl/>
+   <text> Aucune recherche nécessaire</text><nl/>
+   <text> Poids: 2 EMU</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <text> Nourriture consommée: -3</text><nl/>
+   <text> Expérience de base gagnée en fabrication: 25</text><nl/>
+   <text> Matériaux requis:</text><nl/>
+   <text> 3 Peaux de Castor</text><nl/>
+   <text> 1 Peau de Lapin Blanc</text><nl/>
+   <text> 3 Bobines de Fil</text><nl/>
+   <text> Outil: Aiguille</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Retour aux Vêtements"/>
+</Page>
+<Page name="Hat_Skunk">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>                  Skunk Hat</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Protect you from cold.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +2 Cold Protection, -1 Heat Protection</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Skunk Furs, 4 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Needle</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 6</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 31</text>
+   <nl/>
+   <text> Food subtracted: 3</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Back To Clothes Index"/>
+</Page>
+<Page name="Hat_Racoon">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>                  Racoon Hat</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Protect you from cold.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +2 Cold Protection, -1 Heat Protection</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Raccoon Furs, 5 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Needle</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 7</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 34</text>
+   <nl/>
+   <text> Food subtracted: 3</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Back To Clothes Index"/>
+</Page>
+<Page name="Fur_Boots">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  VETEMENTS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Bottes de Fourrure</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Protège du froid.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +3 contre le froid, -1 contre la chaleur</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Niveau recommandé pour fabriquer: 12</text><nl/>
+   <text> Aucune recherche nécessaire</text><nl/>
+   <text> Poids: 3 EMU</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <text> Nourriture consommée: -8</text><nl/>
+   <text> Expérience de base gagnée en fabrication: 55</text><nl/>
+   <text> Nexuses requis: Artificiel 1</text><nl/>
+   <text> Matériaux requis:</text><nl/>
+   <text> 4 Queues de Rat</text><text>                </text>
+   <text> 5 Bobines de Fil</text><nl/>
+   <text> 2 Peaux de Lapin Brun</text><text>          </text>
+   <text> 1 Lingot de Fer</text><nl/>
+   <text> 1 Peau de Loup</text><text>                 </text>
+   <text> 2 Pièces de Cuir</text><nl/>
+   <text> Outils: Aiguille, marteau</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Retour aux Vêtements"/>
+</Page>
+<Page name="Fur_Torso">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  VETEMENTS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Veste de Fourrure</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Protège du froid.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +3 contre le froid, -1 contre la chaleur</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Niveau recommandé pour fabriquer: 22</text><nl/>
+   <text> Aucune recherche nécessaire</text><nl/>
+   <text> Poids: 3 EMU</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <text> Nourriture consommée: -26</text><nl/>
+   <text> Expérience de base gagnée en fabrication: 140</text><nl/>
+   <text> Nexuses requis: Artificiel 1</text><nl/>
+   <text> Matériaux requis:</text><nl/>
+   <text> 1 Lingot de Fer  10 Bobines de Fil</text><nl/>
+   <text> 7 Pièces de Cuir  3 Peaux de Cerf</text><nl/>
+   <text> 2 Peaux de Loup   4 Queues de Rat</text><nl/>
+   <text> Outils: Aiguille, marteau</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Retour aux Vêtements"/>
+</Page>
+<Page name="Fur_Pants">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  VETEMENTS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Culotte de peaux</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Protège du froid.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +3 contre le froid, -1 contre la chaleur</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Niveau recommandé pour Fabriquer: 20</text><nl/>
+   <text> Aucune recherche nécessaire</text><nl/>
+   <text> Poids: 3 EMU</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <text> Nourriture consommée: -20</text><nl/>
+   <text> Expérience de base gagnée en fabrication: 110</text><nl/>
+   <text> Nexuses requis: Artificiel 2</text><nl/>
+   <text> Matériaux requis:</text><nl/>
+   <text> 6 Pièces de Cuir 2 Peaux de Cerf</text><nl/>
+   <text> 2 Peaux de loup  1 Peau de Castor</text><nl/>
+   <text> 7 Bobines de Fil</text><nl/>
+   <text> Outil: Aiguille</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Retour aux Vêtements"/>
+</Page>
+<Page name="Cloak_Fur">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  VETEMENTS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Manteau de Fourrure</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Protège du froid.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +6 contre le froid, -3 contre la chaleur</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Niveau recommandé pour fabriquer: 6</text><nl/>
+   <text> Aucune recherche nécessaire</text><nl/>
+   <text> Poids: 4 EMU</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <text> Nourriture consommée: -4</text><nl/>
+   <text> Expérience de base gagnée en fabrication: 30</text><nl/>
+   <text> Matériaux requis:</text><nl/>
+   <text> 3 Peaux de Loup</text><nl/>
+   <text> 2 Peaux de Renards</text><nl/>
+   <text> 5 Bobines de Fil</text><nl/>
+   <text> Outil: Aiguille</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Retour aux Vêtements"/>
+</Page>
+<Page name="Bandana">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>                  Bandanas</text><nl/><nl/>
+   <text x="95"> </text>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <nl/><nl/><nl/>
+   <size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+   <nl/><nl/><nl/>
+   <text> These items cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <text> Bandanas are available from </text><link ref="http://www.eternal-lands.com/page/shop.php" title="EL shop"/><text>.</text>
+   <nl/>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Back To Clothes Index"/>
+</Page>
+<Page name="Adv_Cap">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>              Adventurer's Caps</text><nl/><nl/>
+   <text x="95"> </text>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <nl/><nl/><nl/>
+   <size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+   <nl/><nl/><nl/>
+   <text> These items cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <text> Adventurer's Caps are available from </text><link ref="http://www.eternal-lands.com/page/shop.php" title="EL shop"/><text>.</text>
+   <nl/>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Back To Clothes Index"/>
+</Page>
+<Page name="Tiaras">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>                   Tiaras</text><nl/><nl/>
+   <text x="180"> </text>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <nl/><nl/><nl/>
+   <size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+   <nl/><nl/><nl/>
+   <text> These items cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <text> Tiaras are available from </text><link ref="http://www.eternal-lands.com/page/shop.php" title="EL shop"/><text>.</text>
+   <nl/>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Back To Clothes Index"/>
+</Page>
+<Page name="Crowns">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>                   Crowns</text><nl/><nl/>
+   <text x="180"> </text>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <nl/><nl/><nl/>
+   <size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+   <nl/><nl/><nl/>
+   <text> These items cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <text> Crowns are available from </text><link ref="http://www.eternal-lands.com/page/shop.php" title="EL shop"/><text>.</text>
+   <nl/>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Back To Clothes Index"/>
+</Page>
+<Page name="Cloak_PS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  VETEMENTS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>    Cape de Préservation de Puissance</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Cette cape vous donne l'Avantage de Préservation de</text>
+   <nlkx/>
+   <text> Puissance. Avec cette cape, votre niveau de</text>
+   <nlkx/>
+   <text> nourriture ne baissera pas tant que vous ne lisez</text>
+   <nlkx/>
+   <text> pas ou qu'une de vos stats est en train d'être</text>
+   <nlkx/>
+   <text> restaurée.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vous pouvez l'acheter pour 3800 gc à White Stone City</text><nl/>
+   <text> auprès du vendeur de capes.</text><nl/>
+   <text> Pour avoir l'Avantage, vous devez porter cette cape.</text><nl/>
+   <nl/>
+   <text> Poids: 3 EMU</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Retour aux Vêtements"/>
+</Page>
+<Page name="Cloak_EX">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  VETEMENTS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Cape d'Excavation</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Cette cape vous donne l'Avantage Excavateur.</text>
+   <nlkx/>
+   <text> Cette cape double la quantité de ressources.</text>
+   <nlkx/>
+   <text> que vous récoltez.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vous pouvez l'acheter pour 2900 gc à White Stone City</text><nl/>
+   <text> auprès du vendeur de capes.</text><nl/>
+   <text> Pour avoir l'Avantage, vous devez porter la cape.</text><nl/>
+   <nl/>
+   <text> Poids: 3 EMU</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Retour aux Vêtements"/>
+</Page>
+<Page name="Cloak_CJ">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  VETEMENTS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Cape de Conjuration</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Cette cape vous donne l'Avantage de Conjuration.</text>
+   <nlkx/>
+   <text> Elle réduit de moitié la quantité de mana nécessaire</text>
+   <nlkx/>
+   <text> pour l'Invocation.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vous pouvez l'acheter pour 4500 gc à White Stone City</text><nl/>
+   <text> auprès du vendeur de capes.</text><nl/>
+   <text> Pour avoir l'Avantage, vous devez porter la cape.</text><nl/>
+   <nl/>
+   <text> Poids: 3 EMU</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Retour aux Vêtements"/>
+</Page>
+<Page name="Cloak_FR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  VETEMENTS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Cape de Régénération Rapide</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Cette cape vous donne l'Avantage de Régénération</text>
+   <nlkx/>
+   <text> Rapide.</text>
+   <nlkx/>
+   <text> Avec cette cape, vous recouvrez vos attributs 3 fois</text>
+   <nlkx/>
+   <text> plus vite.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vous pouvez l'achter pour 3400 gc à White Stone City</text><nl/>
+   <text> auprès du vendeur de capes.</text><nl/>
+   <text> Pour avoir l'Avantage, vous devez porter la cape.</text><nl/>
+   <nl/>
+   <text> Poids: 3 EMU</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Retour aux Vêtements"/>
+</Page>
+<Page name="Cloak_MM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  VETEMENTS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Cape d'Eloignement</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Cette cape vous donne l'Avantage d'Eloignement.</text>
+   <nlkx/>
+   <text> Les monstres no vous attaquent plus à moins que</text>
+   <nlkx/>
+   <text> vous les attaquiez d'abord.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vous ne pouvez l'obtenir qu'auprès d'autres joueurs ou si</text><nl/>
+   <text> elle est abandonnée par un monstre.</text><nl/>
+   <text> Pour avoir l'Avantage, vous devez porter la cape.</text><nl/>
+   <nl/>
+   <text> Poids: 3 EMU</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Retour aux Vêtements"/>
+</Page>
+<Page name="Cloak_MI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  VETEMENTS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Cape Mirroir</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Cette cape vous donne l'Avantage de Mirroir.</text>
+   <nlkx/>
+   <text> 10% de chances que vos dommages soient retournés</text>
+   <nlkx/>
+   <text> sur votre ennemi.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vous ne pouvez l'obtenir qu'auprès d'autres joueurs ou si</text><nl/>
+   <text> elle est abandonnée par un monstre.</text><nl/>
+   <text> Pour avoir l'Avantage, vous devez porter la cape.</text><nl/>
+   <nl/>
+   <text> Poids: 3 EMU</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Retour aux Vêtements"/>
+</Page>
+<Page name="Cloak_BP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text>
+   <nl/>
+   <text>                  VETEMENTS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Cape de Perforation</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Cette cape vous donne l'Avantage de Perforation.</text>
+   <nlkx/>
+   <text> Augmente les chances de traverser l'armure de votre</text>
+   <nlkx/>
+   <text> adversaire de 10%.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vous ne pouvez l'obtenir qu'auprès d'autres joueurs ou si</text><nl/>
+   <text> elle est abandonnée par un monstre.</text><nl/>
+   <text> Pour avoir l'Avantage, vous devez porter la cape.</text><nl/>
+   <nl/>
+   <text> Poids: 3 EMU</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Retour aux Vêtements"/>
+</Page>
+<Page name="Cloak_NMT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>             No More Tears Cloak</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> This cloak will give you the No More Tears perk.</text>
+   <nlkx/>
+   <text> The chance of items being damaged or breaking while</text>
+   <nlkx/>
+   <text> fighting is reduced to 1/4 of normal chance.</text>
+   <nlkx/>
+   <text> This cape will not degrade in combat.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> You can only get this cloak from other players or by</text>
+   <nl/>
+   <text> monster drops.</text>
+   <nl/>
+   <nl/>
+   <text> To have the perk effect you need to wear the cloak.</text>
+   <nl/>
+   <text> If you already have the perk, you can't wear the cape.</text>
+   <nl/>
+   <nl/><nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Back To Clothes Index"/>
+</Page>
+<Page name="Cloak_UB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>          Cape of the Unbreakable</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> This cloak will give immunity to BroD, BoD, Rings</text>
+   <nlkx/>
+   <text> of Mana Destruction and Damage Rings.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> You can buy this cloak for 6500 gc in White Stone City</text>
+   <nl/>
+   <text> from the Cloak seller.</text>
+   <nl/><nl/>
+   <text> Weight: 20 EMU</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Back To Clothes Index"/>
+</Page>
+<Page name="Cloak_WA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>               Warlock's Cloak</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> This cloak will give you high resistance to magic.</text>
+   <nlkx/>
+   <text> Increases your magic protection by 8 and provides</text>
+   <nlkx/>
+   <text> some camouflage.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> You can only get this cloak from other players or by</text>
+   <nl/>
+   <text> monster drops.</text>
+   <nl/><nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Back To Clothes Index"/>
+</Page>
+<Page name="Cloak_CAM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>          Cape of Passive Camouflage</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> This cloak provides some camouflage, especially</text>
+   <nlkx/>
+   <text> at night or in dark dungeons and caves.</text>
+   <nlkx/>
+   <text> It gives -20 points to your Light Modifier.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> You can only get this cloak from other players or by</text>
+   <nl/>
+   <text> monster drops.</text>
+   <nl/><nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Back To Clothes Index"/>
+</Page>
+<Page name="Cloak_ART">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>               Artificer Cape</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> This cloak increase your chance to create rare</text>
+   <nlkx/>
+   <text> items (modable weapons, enriched essences, etc...).</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 10</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> You can only get this cloak from other players or by</text>
+   <nl/>
+   <text> monster drops.</text>
+   <nl/><nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Back To Clothes Index"/>
+</Page>
+</Clothes>

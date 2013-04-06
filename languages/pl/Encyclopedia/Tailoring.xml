@@ -1,0 +1,3069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tailoring>
+<Page name="White Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 White Fabric</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Biale Plotno)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Biale Plotno.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 </text><link ref="Loom" title="Loom"/><text>, 10 </text><link ref="Thread" title="Threads"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Fabric Weaving</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 1</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 9</text>
+   <nl/>
+   <text> Koszt Jedzenia: 10</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Red Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Red Dye</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Czerwona Farba)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Farba do plotna (czerwona), w 100% organiczna.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 </text><link ref="Square_Vial" title="Square Vial"/><text>, 1 </text><link ref="Saltpetre" title="Saltpetre"/><text>, 2 </text><link ref="Water Essence" title="Water Essences"/><text>,</text><nl/>
+   <text> 5 </text><link ref="Red_Rose" title="Red Roses"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Red Dye</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 5</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 15</text>
+   <nl/>
+   <text> Koszt Jedzenia: 10</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Orange Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Orange Dye</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Pomaranczowa Farba)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Farba do Plotna (pomaranczowa), w 100% organiczna.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 </text><link ref="Square_Vial" title="Square Vial"/><text>, 2 </text><link ref="Water Essence" title="Water Essences"/><text>,</text><nl/>
+   <text> 14 </text><link ref="Red_Rose" title="Red Roses"/><text>, 14 </text><link ref="Sunflowers" title="Sunflowers"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Orange Dye</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 7</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 18</text>
+   <nl/>
+   <text> Koszt Jedzenia: 10</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Yellow Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Yellow Dye</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                         (Zolta Farba)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Farba do Plotna (zolta), w 100% organiczna.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 </text><link ref="Square_Vial" title="Square Vial"/><text>, 1 </text><link ref="Saltpetre" title="Saltpetre"/><text>, 2 </text><link ref="Water Essence" title="Water Essences"/><text>,</text><nl/>
+   <text> 12 </text><link ref="Daffodils" title="Daffodils"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Yellow Dye</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 9</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 22</text>
+   <nl/>
+   <text> Koszt Jedzenia: 10</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Green Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Green Dye</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Zielona Farba)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Farba do Plotna (Zielona), w 100% organiczna.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 </text><link ref="Square_Vial" title="Square Vial"/><text>, 1 </text><link ref="Saltpetre" title="Saltpetre"/><text>, 2 </text><link ref="Water Essence" title="Water Essences"/><text>,</text><nl/>
+   <text> 15 </text><link ref="Mugwort" title="Mugworts"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Green Dye</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 11</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 25</text>
+   <nl/>
+   <text> Koszt Jedzenia: 12</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Blue Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Blue Dye</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                  (Niebieska Farba)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Farba do Plotna (niebieska), w 100% organiczna.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 </text><link ref="Square_Vial" title="Square Vial"/><text>, 1 </text><link ref="Saltpetre" title="Saltpetre"/><text>, 2 </text><link ref="Water Essence" title="Water Essences"/><text>,</text><nl/>
+   <text> 20 </text><link ref="Blue_Star_Flower" title="Blue Star Flowers"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Blue Dye</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 13</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 28</text>
+   <nl/>
+   <text> Koszt Jedzenia: 12</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Purple Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Purple Dye</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Purpurowa Farba)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Farba do Plotna (purpurowa), w 100% organiczna.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 </text><link ref="Square_Vial" title="Square Vial"/><text>, 1 </text><link ref="Saltpetre" title="Saltpetre"/><text>, 2 </text><link ref="Water Essence" title="Water Essences"/><text>,</text><nl/>
+   <text> 20 </text><link ref="Nightshade" title="Nightshades"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Purple Dye</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 15</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 31</text>
+   <nl/>
+   <text> Koszt Jedzenia: 14</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Black Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Black Dye</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Czarna Farba)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Farba do Plotna (czarna), w 100% organiczna.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 </text><link ref="Square_Vial" title="Square Vial"/><text>, 1 </text><link ref="Saltpetre" title="Saltpetre"/><text>, 3 </text><link ref="Water Essence" title="Water Essences"/><text>, 20 </text><link ref="Coal" title="Coals"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Black Dye</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 17</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 35</text>
+   <nl/>
+   <text> Koszt Jedzenia: 14</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Red Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Red Fabric</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Czerwone Plotno)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Plotno: czerwone.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 </text><link ref="Red Dye" title="Red Dye"/><text>, 1 </text><link ref="White Fabric" title="White Fabric"/><text>, 5 </text><link ref="Air Essence" title="Air Essence"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Fabric Dyeing</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 19</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 40</text>
+   <nl/>
+   <text> Koszt Jedzenia: 14</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Orange Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Orange Fabric</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Pomaranczowe Plotno)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Plotno: pomaranczowe.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 </text><link ref="Orange Dye" title="Orange Dye"/><text>, 1 </text><link ref="White Fabric" title="White Fabric"/><text>, 5 </text><link ref="Air Essence" title="Air Essence"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Fabric Dyeing</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 21</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 45</text>
+   <nl/>
+   <text> Koszt Jedzenia: 14</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Yellow Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Yellow Fabric</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Zolte Plotno)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Plotno: zolte.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 </text><link ref="Yellow Dye" title="Yellow Dye"/><text>, 1 </text><link ref="White Fabric" title="White Fabric"/><text>, 5 </text><link ref="Air Essence" title="Air Essence"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Fabric Dyeing</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 23</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 50</text>
+   <nl/>
+   <text> Koszt Jedzenia: 14</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Green Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Green Fabric</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Zielone Plotno)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Plotno: zielone.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 </text><link ref="Green Dye" title="Green Dye"/><text>, 1 </text><link ref="White Fabric" title="White Fabric"/><text>, 5 </text><link ref="Air Essence" title="Air Essence"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Fabric Dyeing</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 25</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 55</text>
+   <nl/>
+   <text> Koszt Jedzenia: 14</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Blue Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Blue Fabric</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Niebieskie Plotno)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Plotno: Niebieskie.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 </text><link ref="Blue Dye" title="Blue Dye"/><text>, 1 </text><link ref="White Fabric" title="White Fabric"/><text>, 5 </text><link ref="Air Essence" title="Air Essence"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Fabric Dyeing</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 27</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 60</text>
+   <nl/>
+   <text> Koszt Jedzenia: 14</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Black Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Black Fabric</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Czarne Plotno)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Plotno: Czarne.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 </text><link ref="Black Dye" title="Black Dyes"/><text>, 1 </text><link ref="White Fabric" title="White Fabric"/><text>, 5 </text><link ref="Air Essence" title="Air Essence"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Fabric Dyeing</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 29</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 75</text>
+   <nl/>
+   <text> Koszt Jedzenia: 14</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Purple Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Purple Fabric</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Purpurowe Plotno)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Plotno: purpurowe.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 </text><link ref="Purple Dye" title="Purple Dye"/><text>, 1 </text><link ref="White Fabric" title="White Fabric"/><text>, 5 </text><link ref="Air Essence" title="Air Essence"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Fabric Dyeing</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 31</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 65</text>
+   <nl/>
+   <text> Koszt Jedzenia: 14</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Gray Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Gray Fabric</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Szare Plotno)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Plotno: Szare.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 </text><link ref="Black Dye" title="Black Dye"/><text>, 1 </text><link ref="White Fabric" title="White Fabric"/><text>, 5 </text><link ref="Air Essence" title="Air Essence"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Fabric Dyeing</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 33</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 70</text>
+   <nl/>
+   <text> Koszt Jedzenia: 14</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Brown Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Brown Fabric</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Brazowe Plotno)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Plotno: brazowe.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 </text><link ref="Red Dye" title="Red Dye"/><text>, 1 </text><link ref="Black Dye" title="Black Dye"/><text>, 1 </text><link ref="White Fabric" title="White Fabric"/><text>, 5 </text><link ref="Air Essence" title="Air Essence"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Fabric Dyeing</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 33</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 90</text>
+   <nl/>
+   <text> Koszt Jedzenia: 14</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="NMW_Cape">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Cape of No More Warlock</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Plaszc ktory po zalozeniu da Ci perk No More Tears,</text>
+   <nlkx/>
+   <text> zwiekszy odpornosc na magie o +8 i zapewni troche</text>
+   <nlkx/>
+   <text> dodatkowego kamuflazu.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 </text><link ref="Cloak_NMT" title="No More Tears Cloak"/><text>, 1 </text><link ref="Cloak_WA" title="Warlock's Cloak"/><text>, 2 </text><link ref="Binding_Stone" title="Binding Stones"/><text>,</text>
+   <nl/>
+   <text> 2 </text><link ref="Enriched Magic Essence" title="Enriched Magic Essence"/><text>.</text>
+   <nl/>
+   <text> Wymagana Wiedza: No More Warlock</text>
+   <nl/>
+   <text> Wymagany Nexus: Magic 4</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 50</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 3500</text>
+   <nl/>
+   <text> Koszt Jedzenia: 14</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 4 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Scarf_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Black Scarf</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Czarna Chusta)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarna chusta.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 5 </text><link ref="Black Fabric" title="Black Fabrics"/><text>, 10 </text><link ref="Thread" title="Threads"/><text>, 1 <link ref="Needle" title="Needle"/>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Scarves Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 36</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 100</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Scarf_Red">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Red Scarf</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Czerwona Chusta)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czerwona chusta.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 5 </text><link ref="Red Fabric" title="Red Fabrics"/><text>, 10 </text><link ref="Thread" title="Threads"/><text>, 1 <link ref="Needle" title="Needle"/>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Scarves Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 37</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 110</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Scarf_Skull">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Skull Crossbones Scarf</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>               (Czarna Chusta z Piracka Czaszka)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarna, piracka chusta z symbolem kosci i czaszki.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 5 </text><link ref="Black Fabric" title="Black Fabrics"/><text>, 2 </text><link ref="White Fabric" title="White Fabrics"/><text>, 10 </text><link ref="Thread" title="Threads"/><text>, 1 <link ref="Needle" title="Needle"/>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Scarves Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 38</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 120</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Tricorn_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Black Tricorn Hat</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Czarny Kapelusz Tricorn)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarny Kapelusz Tricorn.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 5 </text><link ref="Black Fabric" title="Black Fabrics"/><text>, 10 </text><link ref="Thread" title="Threads"/><text>, 2 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tricorn Hat Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 39</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 180</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Tricorn_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Brown Tricorn Hat</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                  (Brazowy Kapelusz Tricorn)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Brazowy kapelusz Tricorn.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 5 </text><link ref="Brown Fabric" title="Brown Fabrics"/><text>, 10 </text><link ref="Thread" title="Threads"/><text>, 1 <link ref="Needle" title="Needle"/>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tricorn Hat Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 40</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 190</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Tricorn_Blue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Blue Tricorn Hat</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                 (Niebieski Kapelusz Tricorn)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Niebieski Kapelusz Tricorn.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 5 </text><link ref="Blue Fabric" title="Blue Fabrics"/><text>, 10 </text><link ref="Thread" title="Threads"/><text>, 1 <link ref="Needle" title="Needle"/>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tricorn Hat Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 41</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 200</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Buccaneer_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Brown Buccaneer Hat</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Brazowa Czapka Piracka)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Brazowa Czapka Piracka.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 6 </text><link ref="Brown Fabric" title="Brown Fabrics"/><text>, 15 </text><link ref="Thread" title="Threads"/><text>, 1 </text><link ref="Cockatrice" title="Cockatrice Feather"/><text>,</text><nl/>
+   <text> 1 <link ref="Needle" title="Needle"/>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Buccaneer Hat Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 42</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 190</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Buccaneer_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Black Buccaneer Hat</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Czarna Czapka Piracka)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarna Czapka Piracka.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 6 </text><link ref="Black Fabric" title="Black Fabrics"/><text>, 15 </text><link ref="Thread" title="Threads"/><text>, 1 </text><link ref="Cockatrice" title="Cockatrice Feather"/><text>,</text><nl/>
+   <text> 1 <link ref="Needle" title="Needle"/>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Buccaneer Hat Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 43</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 200</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Cavalier_BlackP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Black Cavalier Peacock Hat</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>             (Czarna Czapka Kawaleryjska z Pawia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarna Czapka Kawaleryjska z pawim piorem.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 6 </text><link ref="Black Fabric" title="Black Fabrics"/><text>, 1 </text><link ref="Cockatrice" title="Cockatrice Feather"/><text>, 16 </text><link ref="Thread" title="Threads"/><text>,</text><nl/>
+   <text> 2 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 44</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 220</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Cavalier_GreenP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Green Cavalier Peacock Hat</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>            (Zielona Czapka Kawaleryjska z Pawia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zielona Czapka Kawaleryjska z pawim piorem.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 6 </text><link ref="Green Fabric" title="Green Fabrics"/><text>, 1 </text><link ref="Cockatrice" title="Cockatrice Feather"/><text>, 15 </text><link ref="Thread" title="Threads"/><text>,</text><nl/>
+   <text> 1 <link ref="Needle" title="Needle"/>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 45</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 240</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Cavalier_Blue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Blue Cavalier Hat</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                 (Niebieska Czapka Kawaleryjska)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Niebieska Czapka Kawaleryjska.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 6 </text><link ref="Blue Fabric" title="Blue Fabrics"/><text>, 1 </text><link ref="Falcon" title="Falcon Feather"/><text>, 15 </text><link ref="Thread" title="Threads"/><text>,</text><nl/>
+   <text> 1 <link ref="Needle" title="Needle"/>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 46</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 240</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Cavalier_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Black Cavalier Hat</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                  (Czarna Czapka Kawaleryjska)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Cavalier Hat.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 6 </text><link ref="Black Fabric" title="Black Fabrics"/><text>, 1 </text><link ref="Falcon" title="Falcon Feather"/><text>, 15 </text><link ref="Thread" title="Threads"/><text>,</text><nl/>
+   <text> 1 <link ref="Needle" title="Needle"/>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 47</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 245</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Santa_Hat">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Santa Hat</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Czapka sw. Mikolaja)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czerwona czapka z bialym pomponem.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: Santa Hat Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: ???</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Hood">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Universal Hood</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Kaptur Uniwersalny)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Uniwersalny kaptur - kolor zmienia sie w zaleznosci od</text><nlkx/>
+   <text> tego, jaki nosisz plaszcz.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 5 </text><link ref="Enriched Magic Essence" title="Enriched Magic Essence"/><text>, 1 </text><link ref="Binding_Stone" title="Binding Stone"/><text>, 25 </text><link ref="Thread" title="Threads"/><text>,</text><nl/>
+   <text> 3 </text><link ref="Needle" title="Needle"/><text>, 10</text><link ref="White Fabric" title="White Fabrics"/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Hood Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 74</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 1000</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Tunic_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Brown Tunic</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Brazowa Tunika)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Brazowa Tunika.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 30 </text><link ref="Brown Fabric" title="Brown Fabrics"/><text>, 4 </text><link ref="Blue Fabric" title="Blue Fabrics"/><text>, 25 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tunic Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 66</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 410</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Tunic_Purple">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Lavender Tunic</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Lawendowa Tunika)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Lawendowa Tunika.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 16 </text><link ref="Purple Fabric" title="Purple Fabrics"/><text>, 18 </text><link ref="White Fabric" title="White Fabrics"/><text>, 25 </text><link ref="Thread" title="Threads"/><text>,</text><nl/>
+   <text> 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tunic Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 66</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 410</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Tunic_Green">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Green Tunic</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Zielona Tunika)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zielona Tunika.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 30 </text><link ref="Green Fabric" title="Green Fabrics"/><text>, 4 </text><link ref="Gray Fabric" title="Gray Fabrics"/><text>, 25 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tunic Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 67</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 420</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Tunic_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Black Tunic</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Czarna Tunika)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarna Tunika.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 30 </text><link ref="Black Fabric" title="Black Fabrics"/><text>, 4 </text><link ref="Gray Fabric" title="Gray Fabrics"/><text>, 25 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tunic Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 67</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 420</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Tunic_Red">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Red Tunic</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Czerwona Tunika)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czerwona Tunika.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 30 </text><link ref="Red Fabric" title="Red Fabrics"/><text>, 4 </text><link ref="Brown Fabric" title="Brown Fabrics"/><text>, 25 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tunic Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 68</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 430</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Tunic_Blue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Blue Tunic</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Niebieska Tunika)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Niebieska Tunika.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 30 </text><link ref="Blue Fabric" title="Blue Fabrics"/><text>, 4 </text><link ref="Gray Fabric" title="Gray Fabrics"/><text>, 25 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tunic Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 68</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 430</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Tunic_White">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 White Tunic</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Biala Tunika)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Biala Tunika.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 30 </text><link ref="White Fabric" title="White Fabrics"/><text>, 4 </text><link ref="Gray Fabric" title="Gray Fabrics"/><text>, 25 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tunic Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 68</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 430</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="TunicShirt_RedWhite">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Red Tunic with White Shirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                (Czerwona Tunika z Biala Koszula)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czerwona Tunika z Biala Koszula.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 20 </text><link ref="Red Fabric" title="Red Fabrics"/><text>, 30 </text><link ref="White Fabric" title="White Fabrics"/><text>, 4 </text><link ref="Brown Fabric" title="Brown Fabrics"/><text>,</text><nl/>
+   <text> 25 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 69</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 440</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="TunicShirt_BlueWhite">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Blue Tunic with White Shirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>              (Niebieska Tunika z Biala Koszula)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Niebieska Tunika z Biala Koszula.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 20 </text><link ref="Blue Fabric" title="Blue Fabrics"/><text>, 30 </text><link ref="White Fabric" title="White Fabrics"/><text>, 4 </text><link ref="Brown Fabric" title="Brown Fabrics"/><text>,</text><nl/>
+   <text> 25 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 69</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 440</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="TunicShirt_BrownWhite">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>        Brown Tunic with White Shirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>               (Brazowa Tunika z Biala Koszula)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Brazowa Tunika z Biala Koszula.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 20 </text><link ref="Brown Fabric" title="Brown Fabrics"/><text>, 30 </text><link ref="White Fabric" title="White Fabrics"/><text>, 4 </text><link ref="Gray Fabric" title="Gray Fabrics"/><text>,</text><nl/>
+   <text> 25 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 70</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 450</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="TunicShirt_BlackGreen">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>        Black Tunic with Green Shirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>               (Czarna Tunika z Zielona Koszula)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarna Tunika z Zielona Koszula.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 20 </text><link ref="Black Fabric" title="Black Fabrics"/><text>, 30 </text><link ref="Green Fabric" title="Green Fabrics"/><text>, 4 </text><link ref="Gray Fabric" title="Gray Fabrics"/><text>,</text><nl/>
+   <text> 25 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 71</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 460</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="TunicShirt_BlackPurple">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>        Black Tunic with Purple Shirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                (Czarna Tunika z Purpurowa Koszula)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarna Tunika z Purpurowa Koszula.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 20 </text><link ref="Black Fabric" title="Black Fabrics"/><text>, 30 </text><link ref="Purple Fabric" title="Purple Fabrics"/><text>, 4 </text><link ref="Gray Fabric" title="Gray Fabrics"/><text>,</text><nl/>
+   <text> 25 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 71</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 460</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="TunicShirt_BlackRed">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Black Tunic with Red Shirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                (Czarna Tunika z Czerwona Koszula)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarna Tunika z Czerwona Koszula.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 20 </text><link ref="Black Fabric" title="Black Fabrics"/><text>, 30 </text><link ref="Red Fabric" title="Red Fabrics"/><text>, 4 </text><link ref="Gray Fabric" title="Gray Fabrics"/><text>,</text><nl/>
+   <text> 25 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 72</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 470</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="TunicShirt_BlackGray">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Black Tunic with Gray Shirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                (Czarna Tunika z Szara Koszula)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarna Tunika z Szara Koszula.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 50 </text><link ref="Black Fabric" title="Black Fabrics"/><text>, 4 </text><link ref="Gray Fabric" title="Gray Fabrics"/><text>, 25 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 72</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 470</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="TunicShirt_BlackWhite">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>        Black Tunic with White Shirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                (Czarna Tunika z Biala Koszula)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarna Tunika z Biala Koszula.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 20 </text><link ref="Black Fabric" title="Black Fabrics"/><text>, 30 </text><link ref="White Fabric" title="White Fabrics"/><text>, 4 </text><link ref="Gray Fabric" title="Gray Fabrics"/><text>,</text><nl/>
+   <text> 25 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 70</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 450</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="TunicShirt_BrownBlue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Brown Tunic with Blue Shirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                (Brazowa Tunika z Niebieska Koszula)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Brazowa Tunika z Biebieska Koszula.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 20 </text><link ref="Brown Fabric" title="Brown Fabrics"/><text>, 30 </text><link ref="Blue Fabric" title="Blue Fabrics"/><text>, 4 </text><link ref="Gray Fabric" title="Gray Fabrics"/><text>,</text><nl/>
+   <text> 25 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Tunic/Shirt Combo Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 73</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 480</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Robe_Purple">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Purple Robe</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Purpurowa Szata)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Purpurowa Szata.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="Purple Fabric" title="Purple Fabrics"/><text>, 2 </text><link ref="Gold Bar" title="Gold Bars"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 2 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 56</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 310</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="RobeSkirt_Purple">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Purple Robe Skirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Purpurowa Spodnica)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Purpurowa Spodnica.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="Purple Fabric" title="Purple Fabrics"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Skirt Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 61</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 360</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Robe_Green">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Green Robe</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Zielona Szata)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zielona Szata.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="Green Fabric" title="Green Fabrics"/><text>, 2 </text><link ref="Gold Bar" title="Gold Bars"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 2 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 56</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 310</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="RobeSkirt_Green">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Green Robe Skirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Zielona Spodnica)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zielona Spodnica.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="Green Fabric" title="Green Fabrics"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Skirt Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 61</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 360</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Robe_LightBlue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Light Blue Robe</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Jasno-Niebieska Szata)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Jasno-Niebieska Szata.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 14 </text><link ref="Blue Fabric" title="Blue Fabrics"/><text>, 14 </text><link ref="White Fabric" title="White Fabrics"/><text>, 2 </text><link ref="Gold Bar" title="Gold Bars"/><text>,</text><nl/>
+   <text> 20 </text><link ref="Thread" title="Threads"/><text>, 2 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 57</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 320</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="RobeSkirt_LightBlue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Light Blue Robe Skirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                  (Jasno-Niebieska Spodnica)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Jasno-Niebieska Spodnica.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 14 </text><link ref="Blue Fabric" title="Blue Fabrics"/><text>, 14 </text><link ref="White Fabric" title="White Fabrics"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Skirt Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 62</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 370</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Robe_White">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  White Robe</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                         (Biala Szata)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Biala Szata.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="White Fabric" title="White Fabrics"/><text>, 2 </text><link ref="Gold Bar" title="Gold Bars"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 2 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 57</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 320</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="RobeSkirt_White">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              White Robe Skirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Biala Spodnica)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Biala Spodnica.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="White Fabric" title="White Fabrics"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Skirt Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 62</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 370</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Robe_Blue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Blue Robe</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Niebieska Szata)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Niebieska Szata.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="Blue Fabric" title="Blue Fabrics"/><text>, 2 </text><link ref="Gold Bar" title="Gold Bars"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 2 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 58</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 330</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="RobeSkirt_Blue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Blue Robe Skirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Niebieska Spodnica)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Niebieska Spodnica.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="Blue Fabric" title="Blue Fabrics"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Skirt Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 63</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 380</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Robe_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Black Robe</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Czarna Szata)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarna Szata.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="Black Fabric" title="Black Fabrics"/><text>, 2 </text><link ref="Gold Bar" title="Gold Bars"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 2 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 58</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 330</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="RobeSkirt_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Black Robe Skirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Czarna Spodnica)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarna Spodnica.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="Black Fabric" title="Black Fabrics"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Skirt Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 63</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 380</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Robe_Gray">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Gray Robe</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                         (Szara Szata)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Szara Szata.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="Gray Fabric" title="Gray Fabrics"/><text>, 2 </text><link ref="Gold Bar" title="Gold Bars"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 2 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 59</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 340</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="RobeSkirt_Gray">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Gray Robe Skirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Szara Spodnica)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Szara Spodnica.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="Gray Fabric" title="Gray Fabrics"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Skirt Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 64</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 390</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Robe_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Brown Robe</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Brazowa Szata)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Brazowa Szata.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="Brown Fabric" title="Brown Fabrics"/><text>, 2 </text><link ref="Gold Bar" title="Gold Bars"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 2 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 59</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 340</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="RobeSkirt_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Brown Robe Skirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Brazowa Spodnica)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Brazowa Spodnica.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="Brown Fabric" title="Brown Fabrics"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Skirt Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 64</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 390</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Robe_Red">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Red Robe</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Czerwona Szata)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czerwona Szata.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="Red Fabric" title="Red Fabrics"/><text>, 2 </text><link ref="Gold Bar" title="Gold Bars"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 2 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 60</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 350</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="RobeSkirt_Red">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Red Robe Skirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Czerwona Spodnica)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czerwona Spodnica.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="Red Fabric" title="Red Fabrics"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Skirt Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 65</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 400</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Robe_Yellow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Yellow Robe</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                         (Zolta Szata)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zolta Szata.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="Yellow Fabric" title="Yellow Fabrics"/><text>, 2 </text><link ref="Gold Bar" title="Gold Bars"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 2 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 60</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 350</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="RobeSkirt_Yellow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Yellow Robe Skirt</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Zolta Spodnica)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zolta Spodnica.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 28 </text><link ref="Yellow Fabric" title="Yellow Fabrics"/><text>, 20 </text><link ref="Thread" title="Threads"/><text>, 3 </text><link ref="Needle" title="Needles"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Robe Skirt Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 65</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 400</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Pants_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Brown Baggy Pants</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Brazowe Luzne Spodnie)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Brazowe, Luzne Spodnie.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 24 </text><link ref="Brown Fabric" title="Brown Fabrics"/><text>, 25 </text><link ref="Thread" title="Threads"/><text>, 1 <link ref="Needle" title="Needle"/>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Baggy Pants Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 54</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 300</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Pants_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Black Baggy Pants</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Czarne Luzne Spodnie)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarne, Luzne Spodnie.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 24 </text><link ref="Black Fabric" title="Black Fabrics"/><text>, 25 </text><link ref="Thread" title="Threads"/><text>, 1 <link ref="Needle" title="Needle"/>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Baggy Pants Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 53</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 220</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Pants_RedBlack">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>        Black Red Striped Baggy Pants</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>           (Czarne Luzne Spodnie w Czerwone Pasy)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarne Luzne Spodnie w Czerwone Pasy.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 12 </text><link ref="Black Fabric" title="Black Fabrics"/><text>, 25 </text><link ref="Thread" title="Threads"/><text>, 1 <link ref="Needle" title="Needle"/>,</text><nl/>
+   <text> 12 </text><link ref="Red Fabric" title="Red Fabrics"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Baggy Pants Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 48</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 255</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Pants_RedWhite">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>        Red White Striped Baggy Pants</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>           (Czerwone Luzne Spodnie w Biale Pasy)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czerwone Luzne Spodnie w Biale Pasy.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 12 </text><link ref="White Fabric" title="White Fabrics"/><text>, 25 </text><link ref="Thread" title="Threads"/><text>, 1 <link ref="Needle" title="Needle"/>,</text><nl/>
+   <text> 12 </text><link ref="Red Fabric" title="Red Fabrics"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Baggy Pants Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 49</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 260</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Pants_PurpleBlack">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>      Black Purple Striped Baggy Pants</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>           (Czarno Purpurowe Luzne Spodnie w Pasy)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarno-Purpurowe Luzne Spodnie w Pasy.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 12 </text><link ref="Purple Fabric" title="Purple Fabrics"/><text>, 25 </text><link ref="Thread" title="Threads"/><text>, 1 <link ref="Needle" title="Needle"/>,</text><nl/>
+   <text> 12 </text><link ref="Black Fabric" title="Black Fabrics"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Baggy Pants Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 51</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 270</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Pants_BlueBlack">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>       Black Blue Striped Baggy Pants</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>           (Czarne Luzne Spodnie w Niebieskie Pasy)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Czarne Luzne Spodnie w Niebieskie Pasy.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 12 </text><link ref="Blue Fabric" title="Blue Fabrics"/><text>, 25 </text><link ref="Thread" title="Threads"/><text>, 1 <link ref="Needle" title="Needle"/>,</text><nl/>
+   <text> 12 </text><link ref="Black Fabric" title="Black Fabrics"/><text>.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: </text><link ref="Scissors" title="Scissors"/>
+   <nl/>
+   <text> Wymagana Wiedza: Baggy Pants Making</text>
+   <nl/>
+   <text> Zalecany Poziom Krawiectwa: 52</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 280</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+<Page name="Tunic_Ninja">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Tunic of the Ninja</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> W czasie noszenia, tunika Ninja daje takie same korzysci</text><nl/>
+   <text> jak perk Ninja.</text>
+   <nlkx/>
+   <text> Jesli strzelasz z luku lub kuszy, uzywajac jednoczesnie</text>
+   <nlkx/>
+   <text> zaklecia Niewidzialnosci, to masz spore szanse</text>
+   <nlkx/>
+   <text> (80%) na to, ze nikt Cie nie zauwazy.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane materialy:</text>
+   <nl/>
+   <text> 2 Black Tunics, 1 Enriched Magic Essence, 1 Binding Stone,</text><nl/>
+   <text> 3 Needles.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Scissors</text>
+   <nl/>
+   <text> Wymagana Wiedza: Tunic of the Ninja Making</text>
+   <nl/>
+   <text> Zalecany poziom Krawiectwa: 74</text>
+   <nl/>
+   <text> Doswiadczenie w Krawiectwie: 2000</text>
+   <nl/>
+   <text> Koszt jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/>
+   <text> Jesli posiadasz perk Ninja, nie bedziesz mogl zalozyc</text><nl/>
+   <text> tej tuniki.</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Tailoring" title="Wroc do Indeksu Krawiectwa"/>
+</Page>
+</Tailoring>

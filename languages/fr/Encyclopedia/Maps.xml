@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Maps>
+<Page name="Maps_IP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   CARTES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Isla Prima (IP)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> C'est la carte de départ. C'est également sur cette carte</text><nl/>
+   <text> que vous apparaissez lorsque vous entrez '#beam me up' ou</text><nl/>
+   <text> lorsque vous sortez de l'enfer. De fait, la place située</text><nl/>
+   <text> à coté du feu de camp est appelée 'Beam'.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Paisible: Oui, il n'y a pas de créature violentes ici.</text><nl/>
+   <nl/>
+   <text> Magasin: Non</text><nl/>
+   <nl/>
+   <text> PK: Non</text><nl/>
+   <nl/>
+   <text> Combat Multiple: Non</text><nl/>
+   <nl/>
+   <text> Cartes Voisines: White stone (par bateau)</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Maps" title="Retour vers Cartes"/>
+</Page>
+<Page name="Maps_WS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   CARTES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               White Stone (WS)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Cette carte est au centre de Seridia. C'est la carte où</text><nl/>
+   <text> vous arrivez, lorsque vous prenez le bateau à Isla Prima.</text><nl/>
+   <text> Elle vous donne également accès à la plupart des autres</text><nl/>
+   <text> cartes de Seridia</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Paisible: De jour, oui. Des gargouilles rodent la nuit</text><nl/>
+   <text>       (de 3h30 à 0h30).</text><nl/>
+   <nl/>
+   <text> Magasin: Oui</text><nl/>
+   <nl/>
+   <text> PK: Non, mais il y a une arène</text><nl/>
+   <nl/>
+   <text> Combat Multiple: Non</text><nl/>
+   <nl/>
+   <text> Cartes Voisines: Isla Prima (par bateau)</text><nl/>
+   <text>                 Desert Pines (par bateau)</text><nl/>
+   <text>                 Portland</text><nl/>
+   <text>                 Nordcarn</text><nl/>
+   <text>                 Tarsengaard</text><nl/>
+   <text>                 Morcraven Marsh</text><nl/>
+   <text>                 Grubani Penninsula</text><nl/>
+   <text>                 Ruins of Tirnym</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Maps" title="Retour vers Cartes"/>
+</Page>
+<Page name="Maps_DP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   CARTES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Desert Pines (DP)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> DP est l'une des principales cartes de mines de Seridia.</text><nl/>
+   <text> Elle possède deux mines, un désert et une forêt.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Paisible: Oui</text><nl/>
+   <nl/>
+   <text> Magasin: Oui</text><nl/>
+   <nl/>
+   <text> PK: Non, mais il y a une arène.</text><nl/>
+   <nl/>
+   <text> Combat Multiple: Non</text><nl/>
+   <nl/>
+   <text> Cartes Voisines: White Stone (par bateau)</text><nl/>
+   <text>                 Valley of the Dwarves (par bateau)</text><nl/>
+   <text>                 Portland (par bateau)</text><nl/>
+   <text>                 Kilaran Field</text><nl/>
+   <text>                 South Kilaran Field</text><nl/>
+   <text>                 Portland</text><nl/>
+   <text>                 Tahraji Desert</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Maps" title="Retour vers Cartes"/>
+</Page>
+<Page name="Maps_VOTD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   CARTES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>        Valley of the Dwarves (VotD)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Cette carte est un pôle d'activités. Il y a un magasin, un</text><nl/>
+   <text> accès facile à un jardin, quelques grands animaux pour</text><nl/>
+   <text> l'entrainement et elle est située à côté de Kilaran Field</text><nl/>
+   <text> pour les combatants.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Paisible: Oui</text><nl/>
+   <nl/>
+   <text> Magasin: Oui</text><nl/>
+   <nl/>
+   <text> PK: Non</text><nl/>
+   <nl/>
+   <text> Combat Multiple: Non</text><nl/>
+   <nl/>
+   <text> Cartes Voisines: Desert Pines (par bateau)</text><nl/>
+   <text>                 Tarsengaard</text><nl/>
+   <text>                 Kilaran Field</text><nl/>
+   <text>                 Nordcarn</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Maps" title="Retour vers Cartes"/>
+</Page>
+<Page name="Maps_PL">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   CARTES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Portland (PL)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Portland est un port maritime, avec une grande ville. Il</text><nl/>
+   <text> y a là un magasin et quelques mines aux allentours.</text><nl/>
+   <text> Toutefois, un gobelin y a établi sa résidence. Il a été</text><nl/>
+   <text> nommé Bob par les habitants.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Paisible: Non</text><nl/>
+   <nl/>
+   <text> Magasin: Oui</text><nl/>
+   <nl/>
+   <text> PK: Non</text><nl/>
+   <nl/>
+   <text> Combat Multiple: Non</text><nl/>
+   <nl/>
+   <text> Cartes Voisines: Desert Pines (par bateau)</text><nl/>
+   <text>                 Grubani Penninsula (par bateau)</text><nl/>
+   <text>                 Desert Pines</text><nl/>
+   <text>                 White Stone</text><nl/>
+   <text>                 Morcraven Marsh</text><nl/>
+   <text>                 Tahraji Desert</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Maps" title="Retour vers Cartes"/>
+</Page>
+<Page name="Maps_MM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   CARTES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Morcraven Marsh (MM)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Morcraven Marsh possède aussi un magasin et une mine ou</text><nl/>
+   <text> deux. Toutefois, elle n'est pas paisible pour les joueurs</text><nl/>
+   <text> non expérimentées. On y trouve toutes sortes de monstres </text><nl/>
+   <text> jusqu'aux Gueriers Fantômes.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Paisible: Non</text><nl/>
+   <nl/>
+   <text> Magasin: Oui</text><nl/>
+   <nl/>
+   <text> PK: Non</text><nl/>
+   <nl/>
+   <text> Combat Multiple: Non</text><nl/>
+   <nl/>
+   <text> Cartes Voisines: Portland</text><nl/>
+   <text>                 White Stone</text><nl/>
+   <text>                 Naralik</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Maps" title="Retour vers Cartes"/>
+</Page>
+<Page name="Maps_NK">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   CARTES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Naralik</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Naralik possède un revendeur de livres sur l'extraction</text><nl/>
+   <text> des minerais, mais attention avant de vous y aventurer :</text><nl/>
+   <text> il y a, là aussi, quelques monstres jusqu'aux Guerriers</text><nl/>
+   <text> Fantômes.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Paisible: Non</text><nl/>
+   <nl/>
+   <text> Magasin: Non</text><nl/>
+   <nl/>
+   <text> PK: Non</text><nl/>
+   <nl/>
+   <text> Combat Multiple: Oui</text><nl/>
+   <nl/>
+   <text> Cartes Voisines: Morcraven Marsh</text><nl/>
+   <text>                 Grubani Penninsula</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Maps" title="Retour vers Cartes"/>
+</Page>
+<Page name="Maps_GP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   CARTES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>           Grubani Penninsula (GP)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Cette carte est très dangereuse ! Il y a des monstres de</text><nl/>
+   <text> très haut niveau, y compris les très dangereux Loups</text><nl/>
+   <text> Chimériques, donc protégez vos arrières si vous devez</text><nl/>
+   <text> vous y rendre. Il y a aussi un revendeur de livres sur le</text><nl/>
+   <text> combat contre les monstres.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Paisible: Non, des monstres de très haut niveau, jusqu'aux</text><nl/>
+   <text>          Chimères des Montagnes et autres Loups</text><nl/>
+   <text>          Chimériques.</text><nl/>
+   <nl/>
+   <text> Magasin: Non</text><nl/>
+   <nl/>
+   <text> PK: Non</text><nl/>
+   <nl/>
+   <text> Combat Multiple: Oui</text><nl/>
+   <nl/>
+   <text> Cartes Voisines: Portland (par bateau)</text><nl/>
+   <text>                 White Stone</text><nl/>
+   <text>                 Naralik</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Maps" title="Retour vers Cartes"/>
+</Page>
+<Page name="Maps_TG">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   CARTES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Tasengaard (TG)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Cette carte est une grande ville, mais assez calme. Il y a</text><nl/>
+   <text> quelques mines, et d'autres choses, mais attention lorsque</text><nl/>
+   <text> vous la visitez : Vous ne voudriez pas rencontrer de </text><nl/>
+   <text> Gobelins Armés sans y être préparé.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Paisible: Non</text><nl/>
+   <nl/>
+   <text> Magasin: Oui</text><nl/>
+   <nl/>
+   <text> PK: Non</text><nl/>
+   <nl/>
+   <text> Combat Multiple: Oui</text><nl/>
+   <nl/>
+   <text> Cartes Voisines: Valley of the Dwarves</text><nl/>
+   <text>                 White Stone</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Maps" title="Retour vers Cartes"/>
+</Page>
+<Page name="Maps_NC">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   CARTES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Nordcarn (NC)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nordcarn est une ville de Nains. Elle est entourée de</text><nl/>
+   <text> mines et construites à l'aide de pierres. Elle est</text><nl/>
+   <text> paisible, mais attention si vous vous aventurez dans les</text><nl/>
+   <text> mines. Une rumeur dit aussi qu'il y a un endroit au centre,</text><nl/>
+   <text> où les joueurs peuvent combattre les uns les autres.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Paisible: A l'extérieur, oui, à l'exception de la zone PK.</text><nl/>
+   <text>          Dans les minines, non. Attention aux Guerriers</text><nl/>
+   <text>          Fantômes et autres monstres.</text><nl/>
+   <nl/>
+   <text> Magasin: Oui</text><nl/>
+   <nl/>
+   <text> PK: Non, à l'exception de l'arène, au centre.</text><nl/>
+   <nl/>
+   <text> Combat Multiple: Non</text><nl/>
+   <nl/>
+   <text> Cartes Voisines: Valley of the Dwarves</text><nl/>
+   <text>                 White Stone</text><nl/>
+   <text>                 South Kilaran Field</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Maps" title="Retour vers Cartes"/>
+</Page>
+<Page name="Maps_SK">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   CARTES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          South Kilaran Field (SK)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> South Kilaran est peuplée de monstres très dangereux</text><nl/>
+   <text> Vous vous y aventurez à vos risques et périls !</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Paisible: Non, monstres de haut niveau, jusqu'aux Ogres.</text><nl/>
+   <nl/>
+   <text> Magasin: Non</text><nl/>
+   <nl/>
+   <text> PK: Non</text><nl/>
+   <nl/>
+   <text> Combat Multiple: Oui</text><nl/>
+   <nl/>
+   <text> Cartes Voisines: Kilaran Field</text><nl/>
+   <text>                 Nordcarn</text><nl/>
+   <text>                 White Stone</text><nl/>
+   <text>                 Desert Pines</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Maps" title="Retour vers Cartes"/>
+</Page>
+<Page name="Maps_KF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   CARTES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Kilaran Field (KF)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Kilaran Field est une carte PK. Cette carte est l'une des</text><nl/>
+   <text> favorites des combatants, mais attention en y entrant, car</text><nl/>
+   <text> de nombreux guerriers y ont été tués par d'autres.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Paisible: Non, attention aux Squelettes et autres</text><nl/>
+   <text>          guerriers.</text><nl/>
+   <nl/>
+   <text> Magasin: Non</text><nl/>
+   <nl/>
+   <text> PK: Oui</text><nl/>
+   <nl/>
+   <text> Combat Multiple: Oui</text><nl/>
+   <nl/>
+   <text> Cartes Voisines: Valley of the Dwarves</text><nl/>
+   <text>                 South Kilaran Field</text><nl/>
+   <text>                 Desert Pines</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Maps" title="Retour vers Cartes"/>
+</Page>
+<Page name="Maps_TD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   CARTES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Tahraji Desert (TD)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Tahraji Desert est une carte PK. Cette carte abrite aussi</text><nl/>
+   <text> des monstres de très haut niveau, y compris le mortel</text><nl/>
+   <text> Lapin Angora.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Paisible: Non, monstres de très haut niveau, jusqu'au </text><nl/>
+   <text>      Lapin Angora.</text><nl/>
+   <nl/>
+   <text> Magasin: Non</text><nl/>
+   <nl/>
+   <text> PK: Oui</text><nl/>
+   <nl/>
+   <text> Combat Multiple: Oui</text><nl/>
+   <nl/>
+   <text> Cartes Voisines: Desert Pines</text><nl/>
+   <text>                 Portland</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Maps" title="Retour vers Cartes"/>
+</Page>
+<Page name="Maps_Tirnym">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   CARTES</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Ruins of Tirnym (Tirnym)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Les Ruines de Tirnym est aussi une carte très dangeureuse</text><nl/>
+   <text> et ne doivent s'y aventurer que les joueurs les plus</text><nl/>
+   <text> expérimentés. Ces ruines abrittent des monstres très</text><nl/>
+   <text> dangereux, tels que les Loups Chimériques.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Paisible: Non, monstres de très haut niveau, jusqu'au</text><nl/>
+   <text>      Loups Chimériques</text><nl/>
+   <nl/>
+   <text> Magasin: Non</text><nl/>
+   <nl/>
+   <text> PK: Oui</text><nl/>
+   <nl/>
+   <text> Combat Multiple: Oui</text><nl/>
+   <nl/>
+   <text> Cartes Voisines: White Stone</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Maps" title="Retour vers Cartes"/>
+</Page>
+</Maps>

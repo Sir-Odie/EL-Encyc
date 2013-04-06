@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Clothes>
+<Page name="Fur_Gloves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>                Warm Fur Gloves</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                 (Cieple Futrzane Rekawiczki)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Chronia Cie przed zimnem.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +1 ochrona przed Zimnem, +1 Armor</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 3 Brown Rabbit Furs, 2 Threads.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Needle</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 0</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 5</text>
+   <nl/>
+   <text> Koszt Jedzenia: 1</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Fox_Scarf">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>                  Fox Scarf</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Szal Z Lisa)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Chroni przed zimnem.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> W tej chwili nie da sie go jeszcze zalozyc.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Fox Fur, 1 Thread.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Needle</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 3</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 12</text>
+   <nl/>
+   <text> Koszt Jedzenia: 2</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Hat_Fur">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>                   Fur Hat</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Futrzana Czapka)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Chroni Cie przed zimnem.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +2 ochrona przed Zimnem, -1 ochrona przed Ogniem</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 White Rabbit Furs, 3 Beaver Furs, 3 Threads.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Needle</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 5</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 25</text>
+   <nl/>
+   <text> Koszt Jedzenia: 3</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Hat_Skunk">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>                  Skunk Hat</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Czapka ze Skunksa)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Chroni Cie przed zimnem.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +2 ochrona przed Zimnem, -1 ochrona przed Ogniem</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Skunk Furs, 4 Threads.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Needle</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 6</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 31</text>
+   <nl/>
+   <text> Koszt Jedzenia: 3</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Hat_Racoon">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>                  Racoon Hat</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Czapka z Szopa)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Chroni Cie przed zimnem.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +2 ochrona przed Zimnem, -1 ochrona przed Ogniem</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Raccoon Furs, 5 Threads.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Needle</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 7</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 34</text>
+   <nl/>
+   <text> Koszt Jedzenia: 3</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Fur_Boots">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>                  Fur Boots</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Futrzane Buty)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Chronia Cie przed zimnem.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +3 ochrona przed Zimnem, -1 ochrona przed Ogniem</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Iron Bar, 1 Wolf Fur, 4 Rat Tails, 2 Brown Rabbit Fur,</text>
+   <nl/>
+   <text> 2 Leather, 5 Threads.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Hammer, Needle</text>
+   <nl/>
+   <text> Wymagane Nexusy: Artificial 1</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 12</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 55</text>
+   <nl/>
+   <text> Koszt Jedzenia: 8</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Fur_Torso">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>                  Fur Torso</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Futrzana Kurtka)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Chroni Cie przed zimnem.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +3 ochrona przed Zimnem, -1 ochrona przed Ogniem</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Iron Bar, 2 Wolf Furs, 3 Deer Furs, 4 Rat Tails,</text>
+   <nl/>
+   <text> 7 Leather, 10 Threads.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Hammer, Needle</text>
+   <nl/>
+   <text> Wymagane Nexusy: Artificial 2</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 22</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 140</text>
+   <nl/>
+   <text> Koszt Jedzenia: 26</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Fur_Pants">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>                  Fur Pants</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Futrzane Spodnie)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Chronia Cie przed zimnem.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +3 ochrona przed Zimnem, -1 ochrona przed Ogniem</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Wolf Furs, 2 Deer Furs, 1 Beaver Fur, 6 Leather, 7 Threads.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Needle</text>
+   <nl/>
+   <text> Wymagane Nexusy: Artificial 2</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 20</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 110</text>
+   <nl/>
+   <text> Koszt Jedzenia: 20</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Cloak_Fur">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>                  Fur Cloak</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Futrzany Plaszcz)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Chroni Cie przed zimnem.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +6 ochrona przed Zimnem, -3 ochrona przed Ogniem</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 3 Wolf Furs, 2 Fox Furs, 5 Threads.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Needle</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 6</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 30</text>
+   <nl/>
+   <text> Koszt Jedzenia: 4</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 4 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Bandana">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>                  Bandanas</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Opaska)</text><nl/><nl/>
+   <text x="95"> </text>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <nl/><nl/><nl/>
+   <size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+   <nl/><nl/><nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/>
+   <nl/>
+   <text> Opaski mozna kupic jedynie w </text><link ref="http://www.eternal-lands.com/page/shop.php" title="sklepie EL"/><text>.</text>
+   <nl/>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Adv_Cap">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>              Adventurer's Caps</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Czapka Podroznika)</text><nl/><nl/>
+   <text x="95"> </text>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <nl/><nl/><nl/>
+   <size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+   <nl/><nl/><nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/>
+   <nl/>
+   <text> Czapki Podroznika mozna kupic jedynie w </text><link ref="http://www.eternal-lands.com/page/shop.php" title="sklepie EL"/><text>.</text>
+   <nl/>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Tiaras">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>                   Tiaras</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Tiara)</text><nl/><nl/>
+   <text x="180"> </text>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <nl/><nl/><nl/>
+   <size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+   <nl/><nl/><nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/>
+   <nl/>
+   <text> Diademy mozna kupic jedynie w </text><link ref="http://www.eternal-lands.com/page/shop.php" title="sklepie EL"/><text>.</text>
+   <nl/>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Crowns">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>                   Crowns</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Korony)</text><nl/><nl/>
+   <text x="180"> </text>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <nl/><nl/><nl/>
+   <size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+   <nl/><nl/><nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/>
+   <nl/>
+   <text> Korony mozna kupic jedynie w </text><link ref="http://www.eternal-lands.com/page/shop.php" title="sklepie EL"/><text>.</text>
+   <nl/>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Cloak_PS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>              Powersaving Cloak</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Plaszcz o wlasciwosciach perka 'Power Saving'.</text>
+   <nlkx/>
+   <text> W czasie noszenia tego przedmiotu liczba punktow</text>
+   <nlkx/>
+   <text> jedzenia nie bedzie malec, o ile tylko nie</text>
+   <nlkx/>
+   <text> bedziesz w tym czasie czytal ksiazek oraz</text><nlkx/>
+   <text> regenerowal punktow zycia lub many.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Perk nie bedzie taze dzialal podczas zbierania surowcow</text>
+   <nl/>
+   <text> lub produkowania przedmiotow.</text>
+   <nl/>
+   <nl/>
+   <text> Plaszcz ten mozna nabyc u Sprzedawcy Plaszczow w White</text>
+   <nl/>
+   <text> Stone City za cene 3800gc.</text>
+   <nl/>
+   <nl/>
+   <text> Jesli posiadasz juz w/w perk, nie bedziesz mogl zalozyc</text>
+   <nl/>
+   <text> tego przedmiotu.</text>
+   <nl/><nl/>
+   <text> Waga: 4 EMU</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Cloak_EX">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>               Excavator Cape</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Plaszcz o wlasciwosciach perka 'Excavator'.</text>
+   <nlkx/>
+   <text> Po zalozeniu plaszcza, liczba zbieranych przez</text>
+   <nlkx/>
+   <text> Ciebie surowcow bedzie podwojona.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Plaszcz nie podwaja liczby punktow XP odtrzymywanych</text><nl/>
+   <text> w umiejetnosci Zbieractwo.</text>
+   <nl/>
+   <text> Plaszcz ten mozna nabyc u Sprzedawcy Plaszczow w White</text>
+   <nl/>
+   <text> Stone City za cene 2900gc.</text>
+   <nl/>
+   <nl/>
+      <text> Jesli posiadasz juz w/w perk, nie bedziesz mogl zalozyc</text>
+   <nl/>
+   <text> tego przedmiotu.</text>
+   <nl/>
+   <nl/><nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Cloak_CJ">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>               Conjurer Cloak</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Plaszcz o wlasciwosciach perka  'Conjurer'.</text>
+   <nlkx/>
+   <text> Po zalozeniu zmniejsza o polwe koszt many </text><nlkx/>
+   <text> potrzebnej do przywolania potwora.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Plaszcz ten mozna nabyc u Sprzedawcy Plaszczow w White</text>
+   <nl/>
+   <text> Stone City za cene 4500gc.</text>
+   <nl/>
+   <nl/>
+   <text> Jesli posiadasz juz w/w perk, nie bedziesz mogl zalozyc</text>
+   <nl/>
+   <text> tego przedmiotu.</text>
+   <nl/>
+   <nl/><nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Cloak_FR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>           Fast Regeneration Cape</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Plaszcz o wlasciwosciach perka 'Fast Regeneration'.</text>
+   <nlkx/>
+   <text> Po zalozeniu szybkosc regeneracji zdrowia, many i</text>
+   <nlkx/>
+   <text> atrybutow bedzie 3-krotnie wyzsza niz zywkle.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Plaszcz ten mozna nabyc u Sprzedawcy Plaszczow w White</text>
+   <nl/>
+   <text> Stone City za cene 3400gc.</text>
+   <nl/>
+   <nl/>
+   <text> Jesli posiadasz juz w/w perk, nie bedziesz mogl zalozyc</text>
+   <nl/>
+   <text> tego przedmiotu.</text>
+   <nl/>
+   <nl/><nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Cloak_MM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>            Monster Magnetism Cloak</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Plaszcz o wlasciwosciach perka 'Monster Magnetism'.</text>
+   <nlkx/>
+   <text> Gdy nosisz ten plaszcz potwory Cie ignoruja i nie</text>
+   <nlkx/>
+   <text> beda Cie atakowac (lecz beda sie bronic, jesli to</text><nlkx/>
+   <text> Ty zaatakujesz pierwszy).</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wyjatkiem od tej reguly sa:</text><nl/>
+   <text> - Arktyczna Chimera (Arctic Chimeran Wolve);</text><nl/>
+   <text> - Smoki (Dragons);</text><nl/>
+   <text> - Leonard - leopard-ludojad;</text><nl/>
+   <text> - Potworzy przywlona na arenach PK;</text><nl/>
+   <text> - Potwory Inwazyjne (o nazwach w kolorze czerwonym).</text><nl/>
+   <nl/>
+   <text> Plaszcz ten mozna nabyc od innych graczy, lub znalezc</text>
+   <nl/>
+   <text> w rzeczach gubionych przez zabite potwory.</text>
+   <nl/>
+   <nl/>
+   <text> Jesli posiadasz juz w/w perk, nie bedziesz mogl zalozyc</text>
+   <nl/>
+   <text> tego przedmiotu.</text>
+   <nl/>
+   <nl/><nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Cloak_MI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>                Mirror Cloak</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Plaszcz o wlasciwosciach perka 'Mirror Skin'.</text>
+   <nlkx/>
+   <text> Kazdy celnie zadany cios, ktory otrzymujesz od</text>
+   <nlkx/>
+   <text> przeciwnika ma 10% szans na odbicie sie od Ciebie,</text>
+   <nlkx/>
+   <text> i uderzenie we wroga. Warunkiem jest zalozenie</text><nlkx/>
+   <text> tego przedmiotu.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Plaszcz ten mozna nabyc od innych graczy, lub znalezc</text>
+   <nl/>
+   <text> w rzeczach gubionych przez zabite potwory.</text>
+   <nl/>
+   <nl/>
+   <text> Jesli posiadasz juz w/w perk, nie bedziesz mogl zalozyc</text>
+   <nl/>
+   <text> tego przedmiotu.</text>
+   <nl/>
+   <nl/><nl/>
+   <text> Waga: 4 EMU</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Cloak_BP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>             Body Piercing Cloak</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Plaszcz o wlasciwosciach perka 'Body Piercing'.</text>
+   <nlkx/>
+   <text> Noszac ten plaszcz Twoje szanse na przebicie sie</text>
+   <nlkx/>
+   <text> przez zbroje przeciwnika sa o 10% wieksze.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Plaszcz ten mozna nabyc od innych graczy, lub znalezc</text>
+   <nl/>
+   <text> w rzeczach gubionych przez zabite potwory.</text>
+   <nl/>
+   <nl/>
+   <text> Jesli posiadasz juz w/w perk, nie bedziesz mogl zalozyc</text>
+   <nl/>
+   <text> tego przedmiotu.</text>
+   <nl/>
+   <nl/><nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Cloak_NMT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>             No More Tears Cloak</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Plaszcz o wlasciwosciach perka 'No More Tears'.</text>
+   <nlkx/>
+   <text> Gdy tylko zalozysz ten plaszcz, Twoje szanse na</text>
+   <nlkx/>
+   <text> zniszczenie broni lub zbroi w czasie walki beda</text>
+   <nlkx/>
+   <text> zmniejszone o 1/4. Plaszcz sam, jako taki, jest</text><nlkx/>
+   <text> niezniszczalny.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Plaszcz ten mozna nabyc od innych graczy, lub znalezc</text>
+   <nl/>
+   <text> w rzeczach gubionych przez zabite potwory.</text>
+   <nl/>
+   <nl/>
+   <text> Jesli posiadasz juz w/w perk, nie bedziesz mogl zalozyc</text>
+   <nl/>
+   <text> tego przedmiotu.</text>
+   <nl/>
+   <nl/><nl/>
+   <text> Waga: 4 EMU</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Cloak_UB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>          Cape of the Unbreakable</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Jezeli chcesz uniknac negatywnych skutkow BroD,</text>
+   <nlkx/>
+   <text> BoD lub Ring of Mana Destruction i Damage Ring,</text>
+   <nlkx/>
+   <text> zaloz ten plaszcz. Spowoduje on, iz bedziesz</text><nlkx/>
+   <text> niewrazliwy na w/w obrazenia.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Plaszcz ten mozna nabyc u Sprzedawcy Plaszczow w White</text>
+   <nl/>
+   <text> Stone City za cene 6500gc.</text>
+   <nl/><nl/>
+   <text> Waga: 20 EMU</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Cloak_WA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>               Warlock's Cloak</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Plaszcz chroniacy przed negatywnym skutkiem Magii.</text>
+   <nlkx/>
+   <text> Zwieksza ochrone przed Magia o +8 i dodaje</text>
+   <nlkx/>
+   <text> nieco niewidzialnosci.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Plaszcz ten mozna nabyc od innych graczy, lub znalezc</text>
+   <nl/>
+   <text> w rzeczach gubionych przez zabite potwory.</text>
+   <nl/><nl/>
+   <text> Waga: 4 EMU</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Cloak_CAM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>          Cape of Passive Camouflage</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Plaszcz ten zapewnia odrobine kamuflazu. Swietnie</text>
+   <nlkx/>
+   <text> sprawdza sie w nocy oraz w ciemnych jaskiniach.</text>
+   <nlkx/>
+   <text> Odejmuje 20 punktow od Twojego Wspolczynnika</text>
+   <nlkx/>
+   <text> Swiatla (Light Modifier).</text><nl/>
+   <text> Nexus Wymagany do Uzycia: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Plaszcz ten mozna nabyc od innych graczy, lub znalezc</text>
+   <nl/>
+   <text> w rzeczach gubionych przez zabite potwory.</text>
+   <nl/><nl/>
+   <text> Waga: 4 EMU</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+<Page name="Cloak_ART">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <color>red</color>
+   <text>               Artificer Cape</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwieksza szanse na wytworzenie unikalnych</text>
+   <nlkx/>
+   <text> przedmiotow (np. wzbogaconych (enriched) esencji).</text>
+   <nlkx/>
+   <text> Nexus Wymagany do Uzycia: Human 10</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Plaszcz ten mozna nabyc od innych graczy, lub znalezc</text>
+   <nl/>
+   <text> w rzeczach gubionych przez zabite potwory.</text>
+   <nl/><nl/>
+   <text> Waga: 4 EMU</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Wroc do Indeksu Ubran"/>
+</Page>
+</Clothes>

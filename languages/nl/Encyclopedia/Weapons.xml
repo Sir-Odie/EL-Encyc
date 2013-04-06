@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Weapons>
+<Page name="Bone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                    Bot</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 1-2 schade, +1 Nauwkeurigheid</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 0</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet worden geproduceerd.</text><nl/>
+   <nl/><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 1 EMU</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Branch">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                    Tak</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 1-2 schade, +1 Nauwkeurigheid</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 0</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet worden geproduceerd.</text><nl/>
+   <nl/><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 1 EMU</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="W_LGloves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Leren Handschoenen</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 1 schade, +1 Verdediging.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 0</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 4 Leer, 4 Garen</text><nl/>
+   <text> Items nodig in Inventaris: Needle</text><nl/>
+   <text> Vereiste Nexus: Geen</text><nl/>
+   <text> Geadviseerd Produceren Level: 8</text><nl/>
+   <text> Produceren Ervaring Gegeven: 40</text><nl/>
+   <text> Voedsel kosten: 5</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="W_Pickaxe">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                   Houweel</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 5-15 schade, -5 Verdedigen, -5 Nauwkeurigheid,</text><nlkx/>
+   <text> -5 Kritiek raken, +1 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 0</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Voornamelijk gebruikt om te mijnen.</text><nl/>
+   <nl/>
+   <text> Dit item kan niet worden geproduceerd.</text><nl/>
+   <nl/><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 5 EMU</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="W Battle Hammer">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>             Houten Strijd Hamer</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 2-20 schade, -3 Verdedigen, -2 Nauwkeurigheid,</text><nlkx/>
+   <text> -5 Kritiek raken, -5 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 1</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet worden geproduceerd.</text><nl/>
+   <nl/><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 8 EMU</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="I War Hammer">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>            IJzeren Strijd Hamer</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 10-28 schade, -5 Verdedigen, -6 Nauwkeurigheid,</text><nlkx/>
+   <text> -8 Kritiek raken, -8 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 2</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet worden geproduceerd.</text><nl/>
+   <nl/><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 6 EMU </text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="W Staff">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                 Houten Staf</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 2-10 schade, +3 Verdedigen, +4 Nauwkeurigheid,</text><nlkx/>
+   <text> +3 Kritiek raken, -5 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 1</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet worden geproduceerd.</text><nl/>
+   <nl/><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 6 EMU</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Q Staff">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                 Kwart Staf</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 6-15 schade, +4 Verdedigen, +6 Nauwkeurigheid,</text><nlkx/>
+   <text> +5 Kritiek raken, -4 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 2</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dit item kan niet worden geproduceerd.</text><nl/>
+   <nl/><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 6 EMU</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Iron Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>               IJzeren Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 5-8 schade, +1 Verdedigen, +1 Nauwkeurigheid.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 0</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 10 IJzeren Baren, 1 Stalen Baar, 2 Vuur Essenties</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: IJzeren Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 2</text><nl/>
+   <text> Geadviseerd Produceren Level: 20</text><nl/>
+   <text> Produceren Ervaring Gegeven: 100</text><nl/>
+   <text> Voedsel kosten: 11</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 7 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Iron Broad Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>            IJzeren Breed Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 7-10 schade.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 0</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 12 IJzeren Baren, 2 Stalen Baren, 3 Vuur Essenties</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: IJzeren Breed Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 2</text><nl/>
+   <text> Geadviseerd Produceren Level: 22</text><nl/>
+   <text> Produceren Ervaring Gegeven: 110</text><nl/>
+   <text> Voedsel kosten: 12</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 7 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Steel Long Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>             Stalen Lang Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 9-11 schade, +2 Verdedigen, +1 Nauwkeurigheid,</text><nlkx/>
+   <text> +1 Kritiek raken.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 1</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 2 IJzeren Baren, 12 Stalen Baren, 4 Vuur Essenties</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Stalen Lang Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 3</text><nl/>
+   <text> Geadviseerd Produceren Level: 24</text><nl/>
+   <text> Produceren Ervaring Gegeven: 120</text><nl/>
+   <text> Voedsel kosten: 13</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 6 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="2e Steel Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>          Stalen Tweezijdig Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 10-14 schade, +1 Verdedigen, +2 Nauwkeurigheid,</text><nlkx/>
+   <text> +1 Kritiek raken, +2 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 2</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 2 IJzeren Baren, 16 Stalen Baren, 4 Vuur Essenties</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Stalen Tweezijdig Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 3</text><nl/>
+   <text> Geadviseerd Produceren Level: 28</text><nl/>
+   <text> Produceren Ervaring Gegeven: 140</text><nl/>
+   <text> Voedsel kosten: 15</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 7 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Tit Steel Short Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>            Titanium Kort Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 10-14 schade, +2 Verdedigen, +2 Nauwkeurigheid,</text><nlkx/>
+   <text> +1 Kritiek raken, +3 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 3</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 6 Titanium Baren, 6 Stalen Baren, 5 Vuur Essenties</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Titanium Kort Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 4</text><nl/>
+   <text> Geadviseerd Produceren Level: 32</text><nl/>
+   <text> Produceren Ervaring Gegeven: 160</text><nl/>
+   <text> Voedsel kosten: 17</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Tit Steel Long Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>            Titanium Lang Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 12-20 schade, +3 Verdedigen, +3 Nauwkeurigheid,</text><nlkx/>
+   <text> +2 Kritiek raken, +4 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 4</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 8 Titanium Baren, 8 Stalen Baren, 6 Vuur Essenties,</text><nl/>
+   <text> 1 Verrijkte Vuur Essentie.</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Titanium Lang Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 5</text><nl/>
+   <text> Geadviseerd Produceren Level: 34</text><nl/>
+   <text> Produceren Ervaring Gegeven: 180</text><nl/>
+   <text> Voedsel kosten: 18</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 4 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Tit Steel Serpent Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>           Titanium Serpent Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 15-25 schade, +4 Verdedigen, +5 Nauwkeurigheid,</text><nlkx/>
+   <text> +5 Kritiek raken, +6 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 5</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 12 Titanium Baren, 2 Stalen Baren, 1 Serpent Steen,</text><nl/>
+   <text> 7 Vuur Essenties, 1 Verrijkte Vuur Essentie.</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Titanium Serpent Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 5</text><nl/>
+   <text> Geadviseerd Produceren Level: 38</text><nl/>
+   <text> Produceren Ervaring Gegeven: 300</text><nl/>
+   <text> Voedsel kosten: 20</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Iron Axe">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                IJzeren Bijl</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 1-25 schade, -1 Verdedigen,</text><nlkx/>
+   <text> +4 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 3</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Houten Handgreep, 10 IJzeren Baren, 13 Vuur Essenties,</text><nl/>
+   <text> 16 Water Essenties, 9 Lucht Essenties</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: IJzeren Bijl</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 5</text><nl/>
+   <text> Geadviseerd Produceren Level: 40</text><nl/>
+   <text> Produceren Ervaring Gegeven: 200</text><nl/>
+   <text> Voedsel kosten: 30</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 12 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Steel Axe">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                 Stalen Bijl</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 5-30 schade, -1 Verdedigen,</text><nlkx/>
+   <text> +6 Kritieke schade</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 4</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Houten Handgreep, 12 Stalen Baren, 18 Vuur Essenties,</text><nl/>
+   <text> 23 Water Essenties, 11 Lucht Essenties.</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Stalen Bijl</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 5</text><nl/>
+   <text> Geadviseerd Produceren Level: 45</text><nl/>
+   <text> Produceren Ervaring Gegeven: 240</text><nl/>
+   <text> Voedsel kosten: 35</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 8 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Titanium Axe">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                Titanium Bijl</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 10-35 schade, -1 Verdedigen,</text><nlkx/>
+   <text> +8 Kritieke schade</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 5</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Houten Handgreep, 12 Titanium Baren,</text><nl/>  
+   <text> 1 Verrijkte Vuur Essentie, 4 Serpent Stenen,</text><nl/>
+   <text> 1 Enriched Water Essence, 20 Air Essence.</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Titanium Bijl</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 5</text><nl/>
+   <text> Geadviseerd Produceren Level: 49</text><nl/>
+   <text> Produceren Ervaring Gegeven: 300</text><nl/>
+   <text> Voedsel kosten: 39</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 6 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Emerald Claymore">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>               Emerald Claymore</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 27 schade, +2 Verdedigen, +7 Nauwkeurigheid,</text><nlkx/>
+   <text> +6 Kritiek raken, +4 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 6</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 2 Wolfram Baren, 1 Bind Steen, 3 Titanium Baren,</text><nl/>
+   <text> 1 Gepolijste Smaragd, 20 Vuur Essenties.</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Emerald Claymore</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 6</text><nl/>
+   <text> Geadviseerd Produceren Level: 40</text><nl/>
+   <text> Produceren Ervaring Gegeven: 600</text><nl/>
+   <text> Voedsel kosten: 40</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 20 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Cutlass">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                   Cutlass</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 22-24 schade, +2 Verdedigen, +15 Nauwkeurigheid,</text><nlkx/>
+   <text> +6 Kritiek raken, +5 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 6</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 2 Wolfram Baren, 1 Bind Steen, 2 Titanium Baren,</text><nl/>
+   <text> 1 Stalen Baar, 30 Vuur Essenties.</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Cutlass</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 6</text><nl/>
+   <text> Geadviseerd Produceren Level: 42</text><nl/>
+   <text> Produceren Ervaring Gegeven: 800</text><nl/>
+   <text> Voedsel kosten: 42</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 23 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Sunbreaker">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                 Sunbreaker</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 18-20 schade, +2 Nauwkeurigheid,</text><nlkx/>
+   <text> +1 Kritiek raken, +15 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 6</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 2 Wolfram Baren, 1 Bind Steen, 2 Titanium Baren,</text><nl/>
+   <text> 1 Stalen Baar, 25 Vuur Essenties.</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Sunbreaker</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 6</text><nl/>
+   <text> Geadviseerd Produceren Level: 44</text><nl/>
+   <text> Produceren Ervaring Gegeven: 1000</text><nl/>
+   <text> Voedsel kosten: 44</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 25 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Orc Slayer">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                  Orc Slayer</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 35-40 schade, +1 Verdedigen,</text><nlkx/>
+   <text> +1 Kritiek raken, +1 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 6</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 2 Wolfram Baren, 1 Bind Steen, 4 Titanium Baren,</text><nl/>
+   <text> 1 Stalen Baar, 25 Vuur Essenties.</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Orc Slayer</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 6</text><nl/>
+   <text> Geadviseerd Produceren Level: 46</text><nl/>
+   <text> Produceren Ervaring Gegeven: 1200</text><nl/>
+   <text> Voedsel kosten: 46</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 30 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Eagle Wing">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                  Eagle Wing</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 10-35 schade, +6 Verdedigen, +5 Nauwkeurigheid,</text><nlkx/>
+   <text> +5 Kritiek raken, +5 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 6</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 2 Wolfram Baren, 1 Bind Steen, 3 Titanium Baren,</text><nl/>
+   <text> 1 Stalen Baar, 18 Vuur Essenties.</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Eagle Wing</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 6</text><nl/>
+   <text> Geadviseerd Produceren Level: 48</text><nl/>
+   <text> Produceren Ervaring Gegeven: 1400</text><nl/>
+   <text> Voedsel kosten: 46</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 25 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Rapier">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                   Rapier</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 20-25 schade, +2 Verdedigen, +5 Nauwkeurigheid,</text><nlkx/>
+   <text> +17 Kritiek raken, +5 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 6</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 2 Wolfram Baren, 1 Bind Steen, 1 Titanium Baar,</text><nl/>
+   <text> 1 Stalen Baar, 18 Vuur Essenties.</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Rapier</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 6</text><nl/>
+   <text> Geadviseerd Produceren Level: 50</text><nl/>
+   <text> Produceren Ervaring Gegeven: 1600</text><nl/>
+   <text> Voedsel kosten: 46</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 20 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Jagged Saber">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                Jagged Saber</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 30 schade, +10 Nauwkeurigheid</text><nlkx/>
+   <text> +2 Kritiek raken, +1 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 6</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 2 Wolfram Baren, 1 Bind Steen, 1 Titanium Baar,</text><nl/>
+   <text> 1 Stalen Baar, 10 Vuur Essenties.</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Jagged Saber</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 6</text><nl/>
+   <text> Geadviseerd Produceren Level: 52</text><nl/>
+   <text> Produceren Ervaring Gegeven: 1800</text><nl/>
+   <text> Voedsel kosten: 46</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 20 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Bronze Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                Bronzen Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 50-70 schade, +5 Nauwkeurigheid</text><nlkx/>
+   <text> +5 Kritiek raken, +6 Kritieke schade,</text><nlkx/>
+   <text> breekt erg makkelijk.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 7</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Bronzen Baar, 1 Verrijkte Vuur Essentie,</text><nl/>
+   <text> 1 Verrijkte Dood Essentie.</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Bronzen Zwaard</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 6</text><nl/>
+   <text> Geadviseerd Produceren Level: 78</text><nl/>
+   <text> Produceren Ervaring Gegeven: 4500</text><nl/>
+   <text> Voedsel kosten: 40</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 30 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Dragon Blade">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                Draken Zwaard</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 25-35 schade, +3 Nauwkeurigheid,</text><nlkx/>
+   <text> +3 Kritiek raken, +3 Kritieke schade,</text><nlkx/>
+   <text> 2% kans op Mana Verbranden,</text><nlkx/>
+   <text> Verhoogd maximale materie/etherische punten met 20.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 7</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Rode Draak Schub, 1 Zwarte Draak Schub, 2 Wolfram Baren,</text><nl/>
+   <text> 2 Verrijkte Magie Essenties, 2 Verrijkte Vuur Essenties,</text><nl/>
+   <text> 2 Verrijkte Leven Essenties.</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Draken Zwaard Maken</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 6</text><nl/>
+   <text> Geadviseerd Produceren Level: 75</text><nl/>
+   <text> Produceren Ervaring Gegeven: 4000</text><nl/>
+   <text> Voedsel kosten: 30</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 15 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Golden Star Mace">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>              Golden Star Mace</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 10-20 schade, +2 Nauwkeurigheid,</text><nlkx/>
+   <text> +5 Kritiek raken, +5 Kritieke schade.</text><nlkx/>
+   <text> 0.3% kans om een item te beschadigen.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens ???</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> Nog niet bekend.</text><nl/>
+   <text> Items nodig in Inventaris: Nog niet bekend</text><nl/>
+   <text> Kennis vereist: Nog niet bekend</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig Nog niet bekend</text><nl/>
+   <text> Geadviseerd Produceren Level: Nog niet bekend</text><nl/>
+   <text> Produceren Ervaring Gegeven: Nog niet bekend</text><nl/>
+   <text> Voedsel kosten: Nog niet bekend</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 8 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Spear">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                    Speer</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 5-65 schade, -3 Verdedigen, -1 Nauwkeurigheid,</text><nlkx/>
+   <text> -5 Kritiek raken, -5 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 6</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 2 Wolfram Baren, 2 Serpent Stenen, 2 Titanium Baren,</text><nl/>
+   <text> 1 Stalen Baar, 1 Houten Staf, 30 Vuur Essenties.</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Speer Maken</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 6</text><nl/>
+   <text> Geadviseerd Produceren Level: 42</text><nl/>
+   <text> Produceren Ervaring Gegeven: 900</text><nl/>
+   <text> Voedsel kosten: 42</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 6 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Halberd">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                   Halberd</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 40-55 schade, -2 Nauwkeurigheid.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 5</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 4 Serpent Stenen, 2 Wolfram Baren, 5 Titanium Baren,</text><nl/>
+   <text> 5 Stalen Baren, 20 Vuur Essenties.</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Halberd Maken</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 6</text><nl/>
+   <text> Geadviseerd Produceren Level: 66</text><nl/>
+   <text> Produceren Ervaring Gegeven: 4200</text><nl/>
+   <text> Voedsel kosten: 42</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 6 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+<Page name="Frying Pan">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                   WAPENS</text><nl/>
+   <color>red</color>
+   <text>                  Braadpan</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Doet 15-20 schade, +4 Kritiek raken,</text><nlkx/>
+   <text> +4 Kritieke schade.</text><nlkx/>
+   <text> Vereiste Nexus om te gebruiken: Mens 2</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 10 IJzeren Baren, 5 Stalen Baren, 10 Vuur Essenties.</text><nl/>
+   <text> Items nodig in Inventaris: Hamer</text><nl/>
+   <text> Kennis vereist: Braadpan Maken</text><nl/>
+   <text> Vereiste Nexus: Kunstmatig 3</text><nl/>
+   <text> Geadviseerd Produceren Level: 27</text><nl/>
+   <text> Produceren Ervaring Gegeven: 150</text><nl/>
+   <text> Voedsel kosten: 16</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 14 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Terug Naar Wapens Index"/>
+</Page>
+</Weapons>

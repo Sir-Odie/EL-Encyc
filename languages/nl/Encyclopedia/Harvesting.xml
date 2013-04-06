@@ -1,0 +1,2233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Harvesting>
+<Page name="Plants">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Harvesting" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> Hier vind je informatie over de oogstbare planten</text><nl/>
+	<text> in Eternal Lands.</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.1" g="0.5" b="1"/><text>Planten</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Blue_Star_Flower" title="Blauwe Ster"/><text>                 </text>
+	<link ref="Valerian" title="Valeriaan"/><nl/>
+	<link ref="Impatiens" title="Springzaad"/><text>                  </text>
+	<link ref="Rue" title="Wijnruit"/><nl/>
+	<link ref="Lilacs" title="Sering"/><text>                      </text>
+	<link ref="Poppies" title="Papaver"/><nl/>
+	<link ref="Red_Snapdragons" title="Rode Leeuwebek"/><text>              </text>
+	<link ref="Dandelions" title="Paardebloem"/><nl/>
+	<link ref="Tiger_Lilly" title="Tijger Lelie"/><text>                </text>
+	<link ref="Poison_Ivy" title="Gifsumak"/><nl/>
+	<link ref="Blue_Lupine" title="Blauwe Lupine"/><text>               </text>
+	<link ref="Red_Toadstool" title="Rode Paddestoel"/><nl/>
+	<link ref="Chrysanthemum" title="Chrysant"/><text>                    </text>
+	<link ref="Tulips" title="Tulp"/><nl/>
+	<link ref="Cactus" title="Cactus"/><text>                      </text>
+	<link ref="Red_Currant" title="Aalbes"/><nl/>
+	<link ref="Yellow_Rose" title="Gele Roos"/><text>                   </text>
+	<link ref="Blueberry" title="Bosbes"/><nl/>
+	<link ref="Red_Rose" title="Rode Roos"/><text>                   </text>
+	<link ref="Henbane" title="Bilzekruid"/><nl/>
+	<link ref="Black_Rose" title="Zwarte Roos"/><text>                 </text>
+	<link ref="Mullein" title="Koningskaars"/><nl/>
+	<link ref="White_Asiatic_Lilly" title="Witte Aziatische Lelie"/><text>      </text>
+	<link ref="Nightshade" title="Zwarte Nachtschade"/><nl/>
+	<link ref="Swamp_Candles" title="Moeraskaars"/><text>                 </text>
+	<link ref="Yarrow" title="Duizendblad"/><nl/>
+	<link ref="Sunflowers" title="Zonnebloem"/><text>                  </text>
+	<link ref="Wormwood" title="Absintalsem"/><nl/>
+	<link ref="Wheat" title="Tarwe"/><text>                       </text>
+	<link ref="White_Chanterelle" title="Witte Cantharel"/><nl/>
+	<link ref="Cotton" title="Katoen"/><text>                      </text>
+	<link ref="Ogre_Toes" title="Ogre Teen"/><nl/>
+	<link ref="Daffodils" title="Narcis"/><text>                      </text>
+	<link ref="Tree_Mushroom" title="Boom Paddestoel"/><nl/>
+	<link ref="Mugwort" title="Bijvoet"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>               </text><link ref="Harvesting" title="Terug Naar Oogsten Index"/>
+	<nl/>
+</Page>
+<Page name="Minerals">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Harvesting" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> Hier vind je informatie over de mineralen en kristallen</text><nl/>
+	<text> die gemijnd kunnen worden in Eternal Lands.</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.1" g="0.5" b="1"/><text>Mineralen en Kristallen</text>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Sulphur" title="Zwavel"/><text>                 </text>
+	<link ref="Sapphires" title="Saffier"/><nl/>
+	<link ref="Coal" title="Kolen"/><text>                  </text>
+	<link ref="Rubies" title="Robijn"/><nl/>
+	<link ref="Quartz" title="Kwarts"/><text>                 </text>
+	<link ref="Diamonds" title="Diamant"/><nl/>
+	<link ref="Blue_Quartz" title="Blauwe Kwarts"/><text>          </text>
+	<link ref="Turquoise" title="Turkoois"/><nl/>
+	<link ref="Rose_Quartz" title="Rode Kwarts"/><text>            </text>
+	<link ref="Amber" title="Barnsteen"/><nl/>
+	<link ref="Gypsum" title="Gips"/><text>                   </text>
+	<link ref="Obsidian" title="Lavaglas"/><text> *</text><nl/>
+	<link ref="Emeralds" title="Smaragd"/><nl/>
+	<nl/>
+	<text> * Betekent mineralen die zijn ontdekt, maar we weten nog</text><nl/>
+	<text> niet hoe we het moeten mijnen of waar het voor kan worden</text><nl/>
+	<text> gebruikt. Onze geleerden zijn het aan het onderzoeken.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>               </text><link ref="Harvesting" title="Terug Naar Oogsten Index"/>
+	<nl/>
+</Page>
+<Page name="Ores">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Harvesting" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> Hier vind je informatie over de ertsen die gemijnd</text><nl/>
+	<text> kunnen worden in Eternal Lands.</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.1" g="0.5" b="1"/><text>Metaal Ertsen</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Iron_Ore" title="IJzer Erts"/><text>              </text>
+	<link ref="Copper" title="Koper Erts"/><nl/>
+	<link ref="Silver_Ore" title="Zilver Erts"/><text>             </text>
+	<link ref="Seridium" title="Seridium"/><nl/>
+	<link ref="Gold_Ore" title="Goud Erts"/><text>               </text>
+	<link ref="Cinnabar" title="Kwikerts"/><nl/>
+	<link ref="Titanium_Ore" title="Titanium Erts"/><text>           </text>
+	<link ref="Dvarium" title="Dvarium"/><nl/>
+	<link ref="Hydrogenium" title="Waterstof Erts"/><text>          </text>
+	<link ref="Irilium" title="Irilium"/><text> *</text><nl/>
+	<link ref="Tin" title="Tin"/><nl/>
+	<link ref="Wolfram" title="Wolframiet Erts"/><nl/>
+	<nl/>
+	<text> * Betekent ertsen die zijn ontdekt, maar we weten nog</text><nl/>
+	<text> niet hoe we het moeten mijnen of waar het voor kan worden</text><nl/>
+	<text> gebruikt. Onze geleerden zijn het aan het onderzoeken.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>               </text><link ref="Harvesting" title="Terug Naar Oogsten Index"/>
+	<nl/>
+</Page>
+<Page name="Harv_Other">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Harvesting" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> Hier vind je informatie over andere grondstoffen die</text><nl/>
+	<text> geoogst kunnen worden in Eternal Lands.</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.1" g="0.5" b="1"/><text>Overig</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Wood_Branches" title="Takken"/><nl/>
+	<link ref="Wood_Logs" title="Stammen"/><nl/>
+	<link ref="Beehive" title="Bijenkorf"/><nl/>
+	<link ref="Fruit" title="Fruit"/><nl/>
+	<link ref="Vegetables" title="Groenten"/><nl/>
+	<link ref="Yew" title="Taxus"/><nl/>
+	<link ref="Dung" title="Mest"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>               </text><link ref="Harvesting" title="Terug Naar Oogsten Index"/>
+	<nl/>
+</Page>
+<Page name="Stones">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Harvesting" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> Hier vind je informatie over de stenen die je kunt</text><nl/>
+	<text> vinden tijdens het mijnen van mineralen en ertsen.</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.1" g="0.5" b="1"/><text>Stenen</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Serpent_Stone" title="Serpent Steen"/><nl/>
+	<link ref="Enrich_Stone" title="Verrijkings Steen"/><nl/>
+	<link ref="Binding_Stone" title="Bind Steen"/><nl/>
+	<link ref="Rostogol_Stone" title="Rostogol Steen"/><nl/>
+	<link ref="PP_Removal_Stone" title="Punten Verwijder Steen"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>               </text><link ref="Harvesting" title="Terug Naar Oogsten Index"/>
+	<nl/>
+</Page>
+<Page name="Wood_Logs">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Harv_Other" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text>
+	<nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Stammen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="14" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Aanmaken van kampvuren.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 0</text><nl/>
+	<text> Geen Kennis vereist</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 4</text><nl/>
+	<text> Geen Gereedschappen vereist</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>        </text><link ref="Harv_Other" title="Terug naar de Overig Oogstbare Items Index"/>
+</Page>
+<Page name="Wood_Branches">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Harv_Other" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Takken</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="15" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Aanmaken van kampvuren.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 0</text><nl/>
+	<text> Geen Kennis vereist</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 4</text><nl/>
+	<text> Geen Gereedschappen vereist</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>        </text><link ref="Harv_Other" title="Terug naar de Overig Oogstbare Items Index"/>
+</Page>
+<Page name="Blue_Star_Flower">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Blauwe Ster</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="1" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="P_Spirit Restoration" title="Drank van Geestherstel"/><text>, </text><nl/>
+	<text>       </text><link ref="Water Essence" title="Water Essentie"/><text> en </text>
+	<link ref="Blue Dye" title="Blauwe Kleurstof"/><nlkx/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 0</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 4</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Impatiens">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Springzaad</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="2" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Magic Essence" title="Magie Essentie"/><text>.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 0</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 4</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Lilacs">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Sering</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="11" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Magic Essence" title="Magie Essentie"/><text> en </text>
+	<link ref="P_Harvesting" title="Drank van Oogsten"/><text>.</text>
+	<nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 0</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 4</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Red_Snapdragons">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Rode Leeuwebek</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="10" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Fire Essence" title="Vuur Essentie"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 0</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 4</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Tiger_Lilly">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Tijger Lelie</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="4" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Energy Essence" title="Energie Essentie"/><text> en </text><nl/>
+	<text>       </text><link ref="P_Attack" title="Drank van Aanvallen"/><text>.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 0</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 4</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Blue_Lupine">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Blauwe Lupine</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="9" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Water Essence" title="Water Essentie"/><text> en </text>
+	<link ref="P_Mana" title="Drank van Mana"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 1</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 4 of 5.</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Chrysanthemum">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Chrysant</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="3" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="P_Manufacturing" title="Drank van Produceren"/><text> en </text><nl/>
+	<text>       </text><link ref="Health Essence" title="Gezondheid Essentie"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 2</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 5</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Red_Rose">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Rode Roos</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="6" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Fire Essence" title="Vuur Essentie"/><text>, </text>
+	<link ref="Red Dye" title="Rode Kleurstof"/><text> en </text><nl/>
+	<text>       </text><link ref="Orange Dye" title="Oranje Kleurstof"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 6</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 11</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Yellow_Rose">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Gele Roos</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="5" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="P_Will" title="Drank van Wil"/><text>.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 6</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 10</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Black_Rose">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Zwarte Roos</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="7" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="P_Magic" title="Drank van Magie"/><text>.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 6</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 12</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="White_Asiatic_Lilly">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Witte Aziatische Lelie</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="8" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Air Essence" title="Lucht Essentie"/><text> en </text>
+	<link ref="P_Summoning" title="Drank van Oproepen"/><text>.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 8</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 12</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Swamp_Candles">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Moeraskaars</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="12" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Earth Essence" title="Aarde Essentie"/><text> en </text><nl/>
+	<text>       </text><link ref="P_Defense" title="Drank van Verdedigen"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 11</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 15</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Sunflowers">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Zonnebloem</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="0" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="P_Manufacturing" title="Produceren"/><text>, </text>
+	<link ref="Life Essence" title="Leven Essentie"/><text>, </text><nl/>
+	<text>       </text><link ref="Orange Dye" title="Oranje Kleurstof"/><text>, </text>
+	<link ref="P_Healing" title="Drank van Kleine Genezing"/><text> en </text><nl/>
+	<text>       </text><link ref="P_Body Restoration" title="Drank van Lichaamsherstel"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 12</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 16</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Fruit">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Harv_Other" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Fruit</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="1" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Een voedzame lekkernij voor de bewoners van EL.</text><nlkx/>
+	<text> Herstelt 20 Voedsel punten.</text><nl/>
+	<text>       Gebruikt voor: </text>
+	<link ref="P_Feasting" title="Drank van Feasting"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 18</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 22</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>        </text><link ref="Harv_Other" title="Terug naar de Overig Oogstbare Items Index"/>
+</Page>
+<Page name="Vegetables">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Harv_Other" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Groenten</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="2" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Een goede toevoeging/vervanging voor gebraden vlees.</text><nlkx/>
+	<text> Herstelt 15 Voedsel punten.</text><nl/>
+	<text>       Gebruikt voor: </text>
+	<link ref="P_Reasoning" title="Drank van Redeneren"/><text> en </text><nl/>
+	<text>       </text><link ref="P_Feasting" title="Drank van Feasting"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 20</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 24</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>        </text><link ref="Harv_Other" title="Terug naar de Overig Oogstbare Items Index"/>
+</Page>
+<Page name="Cactus">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Cactus</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="14" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Een plant die vooral in droge gebieden voorkomt.</text><nl/>
+	<text>       Gebruikt voor: </text>
+	<link ref="Death Essence" title="Dood Essentie"/><text>, </text>
+	<link ref="P_Vitality" title="Drank van Vitaliteit"/><nl/>
+	<text>       en </text><link ref="P_Coordination" title="Drank van Coordinatie"/>
+	<text>.</text><nlkx/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Leren Handschoenen</text><nl/>
+	<text> Geadviseerd Oogsten Level: 4</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 8</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 4 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Sulphur">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Minerals" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Zwavel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="17" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Dit licht ontvlambare gele mineraal kan vaak worden</text><nlkx/>
+	<text> gevonden in de buurt van zilver erts.</text><nlkx/>
+	<text> Gebruikt voor: </text>
+	<link ref="Fire Essence" title="Vuur Essentie"/><text>, </text>
+	<link ref="Earth Essence" title="Aarde Essentie"/><text> en </text><nl/>
+	<text>       </text><link ref="Blackpowder" title="Buskruit"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Leren Handschoenen</text><nl/>
+	<text> Geadviseerd Oogsten Level: 14</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 18</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Minerals" title="Terug naar Mineralen Index"/>
+</Page>
+<Page name="Coal">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Minerals" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Kolen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="21" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Ondergronds gevormd door fossielen, dit donkere</text><nlkx/>
+	<text> koolstof mineraal wordt gebruikt als brandstof.</text><nlkx/>
+	<text> Gebruikt voor: </text>
+	<link ref="Earth Essence" title="Aarde Essentie"/><text>, </text>
+	<link ref="Alchemy" title="Metalen Baren"/><text> en </text><nl/>
+	<text>       </text><link ref="Black Dye" title="Zwarte Kleurstof"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Geadviseerd Oogsten Level: 21</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Minerals" title="Terug naar Mineralen Index"/>
+</Page>
+<Page name="Quartz">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Minerals" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Kwarts</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="13" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Van dit harde mineraal kan glas gemaakt worden.</text><nlkx/>
+	<text> Voor een prijs kan Harvy er lege flessen mee maken.</text><nlkx/>
+	<text> Gebruikt voor: </text>
+	<link ref="Empty_Vial" title="Lege fles"/><text>, </text>
+	<link ref="Alembic" title="Destillatiekolom"/><text>, </text><nl/>
+	<text>       </text><link ref="Matter Essence" title="Materie Essentie"/><text> en </text>
+	<link ref="Death Essence" title="Dood Essentie"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Geadviseerd Oogsten Level: 16</text><nl/>
+	<text> Kennis vereist: Kwarts Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 1</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 20</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Minerals" title="Terug naar Mineralen Index"/>
+</Page>
+<Page name="Blue_Quartz">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Minerals" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Blauwe Kwarts</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="14" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Een blauwe variant van het Kwarts mineraal.</text><nlkx/>
+	<text> Gebruikt voor: </text>
+	<link ref="Matter Essence" title="Materie Essentie"/><text>, </text>
+	<link ref="Water Essence" title="Water Essentie"/><text>, </text><nl/>
+	<text>       </text><link ref="P_Spirit Restoration" title="Drank van Geestherstel"/><text> en </text>
+	<link ref="P_Craft" title="Drank van Bewerken"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Geadviseerd Oogsten Level: 17</text><nl/>
+	<text> Kennis vereist: Blauwe Kwarts Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 1</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 21</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Minerals" title="Terug naar Mineralen Index"/>
+</Page>
+<Page name="Rose_Quartz">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Minerals" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Rode Kwarts</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="15" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Een rose-rode variant van het Kwarts mineraal.</text><nlkx/>
+	<text> Gebruikt voor: </text>
+	<link ref="P_Body Restoration" title="Drank van Lichaamsherstel"/><text> en </text><nl/>
+	<text>       </text><link ref="Matter Essence" title="Materie Essentie"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Geadviseerd Oogsten Level: 17</text><nl/>
+	<text> Kennis vereist: Rode Kwarts Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 1</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 21</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Minerals" title="Terug naar Mineralen Index"/>
+</Page>
+<Page name="Iron_Ore">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Ores" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 IJzer Erts</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="20" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Een sterk metaal, te vinden in een woestijngrot.</text><nlkx/>
+	<text> Gebruikt voor: </text>
+	<link ref="Iron Bar" title="IJzeren Baar"/><text>, </text>
+	<link ref="Steel Bar" title="Stalen Baar"/><text>, </text><nl/>
+	<text>       </text><link ref="Matter Essence" title="Materie Essentie"/><text>, </text>
+	<link ref="Energy Essence" title="Energie Essentie"/><text> en </text><nl/>
+	<text>       </text><link ref="P_Manufacturing" title="Drank van Produceren"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Geadviseerd Oogsten Level: 23</text><nl/>
+	<text> Kennis vereist: IJzer Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 2</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 27</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 4 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Ores" title="Terug Naar Ertsen Index"/>
+</Page>
+<Page name="Silver_Ore">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Ores" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Zilver Erts</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="18" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Dit metaal kent vele toepassingen.</text><nlkx/>
+	<text> Gebruikt voor: </text>
+	<link ref="Silver Bar" title="Zilveren Baar"/><text>, </text>
+	<link ref="P_Defense" title="Drank van Verdedigen"/><text>,</text><nl/>
+	<text>       </text><link ref="P_Will" title="Drank van Wil"/><text>, </text>
+	<link ref="P_Manufacturing" title="Drank van Produceren"/><text>, </text>
+	<link ref="Air Essence" title="Lucht Essentie"/><text>,</text><nl/>
+	<text>       </text><link ref="Energy Essence" title="Energie Essentie"/><text>, </text>
+	<link ref="Life Essence" title="Leven Essentie"/><text> en </text><nl/>
+	<text>       </text><link ref="Health Essence" title="Gezondheid Essentie"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Geadviseerd Oogsten Level: 24</text><nl/>
+	<text> Kennis vereist: Zilver Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 2</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 28</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Ores" title="Terug Naar Ertsen Index"/>
+</Page>
+<Page name="Gold_Ore">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Ores" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Goud Erts</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="19" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Dit kostbare metaal kan gevonden worden in grotten</text><nlkx/>
+	<text> van moerasgebieden.</text><nlkx/>
+	<text> Gebruikt voor: </text>
+	<link ref="Gold Bar" title="Gouden Baar"/><text>, </text>
+	<link ref="Spirit Essence" title="Geest Essentie"/><text> en </text><nl/>
+	<text>       </text><link ref="P_Attack" title="Drank van Aanvallen"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Geadviseerd Oogsten Level: 37</text><nl/>
+	<text> Kennis vereist: Goud Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 3</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 36</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Ores" title="Terug Naar Ertsen Index"/>
+</Page>
+<Page name="Rubies">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Minerals" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Robijn</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="24" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Er is een moedig iemand nodig om dit glimmend rode</text><nlkx/>
+	<text> kristal te vinden.</text><nlkx/>
+	<text> Gebruikt voor: </text>
+	<link ref="P_Ruby" title="Gepolijste Robijn"/><text> en </text>
+	<link ref="Jewelry" title="Irilion Ringen"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Geadviseerd Oogsten Level: 37</text><nl/>
+	<text> Kennis vereist: Robijn Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 4</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 41</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Minerals" title="Terug naar Mineralen Index"/>
+</Page>
+<Page name="Emeralds">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Minerals" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Smaragd</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="22" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Een zeldzaam groen kristal te vinden in de</text><nlkx/>
+	<text> diepten van gevaarlijke catacombes.</text><nlkx/>
+	<text> Gebruikt voor: </text>
+	<link ref="P_Emer" title="Gepolijste Smaragd"/>
+	<text>, </text><link ref="Magic Essence" title="Magie Essentie"/><nl/>
+	<text>       en </text><link ref="P_Rad" title="Drank van Straling Bescherming"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Geadviseerd Oogsten Level: 32</text><nl/>
+	<text> Kennis vereist: Smaragd Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 4</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 36</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Minerals" title="Terug naar Mineralen Index"/>
+</Page>
+<Page name="Sapphires">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Minerals" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Saffier</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="23" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Een blauw kristal, te vinden in de centrale</text><nlkx/>
+	<text> gebieden van Seridia.</text><nlkx/>
+	<text> Gebruikt voor: </text>
+	<link ref="P_Saph" title="Gepolijste Saffier"/><text> en </text>
+	<link ref="Water Essence" title="Water Essentie"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Geadviseerd Oogsten Level: 35</text><nl/>
+	<text> Kennis vereist: Saffier Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 4</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 39</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Minerals" title="Terug naar Mineralen Index"/>
+</Page>
+<Page name="Diamonds">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Minerals" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Diamant</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="11" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Alleen experts hebben kans om Diamant, het hardste</text><nlkx/>
+	<text> kristal, te vinden en succesvol te mijnen.</text><nlkx/>
+	<text> Gebruikt voor: </text>
+	<link ref="P_Diam" title="Gepolijste Diamant"/><text> en </text>
+	<link ref="Air Essence" title="Lucht Essentie"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Geadviseerd Oogsten Level: 40</text><nl/>
+	<text> Kennis vereist: Diamant Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 4</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 44</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Minerals" title="Terug naar Mineralen Index"/>
+</Page>
+<Page name="Titanium_Ore">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Ores" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Titanium Erts</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="20" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Een metaal wat gebruikt wordt om sterke, maar erg</text><nlkx/>
+	<text> lichtgewicht wapens en harnassen te maken.</text><nlkx/>
+	<text> Gebruikt voor: </text>
+	<link ref="Titanium Bar" title="Titanium Baar"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Geadviseerd Oogsten Level: 38</text><nl/>
+	<text> Kennis vereist: Titanium Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 5</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 42</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Ores" title="Terug Naar Ertsen Index"/>
+</Page>
+<Page name="Blueberry">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Bosbes</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="1" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Extract_RBR" title="Aalbes - Bosbes - Wijnruit Extract"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 36</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 40</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="White_Chanterelle">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Witte Cantharel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="17" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Med_Heaven" title="Hemel Medaillon"/><text>, </text>
+	<link ref="Med_Life" title="Leven Medaillon"/><text> en </text><nl/>
+	<text>       </text><link ref="Extract_WOT" title="Witte Cantharel - Ogre Teen - Boom "/><nl/>
+	<text>       </text><link ref="Extract_WOT" title="Paddestoel Extract"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 45</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 49</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Cotton">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Katoen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="3" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Thread" title="Garen"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 14</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 18</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Red_Currant">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Aalbes</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="0" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Extract_RBR" title="Aalbes - Bosbes - Wijnruit Extract"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 34</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 38</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Dandelions">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Paardebloem</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="5" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><nlkx/>
+	<text> </text><link ref="P_Accuracy" title="Drank van Nauwkeurigheid"/><text>, </text>
+	<link ref="P_Potion" title="Drank van Brouwen"/><text> en </text><nl/>
+	<text>       </text>
+	<link ref="Extract_NMD" title="Nachtschade - Koningskaars - Paardebloem Extract"/>
+	<text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 29</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 33</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Daffodils">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Narcis</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="4" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="P_Invis" title="Drank van Onzichtbaarheid"/><text>, </text><nl/>
+	<text>       </text><link ref="P_Alchemy" title="Drank van Alchemie"/><text>, </text>
+	<link ref="Yellow Dye" title="Gele Kleurstof"/><text> en </text><nl/>
+	<text>       </text><link ref="Extract_WDF" title="Tarwe - Narcis - Feran Hoorn Extract"/><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 22</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 28</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Henbane">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Bilzekruid</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="8" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><nlkx/>
+	<text> </text><link ref="Extract_PHP" title="Gifsumak - Bilzekruid - Papaver Extract"/>
+	<text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 39</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 43</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Mugwort">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Bijvoet</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="9" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Green Dye" title="Groene Kleurstof"/><text> en </text><nl/>
+	<text>       </text><link ref="Extract_WVM" title="Tarwe - Valeriaan - Bijvoet Extract"/>
+	<text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 25</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 29</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Mullein">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Koningskaars</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="10" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><nlkx/>
+	<text> </text><link ref="P_Evasion" title="Drank van Ontwijken"/><text>, </text>
+	<link ref="P_Invis" title="Drank van Onzichtbaarheid"/><text> en </text><nl/>
+	<text>       </text><link ref="Extract_NMD" title="Nachtschade - Koningskaars - Paardebloem Extract"/>
+	<text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 41</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 45</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Nightshade">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Nachtschade</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="11" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><nlkx/>
+	<text> </text><link ref="P_Potion" title="Drank van Brouwen"/><text>, </text>
+	<link ref="Purple Dye" title="Paarse Kleurstof"/><text> en </text><nl/>
+	<text>       </text><link ref="Extract_NMD" title="Nachtschade - Koningskaars - Paardebloem Extract"/>
+	<text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 42</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 46</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Ogre_Toes">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Ogre Teen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="18" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="P_Extra_Mana" title="Drank van Extra Mana"/><text> en </text><nl/>
+	<text>       </text><link ref="Extract_WOT" title="Witte Cantharel - Ogre Teen - Boom "/><nl/>
+	<text>       </text><link ref="Extract_WOT" title="Paddestoel Extract"/><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 46</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 50</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Poison_Ivy">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Gifsumak</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="2" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="P_Caltrops" title="Vergiftigde Kraaienpoot"/><text> en </text><nl/>
+	<text>       </text><link ref="Extract_PHP" title="Gifsumak - Bilzekruid - Papaver Extract"/>
+	<text>.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Leren Handschoenen</text><nl/>
+	<text> Geadviseerd Oogsten Level: 30</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 34</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Poppies">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Papaver</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="6" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="P_Antidote" title="Tegengif"/><text> en </text><nl/>
+	<text>       </text><link ref="Extract_PHP" title="Gifsumak - Bilzekruid - Papaver Extract"/>
+	<text>.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 28</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 32</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Rue">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Wijnruit</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="12" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="P_Antidote" title="Tegengif"/><text>, </text>
+	<link ref="P_Potion" title="Drank van Brouwen"/><text> en </text><nl/>
+	<text>       </text><link ref="Extract_RBR" title="Aalbes - Bosbes - Wijnruit Extract"/><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 27</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 31</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Tree_Mushroom">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Boom Paddestoel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="19" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Extract_WOT" title="Witte Cantharel - Ogre Teen - Boom "/><nl/>
+	<text>       </text><link ref="Extract_WOT" title="Paddestoel Extract"/><text>.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 47</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 51</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Red_Toadstool">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Rode Paddestoel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="16" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><nlkx/>
+	<text> </text><link ref="P_TS" title="Drank van Waar Zicht"/><text>, </text>
+	<link ref="Med_Harv" title="Oogst Medaillon"/><text>.</text><nl/>
+	<nl/>
+	<text>       Herstelt 10 voedsel punten, geen afkoeling maar 5%</text><nl/>
+	<text>       kans om vergiftigt te worden.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 31</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Tulips">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                    Tulp</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="7" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><nl/>
+	<text>       </text><link ref="Extract_YWT" title="Duizendblad - Absintalsem - Tulp Extract"/>
+	<text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 33</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 37</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Valerian">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Valeriaan</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="13" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="P_Accuracy" title="Drank van Nauwkeurigheid"/><text> en </text><nl/>
+	<text>       </text><link ref="Extract_WVM" title="Tarwe - Valeriaan - Bijvoet Extract"/>
+	<text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 26</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 30</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Wormwood">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Absintalsem</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="15" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><nlkx/>
+	<text> </text><link ref="P_Invis" title="Drank van Onzichtbaarheid"/><text>, </text>
+	<link ref="P_TS" title="Drank van Waar Zicht"/><text> en </text><nl/>
+	<text>       </text><link ref="Extract_YWT" title="Duizendblad - Absintalsem - Tulp Extract"/>
+	<text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 44</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 48</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Yarrow">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Duizendblad</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="14" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="P_Antidote" title="Tegengif"/><text>, </text>
+	<link ref="P_Evasion" title="Drank van Ontwijken"/><text> en </text><nl/>
+	<text>       </text><link ref="Extract_YWT" title="Duizendblad - Absintalsem - Tulp Extract"/>
+	<text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 43</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 47</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Wheat">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Plants" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Tarwe</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="20" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><nlkx/>
+	<text> </text><link ref="Extract_WVM" title="Tarwe - Valeriaan - Bijvoet Extract"/>
+	<text> en </text><nl/>
+	<text>       </text><link ref="Extract_WDF" title="Tarwe - Narcis - Feran Hoorn Extract"/>
+	<text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Geadviseerd Oogsten Level: 13</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 17</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Plants" title="Terug Naar Planten Index"/>
+</Page>
+<Page name="Beehive">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Harv_Other" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Bijenkorf</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="22" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><text>Momenteel nergens voor.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Leren Handschoenen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 2</text><nl/>
+	<text> Geadviseerd Oogsten Level: 15</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 19</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>        </text><link ref="Harv_Other" title="Terug naar de Overig Oogstbare Items Index"/>
+</Page>
+<Page name="Amber">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Minerals" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Barnsteen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="19" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Met 2 Barnsteen wordt je toegelaten</text><nlkx/>
+	<text> tot de Iscalrith instance/invasie.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Zaag</text><nl/>
+	<text> Nexus Vereist: Inorganisch 6</text><nl/>
+	<text> Geadviseerd Oogsten Level: 110</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 114</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<text> Let op: Om Barnsteen te mijnen moet je 30 Actie Punten</text><nl/>
+	<text>         hebben per succesvolle oogst.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Minerals" title="Terug naar Mineralen Index"/>
+</Page>
+<Page name="Gypsum">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Minerals" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                    Gips</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="14" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Misc" title="Gereedschappen"/><text>, </text>
+	<link ref="Summoning" title="Oproepen Stenen"/><text>, </text><nl/>
+	<text>       </text><link ref="Potions" title="Extracts"/><text> en </text>
+	<link ref="Invasionmeter" title="Invasiemeter"/><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Kennis vereist: Gips Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 2</text><nl/>
+	<text> Geadviseerd Oogsten Level: 19</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 23</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 10 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Minerals" title="Terug naar Mineralen Index"/>
+</Page>
+<Page name="Obsidian">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Minerals" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Lavaglas</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="17" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Onze wetenschappers zijn dit mineraal nog aan het</text><nlkx/>
+	<text> onderzoeken.</text><nlkx/>
+	<text> Gebruikt voor: Momenteel nog onbekend.</text><nlkx/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Onbekend</text><nl/>
+	<text> Kennis vereist: Onbekend</text><nl/>
+	<text> Nexus Vereist: Onbekend</text><nl/>
+	<text> Geadviseerd Oogsten Level: Onbekend</text><nl/>
+	<text> Oogsten Ervaring Gegeven: Onbekend</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: Onbekend</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Minerals" title="Terug naar Mineralen Index"/>
+</Page>
+<Page name="Turquoise">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Minerals" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Turkoois</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="18" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><nlkx/>
+	<text> </text><link ref="P_Heat" title="Drank van Hitte Bescherming"/><text>, </text>
+	<link ref="Lightmeter" title="Lichtmeter"/><text>,</text><nl/>
+	<text>       </text><link ref="Engineering" title="Astrologie Indicatoren"/><text> en </text>
+	<link ref="Mana_Drain_Ward" title="Verminder Mana Ward"/><text>.</text><nlkx/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Nexus Vereist: Inorganisch 4</text><nl/>
+	<text> Geadviseerd Oogsten Level: 65</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 69</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Minerals" title="Terug naar Mineralen Index"/>
+</Page>
+<Page name="Cinnabar">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Ores" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Kwikerts</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="9" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><nlkx/>
+	<text> </text><link ref="Mercury" title="Kwik"/>
+	<text> kan uit dit erts worden ge-extraheerd.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Leren Handschoenen</text><nl/>
+	<text> Kennis vereist: Kwikerts Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 6</text><nl/>
+	<text> Geadviseerd Oogsten Level: 75</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 79</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Ores" title="Terug Naar Ertsen Index"/>
+</Page>
+<Page name="Copper">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Ores" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Koper Erts</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="0" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Copper Bar" title="Koper Baar"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Kennis vereist: Koper Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 6</text><nl/>
+	<text> Geadviseerd Oogsten Level: 62</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 66</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<text> Let op: Om dit erts te mijnen moet je een Materie</text><nl/>
+	<text>         Conglomeraat bij je hebben.</text><nl/>
+	<text>         Elk gemijnde erts verbruikt 1 conglomeraat.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Ores" title="Terug Naar Ertsen Index"/>
+</Page>
+<Page name="Dvarium">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Ores" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Dvarium</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="15" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Dvarium Bar" title="Dvarium Baar"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Kennis vereist: Dvarium Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 6</text><nl/>
+	<text> Geadviseerd Oogsten Level: 90</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 94</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<text> Let op: Om dit erts te mijnen moet je een IJzeren</text><nl/>
+	<text>         Breed Zwaard bij je hebben.</text><nl/>
+	<text>         Elk gemijnde erts verbruikt 1 zwaard.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Ores" title="Terug Naar Ertsen Index"/>
+</Page>
+<Page name="Hydrogenium">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Ores" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Waterstof Erts</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="7" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> De locatie van dit zeldzame erts is een goed</text><nlkx/>
+	<text> bewaard geheim.</text><nlkx/>
+	<text> Gebruikt voor: </text>
+	<link ref="Hydrogenium Bar" title="Waterstof Baar"/><text>.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Kennis vereist: Waterstof Erts Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 6</text><nl/>
+	<text> Geadviseerd Oogsten Level: 55</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 59</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<text> Let op: Om dit erts te mijnen moet je een Stalen</text><nl/>
+	<text>         Tweezijdig Zwaard bij je hebben.</text><nl/>
+	<text>         Elk gemijnde erts verbruikt 1 zwaard.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Ores" title="Terug Naar Ertsen Index"/>
+</Page>
+<Page name="Seridium">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Ores" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Seridium</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="10" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Seridium Bar" title="Seridium Baar"/><text>.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Kennis vereist: Seridium Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 6</text><nl/>
+	<text> Geadviseerd Oogsten Level: 67</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 71</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<text> Let op: Om dit erts te mijnen moet je een Materie</text><nl/>
+	<text>         Conglomeraat bij je hebben.</text><nl/>
+	<text>         Elk gemijnde erts verbruikt 1 conglomeraat.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Ores" title="Terug Naar Ertsen Index"/>
+</Page>
+<Page name="Irilium">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Ores" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Irilium</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="12" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Onze wetenschappers zijn dit erts nog</text><nlkx/>
+	<text> aan het onderzoeken.</text><nlkx/>
+	<text> Gebruikt voor: Momenteel nog onbekend.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Onbekend</text><nl/>
+	<text> Kennis vereist: Onbekend</text><nl/>
+	<text> Nexus Vereist: Onbekend</text><nl/>
+	<text> Geadviseerd Oogsten Level: Onbekend</text><nl/>
+	<text> Oogsten Ervaring Gegeven: Onbekend</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: Onbekend</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Ores" title="Terug Naar Ertsen Index"/>
+</Page>
+<Page name="Tin">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Ores" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                    Tin</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="2" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Tin Bar" title="Tin Baar"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Kennis vereist: Tin Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 6</text><nl/>
+	<text> Geadviseerd Oogsten Level: 58</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 62</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<text> Let op: Om dit erts te mijnen moet je een IJzeren Zwaard</text><nl/>
+	<text>         bij je hebben.</text><nl/>
+	<text>         Elk gemijnde erts verbruikt 1 zwaard.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Ores" title="Terug Naar Ertsen Index"/>
+</Page>
+<Page name="Wolfram">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Ores" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Wolframiet</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="5" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Een erg zeldzaam en zwaar erts.</text><nlkx/>
+	<text> Gebruikt voor: </text>
+	<link ref="Wolfram Bar" title="Wolfram Baar"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Pikhouweel</text><nl/>
+	<text> Kennis vereist: Wolframiet Mijnen</text><nl/>
+	<text> Nexus Vereist: Inorganisch 6</text><nl/>
+	<text> Geadviseerd Oogsten Level: 60</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 64</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 10 EMU</text><nl/>
+	<nl/>
+	<text> Let op: Om dit erts te mijnen moet je een Stalen Lang</text><nl/>
+	<text>         Zwaard bij je hebben.</text><nl/>
+	<text>         Elk gemijnde erts verbruikt 1 zwaard.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Ores" title="Terug Naar Ertsen Index"/>
+</Page>
+<Page name="Yew">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Harv_Other" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 HARVESTING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Taxus</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="3" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Archery" title="Pijlen"/><text> en </text>
+	<link ref="Archery" title="Kruisboog Pijlen"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Zaag</text><nl/>
+	<text> Nexus Vereist: Inorganisch 6</text><nl/>
+	<text> Geadviseerd Oogsten Level: 80</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 84</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>        </text><link ref="Harv_Other" title="Terug naar de Overig Oogstbare Items Index"/>
+</Page>
+<Page name="Dung">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Harv_Other" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Mest</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="23" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Saltpetre" title="Salpeter"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gereedschappen: Leren Handschoenen</text><nl/>
+	<text> Geen Kennis vereist</text><nl/>
+	<text> Nexus Vereist: Inorganisch 6</text><nl/>
+	<text> Geadviseerd Oogsten Level: 100</text><nl/>
+	<text> Oogsten Ervaring Gegeven: 104</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<text> Let op: Dit item kan alleen worden opgeslagen in de</text><nl/>
+	<text>         Gevaarlijke Items Voorraad.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>        </text><link ref="Harv_Other" title="Terug naar de Overig Oogstbare Items Index"/>
+</Page>
+<Page name="Serpent_Stone">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Stones" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Serpent Steen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="13" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor geavanceerde items zoals magische</text><nlkx/>
+	<text> zwaarden. Ook gebruikt bij Alchemie en Oproepen.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<text> Let op: Deze steen kan soms als buit verkregen worden</text><nl/>
+	<text>         van monsters.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Stones" title="Terug Naar Stenen Index"/>
+</Page>
+<Page name="Enrich_Stone">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Stones" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Verrijkings Steen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="14" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Enriched Life Essence" title="Verrijkte Leven Essentie"/><text>,</text><nl/>
+	<text>       </text><link ref="Enriched Fire Essence" title="Verrijkte Vuur Essentie"/>
+	<text> en </text>
+	<link ref="Enriched Magic Essence" title="Verrijkte Magie Essentie"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Stones" title="Terug Naar Stenen Index"/>
+</Page>
+<Page name="Binding_Stone">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Stones" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Bind Steen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="15" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt om de krachtigste zwaarden, de kronen</text><nlkx/>
+	<text> en andere items te maken.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Stones" title="Terug Naar Stenen Index"/>
+</Page>
+<Page name="Rostogol_Stone">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Stones" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Rostogol Steen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="14" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Als je doodgaat terwijl je deze steen bij je hebt,</text><nlkx/>
+	<text> zul je geen items verliezen (de steen verdwijnt).</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<text> Let op: Deze steen kan soms als buit verkregen worden</text><nl/>
+	<text>         van erg sterke monsters.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Stones" title="Terug Naar Stenen Index"/>
+</Page>
+<Page name="PP_Removal_Stone">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Stones" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Punten Verwijder Steen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="10" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Met deze zeldzame stenen kun je punten van een</text><nlkx/>
+	<text> attribuut of nexus verwijderen en hergebruiken.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Let op: er is geen steen genaamd "Punten Verwijder Steen",</text><nl/>
+	<text> maar er zijn specifieke stenen voor elk attribuut of</text><nl/>
+	<text> nexus zoals "Instinct Verwijder Steen" of "Inorganisch</text><nl/>
+	<text> Nexus Verwijder Steen".</text><nl/>
+	<nl/>
+	<text> In tegenstelling tot de andere stenen kunnen Punten</text><nl/>
+	<text> Verwijder Stenen ook gevonden worden bij het oogsten van</text><nl/>
+	<text> planten.</text><nl/>
+	<nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                   </text><link ref="Stones" title="Terug Naar Stenen Index"/>
+</Page>
+</Harvesting>

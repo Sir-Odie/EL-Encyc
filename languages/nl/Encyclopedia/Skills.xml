@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+<Page Name="newskills">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>             Eternal Lands Help</text><nl/>
+   <text>                Vaardigheden</text><nl/>
+   <nl/>
+   <color r="1" g="1" b="1"/>
+   <text>       Hoe start ik een Vaardigheid?</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text>                         </text><link ref="fight" title="Vechten"/><nl/>
+   <nl/>
+   <text>                         </text><link ref="harv" title="Oogsten"/><nl/>
+   <nl/>
+   <text>                         </text><link ref="manu" title="Produceren"/><nl/>
+   <nl/>
+   <text>                         </text><link ref="alch" title="Alchemie"/><nl/>
+   <nl/>
+   <text>                         </text><link ref="magc" title="Magie"/><nl/>
+   <nl/>
+   <text>                         </text><link ref="pots" title="Brouwen"/><nl/>
+   <nl/>
+   <text>                         </text><link ref="summ" title="Oproepen"/><nl/>
+   <nl/>
+   <text>                         </text><link ref="crft" title="Bewerken"/><nl/>
+   <nl/>
+   <text>                         </text><link ref="engn" title="Engineering"/><nl/>
+</Page>
+<Page Name="fight">
+   <size>Small</size><color>yellow</color>
+   <link x="433" y="2" ref="newskills" title="Terug"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                Vaardigheden</text><nl/>
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vechten:</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> De</text>
+   <color r="1" g="1" b="1"/>
+   <text> vechten vaardigheden zijn Aanvallen en Verdedigen. Om</text><nl/>
+   <text> deze vaardigheden te verhogen moet je veel vechten. Je</text><nl/>
+   <text> kunt vechten met beesten zoals konijnen, bevers, ratten,</text><nl/>
+   <text> herten etc, en later monsters zoals goblins en skeletten.</text><nl/>
+   <text> Een andere optie is om naar speciale PK (Player Killing)</text><nl/>
+   <text> kaarten te gaan en andere spelers te bevechten.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Beginners</text>
+   <color r="1" g="1" b="1"/>
+   <text> kunnen het beste beginnen met de zwakkere</text><nl/>
+   <text> beesten van het spel zoals konijnen, ratten en bevers.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Tijdens</text>
+   <color r="1" g="1" b="1"/>
+   <text> het vechten raak je gewond en wordt je soms</text><nl/>
+   <text> gedood. Om je gezondheid terug te krijgen, moet je zorgen</text><nl/>
+   <text> dat je voedsel niveau (de gele balk) positief is. Dit doe</text><nl/>
+   <text> je door te eten. je kunt brood, groenten en fruit, en</text><nl/>
+   <text> gebraden vlees eten. Eten kun je kopen bij de cafés,</text><nl/>
+   <text> vinden in de zakken op de grond van Isla Prima, of je</text><nl/>
+   <text> kunt de groenten zelf oogsten. Je kunt het eten door met</text><nl/>
+   <text> de wijzende vinger-icoon op het eten te klikken.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Om</text>
+   <color r="1" g="1" b="1"/>
+   <text> te genezen tijdens je eerste levels, kun je terug</text><nl/>
+   <text> naar Isla Prima gaan en met de Tutorial NPC praten.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Om</text>
+   <color r="1" g="1" b="1"/>
+   <text> sneller te genezen, kun je genezing dranken kopen of</text><nl/>
+   <text> maken, en deze opdrinken. Een andere optie is om spreuken</text><nl/>
+   <text> die je genezen over jezelf uit te spreken.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Als</text>
+   <color r="1" g="1" b="1"/>
+   <text> je bent doodgegaan, begin je weer bij het kampvuur op</text><nl/>
+   <text> Isla Prima. Zodra je levels iets hoger zijn, wordt je</text><nl/>
+   <text> naar de onderwereld gestuurd. Om daar uit te komen, loop</text><nl/>
+   <text> je naar het noorden totdat je grote treden met kaarsen</text><nl/>
+   <text> ziet naar een rood portaal toe. Loop naar het portaal en</text><nl/>
+   <text> klik op de boog erboven om de onderwereld te verlaten.</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="newskills" title="Terug Naar Help Index"/>
+</Page>
+<Page Name="harv">
+   <size>Small</size><color>yellow</color>
+   <link x="433" y="2" ref="newskills" title="Terug"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                Vaardigheden</text><nl/>
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Oogsten:</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Oogsten</text>
+   <color r="1" g="1" b="1"/>
+   <text> wordt gebruikt om grondstoffen te verkrijgen zoals</text><nl/>
+   <text> bloemen, ertsen, edelstenen, voedsel, etc. Om met deze</text><nl/>
+   <text> vaardigheid te starten zoek je een bloem, klik je er op,</text><nl/>
+   <text> en wacht je. Je ziet een bericht "You started to harvest</text><nl/>
+   <text> xx" (je begon met het oogsten van xx), waarbij xx staat</text><nl/>
+   <text> voor de bloem waarop je klikte. open je inventaris met </text><nl/>
+   <text> een klik op de zak icoon of gebruik CTRL-i en je ziet dat</text><nl/>
+   <text> je meer en meer bloemen verzamelt.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Je</text>
+   <color r="1" g="1" b="1"/>
+   <text> ontvangt Oogsten ervaring voor de eerste 120 geslaagde</text><nl/>
+   <text> oogst-pogingen per spel-uur (om te zien wat de tijd in</text><nl/>
+   <text> het spel is, klik je op de klok rechts in je scherm). Een</text><nl/>
+   <text> rood bericht verteld je dat de limiet bereikt is. Je kunt</text><nl/>
+   <text> uiteraard doorgaan met oogsten om items te verzamelen,</text><nl/>
+   <text> maar je zult daar geen Oogsten ervaring voor ontvangen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Tijdens</text>
+   <color r="1" g="1" b="1"/>
+   <text> het oogsten van verschillende bloemen zul je zien</text><nl/>
+   <text> dat je verschillende hoeveelheden ervaring krijgt voor</text><nl/>
+   <text> elke bloemsoort. Items die moeilijk te krijgen zijn,</text><nl/>
+   <text> leveren meer ervaring op dan items die makkelijk zijn te</text><nl/>
+   <text> oogsten. Beginners kunnen het beste starten met groenten.</text><nl/>
+   <text> Het duurt langer dan bloemen, maar geeft de beste Oogsten</text><nl/>
+   <text> ervaring. Een bijkomend voordeel is dat het voedsel is.</text><nl/>
+   <text> Je hoeft het dus niet meer te kopen. En groenten zijn een</text><nl/>
+   <text> inkomstenbron, omdat je het kunt verkopen aan de cafés.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Er</text>
+   <color r="1" g="1" b="1"/>
+   <text> bestaan ook oogst-gebeurtenissen die nu en dan voor</text><nl/>
+   <text> kunnen komen. Sommigen zijn negatief, sommigen positief.</text><nl/>
+   <text> Je kunt bijvoorbeeld door een bij gestoken worden,</text><nl/>
+   <text> (verlies van gezondheid), de Koningin van de Natuur kan</text><nl/>
+   <text> je zegenen met wat extra Oogsten ervaring, of je vind een</text><nl/>
+   <text> zak met wat gouden munten er in. Deze gebeurtenissen</text><nl/>
+   <text> houden de automatische oogster tegen. Je kunt verder gaan</text><nl/>
+   <text> met oogsten door op de betreffende grondstof te klikken.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Om</text>
+   <color r="1" g="1" b="1"/>
+   <text> te stoppen met oogsten klik je opnieuw op de grondstof,</text><nl/>
+   <text> of loop je gewoon weg.</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="newskills" title="Terug Naar Help Index"/>
+</Page>
+<Page Name="manu">
+   <size>Small</size><color>yellow</color>
+   <link x="433" y="2" ref="newskills" title="Terug"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                Vaardigheden</text><nl/>
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Produceren:</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Om</text>
+   <color r="1" g="1" b="1"/>
+   <text> te beginnen met het maken van items, heb je een naald,</text><nl/>
+   <text> garen en bont nodig. Bewaar, bij het jagen op konijnen,</text><nl/>
+   <text> het bont en verkoop alleen het vlees. ga dan naar een</text><nl/>
+   <text> winkel, die in Lakeside bijvoorbeeld, en koop wat garen</text><nl/>
+   <text> en een naald.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Lakeside</text>
+   <color r="1" g="1" b="1"/>
+   <text> is het dorp bij de haven op de White Stone kaart.</text><nl/>
+   <text> Om er te komen vanuit Isla Prima, ga je naar de haven in</text><nl/>
+   <text> zuiden en klik je op de vlag op het schip. Druk op TAB om</text><nl/>
+   <text> de kaart te bekijken. Winkels zijn de groene stippen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zorg</text>
+   <color r="1" g="1" b="1"/>
+   <text> dat je voedsel bij je hebt. Je kunt niets produceren</text><nl/>
+   <text> als je honger hebt (gele balk onder 0) dus hou je voedsel</text><nl/>
+   <text> niveau positief.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Het</text>
+   <color r="1" g="1" b="1"/>
+   <text> eerste item om te maken zijn Warme Bont Handschoenen.</text><nl/>
+   <text> Je hebt 3 Bruine Konijnen Bont en 2 garen nodig. Zorg dat</text><nl/>
+   <text> je ook de naald bij je hebt. Open het produceren venster</text><nl/>
+   <text> door op het hamer en aambeeld icoon te klikken onder in</text><nl/>
+   <text> het scherm. Klik dan 3 keer op het konijnen bont, 2 keer</text><nl/>
+   <text> op het garen en klik op de Mix (>) knop. Na een paar se-</text><nl/>
+   <text> conden zie je of je je eerste handschoenen gemaakt hebt.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> **Let op**:</text>
+   <color r="1" g="1" b="1"/>
+   <text> Soms zal het je niet lukken om een item te</text><nl/>
+   <text> maken. Dit is normaal. Probeer het gewoon nogmaals. Maak</text><nl/>
+   <text> nu zoveel bont handschoenen als je konijnen bont kunt</text><nl/>
+   <text> krijgen tot je Produceren level 4 of 5 is. Je kunt de</text><nl/>
+   <text> handschoenen verkopen bij iedere winkel om wat geld te</text><nl/>
+   <text> verdienen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nu</text>
+   <color r="1" g="1" b="1"/>
+   <text> is het tijd om een Bont Hoed te maken. Ga naar de</text><nl/>
+   <text> White Stone kaart en probeer een Wit Konijn te doden.</text><nl/>
+   <text> Tirnwood Vale (druk op Tab om te zien waar dat is) is een</text><nl/>
+   <text> goede plek om Witte konijnen te vinden. Je zult ook 3</text><nl/>
+   <text> Bever Bont nodig hebben, bevers vind je op Isla Prima.</text><nl/>
+   <text> Dan hoef je alleen nog maar 3 garen te kopen en je hebt</text><nl/>
+   <text> de ingrediënten voor een Bont Hoed.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Om</text>
+   <color r="1" g="1" b="1"/>
+   <text> de hoed te maken, moet je de naald bij je hebben, en</text><nl/>
+   <text> het produceren venster openen (hamer en aambeeld icoon).</text><nl/>
+   <text> Klik 3 keer op het Bever Bont, 3 keer op het Garen en 1</text><nl/>
+   <text> keer op het Witte Konijnen Bont. Klik hierna op de "Mix"</text><nl/>
+   <text> knop, wacht, en bid dat je nu een Bont Hoed gemaakt hebt.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wanneer</text>
+   <color r="1" g="1" b="1"/>
+   <text> je gemakkelijk Bont Hoeden kan maken kun je</text><nl/>
+   <text> proberen om Wolf en Vos Bont te krijgen. Vraag spelers</text><nl/>
+   <text> die met vossen of wolven aan het vechten zijn of ze je</text><nl/>
+   <text> een paar stukken bont willen verkopen. Natuurlijk kun je</text><nl/>
+   <text> ook zelf proberen om vossen en wolven te doden, maar ze</text><nl/>
+   <text> zijn moeilijker te doden dan konijnen of ratten. In</text><nl/>
+   <text> plaats van zelfmoord te plegen, kun je dus beter bont van</text><nl/>
+   <text> andere spelers kopen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Je</text>
+   <color r="1" g="1" b="1"/>
+   <text> hebt 3 Wolf Bont, 2 Vos Bont en 5 garen nodig om een</text><nl/>
+   <text> Bont Mantel te maken. Vergeet niet om ook een naald en</text><nl/>
+   <text> voedsel bij je te hebben. Volg dezelfde werkwijze als</text><nl/>
+   <text> boven om de mantel te maken.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nu</text>
+   <color r="1" g="1" b="1"/>
+   <text> heb je een set Bonten kleding: handschoenen, hoed en</text><nl/>
+   <text> mantel. Je kunt het nu dragen. Gefeliciteerd!</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Het</text>
+   <color r="1" g="1" b="1"/>
+   <text> volgende bruikbare item om te maken zijn leren hand-</text><nl/>
+   <text> schoenen. Je hebt 4 leer en 4 garen nodig. Leer kan</text><nl/>
+   <text> gekocht worden in winkels. Zorg dat je je naald bij je</text><nl/>
+   <text> hebt en wat te eten, open het produceren venster, klik 4</text><nl/>
+   <text> keer op het leer, 4 keer op het garen en dan op de "Mix"</text><nl/>
+   <text> knop. Verwacht een paar keer te falen en zelfs je</text><nl/>
+   <text> ingrediënten te verliezen. Na een paar pogingen heb je</text><nl/>
+   <text> een paar handschoenen, deze zijn erg handig. Ze zijn</text><nl/>
+   <text> nodig om zwavel te mijnen, om cactus mee te oogsten en je</text><nl/>
+   <text> kunt het zelfs gebruiken als wapen!</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Terug Naar Help Index"/>
+</Page>
+<Page Name="alch">
+   <size>Small</size><color>yellow</color>
+   <link x="433" y="2" ref="newskills" title="Terug"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                Vaardigheden</text><nl/>
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Alchemie:</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Met</text>
+   <color r="1" g="1" b="1"/>
+   <text> alchemie kun je essenties en metalen baren maken.</text><nl/>
+   <text> Laten we beginnen met het maken van Vuur Essenties, deze</text><nl/>
+   <text> zijn gemakkelijk te maken en te verkopen aan magie</text><nl/>
+   <text> winkels of andere spelers om geld te verdienen.</text><nl/>
+   <text> Vuur essenties worden gebruikt om metaal mee te smelten,</text><nl/>
+   <text> em om baren en andere metalen voorwerpen te maken.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Je</text>
+   <color r="1" g="1" b="1"/>
+   <text> hebt zwavel, rode rozen en rode leeuwebekken nodig om</text><nl/>
+   <text> vuur essenties te maken. Beide bloemen kunnen gevonden in</text><nl/>
+   <text> Valley of the Dwarves, ten oosten van de rivier in de</text><nl/>
+   <text> bossen (je moet een beetje zoeken).</text><nl/>
+   <text> Om in Valley of the Dwarves te komen vanuit Isla Prima</text><nl/>
+   <text> ga je naar de haven en klik je op de vlag op het schip.</text><nl/>
+   <text> Nu ben je in de haven van Lakeside. Ga naar het tweede</text><nl/>
+   <text> schip, klik op de vlag (er staat een hert op) en je bent</text><nl/>
+   <text> in de haven van Desert Pines. Het tweede schip (met een</text><nl/>
+   <text> beer op de vlag) brengt je naar Valley of the Dwarves.</text><nl/>
+   <text> Oogst de bloemen en bewaar ze bij Molgor, de voorraad in</text><nl/>
+   <text> het dorp.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zwavel</text>
+   <color r="1" g="1" b="1"/>
+   <text> kan worden gevonden in de Crystal Caves in het</text><nl/>
+   <text> midden van Desert Pines. Om daar te komen vanuit Valley</text><nl/>
+   <text> of the Dwarves ga je terug naar de haven en klik je op de</text><nl/>
+   <text> vlag met het hert erop. De grot bevind zich in de bergen</text><nl/>
+   <text> in het midden van de kaart. Om zwavel te mijnen moet je</text><nl/>
+   <text> leren handschoenen dragen. Lees de Produceren tips om te</text><nl/>
+   <text> zien hoe je deze kunt maken. Je kunt ze ook kopen van de</text><nl/>
+   <text> White Stone City smid (paarse stip), of andere spelers.</text><nl/>
+   <text> Als je het zwavel gevonden en gemijnd hebt kun je het be-</text><nl/>
+   <text> waren bij de voorraad npc van Desert Pines genaamd Grim.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nu</text>
+   <color r="1" g="1" b="1"/>
+   <text> je de bloemen en zwavel opgeslagen hebt, haal wat eten</text><nl/>
+   <text> voor in je inventaris. Ga terug naar Grim en pak 10 rode</text><nl/>
+   <text> rozen, 10 rode leeuwebekken en 10 zwavel. Zorg dat je</text><nl/>
+   <text> geen honger hebt, anders kan je geen essenties maken.</text><nl/>
+   <text> Open het produceren venster (hamer en aambeeld icoon</text><nl/>
+   <text> onderin het scherm) en klik een roos, een leeuwebek en</text><nl/>
+   <text> een zwavel aan. Klik nu op de "Mix" knop en wacht.</text><nl/>
+   <text> Hopelijk heb je nu je eerste vuur essentie gemaakt. Het</text><nl/>
+   <text> is mogelijk om te falen, als dat gebeurt probeer je het</text><nl/>
+   <text> gewoon nog eens.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Maak</text>
+   <color r="1" g="1" b="1"/>
+   <text> nog wat meer vuur essenties. Als je klaar bent zoek</text><nl/>
+   <text> je de magie winkels in Grahms Village (ten westen van het</text><nl/>
+   <text> café) of in White Stone City op de White Stone/Lakeside</text><nl/>
+   <text> kaart. Verkoop daar de vuur essenties en je weet hoe je</text><nl/>
+   <text> gemakkelijk geld kunt verdienen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Maak</text>
+   <color r="1" g="1" b="1"/>
+   <text> nu grote hoeveelheden vuur essenties en let goed op</text><nl/>
+   <text> je inventaris. Als er plotseling een tweede vak gevuld is</text><nl/>
+   <text> met een vuur essentie, betekent dat niet dat het eerste</text><nl/>
+   <text> vak vol is. Bekijk beide essenties met de "Oog" cursor</text><nl/>
+   <text> (klik op het "Oog" icoon onderin het scherm) om te zien</text><nl/>
+   <text> wat het zijn. Een van de twee is een verrijkte vuur</text><nl/>
+   <text> essentie en kan verkocht worden aan spelers voor VEEL</text><nl/>
+   <text> geld. Er is een erg kleine kans om een verrijkte essentie</text><nl/>
+   <text> te maken dus als je er een maakt heb je heel veel geluk!</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Terug Naar Help Index"/>
+</Page>
+<Page Name="magc">
+   <size>Small</size><color>yellow</color>
+   <link x="433" y="2" ref="newskills" title="Terug"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                Vaardigheden</text><nl/>
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magie:</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Magie</text>
+   <color r="1" g="1" b="1"/>
+   <text> betekent het uitspreken van spreuken. Om dit te doen</text><nl/>
+   <text> heb je sigils en essenties nodig. Je kunt sigils kopen in</text><nl/>
+   <text> magie winkels op de White Stone kaart. Als je een sigil</text><nl/>
+   <text> gekocht hebt, verschijnt het in je magie venster (klik op</text><nl/>
+   <text> het icoon met de toverstaf), niet in je inventaris, en</text><nl/>
+   <text> blijft altijd aanwezig. Essenties kunnen ook in die</text><nl/>
+   <text> winkels gekocht worden, maar die zijn voor eenmalig ge-</text><nl/>
+   <text> bruik. Je kunt ook je eigen essenties maken met alchemie</text><nl/>
+   <text> of ze kopen van andere spelers.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Om</text>
+   <color r="1" g="1" b="1"/>
+   <text> met magie te beginnen ga je naar de magie winkel in</text><nl/>
+   <text> Grahms Village en koop je het "Gezondheid" sigil. Bezoek</text><nl/>
+   <text> daarna de magie winkel in White Stone City en koop het</text><nl/>
+   <text> "Vermeerder" sigil. Koop daar ook een paar gezondheid</text><nl/>
+   <text> essenties. Nu ben je klaar om genezen spreuken uit te</text><nl/>
+   <text> spreken. Ga vechten met wat beesten om gewond te raken</text><nl/>
+   <text> en genees jezelf!</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Klik</text>
+   <color r="1" g="1" b="1"/>
+   <text> op het icoon van de toverstaf onderin het scherm en</text><nl/>
+   <text> je ziet de 2 sigils. Klik eerst op de Vermeerder sigil en</text><nl/>
+   <text> dan op de Gezondheid sigil. Zorg dat je de gezondheid</text><nl/>
+   <text> essenties bij je hebt en klik op de "Cast" knop. Als je</text><nl/>
+   <text> niet faalt heb je 10 materie punten teruggekregen (rode</text><nl/>
+   <text> balk), en ben je 5 etherische punten kwijt (blauwe balk).</text><nl/>
+   <text> Elke spreuk gebruikt een bepaald aantal etherische punten</text><nl/>
+   <text> (ook bekend als "mana"). Als je etherische punten lager</text><nl/>
+   <text> zijn dan 5 kun je de genezen spreuk niet uitspreken. Je</text><nl/>
+   <text> moet dan wachten tot je genoeg punten hebt geregenereerd.</text><nl/>
+   <text> Ook hier is een positief voedsel niveau voor vereist.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Je</text>
+   <color r="1" g="1" b="1"/>
+   <text> kunt ook mana dranken of dranken van geestherstel</text><nl/>
+   <text> drinken om etherische punten terug te krijgen. Mira, de</text><nl/>
+   <text> dranken verkoper in de marktplaats van White Stone City,</text><nl/>
+   <text> verkoopt ze. Je kunt ze ook kopen van andere spelers die</text><nl/>
+   <text> ze kunnen maken. Om magie te trainen kun je de goedkope</text><nl/>
+   <text> mana dranken kopen, spreuken uitspreken, en de dranken</text><nl/>
+   <text> drinken als je mana punten te laag zijn om een spreuk uit</text><nl/>
+   <text> te spreken. Zorg ervoor dat je de lege flessen bewaard,</text><nl/>
+   <text> die heb je later nog nodig!</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Terug Naar Help Index"/>
+</Page>
+<Page Name="pots">
+   <size>Small</size><color>yellow</color>
+   <link x="433" y="2" ref="newskills" title="Terug"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                Vaardigheden</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Brouwen</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Laten</text>
+   <color r="1" g="1" b="1"/>
+   <text> we beginnen met het maken van genezingsdranken. Als</text><nl/>
+   <text> je er een drinkt, krijg je 5 materie punten terug (rode</text><nl/>
+   <text> balk), je kunt ze dus gebruiken tijdens het vechten.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Voor</text>
+   <color r="1" g="1" b="1"/>
+   <text> alle dranken heb je lege flessen nodig. De</text><nl/>
+   <text> eenvoudigste manier om deze te krijgen is ze te kopen van</text><nl/>
+   <text> Harvy, die zich in het zuiden van Kamara Desert bevind.</text><nl/>
+   <text> De flessen kosten 3 gouden munten en 5 kwarts.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ga</text>
+   <color r="1" g="1" b="1"/>
+   <text> hierna terug naar Grahm's Village, naar het meest</text><nl/>
+   <text> westelijke huis die een groentetuin bevat. Bij het huis</text><nl/>
+   <text> staan zonnebloemen, oogst er daar een paar van en neem</text><nl/>
+   <text> ook wat groenten mee. Koop hierna wat wijn bij het café</text><nl/>
+   <text> en je bent klaar om je eigen dranken te maken.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zorg</text>
+   <color r="1" g="1" b="1"/>
+   <text> dat je voedsel niveau positief is en open het</text><nl/>
+   <text> produceren venster met het hamer en aambeeld icoon onder</text><nl/>
+   <text> in het scherm. Klik een keer op een lege fles, een wijn</text><nl/>
+   <text> en een zonnebloem. Klik op de "Mix" knop en wacht. Als je</text><nl/>
+   <text> niet faalt, heb je je eerste genezingsdrank gemaakt.</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Terug Naar Help Index"/>
+</Page>
+<Page Name="summ">
+   <size>Small</size><color>yellow</color>
+   <link x="433" y="2" ref="newskills" title="Terug"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                Vaardigheden</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Oproepen</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Oproepen</text>
+   <color r="1" g="1" b="1"/>
+   <text> laat je beesten tot leven brengen voor een korte</text><nl/>
+   <text> tijd. Ze zullen je volgen waar je maar gaat op de huidige</text><nl/>
+   <text> kaart tot ze doodgaan.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Eerst</text>
+   <color r="1" g="1" b="1"/>
+   <text> heb je een dood konijn nodig, dood er een. Je hebt</text><nl/>
+   <text> 1 bruine konijnen bont, 1 bot en 1 rauw vlees nodig. Koop</text><nl/>
+   <text> een leven essentie in een van de magie winkels en zorg</text><nl/>
+   <text> dat je etherische punten (blauwe balk) boven 0 zijn. Zoek</text><nl/>
+   <text> nu een rustige plek op. Ga nooit oproepen in de buurt van</text><nl/>
+   <text> drukke plaatsen zoals voorraden of beam/wraith.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Open</text>
+   <color r="1" g="1" b="1"/>
+   <text> het produceren venster door te klikken op het hamer</text><nl/>
+   <text> en aambeeld icoon onderin het scherm. Klik een keer op</text><nl/>
+   <text> het bont, het vlees, het bot en de leven essentie. Klik</text><nl/>
+   <text> nu op de "Mix" knop en wacht. Als je niet faalt, heb je</text><nl/>
+   <text> een konijn om je heen huppelen. Als je weg loopt zal het</text><nl/>
+   <text> je volgen.</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Terug Naar Help Index"/>
+</Page>
+<Page Name="crft">
+   <size>Small</size><color>yellow</color>
+   <link x="433" y="2" ref="newskills" title="Terug"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                Vaardigheden</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Bewerken</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Om</text>
+   <color r="1" g="1" b="1"/>
+   <text> de eerste levels in bewerken te krijgen heb je alleen</text><nl/>
+   <text> een kunstmatig nexus van 1 nodig (bezoek de Wraith). Ga</text><nl/>
+   <text> naar Desert Pines, zoek naar katoen in Corren Village en</text><nl/>
+   <text> oogst het.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zodra</text>
+   <color r="1" g="1" b="1"/>
+   <text> je ongeveer 30 katoen hebt open je het produceren</text><nl/>
+   <text> venster door op het hamer en aambeeld icoon onder in het</text><nl/>
+   <text> scherm te klikken. Klik 5 keer op het katoen en daarna op</text><nl/>
+   <text> de "Mix" knop en wacht. Als je niet faalt heb je 1 garen</text><nl/>
+   <text> gemaakt; als je voedsel nodig hebt kun je dat meestal in</text><nl/>
+   <text> de buurt van het katoen vinden.</text><nl/>
+   <text> Ga door met het maken van garen tot je je eerste Bewerken</text><nl/>
+   <text> levels bereikt hebt en hou het garen voor het moment dat</text><nl/>
+   <text> je je Produceren level wilt verhogen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Om</text>
+   <color r="1" g="1" b="1"/>
+   <text> te beginnen met het bewerken van juwelen heb je veel</text><nl/>
+   <text> kennis nodig. Dit houd in dat je veel boeken moet lezen</text><nl/>
+   <text> voor je kunt beginnen. Ga naar de magie school in</text><nl/>
+   <text> Tarsengaard, maar pas op voor de gewapende goblins op die</text><nl/>
+   <text> kaart! Je kunt Tarsengaard bereiken vanuit Valley of the</text><nl/>
+   <text> Dwarves of vanuit White Stone. Bezoek Itilli in de</text><nl/>
+   <text> registratie kamer, deze bevind zich aan de westzijde na</text><nl/>
+   <text> het betreden van de entree hal. Koop de boeken Algemene</text><nl/>
+   <text> Ring Maken en Gouden Ring Maken en lees ze. Ja, je begint</text><nl/>
+   <text> met het maken van eenvoudige gouden ringen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Terwijl</text>
+   <color r="1" g="1" b="1"/>
+   <text> je aan het lezen bent zorg je dat je kunstmatig</text><nl/>
+   <text> nexus 1 is (bezoek de Wraith). Zorg dan dat je wat gouden</text><nl/>
+   <text> baren hebt door ze zelf te maken (alchemie) of ze van</text><nl/>
+   <text> andere spelers te kopen. Je zult ook wat vuur essenties</text><nl/>
+   <text> nodig hebben. Maak ze (alchemie) of koop ze van andere</text><nl/>
+   <text> spelers of magie winkels. Tenslotte heb je een ring vorm</text><nl/>
+   <text> nodig. De magie winkel van Portland (gele stip op de</text><nl/>
+   <text> kaart) verkoopt ze. Daar kun je ook andere benodigdheden</text><nl/>
+   <text> voor bewerken kopen, zoals edelsteen schuurpapier.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Als</text>
+   <color r="1" g="1" b="1"/>
+   <text> je klaar bent met het lezen van beide boeken, pak je</text><nl/>
+   <text> de gouden baren, vuur essenties en ring vorm en ben je</text><nl/>
+   <text> klaar om te beginnen. Zorg dat je ook voedsel hebt.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Open</text>
+   <color r="1" g="1" b="1"/>
+   <text> het produceren venster (icoon met de hamer en het</text><nl/>
+   <text> aambeeld onderin het scherm), klik 2 keer op de gouden</text><nl/>
+   <text> baren, 3 keer op de vuur essenties, en klik op de "Mix"</text><nl/>
+   <text> knop. Wacht even en hopelijk heb je je eerste gouden ring</text><nl/>
+   <text> gemaakt. Om zilveren ringen te maken ga je naar Itilli en</text><nl/>
+   <text> koop en lees je het Zilveren Ring Maken boek. Enzovoorts.</text><nl/>
+   <text> De gouden en zilveren ringen zijn ingrediënten voor het</text><nl/>
+   <text> maken van de magische ringen die we gebruiken zoals</text><nl/>
+   <text> teleporteer ringen, schade ringen en losbreken ringen.</text><nl/>
+   <nl/>
+   <text> Zoals</text>
+   <color r="1" g="1" b="1"/>
+   <text> je ontdekt hebt is bewerken een erg dure en</text><nl/>
+   <text> tijdverslindende vaardigheid die gewoonlijk begonnen word</text><nl/>
+   <text> door meer ervaren spelers.</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Terug Naar Help Index"/>
+</Page>
+
+<Page name="engn">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                   Skills</text><nl/>
+
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Engineering</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Engineering</text>
+   <color r="1" g="1" b="1"/>
+   <text> is een geavanceerde vaardigheid, waarmee meerdere</text><nl/>
+   <text> apparaten gemaakt worden, zoals landmijnen, vizieren of</text><nl/>
+   <text> gevaarlijke stoffen.</text><nl/>
+   <text> Als je nieuw bent in het spel, wordt er geadviseeerd om</text><nl/>
+   <text> eerst beter te worden in andere vaardigheden voordat je</text><nl/>
+   <text> hiermee begint. Voor de meeste items heb je de hulp</text><nl/>
+   <text> nodig van vrij hoge vaardigheden. Ook moet je naar een</text><nl/>
+   <text> verre en gevaarlijke plek reizen om de dure boeken te</text><nl/>
+   <text> kopen die je nodig zult hebben.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Start</text>
+   <color r="1" g="1" b="1"/>
+   <text> engineering met het maken van as. Het enige wat je</text><nl/>
+   <text> nodig hebt zijn takken en vuur essenties.</text><nl/>
+   <text> Je kunt takken vinden in de bossen op de grond, zoals</text><nl/>
+   <text> op Isla Prima of in de Evergreen Woods in Desert</text><nl/>
+   <text> Pines; vuur essenties kun je maken (alchemie) of kopen</text><nl/>
+   <text> van andere spelers of de magie winkels op de White</text><nl/>
+   <text> Stone kaart. Als je de takken en essenties hebt, kun je</text><nl/>
+   <text> beginnen met as maken: open het produceren venster door</text><nl/>
+   <text> op het hamer en aambeeld icoon te klikken. Klik 3 keer</text><nl/>
+   <text> op de takken om die toe te voegen, een keer op een vuur</text><nl/>
+   <text> essentie, en klik op de "Mix" knop. Even wachten, en</text><nl/>
+   <text> hopelijk heb je as gemaakt!</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ga</text>
+   <color r="1" g="1" b="1"/>
+   <text> door met het maken van as om je eerste engineering levels</text><nl/>
+   <text> te bereiken, en bewaar ze in je voorraad. Ze kunnen later</text><nl/>
+   <text> gebruikt worden om geavanceerde items te maken.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Als</text>
+   <color r="1" g="1" b="1"/>
+   <text> je wat anders wilt gaan maken dan as zul je boeke moeten</text><nl/>
+   <text> lezen. De boekverkoper die je moet vinden heet Neculce</text><nl/>
+   <text> en bevind zich in North Redmoon. North Redmoon is een</text><nl/>
+   <text> kaart op het continent van Irilion en bevat dodelijke</text><nl/>
+   <text> monsters. De boeken waarmee je moet beginnen zijn</text><nl/>
+   <text> "Boek van Spijkers" en "Boek van Touw", deze kosten</text><nl/>
+   <text> 4000 goud per stuk.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Na</text>
+   <color r="1" g="1" b="1"/>
+   <text> het lezen van de boeken, kun je proberen om spijkers</text><nl/>
+   <text> en touw te maken. Je hebt garen nodig voor touw en</text><nl/>
+   <text> ijzeren baren voor de spijkers. Garen kun je maken</text><nl/>
+   <text> (bewerken), of kopen van spelers of winkels.</text><nl/>
+   <text> Als je garen hebt open je het produceren venster,</text><nl/>
+   <text> klik je 5 keer op het garen en dan op de "Mix" knop</text><nl/>
+   <text> om je eerste touw te maken. Touw kan verkocht worden</text><nl/>
+   <text> aan de winkels.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Om</text>
+   <color r="1" g="1" b="1"/>
+   <text> spijkers te maken heb je ijzeren baren en een hamer</text><nl/>
+   <text> nodig. Je kunt de baren zelf maken of kopen van spelers,</text><nl/>
+   <text> de hamer is te koop bij de smid in White Stone City.</text><nl/>
+   <text> Als je de baren en hamer hebt (en wat voedsel) open je</text><nl/>
+   <text> het produceren venster, klik je 2 keer op de baren en</text><nl/>
+   <text> vervolgens op de "Mix" knop om spijkers te maken.</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Terug Naar Help Index"/>
+   <nl/>
+</Page>
+</skills>

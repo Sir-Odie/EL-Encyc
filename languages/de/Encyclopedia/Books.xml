@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+<Page name="Books_MS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   BUECHER</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>               Metallverhuettung</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Buchtitel                 Preis (gm)   Forschungspunkte</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Huettenkunde                   30            250</text><nl/>
+   <text> Metallverhuettung              50            300</text><nl/>
+   <text> Eisenverhuettung              100            500</text><nl/>
+   <text> Goldverhuettung               250           1000</text><nl/>
+   <text> Silberverhuettung             500            500</text><nl/>
+   <text> Stahlverhuettung             1000           1200</text><nl/>
+   <text> Titanverhuettung             3000           2000</text><nl/>
+   <text> Hydrogenium Smelting                7000        4000</text><nl/>
+   <text> Tin Smelting                       20000       20000</text><nl/>
+   <text> Wolframite Smelting                 6000        6000</text><nl/>
+   <text> Copper Smelting                    20000       20000</text><nl/>
+   <text> Seridium Smelting                  10000       15000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_MM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   BUECHER</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                Metallabbau</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Buchtitel                 Preis (gm)   Forschungspunkte</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Metallabbau                   250            300</text><nl/>
+   <text> Eisenabbau                    500           2000</text><nl/>
+   <text> Silver mining                2500           1000</text><nl/>
+   <text> Goldabbau                    1000           1400</text><nl/>
+   <text> Titanabbau                   7500           6000</text><nl/>
+   <text> Hydrogenium Mining                  5000        8000</text><nl/>
+   <text> Tin Mining                         20000       20000</text><nl/>
+   <text> Wolframite Mining                   6000        9000</text><nl/>
+   <text> Copper Mining                      20000       20000</text><nl/>
+   <text> Seridium Mining                    10000       15000</text><nl/>
+   <text> Cinnabar Mining                    10000       15000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_MD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   BUECHER</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>  
+   <text>               Metal Molding</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Buchtitel                 Preis (gm)   Forschungspunkte</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Metall giessen                500            400</text><nl/>
+   <text> Stahl giessen                5000           2000</text><nl/>
+   <text> Gold giessen                 1500           1000</text><nl/>
+   <text> Eisen giessen                1000           1500</text><nl/>
+   <text> Silber giessen               2000           1500</text><nl/>
+   <text> Titan giessen               10000           7000</text><nl/>
+   <text> Hydrogenium Molding                 6000       10000</text><nl/>
+   <text> Tin Molding                        20000       20000</text><nl/>
+   <text> Wolframite Molding                  6000       11000</text><nl/>
+   <text> Copper Molding                     20000       20000</text><nl/>
+   <text> Seridium Molding                   10000       15000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_MO">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    BOOKS</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>  
+   <text>                    Other</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Book Name                  Drop  Price (gc)  Research Pts</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Metallurgy                            30         250</text><nl/>
+   <text> Gypsum Harvesting                    300         500</text><nl/>
+   <text> Gypsum Molding                       300         500</text><nl/>
+   <text> Mercury Extraction                 10000       15000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_WC">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   BUECHER</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>            Waffenkonstruktion</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Buchtitel                 Preis (gm)   Forschungspunkte</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Waffenkonstruktion            100            700</text><nl/>
+   <text> Schwertkonstruktion           200            900</text><nl/>
+   <text> Iron sword                    400           2000</text><nl/>
+   <text> Eisenbreitschwert             500           3000</text><nl/>
+   <text> Stahllangschwert             1000           4000</text><nl/>
+   <text> Zweischneidiges Schwert      2000           5000</text><nl/>
+   <text> Tit. Kurzschwert             4000           6000</text><nl/>
+   <text> Tit. Langschwert            10000           7000</text><nl/>
+   <text> Tit. Schlangenschwert       50000           8000</text><nl/>
+   <text> Gen. Axtkonstruktion        30000           4000</text><nl/>
+   <text> Eisenaxtkonstruktion        35000           3000</text><nl/>
+   <text> Stahlaxtkonstruktion        40000           4000</text><nl/>
+   <text> Tit. Axtkonstruktion        55000          10000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_AC">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   BUECHER</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>             Ruestungskonstruktion</text><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Buchtitel                 Preis (gm)   Forschungspunkte</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Generelle Ruestungskonstruktion  500           1000</text><nl/>
+   <text> Kopfschutz                       500           1600</text><nl/>
+   <text> Beinschutz                       500           1600</text><nl/>
+   <text> Brustpanzer                     1000           1200</text><nl/>
+   <text> Fussschutz                       500           1400</text><nl/>
+   <text> Lederhelm                        400            800</text><nl/>
+   <text> Eisenhelm                       1000           1400</text><nl/>
+   <text> Lederhosen                       500           1200</text><nl/>
+   <text> Iron Cuisses                    5000           1600</text><nl/>
+   <text> Gepolsterter Brustpanzer        1000           1000</text><nl/>
+   <text> Eisenkettenhemd                 2500           2000</text><nl/>
+   <text> Stahlkettenhemd                 5000           2100</text><nl/>
+   <text> Titankettenhemd                20000           4000</text><nl/>
+   <text> Eisenplattenpanzer             20000           2400</text><nl/>
+   <text> Eiserne Beinschienen            8000            800</text><nl/>
+   <text> Schildkonstrhktion               500            600</text><nl/>
+   <text> Eisenschild                     1000           1400</text><nl/>
+   <text> Stahlschild                     5000           1800</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_BI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   BUECHER</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                  Biologie</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Buchtitel                 Preis (gm)   Forschungspunkte</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Biologie                       50            400</text><nl/>
+   <text> Biochemie                      60            500</text><nl/>
+   <text> Pflanzenkunde                  40            400</text><nl/>
+   <text> Anatomie                      100            600</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_AL">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   BUECHER</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                  Alchemie</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Buchtitel                 Preis (gm)   Forschungspunkte</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Fortgeschrittene Alchemie     100            600</text><nl/>
+   <text> Lebensessenz                  500           1200</text><nl/>
+   <text> Todesessenz                   200           1300</text><nl/>
+   <text> Heilungsessenz               1000           1400</text><nl/>
+   <text> Magieessenz                  2000            800</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_PO">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   BUECHER</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                  Traenke</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Buchtitel                 Preis (gm)   Forschungspunkte</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Fortgeschritte Traenke        100            800</text><nl/>
+   <text> Vitalitaet                    150            900</text><nl/>
+   <text> Koordination                  250           1000</text><nl/>
+   <text> Willenskraft                  250            300</text><nl/>
+   <text> Wildheit                      500            400</text><nl/>
+   <text> Konstitution                  750            600</text><nl/>
+   <text> Koerperwiederherstellung     1000            900</text><nl/>
+   <text> Festessen                    2000           2000</text><nl/>
+   <text> Fetigung                     2500           2300</text><nl/>
+   <text> Kunsthandwerk                3000          21000</text><nl/>
+   <text> Beschwoeren                  5000           2600</text><nl/>
+   <text> Magie                        7500          25000</text><nl/>
+   <text> Potion of Alchemy                  30000       20000</text><nl/>
+   <text> Potion of Potion                   15000       15000</text><nl/>
+   <text> Potion of Engineering              20000       25000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_SM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   BUECHER</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                 Beschwoeren</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Buchtitel                 Preis (gm)   Forschungspunkte</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Fortgeschritte Beschwoerung     50            800</text><nl/>
+   <text> Schlangenbeschwoerung          100            400</text><nl/>
+   <text> Wolfbeschwoerung               100            600</text><nl/>
+   <text> Eberbeschwoerung               200            500</text><nl/>
+   <text> Skelettbeschwoerung            500            700</text><nl/>
+   <text> Gargoylebeschwoerung          1000            800</text><nl/>
+   <text> Pumabeschwoerung              2000            900</text><nl/>
+   <text> Polar Bear Summoning                 900         800</text><nl/>
+   <text> Female Goblin Summoning             1000        1000</text><nl/>
+   <text> Armed Male Goblin Summoning         1100        1100</text><nl/>
+   <text> Armed Skeleton Summoning            1200        1300</text><nl/>
+   <text> Female Orc Summoning                1300        1400</text><nl/>
+   <text> Male Orc Summoning                  1400        1500</text><nl/>
+   <text> Armed Female Orc Summoning          1500        1600</text><nl/>
+   <text> Armed Male Orc Summoning            1600        1700</text><nl/>
+   <text> Bear Summoning                5000           1000</text><nl/>
+   <text> Cyclops Summoning                   1700        1700</text><nl/>
+   <text> Flauschige Hasenbeschwoerung 10000          15000</text><nl/>
+   <text> Chimerenwolfbeschwoerung     20000          20000</text><nl/>
+   <text> Falcon Summoning                   20000       20000</text><nl/>
+   <text> Hawk Summoning                     20000       20000</text><nl/>
+   <text> Arctic Chimeran Summoning          15000       15000</text><nl/>
+   <text> Yeti Summoning                     20000       20000</text><nl/>
+   <text> Giant Summoning                    25000       25000</text><nl/>
+   <text> Red Dragon Summoning               35000       35000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_SS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    BOOKS</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>              Summoning Stones</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Book Name                  Drop  Price (gc)  Research Pts</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Bear Stone                          6000        3000</text><nl/>
+   <text> Armed Orc Stone                     8000        6000</text><nl/>
+   <text> Giant Spider Stone                  6000        2000</text><nl/>
+   <text> Tiger Stone                         6000        3000</text><nl/>
+   <text> Phantom Stone                      10000       10000</text><nl/>
+   <text> Fluffy Rabbit Stone                15000       12000</text><nl/>
+   <text> SSlessar Stone                     20000       18000</text><nl/>
+   <text> Yeti Stone                         25000       18000</text><nl/>
+   <text> Arctic Chimeran Stone              30000       22000</text><nl/>
+   <text> Giant Stone                        35000       25000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_FT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   BUECHER</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                  Kaempfen</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Buchtitel                 Preis (gm)   Forschungspunkte</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Kampftaktiken                  50            800</text><nl/>
+   <text> Goblinbekaempfung             100            900</text><nl/>
+   <text> Skeletttbekaempfung           250           1000</text><nl/>
+   <text> Gargoylebekaempfung           500           1100</text><nl/>
+   <text> Pumabekaempfung               500           1200</text><nl/>
+   <text> Baerenbekaempfung            1000           1400</text><nl/>
+   <text> Orkbekaempfung               2000           1300</text><nl/>
+   <text> Trollbekaempfung             5000           1500</text><nl/>
+   <text> Ogre Fighting                      10000        6000</text><nl/>
+   <text> Phantom Warrior Fighting           15000       10000</text><nl/>
+   <text> Zyklopenbekaempfung         10000           1600</text><nl/>
+   <text> Zwergenbekaempfung          20000           2000</text><nl/>
+   <text> Elfenbekaempfung            20000           2000</text><nl/>
+   <text> Menschenbekaempfung         20000           2000</text><nl/>
+   <text> Fluffy Fighting                    40000       20000</text><nl/>
+   <text> Yeti Fighting                     150000       35000</text><nl/>
+   <text> Giant Fighting                    200000       45000</text><nl/>
+   <text> Red Dragon Fighting               250000       55000</text><nl/>
+   <text> Black Dragon Fighting             290000       55000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_CM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   BUECHER</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>               Kristallabbau</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Buchtitel                 Preis (gm)   Forschungspunkte</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Kristall Technologie           30            300</text><nl/>
+   <text> Kristallabbau                  50            500</text><nl/>
+   <text> Quartzabbau                   150            400</text><nl/>
+   <text> Rosenquartzabbau              250            500</text><nl/>
+   <text> Blauquartzabbau               350            500</text><nl/>
+   <text> Rubinabbau                   2500            700</text><nl/>
+   <text> Smaragdabbau                 5000            700</text><nl/>
+   <text> Saphirabbau                 10000            700</text><nl/>
+   <text> Diamantabbau                 7500            700</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_CP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   BUECHER</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>             Kristallverarbeitung</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Buchtitel                 Preis (gm)   Forschungspunkte</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Kristallverarbeitung            50            500</text><nl/>
+   <text> Saphirverarbeitung            2500           1500</text><nl/>
+   <text> Smaragdverarbeitung           5000            600</text><nl/>
+   <text> Rubinverarbeitung             1000            700</text><nl/>
+   <text> Diamantverarbeitung           2000           2000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_TM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    BOOKS</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                Tools Making</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Book Name                  Drop  Price (gc)  Research Pts</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Alembic Building                   10000       15000</text><nl/>
+   <text> Vial Mold Building                 10000       15000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_JE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   BUECHER</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>              Edelsteine fassen</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Buchtitel                 Preis (gm)   Forschungspunkte</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Edelstein Technologie         200            700</text><nl/>
+   <text> Kristallfassung               500            500</text><nl/>
+   <text> Diamandfassung               2000            400</text><nl/>
+   <text> Saphirfassung                1000            300</text><nl/>
+   <text> Smaragdfassung               1000            360</text><nl/>
+   <text> Rubinfassung                 1000            200</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_MB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   BUECHER</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>             Medallionkonstruktion</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Buchtitel                 Preis (gm)   Forschungspunkte</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Gewoehnliche Medallions       250            900</text><nl/>
+   <text> Silbermedallions              500            600</text><nl/>
+   <text> Goldmedallions                500            500</text><nl/>
+   <text> Sonnenmedallion              1000           1600</text><nl/>
+   <text> Sternmedallion               1500           1800</text><nl/>
+   <text> Einhornmedallion             3000           1400</text><nl/>
+   <text> Mondmedallion               10000           1600</text><nl/>
+   <text> Seridium Medallions                10000        5000</text><nl/>
+   <text> Harvester Medallion                10000        2000</text><nl/>
+   <text> Heaven Spawner Medallion           10000        2000</text><nl/>
+   <text> Medallion of Life                  10000       15000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_CB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    BOOKS</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>               Crown Building</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Book Name                  Drop  Price (gc)  Research Pts</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Crown of Mana                      25000       22000</text><nl/>
+   <text> Crown of Life                      25000       22000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_JO">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    BOOKS</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                    Other</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Book Name                  Drop  Price (gc)  Research Pts</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Saving stone                       30000       30000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Books" title="Back To Books Index"/>
+</Page>
+<Page name="Books_RB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   BUECHER</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>               Ring Building</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Buchtitel                 Preis (gm)   Forschungspunkte</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Gewoehnliche Ringe            150            800</text><nl/>
+   <text> Silberringe                   500            600</text><nl/>
+   <text> Goldringe                     400            400</text><nl/>
+   <text> Isla Prima Ring              1000            200</text><nl/>
+   <text> Desert Pines Ring            1500            600</text><nl/>
+   <text> Ring des Schadens            5000           5000</text><nl/>
+   <text> Portland Ring                1500            600</text><nl/>
+   <text> Naralik Ring                 1500            900</text><nl/>
+   <text> White Stone Ring             2000            600</text><nl/>
+   <text> Valley of the Dwarves Ring   3500            800</text><nl/>
+   <text> Ring der Flucht             10000           3000</text><nl/>
+   <text> Mana Destruction Ring               5000        8000</text><nl/>
+   <text> Massive Mana Destr. Ring           10000       15000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_RBC2">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    BOOKS</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>            Irilion Ring Building</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Book Name                  Drop  Price (gc)  Research Pts</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ring of Anitora                     3000         800</text><nl/>
+   <text> Ring of Idaloran                    4000         800</text><nl/>
+   <text> Ring of Bethel                      4000         700</text><nl/>
+   <text> Ring of Sedicolis                   4000         700</text><nl/>
+   <text> Ring of Palon Vertas                4000        1000</text><nl/>
+   <text> Ring of Kusamura                    4000         600</text><nl/>
+   <text> Ring of Egratia Point               4000         600</text><nl/>
+   <text> Ring of Iscalrith                   4000         700</text><nl/>
+   <text> Ring of Irinveron                   4000         700</text><nl/>
+   <text> Ring of Hulda                       4000         700</text><nl/>
+   <text> Ring of Trassian                    4000         700</text><nl/>
+   <text> Ring of Isle of the Forgotten       4000         700</text><nl/>
+   <text> Ring of Imbroglio Islands           4000         700</text><nl/>
+   <text> Ring of Hurquin                     4000         700</text><nl/>
+   <text> Ring of Glacmor                     4000         700</text><nl/>
+   <text> Ring of Emerald Valley              4000         700</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_AAC">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    BOOKS</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>         Advanced Armor Construction</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Book Name                  Drop  Price (gc)  Research Pts</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Steel Greaves                       6000        1500</text><nl/>
+   <text> Steel Cuisses                       6000        2000</text><nl/>
+   <text> Steel Plate Armor                   6000        4400</text><nl/>
+   <text> Steel Helm                          6000        1900</text><nl/>
+   <text> Titanium Greaves                    6000        2000</text><nl/>
+   <text> Titanium Cuisses                    6000        2800</text><nl/>
+   <text> Titanium Plate Armor                6000        6400</text><nl/>
+   <text> Titanium Helm                       6000        2500</text><nl/>
+   <text> Titanium Shield                     6000        2800</text><nl/>
+   <text> Bronze Greaves                     20000       15000</text><nl/>
+   <text> Bronze Cuisses                     20000       15000</text><nl/>
+   <text> Bronze Plate Armor                 20000       15000</text><nl/>
+   <text> Bronze Helm                        20000       15000</text><nl/>
+   <text> Bronze Shield                      20000       15000</text><nl/>
+   <text> Red Dragon Greaves                 20000       15000</text><nl/>
+   <text> Red Dragon Cuisses                 20000       15000</text><nl/>
+   <text> Red Dragon Torso Armor             20000       15000</text><nl/>
+   <text> Red Dragon Helm                    20000       15000</text><nl/>
+   <text> Black Dragon Greaves               20000         ???</text><nl/>
+   <text> Black Dragon Cuisses               20000         ???</text><nl/>
+   <text> Black Dragon Torso Armor           20000         ???</text><nl/>
+   <text> Black Dragon Helm                  20000         ???</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_AWC">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    BOOKS</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>        Advanced Weapon Construction</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Book Name                  Drop  Price (gc)  Research Pts</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Emerald Claymore                    6000       12000</text><nl/>
+   <text> Cutlass                             6000       12000</text><nl/>
+   <text> Sunbreaker                          6000       12000</text><nl/>
+   <text> Orc Slayer                          6000       12000</text><nl/>
+   <text> Eagle Wing                          6000       12000</text><nl/>
+   <text> Rapier                              6000       12000</text><nl/>
+   <text> Jagged Saber                        6000       12000</text><nl/>
+   <text> Bronze Sword                       20000       15000</text><nl/>
+   <text> Golden Star Mace                   20000       15000</text><nl/>
+   <text> Spear                              20000       15000</text><nl/>
+   <text> Halberd                            20000       15000</text><nl/>
+   <text> Dragon Blade                       20000       15000</text><nl/>
+   <text> Frying Pan                          8000        1500</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_EN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    BOOKS</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                 Engineering</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Book Name                  Drop  Price (gc)  Research Pts</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nails                               4000        2500</text><nl/>
+   <text> Rope                                4000        1000</text><nl/>
+   <text> Blackpowder                         5000        5000</text><nl/>
+   <text> Snare                              10000        2500</text><nl/>
+   <text> Caltrops                           10000       11000</text><nl/>
+   <text> Saltpetre                          10000       20000</text><nl/>
+   <text> Poisoned Caltrops                  15000       15000</text><nl/>
+   <text> Small Landmine                     20000       20000</text><nl/>
+   <text> Medium Landmine                    20000       15000</text><nl/>
+   <text> High Explosive Landmine            20000       15000</text><nl/>
+   <text> RC Landmine                        15000       20000</text><nl/>
+   <text> RC Landmine Detonator              15000       20000</text><nl/>
+   <text> Barricade                          20000       20000</text><nl/>
+   <text> Lightmeter                         10000       10000</text><nl/>
+   <text> Invasionmeter                      10000       10000</text><nl/>
+   <text> Night Visor                        25000       30000</text><nl/>
+   <text> Camouflage Cape                    25000       25000</text><nl/>
+   <text> Mana Burn Ward                     15000       20000</text><nl/>
+   <text> Mana Drain Ward                    15000       20000</text><nl/>
+   <text> Immunity Removal Ward              15000       20000</text><nl/>
+   <text> Invisibility Removal Ward          15000       20000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Books" title="Back To Books Index"/>
+</Page>
+<Page name="Books_ASTRO">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    BOOKS</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                  Astrology</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Book Name                  Drop  Price (gc)  Research Pts</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Astrology Indicator                10000       20000</text><nl/>
+   <text> Attack/Defense Indicator           12000       25000</text><nl/>
+   <text> Criticals Indicator                12000       25000</text><nl/>
+   <text> Accuracy/Magic Indicator           12000       25000</text><nl/>
+   <text> Harvest/Degrade Indicator          12000       25000</text><nl/>
+   <text> Make Rare/Fail Indicator           12000       25000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Books" title="Back To Books Index"/>
+</Page>
+<Page name="Books_ARROWS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    BOOKS</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                   Archery</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Book Name                  Drop  Price (gc)  Research Pts</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Bows and Crossbows                 10000       10000</text><nl/>
+   <text> PK Arrows                          10000       10000</text><nl/>
+   <text> Fire Arrows                        10000       10000</text><nl/>
+   <text> Ice Arrows                         10000       10000</text><nl/>
+   <text> Magic Arrows                       10000       10000</text><nl/>
+   <text> PK Bolts                           10000       10000</text><nl/>
+   <text> Fire Bolts                         10000       10000</text><nl/>
+   <text> Ice Bolts                          10000       10000</text><nl/>
+   <text> Magic Bolts                        10000       10000</text><nl/>
+   <text> Arrows/Bolts Head Mold             10000       10000</text><nl/>
+   <text> Arrows/Bolts Head                  10000       10000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Books" title="Back To Books Index"/>
+</Page>
+<Page name="Books_TAI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    BOOKS</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                  Tailoring</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Book Name                  Drop  Price (gc)  Research Pts</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Fabric Weaving                      5000       10000</text><nl/>
+   <text> Fabric Dyeing                       5000        8000</text><nl/>
+   <text> Red Dye                             5000        8000</text><nl/>
+   <text> Orange Dye                          5000        8000</text><nl/>
+   <text> Yellow Dye                          5000        8000</text><nl/>
+   <text> Green Dye                           5000        8000</text><nl/>
+   <text> Blue Dye                            5000        8000</text><nl/>
+   <text> Purple Dye                          5000        8000</text><nl/>
+   <text> Black Dye                           5000        8000</text><nl/>
+   <text> Robe                               15000       15000</text><nl/>
+   <text> Robe Skirt                         19000       15000</text><nl/>
+   <text> Tunic                              20000       15000</text><nl/>
+   <text> Tunic/Shirt Combo                  25000       15000</text><nl/>
+   <text> Baggy Pants                        20000       15000</text><nl/>
+   <text> Scarves                             9000       15000</text><nl/>
+   <text> Tricorn Hat                        12000       15000</text><nl/>
+   <text> Buccaneer Hat                      14000       15000</text><nl/>
+   <text> Santa Hat                          20000       15000</text><nl/>
+   <text> Hood                               20000       15000</text><nl/>
+   <text> No More Warlock Cape               20000       25000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Books" title="Back To Books Index"/>
+</Page>
+<Page name="Books_MSW">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    BOOKS</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                Magic Swords</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Book Name                           Drop     Research Pts</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Special Sword Manufacturing          *          2000</text><nl/>
+   <text> Fire Sword Manufacturing             *          2000</text><nl/>
+   <text> Ice Sword Manufacturing              *          2000</text><nl/>
+   <text> Magic Sword Manufacturing            *          2000</text><nl/>
+   <text> Thermal Sword Manufacturing          *          2000</text><nl/>
+   <text> Iron Sword of Fire                   *          1000</text><nl/>
+   <text> Iron Broad Sword of Fire             *          1100</text><nl/>
+   <text> Steel Long Sword of Fire             *          1100</text><nl/>
+   <text> Steel Two Edged Sword of Fire        *          1200</text><nl/>
+   <text> Titanium Short Sword of Fire         *           ???</text><nl/>
+   <text> Titanium Long Sword of Fire          *           ???</text><nl/>
+   <text> Titanium Serpent Sword of Fire       *           ???</text><nl/>
+   <text> Iron Broad Sword of Ice              *          1100</text><nl/>
+   <text> Steel Long Sword of Ice              *          1100</text><nl/>
+   <text> Steel Two Edged Sword of Ice         *          1200</text><nl/>
+   <text> Titanium Short Sword of Ice          *           ???</text><nl/>
+   <text> Titanium Long Sword of Ice           *           ???</text><nl/>
+   <text> Titanium Serpent Sword of Ice        *           ???</text><nl/>
+   <text> Steel Long Sword of Magic            *          1100</text><nl/>
+   <text> Steel Two Edged Sword of Magic       *          1200</text><nl/>
+   <text> Titanium Short Sword of Magic        *           ???</text><nl/>
+   <text> Titanium Long Sword of Magic         *           ???</text><nl/>
+   <text> Titanium Serpent Sword of Magic      *           ???</text><nl/>
+   <text> Steel Two Edged Sword of Thermal     *          1200</text><nl/>
+   <text> Titanium Short Sword of Thermal      *           ???</text><nl/>
+   <text> Titanium Long Sword of Thermal       *           ???</text><nl/>
+   <text> Titanium Serpent Sword of Thermal    *           ???</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_AP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    BOOKS</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>              Advanced Potions</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Book Name                           Drop     Research Pts</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Poison Antidote                      *          8000</text><nl/>
+   <text> Potion of True Sight                 *         10000</text><nl/>
+   <text> Potion of Invisibility               *         15000</text><nl/>
+   <text> Potion of Accuracy                   *         15000</text><nl/>
+   <text> Potion of Evasion                    *         15000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Books" title="Zuruck zum Buecher Index"/>
+</Page>
+<Page name="Books_PRE_test">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    BOOKS</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>            Prerequisites Tables</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <nl/><nl/><nl/>
+   <text> PAGE UNDER CONSTRUCTION</text><nl/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Books" title="Back To Books Index"/>
+</Page>
+<Page name="Books_PRE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    BOOKS</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>            Prerequisites Tables</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <nl/><nl/><nl/>
+   <text> PAGE UNDER CONSTRUCTION</text><nl/><nl/><nl/>
+   <text> Metals</text><nl/>
+   <color>yellow</color><text> +---------------+</text><nl/>
+   <color>yellow</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>  Metallurgy</text><color>yellow</color><text>  |</text><nl/>
+   <color>yellow</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text> Metal Mining</text><color>yellow</color><text> |</text><nl/>
+   <color>yellow</color><text> +---------------+</text><nl/>
+   <color>green</color><text>         |</text><nl/>
+   <color>green</color><text>         |</text><nl/>
+   <color>green</color><text>         |</text><nl/>
+   <color>red</color><text> +---------------+</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text> Iron Mining</text><color>red</color><text>  |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Silver Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Gold Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Titanium Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Hydrogenium Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Tin Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Wolframite Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Copper Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Seridium Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Cinnabar Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> +---------------+</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Books" title="Back To Books Index"/>
+</Page>
+</Books>

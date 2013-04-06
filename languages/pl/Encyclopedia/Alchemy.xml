@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Alchemy>
+<Page name="Fire Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Fire Essence</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Esencja Ognia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana do: metali, broni, zbroi, w Jubilerstwie</text><nlkx/>
+   <text> Przywolywaniu oraz produkcji fiolek (Vials).</text><nlkx/>
+   <text> W zakleciach: Tarcza Zimna (Cold Shield).</text><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       1 </text><link ref="Sulphur" title="Sulphur"/>
+   <nl/>
+   <text>                           1 </text><link ref="Red_Rose" title="Red Rose"/>
+   <nl/>
+   <text>                           1 </text><link ref="Red_Snapdragons" title="Red Snapdragon"/>
+   <nl/><nl/>
+   <text> Zalecany Poziom Alchemii: 1</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 6</text>
+   <nl/>
+   <text> Koszt Jedzenia:           1</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc Do Indeksu Alchemii"/>
+</Page>
+<Page name="Water Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Water Essence</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Esencja Wody)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w: jubilerstwie, krawiectwie.</text>
+   <nlkx/>
+   <text> W zakleciach: Tarcza Goraca (Heat Shield).</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       1 </text><link ref="Blue_Lupine" title="Blue Lupine"/>
+   <nl/>
+   <text>                           1 </text><link ref="Blue Star Flower" title="Blue Star Flower"/>
+   <nl/>
+   <text>                           1 </text><link ref="Sapphire" title="Sapphire"/>
+   <nl/>
+   <text>                           1 </text><link ref="Blue_Quartz" title="Blue Quartz"/>
+   <nl/><nl/>
+   <text> Zalecany Poziom Alchemii: 2</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 10</text>
+   <nl/>
+   <text> Koszt Jedzenia:           1</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc Do Indeksu Alchemii"/>
+</Page>   
+<Page name="Earth Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Earth Essence</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Esencja Ziemi)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w: Matter Conglomerate</text>
+   <nlkx/>
+   <text> w niektorych magicznych zakleciach.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       1 </text><link ref="Sulphur" title="Sulphur"/>
+   <nl/>
+   <text>                           1 </text><link ref="Swamp_Candle" title="Swamp Candle"/>
+   <nl/>
+   <text>                           2 </text><link ref="Coal" title="Coal"/>
+   <nl/><nl/>
+   <text> Zalecany Poziom Alchemii: 4</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 20</text>
+   <nl/>
+   <text> Koszt Jedzenia:           2</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc Do Indeksu Alchemii"/>
+</Page>   
+<Page name="Air Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Air Essence</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Esencja Powietrza)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w: farbowaniu, produkcji toporow.</text><nlkx/>
+   <text> W zakleciach: Wyssanie Many (Mana Drain) oraz</text><nlkx/>
+   <text> Niewidzialnosc (Invisibility)</text><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       1 </text><link ref="Silver_Ore" title="Silver Ore"/>
+   <nl/>
+   <text>                           1 </text><link ref="Diamonds" title="Unpolished Diamond"/>
+   <nl/>
+   <text>                           1 </text><link ref="White_Asiatic_Lilly" title="White Asiatic Lilly"/>
+   <nl/><nl/>
+   <text> Zalecany Poziom Alchemii: 6</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 25</text>
+   <nl/>
+   <text> Koszt Jedzenia:           3</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc Do Indeksu Alchemii"/>
+</Page>   
+<Page name="Spirit Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Spirit Essence</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Esencja Ducha)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> W zakleciach: Teleportacji (Range/Portals Room/</text><nlkx/>
+   <text> Intercontinental), True Sight, Leczenie</text><nlkx/>
+   <text> Przywolanych (Heal Summoned) oraz Porazenie</text><nlkx/>
+   <text> Przywolanych (Smite Summoned).</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       1 </text><link ref="Mercury" title="Mercury"/>
+   <nl/>
+   <text>                           1 </text><link ref="Silver_Ore" title="Silver Ore"/>
+   <nl/>
+   <text>                           1 </text><link ref="Gold_Ore" title="Gold Ore"/>
+   <nl/><nl/>
+   <text> Zalecany Poziom Alchemii: 8</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 35</text>
+   <nl/>
+   <text> Koszt Jedzenia:           4</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc Do Indeksu Alchemii"/>
+</Page>   
+<Page name="Matter Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Matter Essence</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Esencja Materii)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana do: Matter Conglomerate, Przywolywanie</text><nlkx/>
+   <text> W zakleciach: Zbyt wielu by wymienic.</text><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       1 </text><link ref="Iron_Ore" title="Iron Ore"/>
+   <nl/>
+   <text>                           1 </text><link ref="Quartz" title="Quartz"/>
+   <nl/>
+   <text>                           1 </text><link ref="Rose_Quartz" title="Rose Quartz"/>
+   <nl/>
+   <text>                           1 </text><link ref="Blue_Quartz" title="Blue Quartz"/>
+   <nl/><nl/>
+   <text> Zalecany Poziom Alchemii: 10</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 40</text>
+   <nl/>
+   <text> Koszt Jedzenia:           5</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc Do Indeksu Alchemii"/>
+</Page>   
+<Page name="Energy Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Energy Essence</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Esencja Energii)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w: Jubilerstwie</text><nlkx/>
+   <text> Uzyta do zaklec: Zbyt wielu by tu wymienic.</text><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       1 </text><link ref="Iron_Ore" title="Iron Ore"/>
+   <nl/>
+   <text>                           1 </text><link ref="Silver_Ore" title="Silver Ore"/>
+   <nl/>
+   <text>                           1 </text><link ref="Tiger_Lilly" title="Tiger Lilly"/>
+   <nl/><nl/>
+   <text> Zalecany Poziom Alchemii: 12</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 45</text>
+   <nl/>
+   <text> Koszt Jedzenia:           6</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc Do Indeksu Alchemii"/>
+</Page>
+<Page name="Life Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Life Essence</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Esencja Zycia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w: Przywolywaniu.</text><nlkx/>
+   <text> W zakleciach: Wyssanie zycia (Life Drain), Leczenie</text><nlkx/>
+   <text> Przywolanych (Heal Summoned).</text><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       1 </text><link ref="Silver_Ore" title="Silver Ore"/>
+   <nl/>
+   <text>                           2 </text><link ref="Sunflower" title="Sunflower"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:          Life Essence</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 14</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 50</text>
+   <nl/>
+   <text> Koszt Jedzenia:           7</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc Do Indeksu Alchemii"/>
+</Page>   
+<Page name="Death Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Death  Essence</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Esencja Smierci)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w: Przywolywanie, Jubilerstwo</text><nlkx/>
+   <text> W zakleciach: Trucizna (Poison), Zranienie (Harm),</text><nlkx/>
+   <text> Porazenie przywolanych (Smite Summoned).</text><nlkx/>
+   <nl/>   
+   <color r="0.9" g="0.9" b="0.9"/>
+      <text> Wymagane Skladniki:       1 </text><link ref="Quartz" title="Quartz"/>
+   <nl/>
+   <text>                           1 </text><link ref="Mercury" title="Mercury"/>
+   <nl/>
+   <text>                           1 </text><link ref="Cactus" title="Cactus"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:          Death Essence</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 16</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 60</text>
+   <nl/>
+   <text> Koszt Jedzenia:           8</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc Do Indeksu Alchemii"/>
+</Page>   
+<Page name="Health Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Health Essence</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Esencja Zdrowia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana do zaklec: Leczenie (Heal), Zdalne leczenie</text><nlkx/>
+   <text> (Remote Heal), Zranienie (Harm), Przywrocenie,</text><nlkx/>
+   <text> (Restoration), Leczenie Przywolanych (Heal Summoned).</text><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+      <text> Wymagane Skladniki:       2 </text><link ref="Silver_Ore" title="Silver Ore"/>
+   <nl/>
+   <text>                           1 </text><link ref="Chrysanthemum" title="Chrysanthemum"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:          Health Essence</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 18</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 70</text>
+   <nl/>
+   <text> Koszt Jedzenia:           8</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc Do Indeksu Alchemii"/>
+</Page>  
+<Page name="Magic Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Magic Essence</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Esencja Magii)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w: Jubilerstwo.</text><nlkx/>
+   <text> W zakleciach: Zdalne leczenie (Remote Heal), Ochrona</text><nlkx/>
+   <text> przed magia (Magic Protection), Radiation Shield,</text><nlkx/>
+   <text> True Sight, Niewrazliwosc na magie (Magic Immunity).</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+      <text> Wymagane Skladniki:       1 </text><link ref="Emeralds" title="Emerald"/>
+   <nl/>
+   <text>                           1 </text><link ref="Lilacs" title="Lilac"/>
+   <nl/>
+   <text>                           1 </text><link ref="Impatiens" title="Impatients"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:          Magic Essence</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 20</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 80</text>
+   <nl/>
+   <text> Koszt Jedzenia:           10</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc Do Indeksu Alchemii"/>
+</Page>
+
+<Page name="Iron Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Iron Bar</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Sztabka Zelaza)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w: produkcji broni, zbroi, gwozdzi.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+    <text> Wymagane Skladniki:       7 </text><link ref="Iron_Ore" title="Iron Ores"/>
+   <nl/>
+   <text>                           3 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text>                           2 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:          Iron Smelting</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 22</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 120</text>
+   <nl/>
+   <text> Koszt Jedzenia:           11</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     2 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc Do Indeksu Alchemii"/>
+</Page>  
+<Page name="Steel Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Steel Bar</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Sztabka Stali)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w: produkcji broni i zbroi.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       8 </text><link ref="Iron_Ore" title="Iron Ores"/>
+   <nl/>
+   <text>                           5 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text>                           3 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:          Steel Smelting</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 24</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 140</text>
+   <nl/>
+   <text> Koszt Jedzenia:           12</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     2 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc Do Indeksu Alchemii"/>
+</Page> 
+<Page name="Silver Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Silver Bar</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Sztabka Srebra)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w: Jubilerstwo.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       8 </text><link ref="Silver_Ore" title="Silver Ores"/>
+   <nl/>
+   <text>                           3 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text>                           4 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:          Silver Smelting</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 26</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 155</text>
+   <nl/>
+   <text> Koszt Jedzenia:           13</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     2 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc Do Indeksu Alchemii"/>
+</Page>
+<Page name="Gold Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Gold Bar</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Sztabka Zlota)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w: Jubilerstwo.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       8 </text><link ref="Gold_Ore" title="Gold Ores"/>
+   <nl/>
+   <text>                           3 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text>                           5 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:          Gold Smelting</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 28</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 170</text>
+   <nl/>
+   <text> Koszt Jedzenia:           14</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     3 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc Do Indeksu Alchemii"/>
+</Page>
+<Page name="Titanium Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Titanium Bar</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Sztabka Tytanu)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w: produkcji Zbroi i Broni.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       8 </text><link ref="Titanium_Ore" title="Titanium Ores"/>
+   <nl/>
+   <text>                           3 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text>                           7 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:          Titanium Smelting</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 30</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 180</text>
+   <nl/>
+   <text> Koszt Jedzenia:           15</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc Do Indeksu Alchemii"/>
+</Page>
+<Page name="Copper Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Copper Bar</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Sztabka Miedzi)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w: produkcji Bronze Bar (Sztabka Brazu).</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+    <text> Wymagane Skladniki:       10 </text><link ref="Copper" title="Copper Ores"/>
+   <nl/>
+   <text>                           10 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text>                           20 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:          Copper Smelting</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 34</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 120</text>
+   <nl/>
+   <text> Koszt Jedzenia:           25</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     15 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc do Indeksu Alchemii"/>
+</Page>
+<Page name="Dvarium Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Dvarium bar</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Sztabka Dvarium)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Nasi naukowcy ciagle pracuja nad odkryciem</text><nlkx/>
+   <text> wszystkich wlasciwosci tego metalu. Nie wiemy zatem</text><nlkx/>
+   <text> do czego go uzyc.</text><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+    <text> Wymagane Skladniki:       15 </text><link ref="Dvarium" title="Dravium Ores"/><nl/>
+   <text>                            1 </text><link ref="Serpent_Stone" title="Serpent Stone"/><nl/>
+   <text>                            8 </text><link ref="Coal" title="Coals"/><nl/>
+   <text>                           30 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:          Dvarium Smelting</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 70</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 2000</text>
+   <nl/>
+   <text> Koszt Jedzenia:           25</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     10 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc do Indeksu Alchemii"/>
+</Page>
+<Page name="Hydrogenium Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Hydrogenium Bar</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Sztabka Wodoru)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane w: produkcji zaawansowanych Zbroi i Broni.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       10 </text><link ref="Hydrogenium" title="Hydrogenium Ores"/>
+   <nl/>
+   <text>                           4 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text>                           10 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:          Hydrogenium Smelting</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 50</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 1000</text>
+   <nl/>
+   <text> Koszt Jedzenia:           25</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc do Indeksu Alchemii"/>
+</Page>
+<Page name="Seridium Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Seridium bar</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Sztabka Seridium)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane w: Jubilerstwo.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       6 </text><link ref="Seridium" title="Seridium Ores"/>
+   <nl/>
+   <text>                           10 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text>                           20 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:          Seridium Smelting</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 52</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 800</text>
+   <nl/>
+   <text> Koszt Jedzenia:           25</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     15 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc do Indeksu Alchemii"/>
+</Page>
+<Page name="Irilium Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Irilium bar</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Sztabka Irilium)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Nasi naukowcy ciagle pracuja nad odkryciem,</text><nlkx/>
+   <text> wszystkich wlasciwosci tego metalu. Nie wiemy zatem</text><nlkx/>
+   <text> jak go produkowac.</text><nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       ???</text>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:          ???</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: ???</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia:           ???</text>
+   <nl/>
+   <text> Ukladana w stos:          ???</text>
+   <nl/>
+   <text> Waga:                     ???</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc do Indeksu Alchemii"/>
+</Page>
+<Page name="Tin Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Tin bar</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                         (Sztabka Cyny)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane w produkcji sztabki brazu.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:        6 </text><link ref="Tin" title="Tin Ores"/>
+   <nl/>
+   <text>                           10 </text><link ref="Coal" title="Coals"/>
+   <nl/>
+   <text>                           20 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:          Tin Smelting</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 32</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 600</text>
+   <nl/>
+   <text> Koszt Jedzenia:           25</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     15 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc do Indeksu Alchemii"/>
+</Page>
+<Page name="Wolfram Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Wolfram bar</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Sztabka Wolframu)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywany w: produkcji zaawansowanych zbroi i broni.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       10 </text><link ref="Wolfram" title="Wolfram Ores"/>
+   <nl/>
+   <text>                            1 </text><link ref="Serpent_Stone" title="Serpent Stone"/>
+   <nl/>
+   <text>                           30 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:          Wolframite Smelting</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 60</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 1500</text>
+   <nl/>
+   <text> Koszt Jedzenia:           30</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     30 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc do Indeksu Alchemii"/>
+</Page>
+<Page name="Bronze Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Bronze bar</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Sztabka Brazu)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w: produkcji zaawansowanych Zbroi i Broni.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:        1 </text><link ref="Copper Bar" title="Copper Bar"/>
+   <nl/>
+   <text>                            1 </text><link ref="Tin Bar" title="Tin Bar"/>
+   <nl/>
+   <text>                           30 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:          brak wymagan</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 36</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 800</text>
+   <nl/>
+   <text> Koszt Jedzenia:           25</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     20 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc do Indeksu Alchemii"/>
+</Page>
+<Page name="Enriched Fire Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Enriched Fire Essence</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                  (Wzbogacona Esencja Ognia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w: produkcji zaawansowanych Zbroi i Broni.</text>
+   <nlkx/>
+   <text> Moze byc wyprodukowana przy odrobinie szczescia w</text>
+   <nlkx/>
+   <text> czasie tworzenia zwyklej Esencji Ognia.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       1   </text><link ref="Enrich_Stone" title="Enrichment Stone"/>
+   <nl/>
+   <text>                           100 </text><link ref="Fire Essence" title="Fire Essences"/>
+   <nl/><nl/>
+   <text> Zalecany Poziom Alchemii: 56</text><nl/>
+   <text> Doswiadczenie w Alchemii: 700</text><nl/>
+   <text> Koszt Jedzenia:           30</text><nl/>
+   <text> Ukladana w stos:          Tak</text><nl/>
+   <text> Waga:                     1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc do Indeksu Alchemii"/>
+</Page>
+<Page name="Enriched Life Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Enriched Life Essence</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                  (Wzbogacona Esencja Zycia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w: zaawansowanym Jubilerstwie i Przywolaniu.</text>
+   <nlkx/>
+   <text> Moze byc wyprodukowana przy odrobinie szczescia w</text>
+   <nlkx/>
+   <text> czasie tworzenia zwyklej Esencji Zycia.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+    <text> Wymagane Skladniki:       1   </text><link ref="Enrich_Stone" title="Enrichment Stone"/>
+   <nl/>
+   <text>                           100 </text><link ref="Life Essence" title="Life Essences"/>
+   <nl/><nl/>
+   <text> Zalecany Poziom Alchemii: 48</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 500</text>
+   <nl/>
+   <text> Koszt Jedzenia:           30</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc do Indeksu Alchemii"/>
+</Page>
+<Page name="Enriched Magic Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Enriched Magic Essence</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                  (Wzbogacona Esencja Magii)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w Jubilerstwie, broniach i Przywolywaniu.</text>
+   <nlkx/>
+   <text> Moze byc wyprodukowana przy odrobinie szczescia w</text>
+   <nlkx/>
+   <text> czasie tworzenia zwyklej Esencji Magii.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Skladniki:       1   </text><link ref="Enrich_Stone" title="Enrichment Stone"/>
+   <nl/>
+   <text>                           100 </text><link ref="Magic Essence" title="Magic Essences"/>
+   <nl/><nl/>
+   <text> Zalecany Poziom Alchemii: 54</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 600</text>
+   <nl/>
+   <text> Koszt Jedzenia:           30</text>
+   <nl/>
+   <text> Ukladana w stos:          Tak</text>
+   <nl/>
+   <text> Waga:                     1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc do Indeksu Alchemii"/>
+</Page>
+<Page name="Enriched Water Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Enriched Water Essence</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Wzbogacona Esencja Wody)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana do zaawansowanego Przywolywania i do broni.</text>
+   <nlkx/>
+   <text> Moze byc wyprodukowana przy odrobinie szczescia w</text>
+   <nlkx/>
+   <text> czasie tworzenia zwyklej Esencji Wody.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/>
+   <nl/>
+   <text> Ukladana w stos: Tak</text>
+   <nl/>
+   <text> Waga:            1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc do Indeksu Alchemii"/>
+</Page>
+<Page name="Enriched Death Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Enriched Death Essence</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                (Wzbogacona Esencja Smierci)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywana w zaawansowanym Przywolywaniu.</text>
+   <nlkx/>
+   <text> Moze byc wyprodukowana przy odrobinie szczescia w</text>
+   <nlkx/>
+   <text> czasie tworzenia zwyklej Esencji Smierci.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/>
+   <nl/>
+   <text> Ukladana w stos: Tak</text>
+   <nl/>
+   <text> Waga:            1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Alchemy" title="Wroc do Indeksu Alchemii"/>
+</Page>
+</Alchemy>

@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Maps2>
+<Page name="Maps2_PA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Port Anitora (PA)</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="3" name="3dobjects/banners4.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Anitora is a thriving market that is the median</text><nlkx/>
+   <text> between Irilion and Seridia.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Originally, it was just a sand dune in the middle</text><nl/>
+   <text> of the sea, but when Sarma stumbled across it with his</text><nl/>
+   <text> magical dragon ship, ambassadors from all over Irilion</text><nl/>
+   <text> came to make their mark on this historic landmark.</text><nl/>
+   <text> </text><nl/>
+   <text> Now, you can find all types of merchants on the isle.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: No</text><nlkx/>
+   <nl/>
+   <text> PK: No</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: No</text><nlkx/>
+   <nl/>
+   <text> Races: No set race</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Idaloran (boat)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_Ida">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Idaloran (Ida)</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="2" name="3dobjects/banners4.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Idaloran not only is one of the largest Irilian</text><nlkx/>
+   <text> territories, but is home of Empress Hyanithe IX,</text><nlkx/>
+   <text> the ruler of the  Idal Empire.</text><nlkx/>
+   <nl/>
+   <text> It consists of a thriving port and city, a group of</text><nl/>
+   <text> plantations in the south, a intricate mine system, and a</text><nl/>
+   <text> haunted wood to the north.</text><nl/>
+   <nl/>
+   <text> The cemetery also has a magic link to the underworld, and</text><nl/>
+   <text> will let lost souls pass back to our world there.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Yes</text><nlkx/>
+   <nl/>
+   <text> PK: No</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Yes</text><nlkx/>
+   <nl/>
+   <text> Races: Human dwellings are found on this map.</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Port Anitora (boat)</text><nlkx/>
+   <text>Irinveron (boat)</text><nlkx/>
+   <text>Melinis (boat)</text><nlkx/>
+   <text>North Redmoon (boat)</text><nlkx/>
+   <text>Irsis</text><nlkx/>
+   <text>Emerald Valley Trade Route</text><nlkx/>
+   <text>Kusamura Jungle</text><nlkx/>
+   <text>Palon Vertas</text><nlkx/>
+   <text>Bethel</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_BE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                   Bethel</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="1" name="3dobjects/banners8.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Bethel was once a city of greatness, but after</text><nlkx/>
+   <text> undead warriors attacked during the Great War,</text><nlkx/>
+   <text> the city of Betha was turned into ruins.</text><nlkx/>
+   <nl/>
+   <text> Although the city is gone, there are still inhabitants of</text><nl/>
+   <text> this map. Many live in a series of caves that can be found</text><nl/>
+   <text> in the northeast, though a few live in the tents and</text><nl/>
+   <text> wagons scattered round the map.</text><nl/>
+   <nl/>
+   <text> This location is the home of many dangerous creatures such</text><nl/>
+   <text> as the Desert Chimeran.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: No</text><nlkx/>
+   <nl/>
+   <text> PK: No</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Yes</text><nlkx/>
+   <nl/>
+   <text> Races: Predominantly human, however other races have</text><nl/>
+   <text>        dwellings on this map.</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Idaloran</text><nlkx/>
+   <text>Palon Vertas</text><nlkx/>
+   <text>Sedicolis</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_Sed">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Sedicolis</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="2" name="3dobjects/banners8.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Sedicolis may appear to be a small region, but</text><nlkx/>
+   <text> looks can be deceiving. If you find your way to</text><nlkx/>
+   <text> the Cave of Merciful Tears, you will be able to</text><nlkx/>
+   <text> explore the true nature of Sedicolis.</text><nl/>
+   <nl/>
+   <text> Above ground, you can come across the only magic shop in</text><nl/>
+   <text> northern Irilion that sells essences.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: No</text><nlkx/>
+   <nl/>
+   <text> PK: No</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Yes</text><nlkx/>
+   <nl/>
+   <text> Races: Human dwellings are found on this map.</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Bethel</text><nlkx/>
+   <text>Palon Vertas</text><nlkx/>
+   <text>Melinis</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_ME">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Melinis</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="1" name="3dobjects/banners9.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Melinis is a port city with a nasty dilemma.</text><nlkx/>
+   <text> An evil wizard cast a spell on this region that</text><nlkx/>
+   <text> will not allow plants to grow, and all nutrients</text><nlkx/>
+   <text> from the ground are absorbed into the many native</text><nl/>
+   <text> crystals instead. Only in a few areas and with a special</text><nl/>
+   <text> magic is vegetation able to grow.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: No</text><nlkx/>
+   <nl/>
+   <text> PK: No, but there is an arena.</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Yes</text><nlkx/>
+   <nl/>
+   <text> Races: Human dwellings are found on this map.</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Idaloran (boat)</text><nlkx/>
+   <text>Hurquin (boat)</text><nlkx/>
+   <text>Sedicolis</text><nlkx/>
+   <text>Thelinor (cave)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_PV">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Palon Vertas (PV)</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="0" name="3dobjects/banners7.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Palon Vertas is in the center of mainland Irilion,</text><nlkx/>
+   <text> and can be accessed through many other regions.It</text><nlkx/>
+   <text> is rich in its flora and fauna, and is home to</text><nlkx/>
+   <text> Irilion's largest magic school.</text><nl/>
+   <nl/>
+   <text> There are many caves that can be found in the area, and</text><nl/>
+   <text> also a hidden system of underground escape tunnels that</text><nl/>
+   <text> will take you to various maps. Saligen is home to the</text><nl/>
+   <text> Adventurer's Post as well as a popular storage. Treesoar</text><nl/>
+   <text> Village doesn't have much to see, but strange sounds of</text><nl/>
+   <text> battle can often be heard there... no source has been</text><nl/>
+   <text> found.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Yes</text><nlkx/>
+   <nl/>
+   <text> PK: No</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: No</text><nlkx/>
+   <nl/>
+   <text> Races: Human dwellings are found on this map.</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Sedicolis</text><nlkx/>
+   <text>Bethel</text><nlkx/>
+   <text>Idaloran</text><nlkx/>
+   <text>Kusamura Jungle</text><nlkx/>
+   <text>Zirakinbar</text><nlkx/>
+   <text>Thelinor</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_EVTR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>      Emerald Valley Trade Route (EVTR)</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="1" name="3dobjects/banners7.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Emerald Valley is a major trade route for Irilion.</text><nlkx/>
+   <text> Many travelers will rest here and trade with</text><nlkx/>
+   <text> others. It is home to an ancient mine, which is</text><nlkx/>
+   <text> rumored to hold the riches of the valley.</text><nl/>
+   <nl/>
+   <text> To the south west of this region lies the Barrenlands of</text><nl/>
+   <text> Sorrow.</text><nl/>
+   <nl/>
+   <text> Different types of monsters roam this area, and travelers</text><nl/>
+   <text> are warned to enter caves here with the utmost caution.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Yes</text><nlkx/>
+   <nl/>
+   <text> PK: No</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: No</text><nlkx/>
+   <nl/>
+   <text> Races: No set race</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Idaloran</text><nlkx/>
+   <text>Irsis</text><nlkx/>
+   <text>Willowvine Forest</text><nlkx/>
+   <text>Kusamura Jungle</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_Kus">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Kusamura Jungle</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="0" name="3dobjects/banners8.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Kusamura is a dense jungle region. A village used</text><nlkx/>
+   <text> to be here, but the majority of it sunk into the</text><nlkx/>
+   <text> ground, leaving only a few houses visable.</text><nlkx/>
+   <nl/>
+   <text> Explorers have reported an ancient temple somewhere in</text><nl/>
+   <text> the jungle, where only those of strong mind will survive.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: No</text><nlkx/>
+   <nl/>
+   <text> PK: No, but there is an arena.</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Yes</text><nlkx/>
+   <nl/>
+   <text> Races: No set race</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Idaloran</text><nlkx/>
+   <text>Emerald Valley Trade Route</text><nlkx/>
+   <text>Aeth Aelfan</text><nlkx/>
+   <text>Zirakinbar</text><nlkx/>
+   <text>Willowvine Forest (cave)</text><nlkx/>
+   <text>Palon Vertas</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_Zir">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Zirakinbar</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="0" name="3dobjects/banners9.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zirakinbar is not only very colonized above</text><nlkx/>
+   <text> ground, but below ground too.</text><nlkx/>
+   <text> You can find the entrance to Zirakgunda within</text><nlkx/>
+   <text> the stronghold.</text><nl/>
+   <nl/>
+   <text> Forges are a main feature of the map, but beware the</text><nl/>
+   <text> crypt and castle. Danger lurks around every corner in</text><nl/>
+   <text> those locations.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: No</text><nlkx/>
+   <nl/>
+   <text> PK: No, but there is an arena.</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: No</text><nlkx/>
+   <nl/>
+   <text> Races: Dwarvern dwellings are found on this map.</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Palon Vertas</text><nlkx/>
+   <text>Kusamura Jungle</text><nlkx/>
+   <text>Egratia Point</text><nlkx/>
+   <text>Aeth Aelfan (boat)</text><nlkx/>
+   <text>Irsis (boat)</text><nlkx/>
+   <text>South Redmoon (boat)</text><nlkx/>
+   <text>Thelinor</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_AA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Aeth Aelfan (AA)</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="3" name="3dobjects/banners9.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Aeth Aelfan is the Elven homeland in Irilion.</text><nlkx/>
+   <text> The fortress keeps the southern area, the city</text><nlkx/>
+   <text> and the port safe for the the travelers. Giants,</text><nlkx/>
+   <text> one of the most dangerous creatures, wander in</text><nl/>
+   <text> the northern area.</text><nl/>
+   <nl/>
+   <text> There are many caves and dungeons to explore in this</text><nl/>
+   <text> region, and is very easy to get lost.</text><nl/>
+   <nl/>
+   <text> Rumor has it that a beast of darkness lurks somewhere</text><nl/>
+   <text> within one of these caverns.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Yes</text><nlkx/>
+   <nl/>
+   <text> PK: Northwestern area</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Yes</text><nlkx/>
+   <nl/>
+   <text> Races: Elves make their homes on this map.</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Kusamura Jungle</text><nlkx/>
+   <text>Willowvine Forest</text><nlkx/>
+   <text>Glacmor (boat)</text><nlkx/>
+   <text>Zirakinbar (boat)</text><nlkx/>
+   <text>Egratia Point</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_EP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Egratia Point (EP)</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="2" name="3dobjects/banners6.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Egratia Point is a small isolated territory</text><nlkx/>
+   <text> filled with creatures.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> You can find one of the three magic schools of</text><nl/>
+   <text> Irilion within this map, which is rumored to have been</text><nl/>
+   <text> run by a cult of some sort.</text><nl/>
+   <nl/>
+   <text> There is also a battle circle arena for warriors who</text><nl/>
+   <text> wish to test their strength.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: No</text><nlkx/>
+   <nl/>
+   <text> PK: No, but there is an arena.</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Yes</text><nlkx/>
+   <nl/>
+   <text> Races: No set race</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Iscalrith (boat)</text><nlkx/>
+   <text>Aeth Aelfan</text><nlkx/>
+   <text>Zirakinbar</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_AR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                   Arius</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="2" name="3dobjects/banners9.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Arius is the home of invention, and one of the</text><nlkx/>
+   <text> main Gnomish colonies in Irilion.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> It is home to the second largest Irilion magic</text><nl/>
+   <text> school, which is, ironically, run by Grandmaster Nerala,</text><nl/>
+   <text> who is of Orchan descent.</text><nl/>
+   <nl/>
+   <text> Walking around this isle, you will be able to see the</text><nl/>
+   <text> many creations and inventions that their Gnomish</text><nl/>
+   <text> scientists have concocted.</text><nl/>
+   <nl/>
+   <text> The Limestone Mountain Range is also the only place to</text><nl/>
+   <text> find a good source of gypsum.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Yes</text><nlkx/>
+   <nl/>
+   <text> PK: No</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: No</text><nlkx/>
+   <nl/>
+   <text> Races: Gnomes inhabit this map.</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Irinveron (boat)</text><nlkx/>
+   <text>Irsis (boat)</text><nlkx/>
+   <text>Willowvine Forest (flying boat)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_SRM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>            South Redmoon (SRM)</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="2" name="3dobjects/banners7.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> South Redmoon is one of the highest traffic maps</text><nlkx/>
+   <text> in Irilion.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> You will always see travelers going between the</text><nl/>
+   <text> storage and the mine, as it is a great source for iron</text><nl/>
+   <text> and other metals.</text><nl/>
+   <nl/>
+   <text> It is very rich in flora and fauna. The cave holds an</text><nl/>
+   <text> entrance to the mines, a healing spa, and also a path to</text><nl/>
+   <text> Mount Sorrow, which is an icy part of the mountain that</text><nl/>
+   <text> few attempt to traverse.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Yes</text><nlkx/>
+   <nl/>
+   <text> PK: No</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Yes</text><nlkx/>
+   <nl/>
+   <text> Races: Orchan dwellings are found on this map.</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Hurquin (boat)</text><nlkx/>
+   <text>Zirakinbar (boat)</text><nlkx/>
+   <text>North Redmoon</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_HUR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Hurquin</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="3" name="3dobjects/banners6.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Hurquin is a Gnomish isle. It is much smaller in</text><nlkx/>
+   <text> size compared to Arius, and doesn't have any</text><nlkx/>
+   <text> inventions on display.</text><nlkx/>
+   <nl/>
+   <text> The main point of interest on the island is the cave. If</text><nl/>
+   <text> you can dodge the hobgoblins, you may find the Temple of</text><nl/>
+   <text> Knowledge, a place renowned to researchers all over the</text><nl/>
+   <text> land. You may also come across the crypt, which holds</text><nl/>
+   <text> secrets... and danger as well.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Safe: Outside</text><nlkx/>
+   <nl/>
+   <text> Storage: No</text><nlkx/>
+   <nl/>
+   <text> PK: No</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Yes</text><nlkx/>
+   <nl/>
+   <text> Races: Gnomes make their homes on this map.</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Melinis (boat)</text><nlkx/>
+   <text>South Redmoon (boat)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_TR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Trassian</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="2" name="3dobjects/banners5.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Trassian is the main home of the Draegoni, with</text><nlkx/>
+   <text> the city of Dra Syn.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> The city itself was sealed off to travelers,</text><nl/>
+   <text> however, a few secret entrances are known. If you can</text><nl/>
+   <text> find your way into Dra Syn, you may get lost in the vast</text><nl/>
+   <text> cavern system, part of which is known as Deepstone</text><nl/>
+   <text> Caverns.</text><nl/>
+   <nl/>
+   <text> Beware, Yeti have been known to sneak out of the caves</text><nl/>
+   <text> and roam Dra Syn.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: No</text><nlkx/>
+   <nl/>
+   <text> PK: In caves.</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Yes</text><nlkx/>
+   <nl/>
+   <text> Races: Draegoni make their homes on this map.</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Glacmor</text><nlkx/>
+   <text>Iscalrith (cave)</text><nlkx/>
+   <text>Hulda</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_HU">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color>red</color>
+   <text>                   Hulda</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="0" name="3dobjects/banners6.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Hulda is barren wasteland of ice. Death is the</text><nlkx/>
+   <text> key element of this map.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Warriors fight eachother here, as well as the</text><nl/>
+   <text> strong snow creatures that call this small territory home.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: No</text><nlkx/>
+   <nl/>
+   <text> PK: Yes</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Yes</text><nlkx/>
+   <nl/>
+   <text> Races: No set race</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Iscalrith</text><nlkx/>
+   <text>Trassian</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_IOTF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>        Isles of the Forgotten (IotF)</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="3" name="3dobjects/banners8.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Isles of the Forgotten does not look like anywhere</text><nlkx/>
+   <text> else. All the structures and plants on this isle</text><nlkx/>
+   <text> appear to be disappearing, and the reason why is</text><nlkx/>
+   <text> still unknown.</text><nl/>
+   <nl/>
+   <text> Rumor has it that a curse was set upon this chain of</text><nl/>
+   <text> isles, and a resident of them, Dryx, found a way to save</text><nl/>
+   <text> them, but not restore what had already occurred. In turn,</text><nl/>
+   <text> there is a temple to honor Dryx as well. This isle holds</text><nl/>
+   <text> many secrets that are just waiting to be found.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: No</text><nlkx/>
+   <nl/>
+   <text> PK: No</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: No</text><nlkx/>
+   <nl/>
+   <text> Races: No set race</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Iscalrith (teleportal)</text><nlkx/>
+   <text>Imbroglio Islands (teleportal)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_II">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color>red</color>
+   <text>             Imbroglio Islands</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="1" name="3dobjects/banners6.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Imbroglio is a chain of islands connected by</text><nlkx/>
+   <text> underwater caverns.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Considered to be one giant maze, it is very easy</text><nl/>
+   <text> to get lost within. Fighters and strong creatures roam</text><nl/>
+   <text> the outsides in hopes to kill you. Once you are able to</text><nl/>
+   <text> pass Oblivion, however, a rare resource can be found.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: No</text><nlkx/>
+   <nl/>
+   <text> PK: Yes</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Yes</text><nlkx/>
+   <nl/>
+   <text> Races: No set race</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Iscalrith (boat)</text><nlkx/>
+   <text>Isles of the Forgotten (teleportal)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_IR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Irinveron</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="0" name="3dobjects/banners5.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Irinveron is a vast snowy wasteland with minimal</text><nlkx/>
+   <text> resources. The caves of Daa Gri are home to</text><nlkx/>
+   <text> Draegoni, as well as yeti if you venture into</text><nlkx/>
+   <text> the wrong cave.</text><nl/>
+   <nl/>
+   <text> Chary runs the storage at Fisher's Point, which is not</text><nl/>
+   <text> far from a manufacturing school.</text><nl/>
+   <text> The village of Candolis is a human village, and is also</text><nl/>
+   <text> a location to buy tailoring supplies in Irilion.</text><nl/>
+   <nl/>
+   <text> There is also a rumor of a lost temple worshipping an</text><nl/>
+   <text> ancient god, but no evidence has been found yet.</text><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Yes</text><nlkx/>
+   <nl/>
+   <text> PK: In cave.</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Yes</text><nlkx/>
+   <nl/>
+   <text> Races: Humans dwellings can be found in Candolis and</text><nl/>
+   <text>        Fisher's Point, while Draegoni make their homes</text><nl/>
+   <text>        in the caves.</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Idaloran (boat)</text><nlkx/>
+   <text>Iscalrith (boat)</text><nlkx/>
+   <text>Arius (boat)</text><nlkx/>
+   <text>Glacmor</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_IS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Iscalrith</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="1" name="3dobjects/banners5.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Iscalrith is a snow map on the eastern side of icy</text><nlkx/>
+   <text> regions. The small village of Meel's Port houses a</text><nlkx/>
+   <text> general store and a tavern. Fort Telmont is to the</text><nlkx/>
+   <text> southeast of the village, an old fort that played</text><nl/>
+   <text> a significant part in the Great War, but now is just used</text><nl/>
+   <text> to defend against the yeti in the area. You can also find</text><nl/>
+   <text> a second tavern within the fort.</text><nl/>
+   <nl/>
+   <text> Iscalrith city is another major Draegoni city. The city</text><nl/>
+   <text> can be reached by boat, but some have said there is</text><nl/>
+   <text> another way through a hidden tunnel. The city can be</text><nl/>
+   <text> navigated through a series of maze-like caves, and is</text><nl/>
+   <text> rumored to have many resources.</text><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Yes</text><nlkx/>
+   <nl/>
+   <text> PK: No, but there is an arena.</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: No</text><nlkx/>
+   <nl/>
+   <text> Races: Humans dwellings can be found in the villages</text><nl/>
+   <text>        and the forts, while Draegoni make their homes</text><nl/>
+   <text>        in the caves.</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Egratia Point (boat)</text><nlkx/>
+   <text>Irinveron (boat)</text><nlkx/>
+   <text>Imbroglio Islands (boat)</text><nlkx/>
+   <text>Glacmor</text><nlkx/>
+   <text>Trassian (cave)</text><nlkx/>
+   <text>Hulda</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_GLA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Glacmor</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="3" name="3dobjects/banners5.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Glacmor is the highest-trafficked snow region.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> It has the largest market area currently known</text><nlkx/>
+   <text> to Irilion, and is home of a skill academy that</text><nl/>
+   <text> houses crafters, potion-makers, and alchemists. The caves</text><nl/>
+   <text> are rich in ores and minerals as well.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Yes</text><nlkx/>
+   <nl/>
+   <text> PK: No</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: No</text><nlkx/>
+   <nl/>
+   <text> Races: Draegoni make their homes on this map.</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Aeth Aelfan (boat)</text><nlkx/>
+   <text>Irinveron</text><nlkx/>
+   <text>Trassian</text><nlkx/>
+   <text>Iscalrith</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_IRS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                   Irsis</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="1" name="3dobjects/banners10.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Irsis is another major port in Irilion.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Its lighthouse often provides a beacon to lost</text><nlkx/>
+   <text> ships at sea, and the port is welcoming to all.</text><nl/>
+   <nl/>
+   <text> Irsis is a very peaceful area, and has a very serene</text><nl/>
+   <text> atmosphere. If potions or crafting tickles your fancy,</text><nl/>
+   <text> there are two prominent schools in both those areas.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Yes</text><nlkx/>
+   <nl/>
+   <text> PK: No</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Yes</text><nlkx/>
+   <nl/>
+   <text> Races: Elves make their homes on this map.</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Idaloran</text><nlkx/>
+   <text>Emerald Valley Trade Route</text><nlkx/>
+   <text>Arius (boat)</text><nlkx/>
+   <text>Zirakinbar (boat)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_NRM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>            North Redmoon (NRM)</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="3" name="3dobjects/banners7.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> North Redmoon has one very dominant feature, the</text><nlkx/>
+   <text> volcano that's right in the middle of the region.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> There is a legend that those who face the extreme</text><nl/>
+   <text> heat of the volcano can find treasures... and death.</text><nl/>
+   <nl/>
+   <text> The young Orchans of the tribe face a trial of passage</text><nl/>
+   <text> and climb the volcano, to be considered adults among</text><nl/>
+   <text> their people.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: No</text><nlkx/>
+   <nl/>
+   <text> PK: No</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Yes</text><nlkx/>
+   <nl/>
+   <text> Races: Orchan dwellings are found on this map.</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Idaloran (boat)</text><nlkx/>
+   <text>Thelinor (boat)</text><nlkx/>
+   <text>South Redmoon</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_The">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color>red</color>
+   <text>                 Thelinor</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="2" name="3dobjects/banners10.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Thelinor is a dwarven battlefield and city.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> On the outskirts of the city, warriors test their</text><nlkx/>
+   <text> strength and fight eachother. The city itself is</text><nl/>
+   <text> safe from fighting, unless you enter the tavern, then it</text><nl/>
+   <text> is a free-for-all brawl.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Yes</text><nlkx/>
+   <nl/>
+   <text> PK: Yes (outside the city)</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Yes</text><nlkx/>
+   <nl/>
+   <text> Races: Dwarven dwellings are found on this map.</text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>North Redmoon (boat)</text><nlkx/>
+   <text>Palon Vertas</text><nlkx/>
+   <text>Zirakinbar</text><nlkx/>
+   <text>Melinis (cave)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_WF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Willowvine Forest</text><nl/><nl/>
+   <text> </text><ddsimage isize="256" tsize="128" size="40" tid="0" name="3dobjects/banners10.dds" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Willowvine is one of the few territories shared</text><nlkx/>
+   <text> by two races. You can visit Fishmig Village, and</text><nlkx/>
+   <text> find gnomes, along with a way to Arius.</text><nlkx/>
+   <nl/>
+   <text> The Elven towns on the map are connected by a system of</text><nl/>
+   <text> bridges and portals, so travellers will not have to face</text><nl/>
+   <text> the creatures that lurk in the forest.</text><nl/>
+   <nl/>
+   <text> Willowvine is also the home to one of two skill academies.</text><nl/>
+   <text> This specific academy houses blacksmiths, summoners,</text><nl/>
+   <text> and mages.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Yes</text><nlkx/>
+   <nl/>
+   <text> PK: No</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Yes</text><nlkx/>
+   <nl/>
+   <text> Races: Gnomes make their homes in Fishmig Village, while</text><nl/>
+   <text>        Elves inhabit the rest of the map. </text><nlkx/>
+   <nl/>
+   <text> Connected maps: </text><text>Arius (flying boat)</text><nlkx/>
+   <text>Emerald Valley Trade Route</text><nlkx/>
+   <text>Aeth Aelfan</text><nlkx/>
+   <text>Kusamura Jungle (cave)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+</Maps2>

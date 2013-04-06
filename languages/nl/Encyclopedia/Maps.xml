@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Maps>
+<Page name="Maps_IP">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Isla Prima (IP)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="0" name="3dobjects/banners1.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Dit is de kaart waar je begint. Het is ook de plek</text><nlkx/>
+	<text> waar je terechtkomt als je #beam me intikt of uit</text><nlkx/>
+	<text> de onderwereld komt, daarom staat de omgeving rond</text><nlkx/>
+	<text> het kampvuur bekend als "beam".</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Nee</text><nl/>
+	<nl/>
+	<text> Rassen: Geen specifiek ras</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: White Stone (boot)</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps_WS">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               White Stone (WS)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="2" name="3dobjects/banners1.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze kaart ligt in het midden van Seridia. Op deze</text><nlkx/>
+	<text> kaart arriveer je met de boot vanaf Isla Prima, en</text><nlkx/>
+	<text> is een goede start om te beginnen met ontdekken.</text><nlkx/>
+	<text> Het paleis en de markt in White Stone City zijn</text><nl/>
+	<text> het bezoeken waard, net als de tempels van de Goden.</text><nl/>
+	<nl/>
+	<text> In de nacht lopen er gargoyles rond (3:30-0:30).</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: Nee, maar er is een arena</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Nee</text><nl/>
+	<nl/>
+	<text> Rassen: Elven wonen in Tirnwood Vale en Forest of the</text><nl/>
+	<text>         Fall, verder wordt de kaart bewoond door mensen.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Isla Prima (boot)</text><nl/>
+	<text>                    Desert Pines (boot)</text><nl/>
+	<text>                    Nordcarn</text><nl/>
+	<text>                    Portland</text><nl/>
+	<text>                    Morcraven Marsh</text><nl/>
+	<text>                    Grubani Peninsula</text><nl/>
+	<text>                    Ruins of Tirnym</text><nl/>
+	<text>                    Tarsengaard</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps_DP">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Desert Pines (DP)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="1" name="3dobjects/banners1.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> DP is een van de grote mijn-kaarten in Seridia.</text><nlkx/>
+	<text> Het landschap bestaat uit woestijgebied en groene</text><nlkx/>
+	<text> gebieden die rijk zijn aan planten. Het bos bevat</text><nlkx/>
+	<text> een grote variatie aan beesten. De tempel van de</text><nl/>
+	<text> God is een mooie plek om tot bezinning te komen.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> PK: Nee, maar er zijn twee arena's</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Nee</text><nl/>
+	<nl/>
+	<text> Rassen: Er zijn menselijke kampen te vinden op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: White Stone (boot)</text><nl/>
+	<text>                    Valley of the Dwarves (boot)</text><nl/>
+	<text>                    Portland (boot)</text><nl/>
+	<text>                    Tahraji Desert</text><nl/>
+	<text>                    Portland</text><nl/>
+	<text>                    South Kilaran Field</text><nl/>
+	<text>                    Kilaran Field</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps_VOTD">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>        Valley of the Dwarves (VotD)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="3" name="3dobjects/banners1.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze kaart is een centrum van activiteit. Er is</text><nlkx/>
+	<text> een voorraad, planten en voedsel, een paar goede</text><nlkx/>
+	<text> beesten beginpunten om te trainen, en ligt naast</text><nlkx/>
+	<text> Kilaran Field voor de vechters.</text><nl/>
+	<nl/>
+	<text> Er zitten monsters in de mijnen en de oude tempel.</text><nl/>
+	<text> Ondanks de half-vervallen staat trekt het dorp nog steeds</text><nl/>
+	<text> bezoekers aan.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Nee</text><nl/>
+	<nl/>
+	<text> Rassen: De dwergen wonen hier</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Desert Pines (boot)</text><nl/>
+	<text>                    Kilaran Field</text><nl/>
+	<text>                    Nordcarn</text><nl/>
+	<text>                    Tarsengaard</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps_PL">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Portland (PL)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="0" name="3dobjects/banners2.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Portland is een zeehaven met een grote stad. Het</text><nlkx/>
+	<text> bevat een voorraad en een mijn. Door de grote</text><nlkx/>
+	<text> variëteit aan planten, mineralen en ertsen is dit</text><nlkx/>
+	<text> een populaire plek om voorraden aan te vullen.</text><nl/>
+	<text> Er is echter ook een goblin komen wonen die zelfs een naam</text><nl/>
+	<text> heeft gekregen van de inwoners.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Er zijn menselijke kampen te vinden op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Desert Pines (boot)</text><nl/>
+	<text>                    Tarsengaard (boot)</text><nl/>
+	<text>                    Grubani Peninsula (boot)</text><nl/>
+	<text>                    Desert Pines</text><nl/>
+	<text>                    Tahraji Desert</text><nl/>
+	<text>                    Morcraven Marsh</text><nl/>
+	<text>                    White Stone</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps_MM">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Morcraven Marsh (MM)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="3" name="3dobjects/banners2.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Morcraven Marsh heeft een voorraad, en een paar</text><nlkx/>
+	<text> mijnen, maar is niet veilig voor onervaren</text><nlkx/>
+	<text> personen. Er zijn allerlei soorten monsters, tot</text><nlkx/>
+	<text> Gewapende Skeletten toe.</text><nl/>
+	<text> Er zijn een aantal arena's voor diegenen die hun</text><nl/>
+	<text> vecht-vaardigheden willen trainen.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: Nee maar er zijn arena's in de Fight Hall.</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Er zijn menselijke kampen te vinden op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Portland</text><nl/>
+	<text>                    Naralik</text><nl/>
+	<text>                    White Stone</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps_NK">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Naralik (NK)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="0" name="3dobjects/banners4.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Naralik bevat een boekverkoper met boeken over</text><nlkx/>
+	<text> mijnen, maar wees voorzchtig als je nieuw bent.</text><nlkx/>
+	<text> Er zijn Goblins op deze kaart.</text><nlkx/>
+	<nl/>
+	<text> De tempel van de God kan bereikt worden via de</text><nl/>
+	<text> catacombes. Maar wees voorzichtig, er is een reden waarom</text><nl/>
+	<text> de Aanvallen God zich hier bevindt: sterke monsters</text><nl/>
+	<text> blokkeren je pad.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Geen specifiek ras</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Morcraven Marsh</text><nl/>
+	<text>                    Grubani Peninsula</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps_GP">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Grubani Peninsula (GP)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="0" name="3dobjects/banners3.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze kaart is erg gevaarlijk! het bevat veel</text><nlkx/>
+	<text> hoge-level monsters waaronder de afzichtelijke</text><nlkx/>
+	<text> Chimeran Wolf. Het bevat ook een boekverkoper met</text><nlkx/>
+	<text> boeken over vechten en Oproepen, vraag dus hulp</text><nl/>
+	<text> als je een bezoek aan deze kaart moet brengen.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Geen specifiek ras</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Portland (boot)</text><nl/>
+	<text>                    White Stone</text><nl/>
+	<text>                    Naralik</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps_TG">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Tarsengaard (TG)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="1" name="3dobjects/banners4.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze kaart heeft een grote, maar rustige stad.</text><nlkx/>
+	<text> Er zijn mijnen en een grote school. Maar wees</text><nlkx/>
+	<text> voorzichtig bij het bezoeken, je wilt geen</text><nlkx/>
+	<text> Gewapende Goblin tegenkomen voordat je er klaar</text><nl/>
+	<text> voor bent.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: Nee, maar de grot naar Nordcarn is het wel.</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Nee</text><nl/>
+	<nl/>
+	<text> Rassen: Er zijn menselijke kampen te vinden op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Portland (boot)</text><nl/>
+	<text>                    Valley of the Dwarves</text><nl/>
+	<text>                    Nordcarn (PK grot)</text><nl/>
+	<text>                    White Stone</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps_NC">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Nordcarn (NC)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="1" name="3dobjects/banners3.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Nordcarn is een dwergen stad. Het is omringd door</text><nlkx/>
+	<text> mijnen en gebouwd in het steen. Het is veilig maar</text><nlkx/>
+	<text> wees voorzichtig met het betreden van de mijnen.</text><nlkx/>
+	<text> Er wordt gezegd dat er in het centrum een plek is</text><nl/>
+	<text> waar spelers elkaar kunnen aanvallen.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Ja</text><nl/>
+	<nl/>
+	<text> PK: Nee, maar er is een arena.</text><nl/>
+	<text>     De grot in het noordoosten is ook PK.</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Nee</text><nl/>
+	<nl/>
+	<text> Rassen: Er zijn dwergen kampen te vinden op deze kaart.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Valley of the Dwarves</text><nl/>
+	<text>                    South Kilaran Field</text><nl/>
+	<text>                    White Stone</text><nl/>
+	<text>                    Tarsengaard (PK grot)</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps_SK">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>          South Kilaran Field (SK)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="2" name="3dobjects/banners3.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> South Kilaran is bezet door erg gevaarlijke</text><nlkx/>
+	<text> monsters. Bezoek deze kaart op eigen risico! Er is</text><nlkx/>
+	<text> een oud, verlaten (op de monsters na) landhuis en</text><nlkx/>
+	<text> een indrukwekkende Oproepen arena.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Geen specifiek ras</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Kilaran Field</text><nl/>
+	<text>                    Desert Pines</text><nl/>
+	<text>                    White Stone</text><nl/>
+	<text>                    Nordcarn</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps_KF">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="0" b="0"/>
+	<text>             Kilaran Field (KF)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="3" name="3dobjects/banners3.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Kilaran Field is een PK kaart. Deze kaart is een</text><nlkx/>
+	<text> favoriet voor vechters. Wees voorzichtig met het</text><nlkx/>
+	<text> betreden, veel vechters zijn gestorven door</text><nlkx/>
+	<text> toedoen van een ander.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Ja</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Geen specifiek ras</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Desert Pines</text><nl/>
+	<text>                    South Kilaran Field</text><nl/>
+	<text>                    Valley of the Dwarves</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps_TD">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="0" b="0"/>
+	<text>             Tahraji Desert (TD)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="2" name="3dobjects/banners2.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Tahraji Desert is een PK kaart. Deze kaart bevat</text><nlkx/>
+	<text> ook veel hoge-level monsters, inclusief het</text><nlkx/>
+	<text> gevreesde Pluizige Konijn. Wees HEEL voorzichtig</text><nlkx/>
+	<text> op deze kaart, er is weinig Afkoeling en geen</text><nl/>
+	<text> enkele magie kan je items beschermen als je doodgaat!</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Ja (oude stijl PK)</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Geen specifiek ras</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: Portland</text><nl/>
+	<text>                    Desert Pines</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps" title="Terug Naar Kaarten Index"/>
+</Page>
+<Page name="Maps_Tirnym">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Maps" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>          Ruins of Tirnym (Tirnym)</text><nl/>
+	<nl/>
+	<text> </text><ddsimage isize="256" tsize="128" size="40" tid="1" name="3dobjects/banners2.dds" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze kaart is erg gevaarlijk en moet alleen bezocht</text><nlkx/>
+	<text> worden door ervaren personen. Er gaan geruchten</text><nlkx/>
+	<text> dat personen verdwijnen op deze kaart. De magiërs</text><nlkx/>
+	<text> van de magie school bestuderen het fenomeen.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorraad: Nee</text><nl/>
+	<nl/>
+	<text> PK: Nee</text><nl/>
+	<nl/>
+	<text> Multi-gevechten: Ja</text><nl/>
+	<nl/>
+	<text> Rassen: Vroeger woonden hier Elven.</text><nl/>
+	<nl/>
+	<text> Verbonden kaarten: White Stone</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                 </text><link ref="Maps" title="Terug Naar Kaarten Index"/>
+</Page>
+</Maps>

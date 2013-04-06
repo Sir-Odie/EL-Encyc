@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Miscellanea>
+<Page name="Mortar_Pestle">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>               GEREEDSCHAPPEN</text><nl/>
+	<color>red</color>
+	<text>            Vijzel &amp; Stamper</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="12" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt bij het maken van </text><link ref="Potions" title="Dranken"/><text>.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 15 Gips, 10 Water Essenties, 8 Vuur Essenties</text><nl/>
+	<text> Kennis vereist: Gips Vormen</text><nl/>
+	<text> Nexus vereist: Kunstmatig 1</text><nl/>
+	<text> Geadviseerd Produceren Level: 17</text><nl/>
+	<text> Produceren ervaring gegeven: 80</text><nl/>
+	<text> Voedsel kosten: 14</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 4 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Needle">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>               GEREEDSCHAPPEN</text><nl/>
+	<color>red</color>
+	<text>                   Naald</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="5" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt bij het maken van </text><link ref="Clothes" title="Kleding"/><text> en </text><link ref="Armors" title="Harnassen"/><text>.</text><nl/>
+	<nl/><nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Dit item kan niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Hammer">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>               GEREEDSCHAPPEN</text><nl/>
+	<color>red</color>
+	<text>                   Hamer</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="9" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt bij het maken van </text><link ref="Armors" title="Harnassen"/><text> en </text><link ref="Weapons" title="Wapens"/><text>.</text><nl/>
+	<nl/><nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Dit item kan niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 6 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Ring_Mold">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>               GEREEDSCHAPPEN</text><nl/>
+	<color>red</color>
+	<text>                 Ring Vorm</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="21" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt bij het maken van </text><nlkx/>
+	<link ref="Ring_Silver" title="Zilveren Ringen"/><text> en </text><link ref="Ring_Gold" title="Gouden Ringen"/><text>.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 10 Gips, 5 Water Essenties, 6 Vuur Essenties</text><nl/>
+	<text> Kennis vereist: Gips Vormen</text><nl/>
+	<text> Nexus vereist: Kunstmatig 1</text><nl/>
+	<text> Geadviseerd Produceren Level: 13</text><nl/>
+	<text> Produceren ervaring gegeven: 65</text><nl/>
+	<text> Voedsel kosten: 8</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Med_Mold">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>               GEREEDSCHAPPEN</text><nl/>
+	<color>red</color>
+	<text>               Medaillon Vorm</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="22" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt bij het maken van </text><link ref="Med_Silver" title="Zilveren Medaillons"/><text> en </text><nl/>
+	<text>       </text><link ref="Med_Gold" title="Gouden Medaillons"/><text>.</text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 12 Gips, 7 Water Essenties, 8 Vuur Essenties</text><nl/>
+	<text> Kennis vereist: Gips Vormen</text><nl/>
+	<text> Nexus vereist: Kunstmatig 1</text><nl/>
+	<text> Geadviseerd Produceren Level: 15</text><nl/>
+	<text> Produceren ervaring gegeven: 70</text><nl/>
+	<text> Voedsel kosten: 10</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Hammer_Chisel">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>               GEREEDSCHAPPEN</text><nl/>
+	<color>red</color>
+	<text>         Edelsteen Hamer &amp; Beitel</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="19" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt bij het maken van </text><link ref="Jewelry" title="Gepolijste edelstenen"/><text>.</text><nl/>
+	<nl/><nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Dit item kan niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="T_LGloves">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>               GEREEDSCHAPPEN</text><nl/>
+	<color>red</color>
+	<text>             Leren Handschoenen</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="11" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt bij het maken van </text><link ref="Sulphur" title="Zwavel"/><text> en </text><link ref="Poison_Ivy" title="Gifsumak"/><text>.</text><nl/>
+	<text>       Kan ook worden gebruikt als </text><link ref="Armors" title="harnas"/><text> en </text><link ref="Weapons" title="wapen"/><text>.</text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 4 Leer, 4 Garen</text><nl/>
+	<text> Gereedschap vereist: Naald</text><nl/>
+	<text> Geadviseerd Produceren Level: 8</text><nl/>
+	<text> Produceren ervaring gegeven: 40</text><nl/>
+	<text> Voedsel kosten: 5</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="T_Pickaxe">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>               GEREEDSCHAPPEN</text><nl/>
+	<color>red</color>
+	<text>                  Houweel</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="8" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt bij het mijnen van </text><link ref="Minerals" title="mineralen"/><text> en </text><link ref="Ores" title="ertsen"/><text>.</text><nl/>
+	<text>       Kan ook worden gebruikt als </text><link ref="Weapons" title="wapen"/><text>.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Dit item kan niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Vial_Mold">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>               GEREEDSCHAPPEN</text><nl/>
+	<color>red</color>
+	<text>                 Fles Vorm</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="8" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt bij het maken van </text><link ref="Empty_Vial" title="Lege Fles"/><text>.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Verrijkte Vuur Essentie, 5 Titanium Baren</text><nl/>
+	<text> Kennis vereist: Fles Vorm Maken</text><nl/>
+	<text> Nexus vereist: Kunstmatig 3</text><nl/>
+	<text> Geadviseerd Produceren Level: 31</text><nl/>
+	<text> Produceren ervaring gegeven: 1500</text><nl/>
+	<text> Voedsel kosten: 16</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 30 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Alembic">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>               GEREEDSCHAPPEN</text><nl/>
+	<color>red</color>
+	<text>              Destillatiekolom</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="1" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt bij het extraheren van </text><link ref="Mercury" title="Kwik"/><text> uit kwikerts.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Verrijkte Vuur Essentie, 4 Titanium Baren, 20 Kwarts</text><nl/>
+	<text> Kennis vereist: Destillatiekolom Maken</text><nl/>
+	<text> Nexus vereist: Kunstmatig 3</text><nl/>
+	<text> Geadviseerd Produceren Level: 33</text><nl/>
+	<text> Produceren ervaring gegeven: 1700</text><nl/>
+	<text> Voedsel kosten: 16</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 30 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Bucket">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>               GEREEDSCHAPPEN</text><nl/>
+	<color>red</color>
+	<text>                   Emmer</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="24" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt bij het maken van </text><link ref="Saltpetre" title="Salpeter"/><text>.</text><nl/>
+	<nl/><nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Dit item kan niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<text> Let op: dit item kan alleen opgeslagen worden</text><nl/>
+	<text> in de Gevaarlijke Items Voorraad.</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 10 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Scissors">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>               GEREEDSCHAPPEN</text><nl/>
+	<color>red</color>
+	<text>                   Schaar</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="2" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Zorg dat je je vingers niet afknipt.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Dit item kan niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Bones Powder">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OVERIG</text><nl/>
+	<color>red</color>
+	<text>                Bot Poeder</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="21" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><link ref="Potions" title="Dranken"/><text>.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 3 Botten</text><nl/>
+	<text> Benodigde items: Vijzel &amp; Stamper</text><nl/>
+	<text> Geadviseerd Alchemie Level: 0</text><nl/>
+	<text> Alchemie ervaring gegeven: 1</text><nl/>
+	<text> Voedsel kosten: 0</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Thread">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OVERIG</text><nl/>
+	<color>red</color>
+	<text>                   Garen</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="6" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><link ref="Clothes" title="Kleding"/><text> en </text><link ref="Armors" title="Harnassen"/><text>.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 5 Katoen</text><nl/>
+	<text> Nexus vereist: Kunstmatig 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 1</text><nl/>
+	<text> Bewerken ervaring gegeven: 6</text><nl/>
+	<text> Voedsel kosten: 1</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Leather">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OVERIG</text><nl/>
+	<color>red</color>
+	<text>                   Leer</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="17" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><link ref="Armors" title="Harnassen"/><text>.</text><nl/>
+	<nl/><nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Dit item kan niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Sand_Paper">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OVERIG</text><nl/>
+	<color>red</color>
+	<text>          Edelsteen Schuurpapier</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="20" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><link ref="Jewelry" title="Gepolijste edelstenen"/><text>.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/><nl/>
+	<text> Dit item kan niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Loom">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OVERIG</text><nl/>
+	<color>red</color>
+	<text>                Weefgetouw</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="10" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Wordt gebruikt bij het maken van textiel.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Dit item kan niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Wood_Handle">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OVERIG</text><nl/>
+	<color>red</color>
+	<text>             Houten Handgreep</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="11" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><link ref="Weapons" title="Bijlen"/><text>.</text><nl/>
+	<nl/><nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Dit item kan niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Empty_Vial">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OVERIG</text><nl/>
+	<color>red</color>
+	<text>                 Lege Fles</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="9" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><link ref="Potions" title="Dranken"/><text>.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Vuur Essentie, 2 Kwarts</text><nl/>
+	<text> Benodigde items: Fles Vorm</text><nl/>
+	<text> Nexus vereist: Kunstmatig 1</text><nl/>
+	<text> Geadviseerd Bewerken Level: 14</text><nl/>
+	<text> Bewerken ervaring gegeven: 30</text><nl/>
+	<text> Voedsel kosten: 5</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Skull_Key">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OVERIG</text><nl/>
+	<color>red</color>
+	<text>              Schedel Sleutel</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="23" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: het maken van een hyperspace zak.</text><nlkx/>
+	<text> Goed voor een enkel gebruik.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Om een zak naar de hyperruimte te sturen, moet je op</text><nl/>
+	<text> de zak gaan staan en de Schedel Sleutel gebruiken.</text><nl/>
+	<text> Een hyperruimte zak blijft bestaan (onzichtbaar)</text><nl/>
+	<text> totdat iemand hem opent met een Skelet Sleutel.</text><nl/>
+	<nl/>
+	<text> Dit item kan niet geproduceerd worden.</text>
+	<nl/>
+	<nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Skeleton_Key">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OVERIG</text><nl/>
+	<color>red</color>
+	<text>              Skelet Sleutel</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="20" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: het ophalen van een hyperruimte zak.</text><nlkx/>
+	<text> Goed voor een enkel gebruik.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Om een zak terug te halen uit hyperruimte, moet je op</text><nl/>
+	<text> de exacte coordinaat staan waar de onzichtbare zak is</text><nl/>
+	<text> en een Skelet Sleutel gebruiken.</text><nl/>
+	<text> De sleutel verdwijnt ook als er geen hyperruimte zak</text><nl/>
+	<text> aanwezig is.</text><nl/>
+	<nl/>
+	<text> Dit item kan niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="FD_Fruit">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              VOEDSEL &amp; DRANKEN</text><nl/>
+	<color>red</color>
+	<text>                    Fruit</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="1" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Herstelt 20 voedsel punten.</text><nlkx/>
+	<text> Gebruikt voor: </text><link ref="P_Feasting" title="Drank van Feasting"/><text>.</text><nl/>
+	<nl/><nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Fruit kan </text><link ref="Harv_Other" title="ge-oogst"/><text> worden of gekocht in cafés.</text><nl/>
+	<nl/><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="FD_Vegetables">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text>
+	<nl/>
+	<text>              VOEDSEL &amp; DRANKEN</text><nl/>
+	<color>red</color>
+	<text>                   Groenten</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="2" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Herstelt 15 voedsel punten.</text><nlkx/>
+	<text> Gebruikt voor: Dranken van </text><link ref="P_Reasoning" title="Redeneren"/><text> en </text><link ref="P_Feasting" title="Feasting"/><text>.</text><nl/>
+	<nl/><nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Groenten kunnen </text><link ref="Harv_Other" title="ge-oogst"/><text> worden of gekocht in cafés.</text><nl/>
+	<nl/><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="FD_Bread">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              VOEDSEL &amp; DRANKEN</text><nl/>
+	<color>red</color>
+	<text>                    Brood</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="0" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Herstelt 10 voedsel punten.</text><nl/>
+	<nl/><nl/><nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Brood kan gekocht worden in cafés;</text><nl/>
+	<text> en gevonden worden in zakken op de grond van Isla Prima.</text><nl/>
+	<nl/><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="FD_Cooked_Meat">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              VOEDSEL &amp; DRANKEN</text><nl/>
+	<color>red</color>
+	<text>                Gebraden Vlees</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="24" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Herstelt 25 voedsel punten.</text><nl/>
+	<nl/><nl/><nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Gebraden vlees kan gekocht worden in cafés;</text><nl/>
+	<text> het kan ook gemaakt worden met vuur en rauw vlees.</text><nl/>
+	<nl/><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="FD_Wine">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              VOEDSEL &amp; DRANKEN</text><nl/>
+	<color>red</color>
+	<text>                     Wijn</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="6" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><link ref="Potions" title="Dranken"/><text>.</text><nl/>
+	<nl/><nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Wijn kan niet gemaakt worden: je moet het kopen.</text><nl/>
+	<nl/>
+	<text> Let op: wijn kan niet gedronken worden.</text><nl/>
+	<nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="FD_Mead">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              VOEDSEL &amp; DRANKEN</text><nl/>
+	<color>red</color>
+	<text>                    Weide</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="5" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><link ref="Potions" title="Dranken"/><text>.</text><nl/>
+	<nl/><nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Weide kan niet gemaakt worden: je moet het kopen.</text><nl/>
+	<nl/>
+	<text> Let op: weide kan niet gedronken worden.</text><nl/>
+	<nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="FD_Ale">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              VOEDSEL &amp; DRANKEN</text><nl/>
+	<color>red</color>
+	<text>                     Bier</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="7" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><link ref="Potions" title="Dranken"/><text>.</text><nl/>
+	<nl/><nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Bier kan niet gemaakt worden: je moet het kopen.</text><nl/>
+	<nl/>
+	<text> Let op: bier kan niet gedronken worden.</text><nl/>
+	<nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Conglo">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OVERIG</text><nl/>
+	<color>red</color>
+	<text>           Materie Conglomeraat</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="5" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: mijnen van </text><link ref="Copper" title="Koper Erts"/><text> en </text><link ref="Seridium" title="Seridium"/><text>.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 80 Aarde Essenties, 25 Materie Essenties</text><nl/>
+	<text> Geadviseerd Alchemie Level: 23</text><nl/>
+	<text> Alchemie ervaring gegeven: 200</text><nl/>
+	<text> Voedsel kosten: 11</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 30 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+<Page name="Mercury">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Misc" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OVERIG</text><nl/>
+	<color>red</color>
+	<text>                   Kwik</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="16" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><link ref="Spirit Essence" title="Geest Essentie"/><text>, </text><link ref="Death Essence" title="Dood Essentie"/><text>, </text><nl/>
+	<text>       </text><link ref="P_Craft" title="Drank van Bewerken"/><text>, </text><link ref="P_Alchemy" title="Drank van Alchemie"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Let op: dit metaal kan niet worden geoogst, maar wel</text><nl/>
+	<text> ge-extraheerd uit Kwikerts; het extraheren levert 2 kwik</text><nl/>
+	<text> per keer op.</text><nl/>
+	<nl/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 2 Kwikerts, 1 Energie Essentie</text><nl/>
+	<text> Benodigde Items: Destillatiekolom</text><nl/>
+	<text> Kennis Vereist: Kwik Extraheren</text><nl/>
+	<text> Geadviseerd Alchemie Level: 25</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 150</text><nl/>
+	<text> Voedsel Kosten: 13</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<text> Let op: Dit item kan alleen worden opgeslagen in de</text><nl/>
+	<text> Gevaarlijke Items Voorraad.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Misc" title="Terug Naar Diversen Index"/>
+</Page>
+</Miscellanea>

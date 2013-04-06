@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+<Page name="newskills">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>     Ayuda de las Tierras Eternas</text><nl/>
+   <text>               Habilidades</text><nl/>
+   
+   <nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <size>Big</size>
+   <text>     Como empezar con una habilidad?</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text>                      </text><link ref="fight" title=" Lucha "/><nl/>
+   <size>Small</size><nl/>
+   <size>Medium</size>
+   <text>                      </text><link ref="harv" title=" Recolección "/><nl/>
+   <size>Small</size><nl/>
+   <size>Medium</size>
+   <text>                      </text><link ref="manu" title=" Manufactura "/><nl/>
+   <size>Small</size><nl/>
+   <size>Medium</size>
+   <text>                      </text><link ref="alch" title=" Alquimia "/><nl/>
+   <size>Small</size><nl/>
+   <size>Medium</size>
+   <text>                      </text><link ref="magc" title=" Magia "/><nl/>
+   <size>Small</size><nl/>
+   <size>Medium</size>
+   <text>                      </text><link ref="pots" title=" Pociones "/><nl/>
+   <size>Small</size><nl/>
+   <size>Medium</size>
+   <text>                      </text><link ref="summ" title=" Invocación "/><nl/>
+   <size>Small</size><nl/>
+   <size>Medium</size>
+   <text>                      </text><link ref="crft" title=" Joyería "/><nl/>
+   <size>Small</size>
+   <size>Medium</size>
+   <text>                      </text><link ref="engn" title=" Engineering"/><nl/>
+   <size>Small</size>   
+</Page>
+
+
+<Page name="fight">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">     Ayuda de las Tierras Eternas</text><nl/>
+   <text>               Habilidades</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Lucha:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> Las </text>
+   <color r="1" g="1" b="1"/>
+   <text> habilidades relacionadas con la lucha son defensa</text><nl/>
+   <text> y ataque. Para avanzar en estas habilidades necesitas</text><nl/>
+   <text> luchar contra animales. Comienza con conejos, castores y</text><nl/>
+   <text> ratas, posteriormente ciervos, zorros, etc. Finalmente</text><nl/>
+   <text> monstruos como gobblins or esqueletos. Alternativamente</text><nl/>
+   <text> puedes usar mapas PK para combatir contra otros jugadores.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Los </text>
+   <color r="1" g="1" b="1"/>
+   <text> recién llegados deben tratar de comenzar por los</text><nl/>
+   <text> animales más debiles, como los conejos y castores.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Mientras </text>
+   <color r="1" g="1" b="1"/>
+   <text> luches puedes ser herido o incluso morir. Para</text><nl/>
+   <text> recuperar la salud asegúrate de que tu nivel de comida es</text><nl/>
+   <text> positivo (la barra amarilla). Puedes comer pan, fruta,</text><nl/>
+   <text> verduras y carne cocinada. Puedes comprar la comida en las</text><nl/>
+   <text> tabernas, encontrarla en bolsas en el suelo de Isla Prima o</text><nl/>
+   <text> recolectarla por tí mismo. Para usar la comida pulsa sobre</text><nl/>
+   <text> el icono "usar" y luego sobre la pieza de comida que</text><nl/>
+   <text> quieras consumir.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Para </text>
+   <color r="1" g="1" b="1"/>
+   <text> curarte rápidamente puedes usar pociones o un hechizo</text><nl/>
+   <text> curativo.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Cuando </text>
+   <color r="1" g="1" b="1"/>
+   <text> mueras, reaparecerás en el campamento de Isla Prima.</text><nl/>
+   <text> Cuando pases de los primeros niveles, al morir irás al</text><nl/>
+   <text> submundo, para salir, ve hacia el norte hasta que veas</text><nl/>
+   <text> un pasaje con velas grandes a ambos lados, usa ese camino</text><nl/>
+   <text> para salir.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+
+<Page name="harv">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">     Ayuda de las Tierras Eternas</text><nl/>
+   <text>               Habilidades</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Recolección:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> La </text>
+   <color r="1" g="1" b="1"/>
+   <text> habilidad de recolección se usa para la obtención,</text><nl/>
+   <text> de comida, flores, metales, etc. Para entrenarla sólo</text><nl/>
+   <text> necesitas encontrar alguna flor, hacer click en ella y</text><nl/>
+   <text> esperar. Un mensaje diciendo "You started to harvest</text><nl/>
+   <text> XXX" debería aparecer en tu pantalla. Si abres tu ventana</text><nl/>
+   <text> de inventario deberías ver como aumenta el número de</text><nl/>
+   <text> unidades del objeto que estás recolectando.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Recibirás </text>
+   <color r="1" g="1" b="1"/>
+   <text> experiencia en la habilidad de recolección solo</text><nl/>
+   <text> por los primeros 120 objetos en cada hora de juego, un</text><nl/>
+   <text> mensaje rojo te indicará dicho límite, a partir del cual</text><nl/>
+   <text> podrás seguir recolectando objetos, pero no ganarás más,</text><nl/>
+   <text> experiencia hasta la siguiente hora. Por esto es importante</text><nl/>
+   <text> escoger el tipo de objeto que se quiere recolectar durante</text><nl/>
+   <text> el comienzo de una nueva hora si se quiere desarrollar la</text><nl/>
+   <text> habilidad de recolección.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Mientras </text>
+   <color r="1" g="1" b="1"/>
+   <text> recolectas distintas flores notarás que cada una</text><nl/>
+   <text> proporciona una cantidad diferente de experiencia, y las</text><nl/>
+   <text> más dificiles de recolectar usualmente son las que</text><nl/>
+   <text> proporcionan la mayor experiencia. Las verduras, por</text><nl/>
+   <text> ejemplo, son difíciles de recoger para los nuevos</text><nl/>
+   <text> jugadores, pero el índice de experiencia que arrojan</text><nl/>
+   <text> es mayor que el de las flores.</text><nl/>
+   <text> Una ventaja adicional de la recolección de vegetales es</text><nl/>
+   <text> el hecho de que son comestibles, lo cual quiere decir que</text><nl/>
+   <text> si recolectas verduras no tendrás que pagar por la comida.</text><nl/>
+   <text> Las verduras se pueden vender en las tabernas.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Existen </text>
+   <color r="1" g="1" b="1"/>
+   <text> también eventos aleatorios que ocurren mientras</text><nl/>
+   <text> recolectas. Algunos pueden afectarte negativamente, y otros</text><nl/>
+   <text> positivamente. Eventos negativos son las picaduras de abeja</text><nl/>
+   <text> o los derrumbes. Efectos positivos son las bendiciones de</text><nl/>
+   <text> madre naturaleza o el acto de encontrarse con una bolsa con</text><nl/>
+   <text> algunas monedas mientras recolectas.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Para </text>
+   <color r="1" g="1" b="1"/>
+   <text> terminar simplemente haz click de nuevo en el recurso</text><nl/>
+   <text> que estás recolectando o simplemente muévete.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+<Page name="manu">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">     Ayuda de las Tierras Eternas</text><nl/>
+   <text>               Habilidades</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Manufactura:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> Para </text>
+   <color r="1" g="1" b="1"/>
+   <text> empezar a fabricar objetos necesitarás una aguja,</text><nl/>
+   <text> hilo y pieles. Puedes empezar cazando conejos, vende</text><nl/>
+   <text> la carne a otros jugadores o en la taberna, y ganarás</text><nl/>
+   <text> rapidamente el dinero necesario para comprar algo de</text><nl/>
+   <text> hilo y una aguja. Con esto y las pieles de los conejos</text><nl/>
+   <text> podrás fabricar los primeros objetos.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Lakeside </text>
+   <color r="1" g="1" b="1"/>
+   <text> es el pueblo cerca de los muelles en White Stone.</text><nl/>
+   <text> Para ir allí desde Isla Prima ve hacia el sur, hasta</text><nl/>
+   <text> el muelle, haz click en la vela de la barco y usa</text><nl/>
+   <text> TAB para ver el mapa, haz click en el punto</text><nl/>
+   <text> correspondiente para llegar a la tienda general.</text><nl/>
+   <text> Allí podrás comprar lo necesario.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Asegúrate </text>
+   <color r="1" g="1" b="1"/>
+   <text> de tener también comida disponible cuando vayas</text><nl/>
+   <text> a fabricar algo, porque no puedes fabricar objetos</text><nl/>
+   <text> cuando tu nivel de comida baja de cero.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> El </text>
+   <color r="1" g="1" b="1"/>
+   <text> primer objeto que puedes manufacturar son los guantes</text><nl/>
+   <text> de piel de abrigo, con tres pieles de conejo marrón y</text><nl/>
+   <text> un hilo, pon la aguja en tu inventario y abre la ventana</text><nl/>
+   <text> de manufactura, haciendo click en el icono del yunque.</text><nl/>
+   <text> Ahora haz click tres veces sobre la imagen de la piel de</text><nl/>
+   <text> conejo y una vez sobre el hilo. Pulsa el botón "Mix",</text><nl/>
+   <text> y, con suerte tendrás tu primer par de guantes de abrigo.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> **Nota**: </text>
+   <color r="1" g="1" b="1"/>
+   <text> Algunas veces fallarás cuando estés fabricando</text><nl/>
+   <text> objetos. Esto es normal. Los guantes pueden ser</text><nl/>
+   <text> vendidos en las tiendas, para hacer algún dinero.</text><nl/>
+   <text> Continúa fabricando guantes hasta que tu nivel de</text><nl/>
+   <text> manufactura sea al menos cuatro o cinco.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ahora </text>
+   <color r="1" g="1" b="1"/>
+   <text> llegó el momento de hacer un sombrero de piel.</text><nl/>
+   <text> En White Stone encontrarás conejos blancos, mata uno y</text><nl/>
+   <text> guarda su piel. Es más fácil encontrarlos en Tirnwood</text><nl/>
+   <text> Vale. Necesitarás además la piel de tres castores.</text><nl/>
+   <text> Compra thes hilos y usa estos ingredientes para crear</text><nl/>
+   <text> el sombrero.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Para </text>
+   <color r="1" g="1" b="1"/>
+   <text> fabricar el sombrero, asegúrate de que la aguja está en</text><nl/>
+   <text> tu inventario y abre la ventana de manufactura.</text><nl/>
+   <text> Haz click tres veces sobre la piel de castor, otras</text><nl/>
+   <text> tres sobre el hilo y una en la piel blanca de conejo.</text><nl/>
+   <text> Haz click en el botón "Mix" y espera un momento.</text><nl/>
+   <text> Si tuviste suerte, un sombrero debería aparecer.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Puedes </text>
+   <color r="1" g="1" b="1"/>
+   <text> hacer también capas de piel de forma sencilla. En este</text><nl/>
+   <text> caso necesitarás pieles de lobo y zorro, estos animales</text><nl/>
+   <text> son mucho más duros, por eso puede ser conveniente que,</text><nl/>
+   <text> esta vez, busques a algún jugador de más nivel que esté</text><nl/>
+   <text> entrenando en estos animales y comprarle a él las pieles.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Necesitarás </text>
+   <color r="1" g="1" b="1"/>
+   <text> Tres pieles de lobo, dos de zorro y cinco hilos para</text><nl/>
+   <text> una capa de piel, así como la aguja en tu inventario.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ahora </text>
+   <color r="1" g="1" b="1"/>
+   <text> tus ropajes de piel están completos. Puedes vestirte con</text><nl/>
+   <text> ellos si lo deseas..</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> La </text>
+   <color r="1" g="1" b="1"/>
+   <text> siguiente cosa que puedes fabricar son guantes de</text><nl/>
+   <text> cuero. Necesitarás cuatro relales de cuero y cuatro</text><nl/>
+   <text> hilos. Todo esto se puede comprar en las tiendas gererales.</text><nl/>
+   <text> Los guantes de cuero son muy útiles, porque se necesitan</text><nl/>
+   <text> para recolectar azufre y cáctus.</text><nl/>
+   <text> También se pueden usar como arma.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+<Page name="alch">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">     Ayuda de las Tierras Eternas</text><nl/>
+   <text>               Habilidades</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Alquimia:</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> La </text>
+   <color r="1" g="1" b="1"/>
+   <text> alquimia es el arte de las esencias y las barras</text><nl/>
+   <text> de metal. La forma más fácil de comenzar con esta habilidad</text><nl/>
+   <text> es la creación de esencias de fuego, que podremos vender</text><nl/>
+   <text> a las tienda u otros jugadores para obtener dinero.</text><nl/>
+   <text> Las esencias de fuego son muy utilizadas en la fundición</text><nl/>
+   <text> del metal, son, por tanto, indispensables en la fabricación</text><nl/>
+   <text> de barras de metal.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Necesitarás </text>
+   <color r="1" g="1" b="1"/>
+   <text> azufre, rosas rojas y bocas de dragón para las</text><nl/>
+   <text> esencias de fuego. Ambas flores se pueden encontrar</text><nl/>
+   <text> en Mynadar, la ciudad en el mapa de Valley of the</text><nl/>
+   <text> Dwarves.</text><nl/>
+   <nl/>
+   <text> Para llegar a dicho mapa desde Isla Prima, ve hacia</text><nl/>
+   <text> el sur, hasta el muelle y haz click en la vela del</text><nl/>
+   <text> barco. Ahora estarás en el muelle de Lakeside, mapa de</text><nl/>
+   <text> White Stone, haz click en la otra barco, que tiene un</text><nl/>
+   <text> ciervo en la vela para llegar a Desert Pines, por úlmito</text><nl/>
+   <text> haz click sobre la vela con un oso, y estarás en el</text><nl/>
+   <text> muelle de Mynadar.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> El </text>
+   <color r="1" g="1" b="1"/>
+   <text> azufre lo encontrarás en Crystal Caves, en el</text><nl/>
+   <text> mapa de Desert Pines. Vuelve a los muelles y regresa</text><nl/>
+   <text> al mapa de Desert Pines haciendo click en la vela con el</text><nl/>
+   <text> ciervo. In la cueva cuya entrada está en las montañas del</text><nl/>
+   <text> centro del mapa encontrarás el azufre. El azufre se</text><nl/>
+   <text> encuentra en el muro norte de la cueva, usa el compás</text><nl/>
+   <text> para situarte y recuerda marcar el mapa cuando lo</text><nl/>
+   <text> encuentres. Necesitarás guantes de cuero para recoger el</text><nl/>
+   <text> azufre, así que compralos en la armería de Ciudad White Stone</text><nl/>
+   <text> (punto morado) o haz algunos.También los puedes comprar.</text><nl/>
+   <text> de otros jugadores. Una vez que tengas el azufre ponlo en</text><nl/>
+   <text> el almacen de Desert Pines, el NPC se lama Grim, y </text><nl/>
+   <text> como siempre, está marcado con un punto marrón en tu mapa.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Si </text>
+   <color r="1" g="1" b="1"/>
+   <text> ya tienes las flores y el azufre, coge alguna comida</text><nl/>
+   <text> y vuelve a la caverna de Grim. Toma 10 rosas, 10</text><nl/>
+   <text> bocas de dragón y 10 unidades de azufre. Asegúrate de que tu</text><nl/>
+   <text> nivel de comida es positivo. Abre la ventana de manufactura</text><nl/>
+   <text> (el botón con el yunque) y pulsa una vez sobre cada uno</text><nl/>
+   <text> de los tres elementos necesarios, luego usa el botón</text><nl/>
+   <text> "Mix" y espera. Si nada falló tendrás una esencia de</text><nl/>
+   <text> fuego en tu inventario, inténtalo más veces para</text><nl/>
+   <text> hacer más esencias.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ahora </text>
+   <color r="1" g="1" b="1"/>
+   <text> haz algunas más, y cuando termines, busca las tiendas</text><nl/>
+   <text> de magia en el mapa de White Stone para venderlas.</text><nl/>
+   <text> Esta es una forma de hacer dinero fácil.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Algunas </text>
+   <color r="1" g="1" b="1"/>
+   <text> veces, puede suceder que aparezca un segundo icono</text><nl/>
+   <text> con más esencias en tu inventario, muy similares a</text><nl/>
+   <text> las que ya has fabricado, si eso sucede habrás tenido</text><nl/>
+   <text> la suerte de obtener una esencia de fuego enriquecida.</text><nl/>
+   <text> Las esencias enriquecidas se obtienen aleatoriamente</text><nl/>
+   <text> cuando se están fabricando esencias normales, pero</text><nl/>
+   <text> la posibilidad es realmente pequeña. Estas esencias</text><nl/>
+   <text> son especialmente caras, y muchos jugadores de alto</text><nl/>
+   <text> nivel estarán gustosos de pagar una buena cantidad por</text><nl/>
+   <text> ellas.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+<Page name="magc">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">     Ayuda de las Tierras Eternas</text><nl/>
+   <text>               Habilidades</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magia:</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> La </text>
+   <color r="1" g="1" b="1"/>
+   <text> magia es el arte de los hechizos. Necesitas susurros</text><nl/>
+   <text> y esencias. Los susurros se pueden comprar en las tiendas</text><nl/>
+   <text> de magia de White Stone. Una vez que adquieres un susurro</text><nl/>
+   <text> éste aparece en tu ventana de hechizos, y permanece contigo</text><nl/>
+   <text> para siempre. Las esencias también se pueden comprar en</text><nl/>
+   <text> las tiendas o a tros jugadores, o pueden ser fabricadas,</text><nl/>
+   <text> y son de un solo uso.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Para </text>
+   <color r="1" g="1" b="1"/>
+   <text> empezar a lanzar hechizos, ve a la tienda de magia</text><nl/>
+   <text> en la villa de Gramh y compra el susurro "Salud", luego ve</text><nl/>
+   <text> a la ciudad, también en el mapa de White Stone, y compra</text><nl/>
+   <text> el susurro "Incrementar", compra aquí también esencias</text><nl/>
+   <text> de salud. Ya estás preparedo, si quieres, lucha un poco</text><nl/>
+   <text> para tener algunas heridas que curar.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Cuando </text>
+   <color r="1" g="1" b="1"/>
+   <text> estés herido, pulsa en el icono con la varita mágica</text><nl/>
+   <text> para abrir la ventana de hechizos, deberás ver los dos</text><nl/>
+   <text> susurros que compraste. Haz click en Incrementar y luego</text><nl/>
+   <text> en Salud, cuando uses los susurros, el orden es</text><nl/>
+   <text> relevante. Asegúrate de que las esencias están en tu</text><nl/>
+   <text> inventario y pulsa el botón "Cast". Si el hechizo</text><nl/>
+   <text> no falla, perderás cinco puntos en éter (barra azul)</text><nl/>
+   <text> para ganarlos en tu vida vida (barra roja).</text><nl/>
+   <text> Cuando tú éter esté por debajo de cinco no podrás usar</text><nl/>
+   <text> este hechizo, así que espera a que se regenere. Para</text><nl/>
+   <text> esto necesitarás un nivel de comida positivo.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> También </text>
+   <color r="1" g="1" b="1"/>
+   <text> puedes beber pociones de maná o restauración del</text><nl/>
+   <text> espíritu para recobrar puntos de éter más rápidamente.</text><nl/>
+   <text> Puedes comprarlas en el mercado de White Stone o bien</text><nl/>
+   <text> a otros jugadores. Las pociones también se pueden fabricar.</text><nl/>
+   <text> Para entrenar tu magia, compra pociones y lanza tantos</text><nl/>
+   <text> hechizos como puedas. Asegúrate de que guardas los viales</text><nl/>
+   <text> después de beber las pociones.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+<Page name="pots">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">     Ayuda de las Tierras Eternas</text><nl/>
+   <text>               Habilidades</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Pociones</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Para </text>
+   <color r="1" g="1" b="1"/>
+   <text> comenzar a hacer pociones comenzaros con las de</text><nl/>
+   <text> curación menor.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Necesitarás </text>
+   <color r="1" g="1" b="1"/>
+   <text> viales vacíos para cualquier poción. La forma más</text><nl/>
+   <text> facil de conseguirlost es comprar pociones de maná y</text><nl/>
+   <text> beberlas. Cada poción de maná cuesta 5 gc.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Cuando </text>
+   <color r="1" g="1" b="1"/>
+   <text> tengas algunos viales ve a la villa de Grahm, allí</text><nl/>
+   <text> hay una casa con una huerta con verduras cerca. Busca</text><nl/>
+   <text> algunos girasoles cerca de allí y recoge algunos, coges</text><nl/>
+   <text> algunas verduras también y compra vino en la taberna.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Asegúrate </text>
+   <color r="1" g="1" b="1"/>
+   <text> de que tu nivel de comida es positivo, y abre la</text><nl/>
+   <text> ventana de manufactura haciendo click en el icono del</text><nl/>
+   <text> yunque. Haz click una vez en los viales, el vino y</text><nl/>
+   <text> los girasoles. Ahora haz click in "Mix" y espera, si hubo</text><nl/>
+   <text> éxito tendrás tu primera poción de curación menor en</text><nl/>
+   <text> tu inventario.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+<Page name="summ">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">     Ayuda de las Tierras Eternas</text><nl/>
+   <text>               Habilidades</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Invocación</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> La invocación </text>
+   <color r="1" g="1" b="1"/>
+   <text> te permite traer a la vida criaturas por un</text><nl/>
+   <text> tiempo limitado. Estas criaturas te seguirán a donde</text><nl/>
+   <text> vayas, siempre dentro del mapa en el que fueron</text><nl/>
+   <text> invocadas, y hasta que mueran.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Primero, </text>
+   <color r="1" g="1" b="1"/>
+   <text> necesitarás un conejo muerto, una piel de conejo</text><nl/>
+   <text> marrón, un hueso y una porción de carne. Compra una</text><nl/>
+   <text> esencia de vida en una tienda de magia, asegúrate de</text><nl/>
+   <text> que tus puntos etéreos (barra azul) están por encima de</text><nl/>
+   <text> cero y busca un lugar tranquilo. No invoques nunca en</text><nl/>
+   <text> lugares muy poblados como los alrededores de un NPC.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Abre </text>
+   <color r="1" g="1" b="1"/>
+   <text> la ventana de manufactura y pon todos los componentes</text><nl/>
+   <text> en su sitio: la piel marrón, el hueso, la carne y la</text><nl/>
+   <text> esencia de vida.Haz click en "Mix" y espera, si la</text><nl/>
+   <text> invocación no falla deberá haber un conejo cerca de</text><nl/>
+   <text> ti. Si te mueves te seguirá.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+<Page name="crft">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">     Ayuda de las Tierras Eternas</text><nl/>
+   <text>               Habilidades</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Joyería</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Para </text>
+   <color r="1" g="1" b="1"/>
+   <text> comenzar en la habilidad de la joyería necesitas</text><nl/>
+   <text> una gran cantidad de conocimientos, lo cual significa</text><nl/>
+   <text> que necesitarás leer muchos libros antes de comenzar.</text><nl/>
+   <text> Tendrás que ir a la escuela de magia de Tarsengaard</text><nl/>
+   <text> desde Mynadar o desde la parte Noreste del mapa de</text><nl/>
+   <text> White Stone. Ten cuidado con los goblins armados que</text><nl/>
+   <text> patrullan Tarsengaard. Busca a Itilli en la escuela,</text><nl/>
+   <text> en la habitación de registro, y adquiere los libros de</text><nl/>
+   <text> anillos en general y anillos de oro.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Mientras </text>
+   <color r="1" g="1" b="1"/>
+   <text> los lees, asegúrate de que tu nexo artificial es al</text><nl/>
+   <text> menos uno (puedes añadir nivel a tus nexos visitando al</text><nl/>
+   <text> NPC llamado "The Wraith". Necesitarás algunas barras</text><nl/>
+   <text> de oro y algunas esencias de fuego. Puedes fabricarlas</text><nl/>
+   <text> tú usando la alquimia o comprarlas de otros jugadores.</text><nl/>
+   <text> Las esencias también se pueden comprar en las tiendas</text><nl/>
+   <text> de magia de White Stone (puntos amarillos en el mapa).</text><nl/>
+   <text> En otras tiendas de magia, como la de Portland,</text><nl/>
+   <text> Encontrarás papeles de lija y otras herramientas</text><nl/>
+   <text> para la joyería, como cortadores de gemas y moldes.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Cuando </text>
+   <color r="1" g="1" b="1"/>
+   <text> hayas leído los dos libros, coge las barras de oro,</text><nl/>
+   <text> las esencias de fuego y un molde para anillos. Pon el</text><nl/>
+   <text> molde en tu inventario y toma también alguna comida.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Abre </text>
+   <color r="1" g="1" b="1"/>
+   <text> la ventana de manufactura, haz click dos veces en las</text><nl/>
+   <text> barras de oro y tres veces en las esencias de fuego.</text><nl/>
+   <text> Haz click en "Mix" y espera, si todo fue bien</text><nl/>
+   <text> deberías ver tu primer anillo.</text><nl/>
+   <text> Para hacer anillos de plata ve otra vez hasta Itilly</text><nl/>
+   <text> y compra el libro de anillos de plata. Ambos tipos de</text><nl/>
+   <text> anillo son ingredientes para la fabricación de Anillos</text><nl/>
+   <text> Mágicos de Teletransporte, Daño o Estasis.</text><nl/>
+   <nl/>
+   <text> Ya </text>
+   <color r="1" g="1" b="1"/>
+   <text> habrás deducido que no es la habilidad más barata de</text><nl/>
+   <text> desarrollar, aparte de consumir mucho tiempo. Por esto</text><nl/>
+   <text> suelen ser los jugadores más avanzados los únicos que</text><nl/>
+   <text> la pueden desarrollar con más facilidad.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+<Page name="engn">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                   Skills</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Engineering</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Engineering</text>
+   <color r="1" g="1" b="1"/>
+   <text> is an advanced skill, used to create several</text><nl/>
+   <text> devices like landmines and visors or making dangerous</text><nl/>
+   <text> substances.</text><nl/>
+   <text> If you are new to the game, it is advised that you level</text><nl/>
+   <text> up in other skills before you start this one. For most</text><nl/>
+   <text> of the items you'll need the support of quite high</text><nl/>
+   <text> skills and you'll also have to travel to a distant and</text><nl/>
+   <text> dangerous place in order to buy the expensive books</text><nl/>
+   <text> you'll need.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Start</text>
+   <color r="1" g="1" b="1"/>
+   <text> engineering by making some ashes. All you need for</text><nl/>
+   <text> this are branches and fire essences.</text><nl/>
+   <text> You can find branches on the ground in the woods, for</text><nl/>
+   <text> example on Isla Prima or in the Evergreen Woods in Desert</text><nl/>
+   <text> Pines; fire essences can be made (alchemy) or you could</text><nl/>
+   <text> buy them from other players or magic shops on the White</text><nl/>
+   <text> Stone map. Once you have the branches and the essences,</text><nl/>
+   <text> you can start making ashes: open the manufacturing window</text><nl/>
+   <text> by clicking on the hammer and anvil icon, then to add the</text><nl/>
+   <text> ingredients click 3 times on the branches, once on a fire</text><nl/>
+   <text> essence, and then click the "Mix" button.</text><nl/>
+   <text> Wait, and hopefully you will have made ashes!</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Continue</text>
+   <color r="1" g="1" b="1"/>
+   <text> making ashes to gain your first engineering</text><nl/>
+   <text> levels, and save them in your storage as they can be used</text><nl/>
+   <text> later on for making some more advanced items.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> If</text>
+   <color r="1" g="1" b="1"/>
+   <text> you want to start making something else after ashes,</text><nl/>
+   <text> you'll need to read books. The bookseller you'll need to</text><nl/>
+   <text> find is Neculce, located in North Redmoon. North Redmoon</text><nl/>
+   <text> is a map on the continent of Irilion and deadly monsters</text><nl/>
+   <text> live there. The books you need to start off with are</text><nl/>
+   <text> "Book of Nails" and "Book of Rope" which will both cost</text><nl/>
+   <text> a total of 8k gold coins.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> After</text>
+   <color r="1" g="1" b="1"/>
+   <text> reading the books, The next 2 items you can try to</text><nl/>
+   <text> make are ropes and nails. You'll need some thread for the</text><nl/>
+   <text> ropes and iron bars for the nails. You can make thread</text><nl/>
+   <text> (crafting), or buy it from players or general stores.</text><nl/>
+   <text> When you have the thread, open the manufacture window,</text><nl/>
+   <text> click 5 times on the thread and then click the "Mix"</text><nl/>
+   <text> button to make your first rope. Ropes can also be sold</text><nl/>
+   <text> to the general stores.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> For</text>
+   <color r="1" g="1" b="1"/>
+   <text> making nails you need iron bars and a hammer. You can</text><nl/>
+   <text> make the bars yourself or buy them from players, and the</text><nl/>
+   <text> hammer is sold by the blacksmith in White Stone City.</text><nl/>
+   <text> Once you have the bars and the hammer (and some food)</text><nl/>
+   <text> open the manufacturing window, click 2 times on the iron</text><nl/>
+   <text> bars and then click the "Mix" button to make some nails.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+</skills>

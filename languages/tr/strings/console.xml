@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <filter>
+    <toolong>Kelime çok uzun, sinir 15 karakterdir.`</toolong>
+    <tooshort>Kelime çok kisa, sadece 3 ve daha fazla karakterli kelimeler kullanilabilir!</tooshort>
+    <notadd>Kelime filtre listesine eklenmedi!</notadd>
+    <already>%s zaten filtre ediyorsunuz.</already>
+    <add>Tamam, %s filtre listenize eklendi!</add>
+    <norem>Kelime filtre listenizden çikarilmadi!</norem>
+    <not>%s kelimesini basta filtre etmediniz ki!</not>
+    <rem>Tamam, %s filtre listenizden çikarildi!</rem>
+    <none>Hiç bir seyi filtre etmiyorsunuz!</none>
+    <cur>Su an filtre ettiginiz</cur>
+    <flistfull>Filtre listeniz dolu, baska filtre ekleyemezsiniz</flistfull>
+  </filter>
+  <ignore>
+    <toolong>Isim çok uzun, sinir 15 karakterdir.</toolong>
+    <tooshort>Isim çok kisa, sadece 3 ve daha fazla karakterli isimler kullanilabilir!</tooshort>
+    <noadd>Isim yoksay listesine eklenmedi!</noadd>
+    <already>%s zaten yoksayiliyor!</already>
+    <full>Yuh, yoksay listeniz dolu, bu imkansiz!</full>
+    <add>%s yoksay listenize eklendi!</add>
+    <norem>Isim yoksay listenizden çikarilmadi!</norem>
+    <not>%s basta filtre etmediniz ki!</not>
+    <rem>Tamam, %s yoksay listenizden çikarildi!</rem>
+    <none>Hiç kimseyi yoksaymiyorsunuz!</none>
+    <cur>Su an yoksaydiginiz</cur>
+  </ignore>
+  <misc>
+    <log>Ham baglanti verisi kaydediliyor</log>
+    <card>Video karti</card>
+    <vendor>Satici kimligi</vendor>
+    <ext>Desteklenen uzantilar</ext>
+    <opengl>OpenGL Sürümü</opengl>
+  <pm_from>[PM from</pm_from><mod_pm_from>[Mod PM from</mod_pm_from><gm_from>#GM from</gm_from><date_format>Bugün %s gün, %s ayi, yil %04d, Ebediler Cagi</date_format></misc>
+  <loading_msg>
+    <init_opengl>OpenGL uzantilari ilkeleniyor</init_opengl>
+    <init_random>Rastgele tohum olusturuluyor</init_random>
+    <load_ignores>Yoksayilanlar yükleniyor</load_ignores>
+    <load_filters>Filtreler yükleniyor</load_filters>
+    <load_lists>Listeler yükleniyor</load_lists>
+    <load_cursors>Imleçler yükleniyor</load_cursors>
+    <bld_glow>Parlama tablosu kuruluyor</bld_glow>
+    <init_lists>Listeler ilkeleniyor</init_lists>
+    <init_actor_defs>Aktör tanimlari ilkeleniyor</init_actor_defs>
+    <load_map_tiles>Harita dösemeleri yükleniyor</load_map_tiles>
+    <init_lights>Isiklar ilkeleniyor</init_lights>
+    <init_logs>Günlük dosyalari ilkeleniyor</init_logs>
+    <read_config>Yapi bilgileri okunuyor</read_config>
+    <init_weather>Iklim ilkeleniyor</init_weather>
+    <init_audio>Ses ilkeleniyor</init_audio>
+    <load_icons>Simgeler yükleniyor</load_icons>
+    <load_textures>Dokular yükleniyor</load_textures>
+    <init_network>Ag ilkeleniyor</init_network>
+    <init_timers>Zamanlayicilar ilkeleniyor</init_timers>
+    <load_encyc>Ansiklopedia dosyalari yukleniyor</load_encyc>
+    <init_display>Görüntüleme seyleri ilkeleniyor</init_display>
+    <prep_op_win>Açilis ekrani hazirlaniyor</prep_op_win>
+    <load_map>Harita yükleniyor</load_map>
+    <load_3d_object>3D nesneler yükleniyor</load_3d_object>
+    <load_2d_object>2D nesneler yükleniyor</load_2d_object>
+    <load_lights>Isiklar yükleniyor</load_lights>
+    <load_particles>Parçaciklar yükleniyor</load_particles>
+    <bld_sectors>Kesimler kuruluyor</bld_sectors>
+    <init_done>Bitti</init_done>
+  </loading_msg>
+<cmd><help_rq>#help request</help_rq><help_cmd>help</help_cmd><char_cmd>#</char_cmd><char_at>@</char_at><char_slash>/</char_slash><gm_cmd>#gm</gm_cmd><mod_cmd>#mod</mod_cmd><bc_cmd>#bc</bc_cmd><msg_accept_buddy> sizi ahbap listesine eklemek istiyor</msg_accept_buddy><filter>filter</filter><filters>filters</filters><unfilter>unfilter</unfilter><ignore>ignore</ignore><ignores>ignores</ignores><unignore>unignore</unignore><markpos>markpos</markpos><mark>mark</mark><unmark>unmark</unmark><stats>stats</stats><time>time</time><date>date</date><exit>exit</exit><msg>msg</msg><afk>afk</afk><glinfo>glinfo</glinfo></cmd></root>

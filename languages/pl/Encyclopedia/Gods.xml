@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gods>
+<Page name="ALUWEN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  BOGOWIE</text><nl/>
+   <color>red</color>
+   <text>          Aluwen - Bogini Obrony</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Podazanie sciezka Aluwen oznacza ochrone niewinnych,</text><nl/>
+   <text> przywracanie zdrowia rannym oraz mowienie prawdy</text><nl/>
+   <text> z glebi serca.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Polozenie: Forest of the Fall, White Stone</text><nl/>
+   <text> Kaplan: Noria</text><nl/>
+   <text> Korzysci: Wyznawcy otrzymuja wiecej doswiadczenia</text><nl/> 
+   <text>           w Obronie</text><nl/>
+   <text> Przeciwnicy: Mortos, Selain.</text><nl/>
+   <text> Poczatkowa ranga: -2</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Gods" title="Wroc do Indeksu Bogow"/>
+</Page>
+<Page name="UNOLAS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  BOGOWIE</text><nl/>
+   <color>red</color>
+   <text>             Unolas - Bog Magii</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Podazanie sciezka Unolasa to poszukiwanie tego,</text><nl/>
+   <text> co wymyka sie logice i rozsadkowi - magii.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Polozenie: Vermor Castle, White Stone</text><nl/>
+   <text> Kaplan: Adrian</text><nl/>
+   <text> Korzysci: Wyznawcy otrzymuja wiecej doswiadczenia w Magii</text><nl/>
+   <text> Przeciwnicy: Zarin, Lucaa.</text><nl/>
+   <text> Poczatkowa ranga: -2</text><nl/>
+   <text> Uwaga: drogi do Kaplana strzega liczne monstra.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Gods" title="Wroc do Indeksu Bogow"/>
+</Page>
+<Page name="MORTOS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  BOGOWIE</text><nl/>
+   <color>red</color>
+   <text>            Mortos - Bog Ataku</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Wyznawcy Mortosa znajduja radosc w czynieniu zla,</text><nl/>
+   <text> w smierci i zniszczeniu, sa zwiastunami konca</text><nl/>
+   <text> wszystkiego co zywe.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Polozenie: The Catacombs, Naralik.</text><nl/>
+   <text> Kaplan: Dirhyan</text><nl/>
+   <text> Korzysci: Wyznawcy otrzymuja wiecej doswiadczenia w Ataku.</text><nl/>
+   <text> Przeciwnicy: Aluwen, Elandria.</text><nl/>
+   <text> Poczatkowa ranga: -2</text><nl/>
+   <text> Uwaga: na strazy kaplana Mortosa stoja Orkowie.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Gods" title="Wroc do Indeksu Bogow"/>
+</Page>
+<Page name="SELAIN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  BOGOWIE</text><nl/>
+   <color>red</color>
+   <text>           Selain - Bog Przywolan</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Podazanie scieࠫa Selain wymaga odwagi, by wykorzystywac</text><nl/>
+   <text> nadarzajace sie okazje; to bycie bogatszym, madrzejszym</text><nl/>
+   <text> i potezniejszym niz inne istoty.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Polozenie: Tirnwood, White Stone</text><nl/>
+   <text> Kaplan: Sylpho</text><nl/>
+   <text> Korzysci: Wyznawcy otrzymuja wiecej doswiadczenia</text><nl/>
+   <text>           w Przywolywaniu</text><nl/>
+   <text> Przeciwnicy: Aluwen, Glilin.</text><nl/>
+   <text> Poczatkowa ranga: -2</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Gods" title="Wroc do Indeksu Bogow"/>
+</Page>
+<Page name="GLILIN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  BOGOWIE</text><nl/>
+   <color>red</color>
+   <text>         Glilin - Bog Rzemieslnikow</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Ci, ktorzy podazaja sciezka Glilina pokazuja swiatu,</text><nl/>
+   <text> czym jest prawdziwe mistrzostwo.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Polozenie: Nordcarn</text><nl/>
+   <text> Kaplan: Baostas</text><nl/>
+   <text> Korzysci: Wyznawcy otrzymuja wiecej doswiadczenia</text><nl/>
+   <text>           w Rzemieslnictwie</text><nl/>
+   <text> Przeciwnicy: Selain, Lucaa.</text><nl/>
+   <text> Poczatkowa ranga: -2</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Gods" title="Wroc do Indeksu Bogow"/>
+</Page>
+<Page name="ELANDRIA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  BOGOWIE</text><nl/>
+   <color>red</color>
+   <text>         Elandria - Bogini Alchemii</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Wyznawcy Elandrii otwieraja swoje serca na wszystko</text><nl/>
+   <text> co ich otacza.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Polozenie: Evergreen Forest, Desert Pines</text><nl/>
+   <text> Kaplan: Romira.</text><nl/>
+   <text> Korzysci: Wyznawcy otrzymuja wiecej doswiadczenia</text><nl/>
+   <text>           w Alchemii</text><nl/>
+   <text> Przeciwnicy: Zarin, Mortos.</text><nl/>
+   <text> Poczatkowa ranga: -2</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Gods" title="Wroc do Indeksu Bogow"/>
+</Page>
+<Page name="ZARIN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  BOGOWIE</text><nl/>
+   <color>red</color>
+   <text>         Zarin - Bogini Jubilerstwa</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Podazanie sciezka Zarin to poszukiwanie bogactwa</text><nl/>
+   <text> i tworzenie przedmiotow cieszacych oczy swym pieknem.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Polozenie: Tarsengaard</text><nl/>
+   <text> Kaplan: Durnam</text><nl/>
+   <text> Korzysci: Wyznawcy otrzymuja wiecej doswiadczenia</text><nl/>
+   <text>           w Jubilerstwie.</text><nl/>
+   <text> Przeciwnicy: Elandria, Unolas.</text><nl/>
+   <text> Poczatkowa ranga: -2</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Gods" title="Wroc do Indeksu Bogow"/>
+</Page>
+<Page name="LUCAA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  BOGOWIE</text><nl/>
+   <color>red</color>
+   <text>         Lucaa - Bogini Zbiorow</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Wyznawcy Lucai ucza sie, jak ksztaltowac sily przyrody</text><nl/>
+   <text> i jak przetrwac kaprysy Krolowej Natury.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Polozenie: Roanof Island, Tarsengaard</text><nl/>
+   <text> Kaplan: Quira (jeszcze nieobecna).</text><nl/>
+   <text> Korzysci: Wyznawcy otrzymuja wiecej doswiadczenia</text><nl/>
+   <text>           w Zbieraniu</text><nl/>
+   <text> Przeciwnicy: Unolas, Glilin.</text><nl/>
+   <text> Poczatkowa ranga: -2</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Gods" title="Wroc do Indeksu Bogow"/>
+</Page>
+<Page name="JAYDEN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  BOGOWIE</text><nl/>
+   <color>red</color>
+   <text>          Jayden - Bogini Mikstur</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Podazanie droga Jayden wymaga cierpliwosci i rozwagi,</text><nl/>
+   <text> proba przejscia droga na skroty konczy sie zwykle</text><nl/>
+   <text> uzyskaniem bezwartosciowej mikstury.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Polozenie: Morcraven Marsh</text><nl/>
+   <text> Kaplan: Iazurn</text><nl/>
+   <text> Korzysci: Wyznawcy otrzymuja wiecej doswiadczenia w </text><nl/>
+   <text>           wytwarzaniu Mikstur</text><nl/>
+   <text> Przeciwnicy: Galienne, LaForge.</text><nl/>
+   <text> Poczatkowa ranga: -2</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Gods" title="Wroc do Indeksu Bogow"/>
+</Page>
+<Page name="LAFORGE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  BOGOWIE</text><nl/>
+   <color>red</color>
+   <text>         LaForge - Bog Inzynierii</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Wyznawcy LaForge wynajduja i tworza koncepcje</text><nl/>
+   <text> i urzadzenia, ktore rozszerzaja wiedze o swiecie</text><nl/>
+   <text> i wspomagaja rozwoj nauki.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Polozenie: Arius</text><nl/>
+   <text> Kaplan: Diesel</text><nl/>
+   <text> Korzysci: Wyznawcy otrzymuja wiecej doswiadczenia</text><nl/>
+   <text>           w Inzynierii</text><nl/>
+   <text> Przeciwnicy: Jayden, Galienne.</text><nl/>
+   <text> Poczatkowa ranga: -2</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Gods" title="Wroc do Indeksu Bogow"/>
+</Page>
+<Page name="XIAO">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  BOGOWIE</text><nl/>
+   <color>red</color>
+   <text>             Xiao - Bog Strzelectwa</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Wyznawcy Xiao odznaczaja sie celnoscia, zabijaja</text><nl/>
+   <text> szybko, zyja w ukryciu i szanuja innych czlonkow klanu.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Polozenie: Ruins of Tirnym</text><nl/>
+   <text> Kaplan: Gatlin (jeszcze nieobecny).</text><nl/>
+   <text> Korzysci: Wyznawcy otrzymuja wiecej doswiadczenia</text><nl/> 
+   <text>           w Strzelectwie</text><nl/>
+   <text> Przeciwnicy: Nieznani</text><nl/>
+   <text> Poczatkowa ranga: -2</text><nl/>
+   <nl/><nl/>
+   <text> Nasi uczeni wciaz poszukuja informacji o tym bostwie.</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Gods" title="Wroc do Indeksu Bogow"/>
+</Page>
+<Page name="GALIENNE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  BOGOWIE</text><nl/>
+   <color>red</color>
+   <text>        Galienne - Bogini Krawiectwa</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Wyznawcy Galienne sa dla innych zrodlem inspiracji i daza</text><nl/>
+   <text> do perfekcji w swoim rzemiosle.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Polozenie: Glacmor</text><nl/>
+    <text> Kaplan: Tyra (jeszcze nieobecny).</text><nl/>
+   <text> Korzysci: Wyznawcy otrzymuja wiecej doswiadczenia </text><nl/>
+   <text>           w Krawiectwie</text><nl/>
+   <text> Przeciwnicy: Jayden, LaForge.</text><nl/>
+   <text> Poczatkowa ranga: -2</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Gods" title="Wroc do Indeksu Bogow"/>
+</Page>
+</Gods>

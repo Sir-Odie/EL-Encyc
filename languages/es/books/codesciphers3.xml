@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<book title="El uso de códigos y cifrados">
+	<page>
+		<title>El uso de códigos y cifrados</title>
+		<author>Dival Celebrindal (Archivista del lider)</author>  </page>
+	<page>
+		<title>Códigos por substitución - Parte III</title>
+		<text>Aunque hay muchos tipos de códigos por substitución, hay algunos mas comunes que otros; mis hallazgos en ésto no son concluyentes, podría deberse a los diferentes niveles de inteligencia de las distintas razas, que encuentran más difícil descifrar unos u otros. Un código muy frecuentemente usado es el "Mezclador de Mynadar", desarrollado por la comunidad minera para comunicar las localizaciones de nuevos depósitos de oro. Dicho código es la simplicidad misma. A cada letra le corresponde su número de orden en el altabeto, así la A es 1 y la Z 26, mientras que a cada número (considerando 0 como el décimo) le corresponde una letra, siendo el 1 la letra A y el 0 la letra J, por ejemplo: "LA MINA 324 TIENE 17 CUEVAS" se convertiría en "12 1 13 9 14 1 CBD 20 9 5 14 5 AG 3 21 5 22 1 19" ... [El libro contiene mas detalles técnicos, pero decides cerrarlo antes de que el sueño te embargue]</text>
+	</page>
+</book>

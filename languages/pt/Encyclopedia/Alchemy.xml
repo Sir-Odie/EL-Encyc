@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Alchemy>
+<Page name="Fire Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Fire Essence</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Armaduras, Armas e Crafting.</text>
+   <nlkx/>
+   <text> Usado para feiticos: Cold Shield</text>
+   <nlkx/>
+   <text> Tambem usado para: Summoning e fazer Vials.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 1 Sulphur, 1 Red Rose, 1 Red Snapdragon.</text>
+   <nl/>
+   <text> Nivel de alchemy recomendado: 1</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 6</text>
+   <nl/>
+   <text> Comida consumida: 1</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Water Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Water Essence</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Crafting.</text>
+   <nlkx/>
+   <text> Usado para feiticos: Heat Shield</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 1 Sapphire, 1 Blue Quartz, 1 Blue Lupine,</text>
+   <nl/>
+   <text> 1 Blue Star Flower.</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 2</text>
+   <nl/>
+   <text> Experiencia de Alchemy Ganha: 10</text>
+   <nl/>
+   <text> Comida consumida: 1</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Earth Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Earth Essence</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Matter Conglomerate.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 1 Sulphur, 2 Coals, 1 Swamp Candle.</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 4</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 20</text>
+   <nl/>
+   <text> Comida consumida: 2</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title=""/>
+</Page>
+<Page name="Air Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Air Essence</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: fazer Machados.</text>
+   <nlkx/>
+   <text> Usado para feiticos: Drain Mana, Invisibility</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 1 Silver Ore , 1 Unpolished Diamond, 1 White Asiatic Lily.</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 6</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 25</text>
+   <nl/>
+   <text> Comida consumida: 3</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Spirit Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Spirit Essence</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usada para feiticos: Heal Summoned, Smite Summoned,</text>
+   <nlkx/>
+   <text> Teleport (Range/Portals Room/Intercontinental),</text>
+   <nlkx/>
+   <text> True Sight</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 1 Mercury, 1 Gold Ore, 1 Silver Ore.</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 8</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 35</text>
+   <nl/>
+   <text> Comida consumida: 4</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Matter Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Matter Essence</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para muitos feiticos.</text>
+   <nlkx/>
+   <text> Tambem usado para: Summoning.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 1 Iron Ore, 1 Quartz, 1 Rose Quartz, 1 Blue Quartz.</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 10</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 40</text>
+   <nl/>
+   <text> Comida consumida: 5</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Energy Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Energy Essence</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Crafting.</text>
+   <nlkx/>
+   <text> Usado para muitos feiticos.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 1 Iron Ore, 1 Silver Ore, 1 Tiger Lily.</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 12</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 45</text>
+   <nl/>
+   <text> Comida consumida: 6</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Life Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Life Essence</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Summoning.</text>
+   <nlkx/>
+   <text> Usado para feiticos: Life Drain, Heal Summoned.</text>
+   <nlkx/>
+   <text> Tambem usado para: Crafting.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 1 Silver Ore, 2 Sunflowers.</text>
+   <nl/>
+   <text> Conhecimento Necessario: Life Essence</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 14</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 50</text>
+   <nl/>
+   <text> Comida consumida: 7</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Death Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Death Essence</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para feiticos: Poison, Harm, Smite Summoned.</text>
+   <nlkx/>
+   <text> Tambem usado para: Crafting e Summoning</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 1 Mercury, 1 Quartz, 1 Cactus.</text>
+   <nl/>
+   <text> Conhecimento Necessario: Death Essence</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 16</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 60</text>
+   <nl/>
+   <text> Comida consumida: 8</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <text> </text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Health Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Health Essence</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para feiticos: Heal, Remote Heal, Harm,</text>
+   <nlkx/>
+   <text> Restoration, Heal Summoned.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 2 Silver Ores, 1 Chrysanthemum.</text>
+   <nl/>
+   <text> Conhecimento Necessario: Health Essence</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 18</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 70</text>
+   <nl/>
+   <text> Comida consumida: 8</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Magic Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Magic Essence</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Crafting.</text>
+   <nlkx/>
+   <text> Usado para feiticos: Remote Heal, Magic Protection,</text>
+   <nlkx/>
+   <text> Magic Immunity, True Sight, Radiation Shield.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 1 Emerald, 1 Impatiens, 1 Lilac.</text>
+   <nl/>
+   <text> Conhecimento Necessario: Magic Essence</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 20</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 80</text>
+   <nl/>
+   <text> Comida consumida: 10</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Iron Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Iron bar</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Armaduras e Armas.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 7 Iron Ores, 3 Coals, 2 Fire Essences.</text>
+   <nl/>
+   <text> Conhecimento Necessario: Iron Smelting</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 22</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 120</text>
+   <nl/>
+   <text> Comida consumida: 11</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 2 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Steel Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Steel bar</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Armaduras e Armas.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 8 Iron Ores, 5 Coals, 3 Fire Essences.</text>
+   <nl/>
+   <text> Conhecimento Necessario: Steel Smelting</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 24</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 140</text>
+   <nl/>
+   <text> Comida consumida: 12</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 2 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Silver Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Silver bar</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Crafting.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 8 Silver Ores, 3 Coals, 4 Fire Essences.</text>
+   <nl/>
+   <text> Conhecimento Necessario: Silver Smelting</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 26</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 155</text>
+   <nl/>
+   <text> Comida consumida: 13</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 2 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Gold Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Gold bar</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Crafting.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 8 Gold Ores, 3 Coals, 5 Fire Essences.</text>
+   <nl/>
+   <text> Conhecimento Necessario: Gold Smelting</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 28</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 170</text>
+   <nl/>
+   <text> Comida consumida: 14</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 3 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Titanium Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Titanium bar</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Armaduras e Armas.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 8 Titanium Ores, 3 Coals, 7 Fire Essences.</text>
+   <nl/>
+   <text> Conhecimento Necessario: Titanium Smelting</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 30</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 180</text>
+   <nl/>
+   <text> Comida consumida: 15</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Copper Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Copper bar</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Bronze Bar.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 10 Copper Ores, 10 Coals, 20 Fire Essences.</text>
+   <nl/>
+   <text> Conhecimento Necessario: Copper Smelting</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 34</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 800</text>
+   <nl/>
+   <text> Comida consumida: 25</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 15 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Dvarium Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Dvarium bar</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Os nossos cientistas continuam a investigar este ore,</text><nl/>
+   <text>       como tal nao sabemos o uso das barras</text><nl/>
+   <text>       ainda.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> Desconhecido</text>
+   <nl/>
+   <text> Conhecimento Necessario: Desconhecido</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: Desconhecido</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: Desconhecido</text>
+   <nl/>
+   <text> Comida consumida: Desconhecido</text>
+   <nl/>
+   <text> Empilhavel: Desconhecido</text>
+   <nl/>
+   <text> Peso: Desconhecido EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Hydrogenium Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Hydrogenium bar</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Advanced Armors.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 10 Hydrogenium Ores, 4 Coals, 10 Fire Essences.</text>
+   <nl/>
+   <text> Conhecimento Necessario: Hydrogenium Smelting</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 50</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 1000</text>
+   <nl/>
+   <text> Comida consumida: 25</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Seridium Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Seridium bar</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Crafting.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 6 Seridium Ores, 10 Coals, 20 Fire Essences.</text>
+   <nl/>
+   <text> Conhecimento Necessario: Seridium Smelting</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 52</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 800</text>
+   <nl/>
+   <text> Comida consumida: 25</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 15 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Irilium Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Irilium bar</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Os nossos cientistas continuam a investigar este ore,</text><nl/>
+   <text>       como tal nao sabemos o uso das barras</text><nl/>
+   <text>       ainda.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> Desconhecido</text>
+   <nl/>
+   <text> Conhecimento Necessario: Desconhecido</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: Desconhecido</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: Desconhecido</text>
+   <nl/>
+   <text> Comida consumida: Desconhecido</text>
+   <nl/>
+   <text> Empilhavel: Desconhecido</text>
+   <nl/>
+   <text> Peso: Desconhecio EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Tin Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Tin bar</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Bronze Bar.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 6 Tin Ores, 10 Coals, 20 Fire Essences.</text>
+   <nl/>
+   <text> Conhecimento Necessario: Tin Smelting</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 32</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 600</text>
+   <nl/>
+   <text> Comida consumida: 25</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 15 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Wolfram Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Wolfram bar</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Armas Avancadas.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 10 Wolframite Ores, 1 Serpent Stone, 30 Fire Essences.</text>
+   <nl/>
+   <text> Conhecimento Necessario: Wolframite Smelting</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 60</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 1500</text>
+   <nl/>
+   <text> Comida consumida: 35</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 30 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Bronze Bar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Bronze bar</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Bronze Armor.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 1 Copper Bar, 1 Tin Bar, 30 Fire Essences.</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 36</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 800</text>
+   <nl/>
+   <text> Comida consumida: 25</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 20 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Enriched Fire Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Enriched Fire Essence</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Armaduras e Armas Avancadas.</text>
+   <nlkx/>
+   <text> Esta essencia tambem pode ser feito por sorte enquanto</text>
+   <nlkx/>
+   <text> se faz Fire Essences normais.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 1 Enrichment Stone, 100 Fire Essences.</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 50</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 500</text>
+   <nl/>
+   <text> Comida consumida: 30</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Enriched Life Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Enriched Life Essence</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Crafting e Summoning Avancado.</text>
+   <nlkx/>
+   <text> Esta essencia tambem pode ser feito por sorte enquanto</text>
+   <nlkx/>
+   <text> se faz Life Essences normais.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 1 Enrichment Stone, 100 Life Essences.</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 50</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 500</text>
+   <nl/>
+   <text> Comida consumida: 30</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Enriched Magic Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Enriched Magic Essence</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Armas, Crafting e Summoning Avancado.</text>
+   <nlkx/>
+   <text> Esta essencia tambem pode ser feito por sorte enquanto</text>
+   <nlkx/>
+   <text> se faz Magic Essences normais.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessarios:</text>
+   <nl/>
+   <text> 1 Enrichment Stone, 100 Magic Essences.</text>
+   <nl/>
+   <text> Nivel de Alchemy recomendado: 50</text>
+   <nl/>
+   <text> Experiencia De Alchemy Ganha: 500</text>
+   <nl/>
+   <text> Comida consumida: 30</text>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Enriched Water Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Enriched Water Essence</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Armas e Summoning Avancado.</text>
+   <nlkx/>
+   <text> Esta essencia so pode ser feito por sorte enquanto</text>
+   <nlkx/>
+   <text> se faz Water Essences normais.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
+   <nl/>
+   <text> Este item nao pode ser fabricado.</text>
+   <nl/>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+<Page name="Enriched Death Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Voltar"/>
+   <link x="437" y="2" ref="Index" title="Indice"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Enriched Death Essence</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Summoning Avancado.</text>
+   <nlkx/>
+   <text> Esta essencia so pode ser feito por sorte enquanto</text>
+   <nlkx/>
+   <text> se faz Death Essences normais.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
+   <nl/>
+   <text> Este item nao pode ser fabricado.</text>
+   <nl/>
+   <nl/>
+   <text> Empilhavel: Sim</text>
+   <nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Voltar Para Indice De Alchemy"/>
+</Page>
+</Alchemy>

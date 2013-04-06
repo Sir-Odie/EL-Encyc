@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <afk>
+    <going>AFK moduna geçiliyor</going>
+    <not>Artik AFK degilsiniz</not>
+    <back>Asagidaki kisilerden %d yeni mesajiniz var:</back>
+    <names>Isim</names>
+    <messages>Mesajlar</messages>
+    <help>Belirli kisilerin mesajini görüntülemek için #msg &lt;numara&gt; veya bütün mesajlar için #msg all yaziniz</help>
+  </afk>
+  <misc>
+    <values>deger</values>
+    <close>[kapat]</close>
+    <low>Düsük kare hizi tespit edildi, gölgeler devre disi birakildi!</low>
+    <size>Pencere %s boyutuna geçirildi</size>
+    <trade>Takas yaparken bu pencereyi açamazsiniz.</trade>
+    <user>Isim:</user>
+    <pass>Sifre:</pass>
+    <login_rules>Bu oyuna girdiginiz an Eternal Lands kurallarini kabul etmis sayilirsiniz. F5'e basarak kurallari okuyabilirsiniz.</login_rules>
+    <getall>Al</getall>
+    <completed>TAMAMLANDI</completed>
+    <research>Arastiriyor</research>
+    <nothing>Hiç bir sey</nothing>
+    <read_book>Kitap Oku</read_book>
+    <mix>Kar</mix>
+    <mix_all>Karistir</mix_all>
+    <clear>Sil</clear>
+    <cast>Yap</cast>
+    <connect>Sunucuya baglaniyor...</connect>
+    <reconnect>Herhangi bir tusa basarak yeniden deneyebilirsiniz.</reconnect>
+    <license>Entropy diyor ki: license.txt'yi 0kUm4k içiN ç0k mU iYiSiniZ?
+Bu ara, o license.txt dosyasi bir amaçla orda.</license>
+    <quantity>Miktar</quantity>
+    <abort>iptal</abort>
+    <sigils>Bu sihir en az 2 sihir tasi gerektirir.</sigils>
+    <switch>Video modunu %s olarak degistirir</switch>
+    <cache>Onbellek boyutu</cache>
+    <appropr_name>Uygun isim kullan:
+Lütfen kaba veya hakaret edici, 2'den fazla sayi içeren, tamamen anlamsiz ve aptalca (ör. dfjritq47fa) veya taklit amaçli karakter ismi yaratmayiniz. 
+Unutmayiniz ki, seçiginiz isim oyunun atmosferini etkiler. Uygun olmayan isimler kilitlenir.</appropr_name>
+    <edit_quantity>Degistirmek istediginiz miktara sag tusla tiklayiniz</edit_quantity>
+    <you>Sen</you>
+    <accept>Kabul et</accept>
+    <x_quit>Oyunu kapatmak için Alt-x tusuna basin</x_quit>
+    <dropall>Yere At</dropall>
+    <cmd_markpos>Kullanim: #markpos &lt;x-koord&gt;,&lt;y-koord&gt; &lt;isim&gt;</cmd_markpos>
+    <location_info>%d,%d bölgesi, %s ile isaretlenmis</location_info>
+    <marked>%s isaretlendi</marked>
+    <unmarked>%s isareti silindi</unmarked>
+    <equip_here>Bu kutulara giymek istediginiz malzemeleri yerlestirin</equip_here>
+    <equipment>Giyilen</equipment>
+    <channel_help>Katilmak istedigin Kanal'a tiklayin. Ayni anda en fazla 3 kanala katilabilirsin.
+
+Bir kanalda konusmak için mesajinizin önüne @ koyun. Yerel konusmalarda @ kullanmaniz gerekmez.</channel_help>
+    <reset>Sifirla</reset>
+  </misc>
+  <new>
+    <skin>Deri</skin>
+    <hair>Saç</hair>
+    <shirt>Gömlek</shirt>
+    <pants>Pantolon</pants>
+    <boots>Ayakkabi</boots>
+    <head>Kafa</head>
+    <gender>Cinsiyet</gender>
+    <male>Erkek</male>
+    <female>Kiz</female>
+    <race>Irk</race>
+    <human>Insan</human>
+    <elf>Elf</elf>
+    <dwarf>Cüce</dwarf>
+    <gnome>Gnom</gnome>
+    <orchan>Orçan</orchan>
+    <draegoni>Draegoni</draegoni>
+    <confirm>Onayla:</confirm>
+    <userlen>Isminizin EN AZ 3 karakter olmasi gerekir!</userlen>
+    <passlen>Sifrenizin EN AZ 4 karakter uzunlugunda olmasi gerekir!</passlen>
+    <passnomatch>Sifreler birbirine uymuyor!</passnomatch>
+    <passmatch>Sifreler birbirine uyuyor!</passmatch>
+    <passwordbad>Hatali Sifre!</passwordbad>
+    <appearance>Karakterinizin görünümünü "Tamam"a tiklamadan önce degistirmeyi unutmayin.</appearance>
+    <max_digits>Adinizda en fazla 2 sayi bulundurabilirsiniz!</max_digits>
+    <max_length>Ad ve sifreler en fazla 15 karakter uzunlugunda olabilir.</max_length>
+    <illegal_char>Uygunsuz bir karakter girdiniz!</illegal_char>
+    <p2p_race>Bu siniftaki bir karakteri yaratmak için para ödemeniz gerekir</p2p_race>
+    <char_help>Karakter ayarlarinizi yapmak ve isim/sifre seçmek için alttaki dügmelere tiklayiniz.</char_help>
+    <confirmcreate>Seçtiginiz isim ve görünümde bir karakter yaratmak için Tamam dügmesine tekrar tiklayiniz.</confirmcreate>
+    <wrongpass>Geçersiz sifre!</wrongpass>
+    <showpass>Sifreyi göster</showpass>
+    <hidepass>Sifreyi gizle</hidepass>
+    <done>Tamam</done>
+    <back>Geri</back>
+    <a_human>Insanlar hakkinda</a_human>
+    <a_elf>Elfler hakkinda</a_elf>
+    <a_dwarf>Cüceler hakkinda</a_dwarf>
+    <a_gnome>Gnomlar hakkinda</a_gnome>
+    <a_orchan>Orçanlar hakkinda</a_orchan>
+    <a_draegoni>Draegoniler hakkinda</a_draegoni>
+    <zoom_in_out>Yaklasip uzaklasmak için: Fare tekerlegini veya PageUp ve PageDown tuslarini kullanin</zoom_in_out>
+    <rotate_camera>Kamerayi döndürmek için: Fare tekerlegini basili tutarak oynatin veya ok tuslarini kullanin</rotate_camera>
+    <appearance_box>Görünüm</appearance_box>
+  </new>
+  <tooltips>
+    <walk>Yürü</walk>
+    <sit>Otur</sit>
+    <stand>Kalk</stand>
+    <look>Bak</look>
+    <use>Kunlan</use>
+    <use_witem>Beraber kunlan</use_witem>
+    <trade>Takas</trade>
+    <attack>Saldir</attack>
+    <invent>Cantani görüntüle</invent>
+    <spell>Büyü penceresini görüntüle</spell>
+    <manu>Üretim penceresini görüntüle</manu>
+    <stats>Istatistikleri görüntüle</stats>
+    <know>Bilgi penceresini görüntüle</know>
+    <ency>Ansiklopedi penceresini görüntüle</ency>
+    <quest>Görev günlügünü görüntüle</quest>
+    <map>Haritayi görüntüle</map>
+    <console>Konsolu görüntüle</console>
+    <buddy>Arkadaslari görüntüle</buddy>
+    <opts>Ayarlari görüntüle</opts>
+    <help>Yardim penceresini görüntüle</help>
+    <customize>Karakterinin görünümünü ayarla</customize>
+    <name_pass>Isim ve sifre seçin</name_pass>
+  </tooltips>
+  <buddy>
+    <name>Isim:</name>
+    <name_desc>Arkadasinin ismi</name_desc>
+    <color>Renk:</color>
+    <color_desc>Listende arkadasinin görünmesini istediginiz renk</color_desc>
+    <add>Arkadas Ekle</add>
+    <change>Arkadasini düzenle</change>
+    <accept>Arkadasini kabul et</accept>
+    <yes>Evet</yes>
+    <no>Hayir</no>
+    <delete>Arkadasini sil</delete>
+    <delete_desc>Aradasini listeden silmek için bunu isaretleyin	</delete_desc>
+    <request_dialog>%s seni ahbap listesine eklemek istiyor. Ona izin veriyor musun?</request_dialog>
+    <add_to_list>Benim ahbap listeme ekle.</add_to_list>
+    <logon>%.*s oturum açti.</logon>
+    <logoff>%.*s oturumu kapatti.</logoff>
+    <white>Beyaz</white>
+    <red>Kirmizi</red>
+    <green>Yesil</green>
+    <blue>Mavi</blue>
+    <yellow>Sari</yellow>
+    <request>Istekler</request>
+  </buddy>
+</root>

@@ -1,0 +1,1673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Armour>
+<Page name="Wooden Shield">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Holzschild</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> +4 Verteidigung, -1 Genauigkeit, -1 auf kritischen</text>
+   <nlkx/>
+   <text> Schlag</text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Dieser Gegenstand kann nicht hergestellt werden.</text>
+   <nl/>
+   <nl/>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 8 EMU</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="E Wooden Shield">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Verbessertes Holzschild</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> +5 Verteidigung, -1 Genauigkeit, -1 auf kritischen</text>
+   <nlkx/>
+   <text> Schlag</text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 1</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
+   <nl/>
+   <text> Dieser Gegenstand kann nicht hergestellt werden.</text>
+   <nl/>
+   <text> </text>
+   <nl/>
+   <text> </text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 10 EMU</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Iron Shield">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Eisenschild</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> +6 Verteidigung, -2 Genauigkeit, -2 auf kritischen</text>
+   <nlkx/>
+   <text> Schlag</text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 8 Eisenbarren, 2 Stahlbarren, 4 Feueressenzen</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer</text>
+   <nl/>
+   <text> Benötigtes Wissen: Eisenschild</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 2</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 16</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 80</text>
+   <nl/>
+   <text> Nahrungskosten: 9</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 16 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Steel Shield">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Stahlschild</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> +7 Verteidigung, -2 Genauigkeit, -2 auf kritischen</text>
+   <nlkx/>
+   <text> Schlag, +4 Schutz vor Magie</text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 3</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 8 Stahlbarren, 2 Eisenbarren, 5 Feueressenzen</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer</text>
+   <nl/>
+   <text> Benötigtes Wissen: Stahlschild</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 2</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 18</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 90</text>
+   <nl/>
+   <text> Nahrungskosten: 10</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 14 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Leather Gloves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Lederhandschuhe</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> +1 Schaden, +1 Rüstung.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 4 Leder, 4 Garn</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Nadel</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 8</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 40</text>
+   <nl/>
+   <text> Nahrungskosten: 5</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Leather Helm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Lederhelm</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> +1 Rüstung, +1 Kälteschutz.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 3 Leder, 4 Garn</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Nadel</text>
+   <nl/>
+   <text> Benötigtes Wissen: Lederhelm</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 2</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 10</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 45</text>
+   <nl/>
+   <text> Nahrungskosten: 6</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Leather Boots">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Lederstiefel</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> +1 Rüstung, +1 Hitze- und Kälteschutz.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 6 Leder, 1 Eisenbarren, 6 Garn</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Nadel, Hammer</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 1</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 10</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 40</text>
+   <nl/>
+   <text> Nahrungskosten: 7</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Leather Pants">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Lederne Beinrüstung</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> 1-2 zu Rüstung, +2 Hitze- und Kälteschutz</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Zum Gerbauch benötigter Nexus: Menschlich 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 7 Leder, 10 Garn</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Nadel</text>
+   <nl/>
+   <text> Benötigtes Wissen: Gepolsterte lederne Beinrüstung</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 1</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 12</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 60</text>
+   <nl/>
+   <text> Nahrungskosten: 8</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Leather Torso Armor">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Ledertorso</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Absorbiert 1-3 Schaden, +2 Hitze- und Kälteschutz</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Zum Gerbauch benötigter Nexus: Menschlich 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 8 Leder, 3 Eisenbarren, 14 Garn</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Nadel, Hammer</text>
+   <nl/>
+   <text> Benötigtes Wissen: Gepolsteter Ledertorso</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 1</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 14</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 70</text>
+   <nl/>
+   <text> Nahrungskosten: 10</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 10 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Aug Leather Pants">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>       Erweiterte lederne Beinrüstung</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 1-8 auf Rüstung, +1 auf Verteidigung,</text>
+   <nlkx/>
+   <text> +1 Hitze-/Kälte-/Strahlungsschutz.</text>
+   <nlkx/>
+   <text> Zum Gerbrauch benötigter Nexus: Menschlich 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 1 lederne Beinrüstung, 1 Eisenbarren, 5 Garn</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer, Nadel</text>
+   <nl/>
+   <text> Benötigtes Wissen: Gepolsterte lederne Beinrüstung</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 1</text>
+   <nl/>
+   <text> Benötigtes Herstellungslevel: 17</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 85</text>
+   <nl/>
+   <text> Nahrungskosten: 12</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Aug Leather Torso Armor">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Erweiterter Ledertorso</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Absorbiert 2-10 Schaden, -1 auf Verteidigung,</text>
+   <nlkx/>
+   <text> +1 Hitze-/Kälte-/Strahlungsschutz.</text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 1 Ledertorso, 1 Eisenbarren, 6 Garn.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer, Nadel</text>
+   <nl/>
+   <text> Benötigtes Wissen: Gepolsteter Ledertorso</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 1</text>
+   <nl/>
+   <text> Empfohlener Herstellungslevel: 19</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 95</text>
+   <nl/>
+   <text> Nahrungskosten: 12</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 10 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Iron Chainmail Torso Armor">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Eisenkettenhemd</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> 2-5 auf Rüstung, -1 Genauigkeit,</text>
+   <nlkx/>
+   <text> -1 auf Kritischer Schlag, -2 Kälte/Hitzeschutz</text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 1</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 3 Leder, 14 Eisenbarren, 6 Garn, 5 Feueressenzen</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer</text>
+   <nl/>
+   <text> Benötigtes Wissen: Eisenkettenhemd</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 2</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 26</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 130</text>
+   <nl/>
+   <text> Nahrungskosten: 14</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 20 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Steel Chainmail Torso Armor">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Stahlkettenhemd</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> 3-7 auf Rüstung, -1 Genauigkeit, -1 Verteidigung,</text>
+   <nlkx/>
+   <text> -1 auf kritischen Schlag, -2 Hitze- und Kälteschutz</text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 3 Leder, 14 Stahlbarren, 6 Garn, 6 Feueressenzen</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer</text>
+   <nl/>
+   <text> Benötigtes Wissen: Stahlkettenhemd</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 3</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 30</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 150</text>
+   <nl/>
+   <text> Nahrungskosten: 16</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 18 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Titanium Chainmail Torso Armor">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Titankettenhemd</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Absorbiert 5-7 Schaden, -1 Verteidigung, -1 Genauig-</text>
+   <nlkx/>
+   <text> keit,-1 auf kritischen Schlag, -2 Kälte-/Hitzeschutz</text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 3 Leder, 14 Titanbarren, 6 Garn, 10 Feueressenzen,</text><nl/>
+   <text> 1 Angereicherte Feueressenz.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer</text>
+   <nl/>
+   <text> Benötigtes Wissen: Titankettenhemd</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 5</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 36</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 200</text>
+   <nl/>
+   <text> Nahrungskosten: 19</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 10 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Iron Plate">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Eisenplattenpanzer</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> 7-10 auf Rüstung, -2 Verteidigung, -2 Genauigkeit,</text>
+   <nlkx/>
+   <text> -2 auf kritischen Schlag, -3 Hitze- und Kälteschutz,</text>
+   <nlkx/>
+   <text> +1 Strahlungsschutz</text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 5 Leder, 30 Eisenbarren, 6 Garn, 30 Feueressenzen,</text><nl/>
+   <text> 2 Angereicherte Feueressenzen.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer</text>
+   <nl/>
+   <text> Benötigtes Wissen: Eisenplattenpanzer</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 5</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 40</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 250</text>
+   <nl/>
+   <text> Nahrungskosten: 34</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 25 EMU</text>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Iron Cuisses">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Eiserne Beinrüstung</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> 2-5 Rüstung, -1 Hitze- und Kälteschutz,</text>
+   <nlkx/>
+   <text> +1 Strahlungsschutz, -1 Verteidigung.</text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 4 Leder, 10 Garn, 10 Eisenbarren,</text><nl/>
+   <text> 1 Angereicherte Feueressenz.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer, Nadel</text>
+   <nl/>
+   <text> Benötigtes Wissen: Eiserne Beinrüstung</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 4</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 35</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 200</text>
+   <nl/>
+   <text> Nahrungskosten: 28</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 16 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Iron Greaves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Eiserne Beinschienen</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> 2-3 Rüstung, -2 Kälteschutz, -1 Hitzeschutz,</text>
+   <nlkx/>
+   <text> +1 Strahlungsschutz</text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 2 Leder, 2 Garn, 4 Eisenbarren,</text><nl/>
+   <text> 1 Angereicherte Feueressenz.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer, Nadel</text>
+   <nl/>
+   <text> Benötigtes Wissen: Eiserne Beinschienen</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 4</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 25</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 180</text>
+   <nl/>
+   <text> Nahrungskosten: 24</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 8 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Iron Helm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Eisenhelm</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> +2 Rüstung, -1 Hitze- und Kälteschutz.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 1</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 5 Eisenbarren, 3 Leder, 4 Feueressenzen</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer</text>
+   <nl/>
+   <text> Benötigtes Wissen: Eisenhelm</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 3</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 29</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 140</text>
+   <nl/>
+   <text> Nahrungskosten: 15</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Steel Plate">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie"</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Stahlplattenpanzer</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 13-15 Rüstung, -1 Verteidigung, -2 Genauigkeit,</text><nlkx/>
+   <text> -2 auf kritischen Treffer, +3 Strahlungsschutz.</text><nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 4 Hydrogenium Barren, 3 Angereicherte Feueressenzen,</text><nl/>
+   <text> 30 Stahlbarren, 5 Leder, 6 Garn.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer</text>
+   <nl/>
+   <text> Benötigtes Wissen: Stahlplattenpanzer</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 6</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 60</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 2600</text>
+   <nl/>
+   <text> Nahrungskosten: 40</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 18 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Steel Cuisses">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Stählerne Beinrüstung</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 5-8 Rüstung, -1 Hitze- und Kälteschutz,</text>
+   <nlkx/>
+   <text> +2 Strahlungsschutz.</text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 2 Hydrogenium Barren, 1 Angereicherte Feueressenz,</text><nl/>
+   <text> 5 Stahlbarren, 4 Leder, 10 Garn.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer, Nadel.</text>
+   <nl/>
+   <text> Benötigtes Wissen: Stählerne Beinrüstung</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 4</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 43</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 900</text>
+   <nl/>
+   <text> Nahrungskosten: 40</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 10 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Steel Greaves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Stählerne Beinschienen</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 5-6 Rüstung, -1 Hitze- und Kälteschutz,</text>
+   <nlkx/>
+   <text> +2 Strahlungsschutz.</text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 2 Hydrogenium Barren, 1 Angereicherte Feueressenz,</text><nl/>
+   <text> 2 Stahlbarren, 2 Leder, 2 Garn.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer, Nadel.</text>
+   <nl/>
+   <text> Benötigtes Wissen: Stählerne Beinschienen</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 4</text>
+   <nl/>
+   <text> Empfohlenes Herstellunglevel: 41</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 700</text>
+   <nl/>
+   <text> Nahrungskosten: 40</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 8 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Steel Helm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Stahlhelm</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +3 Rüstung, +2 Strahlungsschutz,</text><nlkx/>
+   <text> +1 Magieresistenz.</text><nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 3</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 1 Hydrogenium Barren, 1 Bindender Stein, 5 Stahlbarren,</text><nl/>
+   <text> 40 Feueressenzen, 3 Leder.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer</text>
+   <nl/>
+   <text> Benötigtes WIssen: Stahlhelm</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 3</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 47</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 1300</text>
+   <nl/>
+   <text> Nahrungskosten: 40</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Titanium Shield">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Titanschild</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +8 Verteidigung, +4 Schutz vor Magie</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 2 Hydrogenium Barren, 1 Bindender Stein, 8 Titanbarren,</text><nl/>
+   <text> 50 Feueressenzen.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer.</text>
+   <nl/>
+   <text> Benötigtes Wissen: Titanschild</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 2</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 45</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 1100</text>
+   <nl/>
+   <text> Nahrungskosten: 30</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 7 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Titanium Plate">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Titanplattenpanzer</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 12-13 Rüstung, +2 Strahlungschutz</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 5 Hydrogenium Barren, 4 Angereicherte Feueressenzen</text><nl/>
+   <text> 30 Titanbarren, 5 Leder, 6 Garn.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer</text>
+   <nl/>
+   <text> Benötigtes Wissen: Titanplattenpanzer</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 6</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel:: 62</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 2800</text>
+   <nl/>
+   <text> Nahrungskosten: 40</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 10 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Titanium Cuisses">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Titanbeinrüstung</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 6 Rüstung, +1 Hitze-/Kälte-/Strahlungsschutz,</text>
+   <nlkx/>
+   <text> +1 Schutz gegen Magie.</text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 3 Hydrogenium Barren, 2 Angereicherte Feueressenzen,</text><nl/>
+   <text> 10 Titanbarren, 4 Leder, 10 Garn.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer, Nadel</text>
+   <nl/>
+   <text> Benötigtes Wissen: Titanbeinrüstung</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 5</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 58</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 2400</text>
+   <nl/>
+   <text> Nahrungskosten: 40</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Titanium Greaves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Titanbeinschienen</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 4-5 Rüstung, +1 Hitze-/Kälte-/Strahlungsschutz,</text>
+   <nlkx/>
+   <text> +1 Schutz gegen Magie.</text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 2 Hydrogenium Barren, 2 Angereicherte Feueressenzen,</text><nl/>
+   <text> 4 Titanbarren, 2 Leder, 2 Garn.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer, Nadel.</text>
+   <nl/>
+   <text> Benötigtes Wissen: Titanbeinschienen</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 5</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 56</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 2200</text>
+   <nl/>
+   <text> Nahrungskosten: 40</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Titanium Helm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Titanhelm</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +3 Rüstung, +1 Hitze-/Kälte-/Strahlungsshutz,</text>
+   <nlkx/>
+   <text> +1 Schutz gegen Magie.</text>
+   <nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 2 Hydrogenium Barrren, 1 Bindender Stein, 5 Titanbarren,</text><nl/>
+   <text> 3 Leder, 40 Feueressenzen.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer</text>
+   <nl/>
+   <text> Benötigtes Wissen: Titanhelm Herstellung</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 5</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 54</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 2000</text>
+   <nl/>
+   <text> Nahrungskosten: 40</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Bronze Shield">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Bronzeschild</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +8 Verteidigung, -4 Genauigkeit,  +4 Magieresistenz,</text><nlkx/>
+   <text> -2 auf kritischen Schlag</text><nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 2 Bronzebarren, 1 Bindender Stein, 50 Feueressenzen.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer</text>
+   <nl/>
+   <text> Benötigtes Wissen: Bronzeschild</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 6</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 59</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 2000</text>
+   <nl/>
+   <text> Nahrungskosten: 30</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 20 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Bronze Plate">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Bronzene Plattenrüstung</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 14-15 Rüstung, -2 Verteidigung, -2 Genauigkeit</text><nlkx/>
+   <text> +3 Magieresistenz, -1 Hitze- und Kälteschutz,</text><nlkx/>
+   <text> +2 Strahlungsschutz, +3 Schutz gegen Magie.</text><nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 4 Bronzebarren, 4 Angereicherte Feueressenzen, 5 Leder,</text><nl/>
+   <text> 6 Garn.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer</text>
+   <nl/>
+   <text> Benötigtes Wissen: Bronzene Plattenrüstung</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 6</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 64</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 3500</text>
+   <nl/>
+   <text> Nahrungskosten: 40</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 35 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Bronze Cuisses">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Bronzene Beinrüstung</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +7 Rüstung, -1 Verteidigung, -1 Genauigkeit,</text><nlkx/>
+   <text> +2 Schutz gegen Magie, +1 Strahlungsschutz,</text><nlkx/>
+   <text> -1 Hitze- und Kälteschutz, +2 Magieresistenz.</text><nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 3 Bronzebarren, 2 Angereicherte Feueressenzen, 4 Leder,</text><nl/>
+   <text> 10 Garn.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer, Nadel</text>
+   <nl/>
+   <text> Benötigtes Wissen: Bronzene Beinrüstung</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 5</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 63</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 3000</text>
+   <nl/>
+   <text> Nahrungskosten: 40</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 25 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Bronze Greaves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Bronzene Beinschienen</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 5-6 Rüstung, -1 Genauigkeit, +1 Strahlungsschutz,</text><nlkx/>
+   <text> +2 Schutz gegen Magie, -1 Hitze- und Kälteschutz,</text><nlkx/>
+   <text> +2 Magieresistenz.</text><nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 2 Bronzebarren, 1 Angereicherte Feueressenz, 2 Leder,</text><nl/>
+   <text> 2 Garn.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer, Nadel</text>
+   <nl/>
+   <text> Benötigtes Wissen: Bronzene Beinschienen</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 6</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 61</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 2500</text>
+   <nl/>
+   <text> Nahrungskosten: 40</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 20 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Bronze Helm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Bronzehelm</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +3 Rüstung, +3 Magieresistenz.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 1 Bronzebarren, 1 Angereicherte Feueressenz, 3 Leder,</text><nl/>
+   <text> 40 Feueressenzen.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer</text>
+   <nl/>
+   <text> Benötigtes Wissen: Bronzehelm</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 5</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 57</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 1200</text>
+   <nl/>
+   <text> Nahrungskosten: 40</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 8 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Red Dragon Torso">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Roter Drachenpanzer</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +15 Rüstung, +4 Hitzeschutz.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich ???</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 10 Rote Drachenschuppen, 3 Angereicherte Magieessenzen,</text><nl/>
+   <text> 3 Bindende Stein, 10 Titanbarren, 20 Garn.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer, Nadel</text>
+   <nl/>
+   <text> Benötigtes Wissen: Roter Drachenpanzer</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 6</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 73</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 4600</text>
+   <nl/>
+   <text> Nahrungskosten: 30</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 8</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Red Dragon Cuisses">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Rote Drachenbeinrüstung</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +7 Rüstung, +3 Hitze- und Magieschutz,</text><nlkx/>
+   <text> +2 Strahlungsschutz.</text><nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich ???</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 7 Rote Drachenschuppen, 2 Bindende Steine,</text><nl/>
+   <text> 3 Titanbarren, 6 Garn.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer, Nadel</text>
+   <nl/>
+   <text> Benötigtes Wissen: Rote Drachenbeinrüstung</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 6</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 68</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 4000</text>
+   <nl/>
+   <text> Nahrungskosten: 30</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 6</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Red Dragon Greaves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Rote Drachenbeinschienen</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +6 Rüstung, +2 Hitze- und Magieschutz,</text><nlkx/>
+   <text> +1 Strahlungsschutz.</text><nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich ???</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 5 Rote Drachenschuppen, 2 Bindende Steine,</text><nl/>
+   <text> 2 Titanbarren, 6 Garn.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer, Nadel</text>
+   <nl/>
+   <text> Benötigtes Wissen: Rote Drachenbeinschienen</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 6</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 65</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 3700</text>
+   <nl/>
+   <text> Nahrungskosten: 30</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 4</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Red Dragon Helm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                 RÜSTUNGEN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Roter Drachenhelm</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +4 Rüstung, +1 Magieresistenz, +2 Hitzeschutz,</text><nlkx/>
+   <text> +1 Strahlungs-und Magieschutz.</text><nlkx/>
+   <text> Erhöht Lebenspunkte und Mana um 20.</text><nlkx/>
+   <text> Zum Gebrauch benötigter Nexus: Menschlich ???</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zur Herstellung benötigte Materialien:</text>
+   <nl/>
+   <text> 4 Rote Drachenschuppen, 2 Angereicherte Lebensessenzen,</text><nl/>
+   <text> 2 Angereicherte Magieessenzen, 2 Bindende Steine,</text><nl/>
+   <text> 1 Titanbarren, 6 Garn.</text>
+   <nl/>
+   <text> Im Inventar benötigte Werkzeuge: Hammer, Nadel</text>
+   <nl/>
+   <text> Benötigtes Wissen: Roter Drachenhelm</text>
+   <nl/>
+   <text> Benötigter Nexus: Künstlich 6</text>
+   <nl/>
+   <text> Empfohlenes Herstellungslevel: 70</text>
+   <nl/>
+   <text> Erfahrungspunkte für Herstellung: 4200</text>
+   <nl/>
+   <text> Nahrungskosten: 30</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Gewicht: 2</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Zurück zum Rüstungs Index"/>
+</Page>
+<Page name="Black Dragon Torso">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Black Dragon Torso Armor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +15 Armor, +4 Heat Protection, +3 Magic Protection,</text><nlkx/>
+   <text> +3 Magic Resistance.</text><nlkx/>
+   <text> Required Nexus to use: Human UNKNOWN</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 10 Black Dragon Scales, 3 Enriched Magic Essences,</text><nl/>
+   <text> 4 Binding Stones, 10 Titanium Bars, 20 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Black Dragon Torso</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 81</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 5500</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 8 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Black Dragon Cuisses">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Black Dragon Cuisses</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +7 Armor, +4 Heat Protection, +4 Magic Protection,</text><nlkx/>
+   <text> +3 Radiation Protection.</text><nlkx/>
+   <text> Required Nexus to use: Human UNKNOWN</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 7 Black Dragon Scales, 3 Binding Stones,</text><nl/>
+   <text> 3 Titanium Bars, 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Black Dragon Cuisses</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 74</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 4400</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Black Dragon Greaves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Black Dragon Greaves</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +6 Armor, +3 Heat Protection, +3 Magic Protection,</text><nlkx/>
+   <text> +2 Radiation Protection.</text><nlkx/>
+   <text> Required Nexus to use: Human UNKNOWN</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Black Dragon Scales, 3 Binding Stones,</text><nl/>
+   <text> 2 Titanium Bars, 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Black Dragon Greaves</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 72</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 4300</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Black Dragon Helm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Black Dragon Helm</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +4 Armor, +2 Magic Resistance, +2 Heat Protection,</text><nlkx/>
+   <text> +1 Radiation and Magic Protection.</text><nlkx/>
+   <text> Increases maximum material/ethereal points by 25.</text><nlkx/>
+   <text> Required Nexus to use: Human UNKNOWN</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 4 Black Dragon Scales, 2 Enriched Life Essences,</text><nl/>
+   <text> 2 Enriched Magic Essences, 3 Binding Stones,</text><nl/>
+   <text> 1 Titanium Bar, 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Black Dragon Helm</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 76</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 4200</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+</Armour>

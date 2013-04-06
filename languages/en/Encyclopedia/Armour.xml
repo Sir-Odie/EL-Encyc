@@ -1,0 +1,1844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Armour>
+<Page name="Wooden Shield">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Wooden Shield</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +4 Defense, -1 Accuracy, -1 Critical to hit.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> This item cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 8 EMU</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="E Wooden Shield">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          Enhanced Wooden Shield</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +5 Defense, -1 Accuracy, -1 Critical to hit.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 1</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
+   <nl/>
+   <text> This item cannnot be manufactured.</text>
+   <nl/>
+   <text> </text>
+   <nl/>
+   <text> </text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 10 EMU</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Iron Shield">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Iron Shield</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +6 Defense, -2 Accuracy, -2 Critical to hit.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 8 Iron Bars, 2 Steel Bars, 4 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Iron Shield</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 16</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 80</text>
+   <nl/>
+   <text> Food subtracted: 9</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 16 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Steel Shield">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Steel Shield</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +7 Defense, -2 Accuracy, -2 Critical to hit,</text>
+   <nlkx/>
+   <text> +4 Magic Protection.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 3</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 8 Steel Bars, 2 Iron Bars, 5 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Steel Shield</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 18</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 90</text>
+   <nl/>
+   <text> Food subtracted: 10</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 14 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Leather Gloves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Leather Gloves</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 1 damage, +1 armor.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 4 Leather, 4 Thread.</text>
+   <nl/>
+   <text> Tools required to have: Needle</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 8</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 40</text>
+   <nl/>
+   <text> Food subtracted: 5</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Leather Helm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Leather Helm</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +1 Armor, +1 Cold Protection.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Leather, 4 Thread.</text>
+   <nl/>
+   <text> Tools required to have: Needle</text>
+   <nl/>
+   <text> Knowledge needed: Leather Helmet</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 10</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 45</text>
+   <nl/>
+   <text> Food subtracted: 6</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Leather Boots">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Leather Boots</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +1 Armor, +1 Heat and Cold Protection.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 6 Leather, 1 Iron Bar, 6 Thread.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 1</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 10</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 40</text>
+   <nl/>
+   <text> Food subtracted: 7</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Leather Pants">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Leather Pants</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 1-2 Armor, +2 Heat and Cold Protection.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 7 Leather, 10 Thread.</text>
+   <nl/>
+   <text> Tools required to have: Needle</text>
+   <nl/>
+   <text> Knowledge needed: Padded Leather Pants</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 1</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 12</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 60</text>
+   <nl/>
+   <text> Food subtracted: 8</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Leather Torso Armor">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>            Leather Torso Armor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Absorbs 1-3 damage, +2 Heat and Cold Protection.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 8 Leather, 3 Iron Bars, 14 Thread.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Torso Padded Leather</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 1</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 14</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 70</text>
+   <nl/>
+   <text> Food subtracted: 10</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 10 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Aug Leather Pants">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          Augmented Leather Pants</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 1-8 Armor, +1 Defense,</text>
+   <nlkx/>
+   <text> +1 Heat, Cold and Radiation Protection.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Leather Pants, 1 Iron Bar, 5 Thread.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Padded Leather Pants</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 1</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 17</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 85</text>
+   <nl/>
+   <text> Food subtracted: 12</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Aug Leather Torso Armor">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>      Augmented Leather Torso Armor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Absorbs 2-10 damage, -1 Defense,</text>
+   <nlkx/>
+   <text> +1 Heat, Cold and Radiation Protection.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Leather Torso Armor, 1 Iron Bar, 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Torso Padded Leather</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 1</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 19</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 95</text>
+   <nl/>
+   <text> Food subtracted: 12</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 10 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Iron Chainmail Torso Armor">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>         Iron Chainmail Torso Armor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 2-5 Armor, -1 Defense, -1 Accuracy,</text>
+   <nlkx/>
+   <text> -1 Critical to hit, -2 Heat and Cold Protection.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 1</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 14 Iron Bars, 5 Fire Essences, 3 Leather, 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Iron Chainmail Torso</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 26</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 130</text>
+   <nl/>
+   <text> Food subtracted: 14</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 20 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Steel Chainmail Torso Armor">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>         Steel Chainmail Torso Armor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 3-7 Armor, -1 Accuracy, -1 Defense,</text>
+   <nlkx/>
+   <text> -2 Heat and Cold Protection, -1 Critical to hit.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 14 Steel Bars, 6 Fire Essences, 3 Leather, 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Steel Chainmail Torso</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 3</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 30</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 150</text>
+   <nl/>
+   <text> Food subtracted: 16</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 18 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Titanium Chainmail Torso Armor">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>       Titanium Chainmail Torso Armor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Absorbs 5-7 damage, -1 Defense, -1 Accuracy,</text>
+   <nlkx/>
+   <text> -1 Critical to hit, -2 Heat and Cold Protection.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Enriched Fire Essence, 14 Titanium Bars,</text><nl/>
+   <text> 10 Fire Essences, 3 Leather, 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Titanium Chainmail Torso</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 36</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 200</text>
+   <nl/>
+   <text> Food subtracted: 19</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 10 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Iron Plate">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Iron Plate Mail</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 7-10 Armor, -2 Defense, -2 Accuracy,</text>
+   <nlkx/>
+   <text> -2 Critical to hit, -3 Heat and Cold Protection,</text>
+   <nlkx/>
+   <text> +3 Radiation Protection.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Enriched Fire Essences, 30 Iron Bars, 30 Fire Essences,</text><nl/>
+   <text> 5 Leather, 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Iron Plate Mail</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 40</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 250</text>
+   <nl/>
+   <text> Food subtracted: 34</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 25 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Iron Cuisses">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Iron Cuisses</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 2-5 Armor, -1 Defense, -1 Heat and Cold Protection,</text>
+   <nlkx/>
+   <text> +1 Radiation Protection.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Enriched Fire Essence, 10 Iron Bars, 4 Leather,</text><nl/>
+   <text> 10 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Iron Cuisses</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 35</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 200</text>
+   <nl/>
+   <text> Food subtracted: 28</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 16 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Iron Greaves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Iron Greaves</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 2-3 Armor, -1 Heat Protection, -2 Cold Protection,</text>
+   <nlkx/>
+   <text> +1 Radiation Protection.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Enriched Fire Essence, 4 Iron bars, 2 Leather,</text><nl/>
+   <text> 2 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Iron Greaves</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 25</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 180</text>
+   <nl/>
+   <text> Food subtracted: 24</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 8 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Iron Helm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Iron Helm</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +2 Armor, -1 Heat and Cold Protection.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 1</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Iron Bars, 3 Leathers, 4 Fire Essences</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Iron Helm</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 3</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 29</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 140</text>
+   <nl/>
+   <text> Food subtracted: 15</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Steel Plate">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Steel Plate Mail</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 13-15 Armor, -1 Defense, -2 Accuracy,</text><nlkx/>
+   <text> -2 Critical to hit, +3 Radiation Protection.</text><nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 4 Hydrogenium Bars, 3 Enriched Fire Essences,</text><nl/>
+   <text> 30 Steel Bars, 5 Leather, 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: A Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Steel Plate Mail</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 60</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 2600</text>
+   <nl/>
+   <text> Food subtracted: 40</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 18 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Steel Cuisses">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Steel Cuisses</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 5-8 Armor, -1 Heat and Cold Protection,</text>
+   <nlkx/>
+   <text> +3 Radiation Protection.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Hydrogenium Bars, 1 Enriched Fire Essence,</text><nl/>
+   <text> 5 Steel Bars, 4 Leather, 10 Threads.</text>
+   <nl/>
+   <text> Tools required to have: A Hammer and a needle.</text>
+   <nl/>
+   <text> Knowledge needed: Steel Cuisses</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 43</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 900</text>
+   <nl/>
+   <text> Food subtracted: 40</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 10 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Steel Greaves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Steel Greaves</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 5-6 Armor, -1 Heat and Cold Protection,</text>
+   <nlkx/>
+   <text> +3 Radiation Protection.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Hydrogenium Bars, 1 Enriched Fire Essence,</text><nl/>
+   <text> 2 Steel Bars, 2 Leather, 2 Threads.</text>
+   <nl/>
+   <text> Tools required to have: a needle and a hammer.</text>
+   <nl/>
+   <text> Knowledge needed: Steel Greaves</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 41</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 700</text>
+   <nl/>
+   <text> Food subtracted: 40</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 8 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Steel Helm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Steel Helm</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +3 Armor, +3 Radiation Protection,</text><nlkx/>
+   <text> +1 Magic Resistance.</text><nlkx/>
+   <text> Required Nexus to use: Human 3</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Hydrogenium Bar, 1 Binding Stone, 5 Steel Bars,</text><nl/>
+   <text> 40 Fire Essences, 3 Leather.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Steel Helmet</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 3</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 47</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 1300</text>
+   <nl/>
+   <text> Food subtracted: 40</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Titanium Shield">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Titanium Shield</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +8 Defense, +4 Magic Protection</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Hydrogenium Bars, 1 Binding Stone, 8 Titanium Bars,</text><nl/>
+   <text> 50 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: A hammer.</text>
+   <nl/>
+   <text> Knowledge needed: Titanium Shield</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 45</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 1100</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 7 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Titanium Plate">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>            Titanium Plate Mail</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 12-13 Armor, +2 Radiation Protection</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Hydrogenium Bars, 4 Enriched Fire Essences</text><nl/>
+   <text> 30 Titanium Bars, 5 Leather, 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: A Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Titanium Plate Mail</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 62</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 2800</text>
+   <nl/>
+   <text> Food subtracted: 40</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 10 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Titanium Cuisses">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Titanium Cuisses</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 6 Armor, +1 Heat, Cold and Magic Protection,</text>
+   <nlkx/>
+   <text> +1 Radiation Protection.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Hydrogenium Bars, 2 Enriched Fire Essences</text><nl/>
+   <text> 10 Titanium Bars, 4 Leather, 10 Threads.</text>
+   <nl/>
+   <text> Tools required to have: A Hammer and a needle.</text>
+   <nl/>
+   <text> Knowledge needed: Titanium Cuisses</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 58</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 2400</text>
+   <nl/>
+   <text> Food subtracted: 40</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Titanium Greaves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Titanium Greaves</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 4-5 Armor, +1 Heat, Cold and Magic Protection,</text>
+   <nlkx/>
+   <text> +3 Radiation Protection.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Hydrogenium Bars, 2 Enriched Fire Essences,</text><nl/>
+   <text> 4 Titanium Bars, 2 Leather, 2 Threads.</text>
+   <nl/>
+   <text> Tools required to have: a needle and a hammer.</text>
+   <nl/>
+   <text> Knowledge needed: Titanium Greaves</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 56</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 2200</text>
+   <nl/>
+   <text> Food subtracted: 40</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Titanium Helm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Titanium Helm</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +3 Armor, +1 Magic Resistance,</text>
+   <nlkx/>
+   <text> +1 Heat, Cold, Magic and Radiation Protection.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Hydrogenium Bars, 1 Binding Stone, 5 Titanium Bars,</text><nl/>
+   <text> 3 Leather, 40 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Titanium Helmet Manufacturing</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 54</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 2000</text>
+   <nl/>
+   <text> Food subtracted: 40</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Bronze Shield">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Bronze Shield</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +8 Defense, -2 Accuracy,  +4 Magic Resistance,</text><nlkx/>
+   <text> -2 Critical to Hit</text><nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Bronze Bars, 1 Binding Stone, 50 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Bronze Shield</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 59</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 2000</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 20 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Bronze Plate">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Bronze Plate Mail</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 15-16 Armor, -1 Accuracy, +3 Magic Resistance,</text><nlkx/>
+   <text> +3 Magic Protection, -1 Heat and Cold Protection,</text><nlkx/>
+   <text> +4 Radiation Protection.</text><nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 4 Bronze Bars, 4 Enriched Fire Essences, 5 Leathers,</text><nl/>
+   <text> 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Bronze Plate Mail</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 64</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 3500</text>
+   <nl/>
+   <text> Food subtracted: 40</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 35 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Bronze Cuisses">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Bronze Cuisses</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 7-8 Armor, +2 Magic Resistance,</text><nlkx/>
+   <text> +2 Magic Protection, +3 Radiation Protection,</text><nlkx/>
+   <text> -1 Heat and Cold Protection.</text><nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Bronze Bars, 2 Enriched Fire Essences, 4 Leathers,</text><nl/>
+   <text> 10 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Bronze Cuisses</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 63</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 3000</text>
+   <nl/>
+   <text> Food subtracted: 40</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 25 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Bronze Greaves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Bronze Greaves</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 5-6 Armor, +2 Magic Resistance,</text><nlkx/>
+   <text> +2 Magic Protection, +2 Radiation Protection.</text><nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Bronze Bars, 1 Enriched Fire Essence, 2 Leathers,</text><nl/>
+   <text> 2 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Bronze Greaves</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 61</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 2500</text>
+   <nl/>
+   <text> Food subtracted: 40</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 20 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Bronze Helm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Bronze Helm</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +3 Armor, +3 Magic Resistance.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Bronze Bar, 1 Enriched Fire Essence, 3 Leathers,</text><nl/>
+   <text> 40 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Bronze Helm</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 57</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 1200</text>
+   <nl/>
+   <text> Food subtracted: 40</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 8 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Red Dragon Torso">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>           Red Dragon Torso Armor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +15 Armor, +4 Heat Protection.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Required Nexus to use: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 10 Red Dragon Scales, 3 Enriched Magic Essences,</text><nl/>
+   <text> 3 Binding Stones, 10 Titanium Bars, 20 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Red Dragon Torso</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 73</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 4600</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 8</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Red Dragon Cuisses">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Red Dragon Cuisses</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +7 Armor, +3 Heat and Magic Protection,</text><nlkx/>
+   <text> +1 Radiation Protection.</text><nlkx/>
+   <text> Required Nexus to use: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 7 Red Dragon Scales, 2 Binding Stones,</text><nl/>
+   <text> 3 Titanium Bars, 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Red Dragon Cuisses</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 68</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 4000</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 6</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Red Dragon Greaves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Red Dragon Greaves</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +6 Armor, +2 Heat and Magic Protection.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Required Nexus to use: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Red Dragon Scales, 2 Binding Stones,</text><nl/>
+   <text> 2 Titanium Bars, 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Red Dragon Greaves</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 65</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 3700</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 4</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Red Dragon Helm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Red Dragon Helm</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +4 Armor, +1 Magic Resistance, +2 Heat Protection,</text><nlkx/>
+   <text> +1 Radiation and Magic Protection.</text><nlkx/>
+   <text> Increases maximum material/ethereal points by 20.</text><nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 4 Red Dragon Scales, 2 Enriched Life Essences,</text><nl/>
+   <text> 2 Enriched Magic Essences, 2 Binding Stones,</text><nl/>
+   <text> 1 Titanium Bar, 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Red Dragon Helm</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 70</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 4200</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Black Dragon Torso">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          Black Dragon Torso Armor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +15 Armor, +4 Heat Protection, +3 Magic Protection,</text><nlkx/>
+   <text> +3 Magic Resistance.</text><nlkx/>
+   <text> Required Nexus to use: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 10 Black Dragon Scales, 3 Enriched Magic Essences,</text><nl/>
+   <text> 4 Binding Stones, 10 Titanium Bars, 20 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Black Dragon Torso</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 81</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 5500</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 8 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Black Dragon Cuisses">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>            Black Dragon Cuisses</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +7 Armor, +4 Heat Protection, +4 Magic Protection,</text><nlkx/>
+   <text> +2 Radiation Protection.</text><nlkx/>
+   <text> Required Nexus to use: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 7 Black Dragon Scales, 3 Binding Stones,</text><nl/>
+   <text> 3 Titanium Bars, 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Black Dragon Cuisses</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 74</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 4400</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Black Dragon Greaves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>            Black Dragon Greaves</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +6 Armor, +3 Heat Protection, +3 Magic Protection,</text><nlkx/>
+   <text> +1 Radiation Protection.</text><nlkx/>
+   <text> Required Nexus to use: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Black Dragon Scales, 3 Binding Stones,</text><nl/>
+   <text> 2 Titanium Bars, 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Black Dragon Greaves</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 72</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 4300</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Black Dragon Helm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Black Dragon Helm</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +4 Armor, +2 Magic Resistance, +2 Heat Protection,</text><nlkx/>
+   <text> +1 Radiation and Magic Protection.</text><nlkx/>
+   <text> Increases maximum material/ethereal points by 25.</text><nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 4 Black Dragon Scales, 2 Enriched Life Essences,</text><nl/>
+   <text> 2 Enriched Magic Essences, 3 Binding Stones,</text><nl/>
+   <text> 1 Titanium Bar, 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Black Dragon Helm</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 76</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 4200</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Ice Dragon Torso">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>           Ice Dragon Torso Armor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +15 Armor, +4 Heat and Cold Protection,</text><nlkx/>
+   <text> +2 Magic Protection, +2 Magic Resistance,</text><nlkx/>
+   <text> -1 Radiation Protection.</text><nlkx/>
+   <text> Required Nexus to use: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 10 Ice Dragon Scales, 4 Binding Stones, 10 Titanium Bars,</text><nl/>
+   <text> 4 Enriched Magic Essences, 20 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Ice Dragon Torso</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 87</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 6500</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 8 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Ice Dragon Cuisses">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Ice Dragon Cuisses</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +7 Armor, +4 Heat, Cold and Magic Protection.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Required Nexus to use: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 7 Ice Dragon Scales, 3 Binding Stones, 3 Titanium Bars,</text><nl/>
+   <text> 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Ice Dragon Cuisses</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 80</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 5200</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Ice Dragon Greaves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Ice Dragon Greaves</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +6 Armor, +3 Heat, Cold and Magic Protection.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Required Nexus to use: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Ice Dragon Scales, 3 Binding Stones, 4 Titanium Bars,</text><nl/>
+   <text> 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Ice Dragon Greaves</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 77</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 5000</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Ice Dragon Helm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Ice Dragon Helm</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +4 Armor, +2 Heat Protection, +2 Cold Protection,</text><nlkx/>
+   <text> +1 Magic Protection, +2 Magic Resistance.</text><nlkx/>
+   <text> Increases maximum material/ethereal points by 25.</text><nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 4 Ice Dragon Scales, 3 Binding Stones, 2 Titanium Bars,</text><nl/>
+   <text> 2 Enriched Life Essences, 2 Enriched Magic Essences,</text><nl/>
+   <text> 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Ice Dragon Helm</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 83</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 5000</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+</Armour>

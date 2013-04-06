@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Maps2>
+<Page name="Maps2_PA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Port Anitora (PA)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="3" name="3dobjects/structures/banners4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Anitora jest idealnym punktem wymian handlowych</text><nlkx/>
+   <text> miedzy oboma kontynentami - lezy dokladnie</text><nlkx/>
+   <text> pomiedzy nimi.</text><nlkx/>
+   <text> Z poczatku byla to zwykla, piaszczysta pustynia</text><nl/>
+   <text> w samym srodku moza. Lecz gdy Sarma, na swoim magicznym,</text><nl/>
+   <text> latajacym smoku przebil sie poprzez ocean, rzesze kupcow</text><nl/>
+   <text> przybyly aby zalozyc swoje kramy wlasnie tutaj.</text><nl/>
+   <text> </text><nl/>
+   <text> Dzieki temu znajdziesz tu towary kazdego rodzaju.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nlkx/>
+   <nl/>
+   <text> PK: Nie</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Nie</text><nlkx/>
+   <nl/>
+   <text> Rasy: Brak osadnikow.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Idaloran (lodz)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_Ida">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Idaloran (Ida)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="2" name="3dobjects/structures/banners4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Idaloran nie jest jedynie najwieksza kraina</text><nlkx/>
+   <text> kontynentu Irilion, jest takze domem Emperatora,</text><nlkx/>
+   <text> Hyanithe IX - wladcy Imperium Idal.</text><nlkx/>
+   <nl/>
+   <text> Posiada spory port oraz miasto, troche upraw na poludniu,</text><nl/>
+   <text> dobrze rozbudowany system kopaln i nawiedzony las</text><nl/>
+   <text> na polnocy.</text><nl/>
+   <nl/>
+   <text> Cmentarz zas posiada magiczne polaczenie z Pieklem, dzieki</text><nl/>
+   <text> ktoremu mozliwa jest podroz powrotna do realnego swiata.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nlkx/>
+   <nl/>
+   <text> PK: Nie</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Tak</text><nlkx/>
+   <nl/>
+   <text> Rasy: Znaleziono domy Ludzi.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Port Anitora (lodz)</text><nlkx/>
+   <text>Irinveron (lodz)</text><nlkx/>
+   <text>Melinis (lodz)</text><nlkx/>
+   <text>North Redmoon (lodz)</text><nlkx/>
+   <text>Irsis</text><nlkx/>
+   <text>Emerald Valley Trade Route</text><nlkx/>
+   <text>Kusamura Jungle</text><nlkx/>
+   <text>Palon Vertas</text><nlkx/>
+   <text>Bethel</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_BE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                   Bethel</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="1" name="3dobjects/structures/banners8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> W Bethel bylo kiedys piekne miasto Betha, niestety</text><nlkx/>
+   <text> atak armii nieumarlych w czasie Wielkiej Wojny</text><nlkx/>
+   <text> (Great Wat) doszczetnie je zrujnowal.</text><nlkx/>
+   <nl/>
+   <text> Mimo iz miasto juz nie istnieje, nadal mieszka tu czesc</text><nl/>
+   <text> osadnikow. Wiekszosc z nich przeniosla sie do skalnych</text><nl/>
+   <text> jaskin na polnocnym zachodzie. Niewielu zamieszkalo</text><nl/>
+   <text> w namiotach i wedrownych wozach.</text><nl/>
+   <nl/>
+   <text> Miejsce to jest domem takze dla niebezpiecznych stworzen,</text><nl/>
+   <text> m.in Chimery Pustynnej (Desert Chimeran).</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nlkx/>
+   <nl/>
+   <text> PK: Nie</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Tak</text><nlkx/>
+   <nl/>
+   <text> Rasy: Dominacja rasy Ludzi, lecz spotyka sie takze</text><nl/>
+   <text>        przedstawicieli innych ras.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Idaloran</text><nlkx/>
+   <text>Palon Vertas</text><nlkx/>
+   <text>Sedicolis</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_Sed">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Sedicolis</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="2" name="3dobjects/structures/banners8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Sedicolis moze sie wydawac malym i nieistotnym</text><nlkx/>
+   <text> regionem, tak na prawde jest to tylko zludzenie.</text><nlkx/>
+   <text> Jesli uda Ci sie odkryc droge do Jaskini</text><nlkx/>
+   <text> Litosciwych Lez (Cave of Merciful Tears), to</text><nl/>
+   <text> znajdziesz w niej prawdziwa nature Sedicolis.</text><nl/>
+   <nl/>
+   <text> Na powierzchni mozesz odwiedzic jedyny w Irilion</text><nl/>
+   <text> sklep sprzedajacy esencje.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nlkx/>
+   <nl/>
+   <text> PK: Nie</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Tak</text><nlkx/>
+   <nl/>
+   <text> Rasy: Ludzie.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Bethel</text><nlkx/>
+   <text>Palon Vertas</text><nlkx/>
+   <text>Melinis</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_ME">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Melinis</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="1" name="3dobjects/structures/banners9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Melinis jest miastem portowym z jednym malym</text><nlkx/>
+   <text> problemem... Pewien pokrecony mag rzucil na nie</text><nlkx/>
+   <text> zaklecie i od tamtej pory kazda roslina jaka tu</text><nlkx/>
+   <text> wyrasta zamienia sie w martwy krysztal. Miejscami</text><nl/>
+   <text> udaje sie blokowac to zaklecie i w tych niewielu </text><nl/>
+   <text> strefach pojawia sie wtedy odrobina roslinnosci.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nlkx/>
+   <nl/>
+   <text> PK: Nie, ale jest tam arena.</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Tak</text><nlkx/>
+   <nl/>
+   <text> Rasy: Ludzkie domostwa.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Idaloran (lodz)</text><nlkx/>
+   <text>Hurquin (lodz)</text><nlkx/>
+   <text>Sedicolis</text><nlkx/>
+   <text>Thelinor (jaskinia)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_PV">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Palon Vertas (PV)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="0" name="3dobjects/structures/banners7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Palon Vertas lezy w samym srodku kontynentu Irilion</text><nlkx/>
+   <text> laczy wiec zatem wiele szlakow i krain. Jest bogate</text><nlkx/>
+   <text> zarowno w faune jak i flore, zapewne dzieki temu</text><nlkx/>
+   <text> zbudowano tu najwieksza na C2 Szkole Magii.</text><nl/>
+   <nl/>
+   <text> Z biegiem czasu wokol PV wytworzylo sie sporo jaskin,</text><nl/>
+   <text> istnieje tu takze specjalny, ukryty podziemny system</text><nl/>
+   <text> tuneli, sluzacy jako droga ucieczki w przypadku zagrozenia</text><nl/>
+   <text> Salingen jest centralnie polozonym miastem Palon Vertas,</text><nl/>
+   <text> posiada magazyn i kilka waznych sklepow, czesto</text><nl/>
+   <text> odwiedzanych przez podroznych. W wiosce Treesoar na</text><nl/>
+   <text> poludniu czesto slychac odglosy bitwy, choc nikt nie wie</text><nl/>
+   <text> skad pochodza.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nlkx/>
+   <nl/>
+   <text> PK: Nie</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Nie</text><nlkx/>
+   <nl/>
+   <text> Rasy: Ludzie.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Sedicolis</text><nlkx/>
+   <text>Bethel</text><nlkx/>
+   <text>Idaloran</text><nlkx/>
+   <text>Kusamura Jungle</text><nlkx/>
+   <text>Zirakinbar</text><nlkx/>
+   <text>Thelinor</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_EVTR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>      Emerald Valley Trade Route (EVTR)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="1" name="3dobjects/structures/banners7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Emerald Valley jest waznym szlakiem handlowym na</text><nlkx/>
+   <text> kontynencie Irilion. Tu spotykaja sie podrozni aby</text><nlkx/>
+   <text> odpoczac i sprzedac swoje towary. Jest to dom</text><nlkx/>
+   <text> starozytnej jaskini, o ktorej mowi sie, ze obfituje</text><nl/>
+   <text> w roznorodne mineraly.</text><nl/>
+   <nl/>
+   <text> Na polnocnym-zachodzie lezy region znany jako Pustkowia</text><nl/>
+   <text> Zalu (Barrenlands of Sorrow).</text><nl/>
+   <nl/>
+   <text> Rozne typy potworow kreca sie w tym rejonie, dlatego</text><nl/>
+   <text> podroznym zaleca sie zachowanie wyjatkowej ostroznosci.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nlkx/>
+   <nl/>
+   <text> PK: Nie</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Nie</text><nlkx/>
+   <nl/>
+   <text> Rasy: Brak konkretnych osad.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Idaloran</text><nlkx/>
+   <text>Irsis</text><nlkx/>
+   <text>Willowvine Forest</text><nlkx/>
+   <text>Kusamura Jungle</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_Kus">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Kusamura Jungle</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="0" name="3dobjects/structures/banners8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Kusamura porosnieta jest gesta dzungla. Kiedys</text><nlkx/>
+   <text> istniala tu jedna wioska, ale doslownie wsiakla w</text><nlkx/>
+   <text> wilgotne i grzaskie tereny.</text><nlkx/>
+   <nl/>
+   <text> Badacze doniesli, ze istnieje tu gdzies ukryta swiatynia,</text><nl/>
+   <text> ktorej proby znosza jedynie najwytrwalsi.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nlkx/>
+   <nl/>
+   <text> PK: Nie, ale jest tam arena.</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Tak</text><nlkx/>
+   <nl/>
+   <text> Rasy: Nikt tu nie mieszka.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Idaloran</text><nlkx/>
+   <text>Emerald Valley Trade Route</text><nlkx/>
+   <text>Aeth Aelfan</text><nlkx/>
+   <text>Zirakinbar</text><nlkx/>
+   <text>Willowvine Forest (jaskinia)</text><nlkx/>
+   <text>Palon Vertas</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_Zir">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Zirakinbar</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="0" name="3dobjects/structures/banners9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zirakinbar jest wysoko rozwinieta kraina, zarowno</text><nlkx/>
+   <text> nad i jak i pod ziemia. Wewnatrz twierdzy znajduje</text><nlkx/>
+   <text> sie wejscie do jaskini Zirakgunda.</text><nlkx/>
+   <nl/>
+   <text> Kuznie sa glowna zaleta tej krainy, niebezpiecznie jest</text><nl/>
+   <text> zapuszczac sie do crypty badz zamku. Zlo czai sie tam za</text><nl/>
+   <text> kazdym rogiem.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nlkx/>
+   <nl/>
+   <text> PK: Nie, ale jest tam arena.</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Nie</text><nlkx/>
+   <nl/>
+   <text> Rasy: Liczne osady Krasnoludow.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Palon Vertas</text><nlkx/>
+   <text>Kusamura Jungle</text><nlkx/>
+   <text>Egratia Point</text><nlkx/>
+   <text>Aeth Aelfan (lodz)</text><nlkx/>
+   <text>Irsis (lodz)</text><nlkx/>
+   <text>South Redmoon (lodz)</text><nlkx/>
+   <text>Thelinor</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_AA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Aeth Aelfan (AA)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="3" name="3dobjects/structures/banners9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Aeth Aelfan znane jest jako irilionowy dom dla</text><nlkx/>
+   <text> Elfow. Forteca rozdziela rejony poludniowe, miasto</text><nlkx/>
+   <text> oraz port od niebezpiecznych terwnow polnocy.</text><nlkx/>
+   <text> Na polnocy wlasnie spotkac mozna Gigantow (Giant),</text><nl/>
+   <text> ktore sa wyjatkowo grozne i agresywne.</text><nl/>
+   <nl/>
+   <text> Wystepuje tu sporo jam i jaskin, latwo przez to jest</text><nl/>
+   <text> sie zgubic.</text><nl/>
+   <nl/>
+   <text> Plotka glosci ze gdzies w ciemnych otchlaniach czai sie</text><nl/>
+   <text> bestia ciemnosci.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nlkx/>
+   <nl/>
+   <text> PK: Czesc polnocna.</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Tak</text><nlkx/>
+   <nl/>
+   <text> Rasy: Duza liczba elfich domostw.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Kusamura Jungle</text><nlkx/>
+   <text>Willowvine Forest</text><nlkx/>
+   <text>Glacmor (lodz)</text><nlkx/>
+   <text>Zirakinbar (lodz)</text><nlkx/>
+   <text>Egratia Point</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_EP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Egratia Point (EP)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="2" name="3dobjects/structures/banners6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Egratia Point jest malym, odizolowanym terenem</text><nlkx/>
+   <text> pelnym potworow.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Znajduje sie tu jedna z trzech szkol magii</text><nl/>
+   <text> Irilionu. Podobno rzadzi nia jakiegos rodzaju kult.</text><nl/>
+   <nl/>
+   <text> Okragla arena w srodku mapy to takze swietne</text><nl/>
+   <text> miejsce dla trenujacych wojownikow.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nlkx/>
+   <nl/>
+   <text> PK: Nie, ale jest tam arena.</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Tak</text><nlkx/>
+   <nl/>
+   <text> Rasy: Brak mieszkancow.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Iscalrith (lodz)</text><nlkx/>
+   <text>Aeth Aelfan</text><nlkx/>
+   <text>Zirakinbar</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_AR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                   Arius</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="2" name="3dobjects/structures/banners9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Arius domem wszelakiej mysli technicznej, glownie</text><nlkx/>
+   <text> dlatego, ze jest jedna z wazniejszych kolonii</text><nlkx/>
+   <text> Gnomow.</text><nlkx/>
+   <text> Miesci takze druga co do wielkosci szkole magiczna</text><nl/>
+   <text> na kontynencie Irilion, ktora rzadzi... Arcymistrz Nerala,</text><nl/>
+   <text> wygnany przez Orchan.</text><nl/>
+   <nl/>
+   <text> Zwiedzajac wyspe zauwazysz wiele wynalazkow i pomyslow</text><nl/>
+   <text> wcielonych w zycie przez inteligentnych gnomich naukowcow.</text><nl/>
+   <nl/>
+   <text> Pas gorski Limestone (Limestone Mountain Range) znany jest</text><nl/>
+   <text> jako interesujace miesjce dla poszukiwacz gipsu.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nlkx/>
+   <nl/>
+   <text> PK: Nie</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Nie</text><nlkx/>
+   <nl/>
+   <text> Rasy: Cala kraina zamieszkiwana przez Gnomy.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Irinveron (lodz)</text><nlkx/>
+   <text>Irsis (lodz)</text><nlkx/>
+   <text>Willowvine Forest (statek powietrzny)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_SRM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>            South Redmoon (SRM)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="2" name="3dobjects/structures/banners7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> South Redmoon to kraina o bardzo duzym przeplywie</text><nlkx/>
+   <text> podroznych.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Niemal zawsze spotkasz tu osoby podrozujace miedzy</text><nl/>
+   <text> kopalnia a magazynem - to swietne miejsce na pozyskiwanie</text><nl/>
+   <text> zelaza oraz rud innych metali.</text><nl/>
+   <nl/>
+   <text> Bogate jest w flore i faune, jaskina posiada leczace</text><nl/>
+   <text> zrodla oraz sciezke wiadaca w gore, do Gory Zalu</text><nl/>
+   <text> (Mount Sorrow) - snieznego, zimnego szczytu ktory</text><nl/>
+   <text> odwiedzaja jedynie nieliczni.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nlkx/>
+   <nl/>
+   <text> PK: Nie</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Tak</text><nlkx/>
+   <nl/>
+   <text> Rasy: Chaty i zabudowania Orchan.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Hurquin (lodz)</text><nlkx/>
+   <text>Zirakinbar (lodz)</text><nlkx/>
+   <text>North Redmoon</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_HUR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Hurquin</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="3" name="3dobjects/structures/banners6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Hurquin jest wyspa Gnomow. Zdecydowanie</text><nlkx/>
+   <text> mniejsza w porownaniu do Arius, nie ma tez zadnych</text><nlkx/>
+   <text> wynalazkow ktore mozna by podziwiac.</text><nlkx/>
+   <nl/>
+   <text> Najbardziej interesujacym miejscem na wyspie jest jaskinia.</text><nl/>
+   <text> Jesli tylko bedziesz w stanie ominac hobgobliny, byc mozeTemple of</text><nl/>
+   <text> uda Ci sie odnalezc Swiatynie Wiedzy (Templ of Knowledge).</text><nl/>
+   <text> Miejsce znane z szerokiej gamy prowadzonych tam badan.</text><nl/>
+   <text> Procz swiatyni jest tam takze krypta, kotra kryje wiele</text><nl/>
+   <text> sekretow (jak i niebezpieczenstw).</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Bezpieczna: Na zewnatrz.</text><nlkx/>
+   <nl/>
+   <text> Magazyn: Nie</text><nlkx/>
+   <nl/>
+   <text> PK: Nie</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Tak</text><nlkx/>
+   <nl/>
+   <text> Rasy: Miasa i osady Gnomow.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Melinis (lodz)</text><nlkx/>
+   <text>South Redmoon (lodz)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_TR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Trassian</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="2" name="3dobjects/structures/banners5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Trassian to dom rasy Draegoni, a szczegolnie</text><nlkx/>
+   <text> miasto: Dra Syn.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Miasto jako takie zostalo odciete od naplywlu,</text><nl/>
+   <text> podroznych, znajdzie sie jednak kilka sekretnych wejsc.</text><nl/>
+   <text> Wewnatrz jednak bardzo latwo sie zgubic - ogromny system</text><nl/>
+   <text> jaskin (Deepstone Caverns) i przejsc ciezko jest opanowac.</text><nl/>
+   <nl/>
+   <text> Uwazaj na Yeti. Czesto zdarza im sie wymknac z jaskin i</text><nl/>
+   <text> buszowac po Dra Syn.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nlkx/>
+   <nl/>
+   <text> PK: In caves.</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Tak</text><nlkx/>
+   <nl/>
+   <text> Rasy: Draegoni.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Glacmor</text><nlkx/>
+   <text>Iscalrith (jaskinia)</text><nlkx/>
+   <text>Hulda</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_HU">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Hulda</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="0" name="3dobjects/structures/banners6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Hulda to totalne pustkowie, pelne lodu i sniegu.</text><nlkx/>
+   <text> Smierc znaczy ten teren na kazdym kroku.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Wojownicy walcza tu miedzy soba, lub przeciwko</text><nl/>
+   <text> wyjatkowo silnym potworom.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nlkx/>
+   <nl/>
+   <text> PK: Tak</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Tak</text><nlkx/>
+   <nl/>
+   <text> Rasy: Nikt tu nie mieszka.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Iscalrith</text><nlkx/>
+   <text>Trassian</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_IOTF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>        Isles of the Forgotten (IotF)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="3" name="3dobjects/structures/banners8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Wyspy Zapomnienia (Isles of the Forgotten) nie</text><nlkx/>
+   <text> przypominaja zadnej innej krainy. Wszystkie budynki</text><nlkx/>
+   <text> rosliny czy skaly wydaja sie znikac. Do tej pory</text><nlkx/>
+   <text> nie wyjasniono dlaczego...</text><nl/>
+   <nl/>
+   <text> Plotka glosi ze klatwa wisi nad tymi wyspami. A pewien</text><nl/>
+   <text> ich mieszkaniec - Dryx, znalazl sposob na to, zeby ocalic</text><nl/>
+   <text> wyspy przed calkowitym zniknieciem. W ramach wdziecznosci</text><nl/>
+   <text> wybudowano tam swiatynie jego imieniem. Wyspy kryja w</text><nl/>
+   <text> w sobie wiele sekretow, czekajacych aby je odkryc.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nlkx/>
+   <nl/>
+   <text> PK: Nie</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Nie</text><nlkx/>
+   <nl/>
+   <text> Rasy: Nie zobserwowano.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Iscalrith (teleport)</text><nlkx/>
+   <text>Imbroglio Islands (teleport)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_II">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Imbroglio Islands</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="1" name="3dobjects/structures/banners6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Imbroglio jest to lanuch wysp polaczonych ze soba</text><nlkx/>
+   <text> podwodnymi jaskiniami.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Jeden wielki, poziemny labirynt to idealne miejsce</text><nl/>
+   <text> dla kogos, kto chcialby sie zgubic. Silne potwory oraz</text><nl/>
+   <text> inni wojownicy sluza tez pomoca tym, ktorym spieszno do</text><nl/>
+   <text> piekla. Za tym calym Oblivionem znalezc mozna wyjatkowo</text><nl/>
+   <text> rzadki mineral.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nlkx/>
+   <nl/>
+   <text> PK: Tak</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Tak</text><nlkx/>
+   <nl/>
+   <text> Rasy: Nie zaobserwowano.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Iscalrith (lodz)</text><nlkx/>
+   <text>Isles of the Forgotten (teleport)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_IR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Irinveron</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="0" name="3dobjects/structures/banners5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Irinveron to surowa, sniezna kraina, bardzo</text><nlkx/>
+   <text> skromna w zasoby. Jaskinie Daa Gri sa domem dla</text><nlkx/>
+   <text> Draegoni oraz yeti (jesli wdepniesz w zla</text><nlkx/>
+   <text> jaskinie).</text><nl/>
+   <nl/>
+   <text> Magazyn na polwyspie Fisher's Point prowadzi Chary,</text><nl/>
+   <text> stamtad jest juz niedaleko do szkoly Rzemieslnictwa.</text><nl/>
+   <text> Wioska Candolis (Village of Candolis) jest zasiedlona</text><nl/>
+   <text> przez ludzi i posiada sklep z wyposazeniedm dla Krawcow.</text><nl/>
+   <nl/>
+   <text> Jest tez takze plotka o tym, ze gdzies w Irinveron</text><nl/>
+   <text> isnieje zaginiona swiatynia, ale zadnych dowodow na jej</text><nlkx/>
+   <text> isnienie do tej pory nie odnaleziono.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nlkx/>
+   <nl/>
+   <text> PK: In cave.</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Tak</text><nlkx/>
+   <nl/>
+   <text> Rasy: Ludzie zamieszkujacy wioske Candolis i polwysep</text><nl/>
+   <text>       polwysem Fisher's Point;</text><nl/>
+   <text>       Dreagoni mieszkajacy w jaskiniach.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Idaloran (lodz)</text><nlkx/>
+   <text>Iscalrith (lodz)</text><nlkx/>
+   <text>Arius (lodz)</text><nlkx/>
+   <text>Glacmor</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_IS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Iscalrith</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="1" name="3dobjects/structures/banners5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Iscalrith to sniezna kraina konczaca na wschodzie</text><nlkx/>
+   <text> pas regionow skutych lodem. Mala wioska Meel's Port</text><nlkx/>
+   <text> posiada sklep wielobranzowy (General Store) oraz</text><nlkx/>
+   <text> tawerne. Fort Telemont odegral wazna role w</text><nl/>
+   <text> bitwach Wielkiej Wojny (Great War), lecz teraz przydaje</text><nl/>
+   <text> sie do odpierania atakow yeti. W forcie znajduje sie tez</text><nl/>
+   <text> druga tawerna.</text><nl/>
+   <nl/>
+   <text> Miasto Iscalrith jest kolejnym waznym miastem Draegoni.</text><nl/>
+   <text> DO miasta mozna sie dostac lodzia, lecz niektorzy twierdza</text><nl/>
+   <text> ze wiedzie tam takze inna sciezka, poprzez ukryty tunel.</text><nl/>
+   <text> W miescie trzeba sie poruszac za pomoca skomplikowanego</text><nl/>
+   <text> systemu jaskin, ktore ponoc zawieraja sporo mineralow.</text><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nlkx/>
+   <nl/>
+   <text> PK: Nie, ale jest tam arena.</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Nie</text><nlkx/>
+   <nl/>
+   <text> Rasy: Ludzie w wiosce oraz w porcie.</text><nl/>
+   <text>       Draegoni w jaskiniach na poludniu.</text><nl/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Egratia Point (lodz)</text><nlkx/>
+   <text>Irinveron (lodz)</text><nlkx/>
+   <text>Imbroglio Islands (lodz)</text><nlkx/>
+   <text>Glacmor</text><nlkx/>
+   <text>Trassian (jaskinia)</text><nlkx/>
+   <text>Hulda</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_GLA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Glacmor</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="3" name="3dobjects/structures/banners5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Glacmor najczesciej odwiedzana, sniezna kraina.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Posiadna najwiekszy w Irilionie market, akademie</text><nlkx/>
+   <text> umiejetnosci Jubilerstwa, Mikstur i Alchemii.</text><nl/>
+   <text> Jaskinie bogate sa w szeroka game mineralow oraz</text><nl/>
+   <text> rud metali.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nlkx/>
+   <nl/>
+   <text> PK: Nie</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Nie</text><nlkx/>
+   <nl/>
+   <text> Rasy: Draegoni.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Aeth Aelfan (lodz)</text><nlkx/>
+   <text>Irinveron</text><nlkx/>
+   <text>Trassian</text><nlkx/>
+   <text>Iscalrith</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_IRS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                   Irsis</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="1" name="3dobjects/structures/banners10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Irsis jest kolejnym waznym portem na kontynencie.</text><nlkx/>
+   <text> Irilionu.</text><nlkx/>
+   <nlkx/>
+   <text> Latarnia morska czesto pomaga statkom szczesliwie</text><nlkx/>
+   <text> doplynac do brzegu, a port sam w sobie jest</text><nl/>
+   <text> wyjatkowo przyjazny.</text><nl/>
+   <nl/>
+   <text> Irsis to bardzo przyjazny region, zycie toczy sie tu</text><nl/>
+   <text> w ciszy i spokoju. Jesli Mikstury lub Jubilerstwo</text><nl/>
+   <text> naleza do Twoich zainteresowan, to Irsis oferuje Ci.</text><nl/>
+   <text> szkoly z obu tych kierunkow.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nlkx/>
+   <nl/>
+   <text> PK: Nie</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Tak</text><nlkx/>
+   <nl/>
+   <text> Rasy: Elfy.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Idaloran</text><nlkx/>
+   <text>Emerald Valley Trade Route</text><nlkx/>
+   <text>Arius (lodz)</text><nlkx/>
+   <text>Zirakinbar (lodz)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_NRM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>            North Redmoon (NRM)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="3" name="3dobjects/structures/banners7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> W North Redmoon dominuje przede wszystkim</text><nlkx/>
+   <text> olbrzymi wulkan. I to w samym srodku mapy.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Legenda glosi, ze Ci, ktorym uda sie pokonac</text><nl/>
+   <text> ogromny zar wydobywajacy sie z dna krateru znajda</text><nl/>
+   <text> w nim olbrzymie skarby... i smierc.</text><nl/>
+   <nl/>
+   <text> Mlodzi Orchanie, ktorzy musza przejsc plemienna probe,</text><nl/>
+   <text> wspomaja sie na szczyt wulkanu. Dopiero wtedy moga</text><nl/>
+   <text> uwazac sie za doroslych czlonkow plemienia.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nlkx/>
+   <nl/>
+   <text> PK: Nie</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Tak</text><nlkx/>
+   <nl/>
+   <text> Rasy: Fortece Orchan.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Idaloran (lodz)</text><nlkx/>
+   <text>Thelinor (lodz)</text><nlkx/>
+   <text>South Redmoon</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_The">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Thelinor</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="2" name="3dobjects/structures/banners10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Thelinor jest krasnoludzkim miastem i poleb bitwy.</text><nlkx/>
+   <text> </text><nlkx/>
+   <text> Poza miastem wojownicy sprawdzaja swoje bitewne</text><nlkx/>
+   <text> umiejetnosci, walczac ze soba nawzajem. Samo</text><nl/>
+   <text> miasto jest bezpieczne... za wyjatkiem tawerny, w ktorej</text><nl/>
+   <text> ciagle tocza sie jakies przepychanki.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nlkx/>
+   <nl/>
+   <text> PK: Tak (outside the city)</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Tak</text><nlkx/>
+   <nl/>
+   <text> Rasy: Liczne krasnoludzkie domostwa.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>North Redmoon (lodz)</text><nlkx/>
+   <text>Palon Vertas</text><nlkx/>
+   <text>Zirakinbar</text><nlkx/>
+   <text>Melinis (jaskinia)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps2_WF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Willowvine Forest</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="0" name="3dobjects/structures/banners10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Willowvine to jeden z niewielu regionow</text><nlkx/>
+   <text> zamieszkalych przez dwie rasy. W Fishmig Village</text><nlkx/>
+   <text> znajdziesz Gnomy, oraz droge do Arius.</text><nlkx/>
+   <nl/>
+   <text> Elfie miasta polaczone sa systemem mostow i portali.</text><nl/>
+   <text> Dzieki temu podrozni moga unikac czychajacych na w lasach</text><nl/>
+   <text> potworow.</text><nl/>
+   <nl/>
+   <text> W Willowvine miesci sie takze akademia kilku umiejetnosci:</text><nl/>
+   <text> Rzemieslnictwa, Magii oraz Przywolania.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nlkx/>
+   <nl/>
+   <text> PK: Nie</text><nlkx/>
+   <nl/>
+   <text> Multi-combat: Tak</text><nlkx/>
+   <nl/>
+   <text> Rasy: Gnomy w Fishmig Village</text><nl/>
+   <text>       Elfy w pozostalej czesci mapy.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Arius (statek powietrzny)</text><nlkx/>
+   <text>Emerald Valley Trade Route</text><nlkx/>
+   <text>Aeth Aelfan</text><nlkx/>
+   <text>Kusamura Jungle (jaskinia)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Maps_C2" title="Wroc do Indeksu Map"/>
+</Page>
+</Maps2>

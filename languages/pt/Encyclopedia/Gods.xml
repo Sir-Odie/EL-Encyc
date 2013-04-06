@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gods>
+<Page name="ALUWEN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>            Aluwen - Defense God</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Para seguir o caminho de Aluwen é defendendo o,</text><nl/>
+   <text> inocente, trazer vida ao ferido e falar a verdade do</text><nl/>
+   <text> coração.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Localização: Forest of the Fall, White Stone</text><nl/>
+   <text> Padre: Noria</text><nl/>
+   <text> Beneficios: Seguidores tem mais experiência em Defense.</text><nl/>
+   <text> Inimigos: Mortos, Selain.</text><nl/>
+   <text> Rank de inicio: -2 Defense</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+<Page name="UNOLAS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>             Unolas - Magic God</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Para seguir o caminho de Unolas é procurar o que está</text><nl/>
+   <text> para além da concepção da lógica e da mente  magic</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Localização: Vermor Castle, White Stone</text><nl/>
+   <text> Padre: Adrian</text><nl/>
+   <text> Beneficios: Seguidores tem mais experiência em Magic.</text><nl/>
+   <text> Inimigos: Zarin, Lucaa.</text><nl/>
+   <text> Rank de inicio: -2 Magic</text><nl/>
+   <text> Nota: Diversos monstrous protegem o Padre de Unolas.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+<Page name="MORTOS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>            Mortos - Attack God</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Para seguir o caminho de Mortos é submeter-se ao</text><nl/>
+   <text> Shadowlord e ganhar poder pessoal. Morrer é breve, mas</text><nl/>
+   <text> morte é para sempre. Para seguir Mortos é para ser o</text><nl/>
+   <text> Precursor do Fim da Vida.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Localização: The Catacombs, Naralik.</text><nl/>
+   <text> Padre: Dirhyan.</text><nl/>
+   <text> Beneficios: Seguidores Tem mais experiência em Attack.</text><nl/>
+   <text> Inimigos: Aluwen, Elandria.</text><nl/>
+   <text> Rank de inicio: -2 Attack</text><nl/>
+   <text> Nota: Orcs protegem o Padre de Mortos.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+<Page name="SELAIN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>           Selain - Summoning God</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Para seguir o caminho de Selain é desafiar agarrar</text><nl/>
+   <text> oportunidades; ser rico, esparto e melhor do que</text><nl/>
+   <text> todos os outros seres.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Localização: Tirnwood, White Stone</text><nl/>
+   <text> Padre: Sylpho</text><nl/>
+   <text> Beneficios: Seguidores tem mais experiência em Summoning.</text><nl/>
+   <text> Inimigos: Aluwen, Glilin.</text><nl/>
+   <text> Rank de inicio: -2 Summoning</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+<Page name="GLILIN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>         Glilin - Manufacturing God</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Para seguir o caminho de Glilin é trazer a verdadeira</text><nl/>
+   <text> perfeição ao mundo.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Localização: Nordcarn</text><nl/>
+   <text> Padre: Baostas</text><nl/>
+   <text> Beneficios: Seguidores tem mais experiência em Manufacturing.</text><nl/>
+   <text> Inimigos: Selain, Lucaa.</text><nl/>
+   <text> Rank de inicio: -2 Manufacturing</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+<Page name="ELANDRIA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>           Elandria - Alchemy God</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Para seguir Elandria tem que se amar o parente e</text><nl/>
+   <text> defender as leis da natureza.. Juntos somos um só!</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Localização: Evergreen Forest, Desert Pines</text><nl/>
+   <text> Padre: Romira (Ainda não está no templo).</text><nl/>
+   <text> Beneficios: Seguidores tem mais experiências em Alchemy.</text><nl/>
+   <text> Inimigos: Zarin, Mortos.</text><nl/>
+   <text> Rank de inicio: -2 Alchemy</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+<Page name="ZARIN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>            Zarin - Crafting God</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Para seguir Zarin tem que se procurer liberdade para</text><nl/>
+   <text> criar objectos da beleza.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Localização: Tarsengaard</text><nl/>
+   <text> Padre: Durnam</text><nl/>
+   <text> Beneficios: Seguidores tem mais experiência em Crafting.</text><nl/>
+   <text> Inimigos: Elandria, Unolas.</text><nl/>
+   <text> Rank de inicio: -2 Crafting.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+<Page name="LUCAA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>           Lucaa - Harvesting God</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Para seguir Lucaa tem que se abraçar as forces vivas da</text><nl/>
+   <text> natureza e viver pelo capricho da Rainha da Natureza.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Localização: Roanof Island, Tarsengaard</text><nl/>
+   <text> Padre: Quira (Ainda não está no templo).</text><nl/>
+   <text> Beneficios: Seguidores tem mais experiência em Harvesting.</text><nl/>
+   <text> Inimigos: Unolas, Glilin.</text><nl/>
+   <text> Rank de inicio: -2 Harvesting</text><nl/>
+   <nl/><nl/>
+   <text> Os nossos estudantes ainda estão há procura do</text><nl/>
+   <text> conhecimento desta divindade.</text><nl/>
+   <text> O caminho para Roanof é, tembém desconhecido.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+<Page name="JAYDEN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>          Jayden - God of Potions</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Para seguir o caminho de Jayden é permanecer</text><nl/>
+   <text> concentrado. O único caminho para a salvação é curar</text><nl/>
+   <text> aquilo que não se pode curar. Só quando se segue</text><nl/>
+   <text> este fluxo é que se alcançar tal objectivo.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Localização: Morcraven Marsh</text><nl/>
+   <text> Padre: Iazurn (Ainda não está no templo).</text><nl/>
+   <text> Beneficios: Seguidores tem mais experiência em Potion.</text><nl/>
+   <text> Inimigos: Galienne, LaForge.</text><nl/>
+   <text> Rank de inicio: -2 Potion</text><nl/>
+   <nl/><nl/>
+   <text> Os nossos estudantes ainda estão há procura do</text><nl/>
+   <text> conhecimento desta divindade.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+<Page name="LAFORGE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>         LaForge - Engineering God</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> To follow the path of LaForge is to create and engineer</text><nl/>
+   <text> items and concepts that stretch the concept of the world</text><nl/>
+   <text> and advance the knowledge of science.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Location: Arius</text><nl/>
+   <text> Priest: Diesel</text><nl/>
+   <text> Benefits: Followers get more Engineering experience</text><nl/>
+   <text> Enemies: Jayden, Galienne.</text><nl/>
+   <text> Starting worship level: rank -2</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+<Page name="XIAO">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>             Xiao - Ranging God</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> To follow the path of Xiao is to have true aim, kill</text><nl/>
+   <text> swiftly, live secretly, and honor those of the clan.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Location: Ruins of Tirnym</text><nl/>
+   <text> Priest: Marn (Not yet in the temple).</text><nl/>
+   <text> Benefits: Followers get more Ranging experience</text><nl/>
+   <text> Enemies: Unknown</text><nl/>
+   <text> Starting worship level: rank -2</text><nl/>
+   <nl/><nl/>
+   <text> Our scholars are still in pursuit of knowledge about</text><nl/>
+   <text> this deity.</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+<Page name="GALIENNE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>        Galienne - Tailoring Goddess</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> To follow Galienne is to inspire others and strive to</text><nl/>
+   <text> achieve perfection of your craft.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Location: Glacmor</text><nl/>
+   <text> Priest: Tyra (Not yet in the temple).</text><nl/>
+   <text> Benefits: Followers get more Tailoring experience</text><nl/>
+   <text> Enemies: Jayden, LaForge.</text><nl/>
+   <text> Starting worship level: rank -2</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+</Gods>

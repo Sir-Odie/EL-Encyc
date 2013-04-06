@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Attributes>
+<Page name="Physique">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              Basis Attributen</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Fysiek</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Fysiek is een basis attribuut dat gebruikt wordt om</text><nl/>
+	<text> "Macht", "Materie", en "Hardheid" te verhogen.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.7" g="0.7" b="1"/>
+	<text> Macht: is een kruis attribuut waarmee je in totaal meer</text><nl/>
+	<text> kan dragen en meer schade doet in een gevecht.</text><nl/>
+	<text> Materie: is een kruis attribuut dat je gezondheid</text><nl/>
+	<text> vergroot.</text><nl/>
+	<text> Hardheid: Verminderd de opgelopen schade in een gevecht.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Coordination">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              Basis Attributen</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Coordinatie</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<Text> Coordinatie is een basis attribuut dat gebruikt wordt om</Text><nl/>
+	<Text> "Macht", "Reactie", en "Handigheid" te vergroten.</Text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.7" g="0.7" b="1"/>
+	<text> Macht: is een kruis attribuut waarmee je in totaal meer</text><nl/>
+	<text> kan dragen en meer schade doet in een gevecht.</text><nl/>
+	<text> Reactie: is een kruis attribuut dat helpt voorkomen dat je</text><nl/>
+	<text> geraakt wordt in een gevecht.</text><nl/>
+	<text> Handigheid: Is een kruis attribuut dat je kans om de</text><nl/>
+	<text> vijand te raken vergroot.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Reasoning">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              Basis Attributen</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Redeneren</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Redeneren is een basis attribuut dat gebruikt wordt</text><nl/>
+	<text> om je "Handigheid", "Waarneming", en "Rationaliteit"</text><nl/>
+	<text> te vergroten.</text><nl/>
+	<nl/>
+	<color r="0.7" g="0.7" b="1"/>
+	<text> Handigheid: Is een kruis attribuut dat je kans om de</text><nl/>
+	<text> vijand te raken vergroot.</text><nl/>
+	<text> Waarneming: Is een kruis attribuut waarmee je beter kunt</text><nl/>
+	<text> zien met weinig licht.</text><nl/>
+	<text> Rationaliteit: Is een kruis attribuut dat onderzoek tijd</text><nl/>
+	<text> verminderd en de hoeveelheid ervaring dat je krijgt</text><nl/>
+	<text> vergroot.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Will">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              Basis Attributen</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                    Wil</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Wil is een basis attribuut dat gebruikt wordt om je</text><nl/>
+	<text> "Materie", "Rationaliteit", en "Etherialiteit"</text><nl/>
+	<text> te vergroten.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.7" g="0.7" b="1"/>
+	<text> Materie: Is een kruis attribuut dat je gezondheid</text><nl/>
+	<text> vergroot.</text><nl/>
+	<text> Rationaliteit: Is een kruis attribuut dat onderzoek tijd</text><nl/>
+	<text> verminderd en de hoeveelheid ervaring dat je krijgt</text><nl/>
+	<text> vergroot.</text><nl/>
+	<text> Etherialiteit: Is een kruis attribuut dat je hoeveelheid</text><nl/>
+	<text> Etherische (mana) punten vergroot.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Instinct">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              Basis Attributen</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Instinct</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Instinct is een basis attribuut dat gebruikt wordt om</text><nl/>
+	<text> je "Reactie", "Waarneming", en "Charme" te vergroten.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.7" g="0.7" b="1"/>
+	<text> Reactie: Is een kruis attribuut dat helpt voorkomen</text><nl/>
+	<text> dat je geraakt wordt in een gevecht.</text><nl/>
+	<text> Waarneming: Is een kruis attribuut waarmee je beter</text><nl/>
+	<text> kunt zien met weinig licht.</text><nl/>
+	<text> Charme: is een kruis attribuut dat je opgeroepen beesten</text><nl/>
+	<text> krachtiger maakt en de kans om 1 extra beest op te roepen</text><nl/>
+	<text> vergroot.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Vitality">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              Basis Attributen</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Vitaliteit</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Vitaliteit is een basis attribuut dat gebruikt wordt</text><nl/>
+	<text> om je "Hardheid", "Etherialiteit", en "Charme"</text><nl/>
+	<text> te vergroten.</text><nl/>
+	<nl/>
+	<color r="0.7" g="0.7" b="1"/>
+	<text> Hardheid: Verminderd de opgelopen schade in een gevecht.</text><nl/>
+	<text> Etherialiteit: Is een kruis attribuut dat je hoeveelheid</text><nl/>
+	<text> Etherische (mana) punten vergroot.</text><nl/>
+	<text> Charme: is een kruis attribuut dat je opgeroepen beesten</text><nl/>
+	<text> krachtiger maakt en de kans om 1 extra beest op te roepen</text><nl/>
+	<text> vergroot.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Might">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              Kruis Attributen</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Macht</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Macht verhoogd de hoeveelheid die je kunt dragen en</text><nl/>
+	<text> beinvloed hoeveel schade je doet in een gevecht.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.7" g="0.7" b="1"/>
+	<text> Macht wordt verhoogd door "Fysiek" en "Coordinatie".</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Matter">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              Kruis Attributen</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Materie</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Materie verhoogt je maximum materie punten (gezondheid).</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.7" g="0.7" b="1"/>
+	<text> Materie wordt verhoogd door "Fysiek" en "Wil".</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Toughness">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              Kruis Attributen</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Hardheid</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Hardheid verminderd de opgelopen schade in een gevecht.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.7" g="0.7" b="1"/>
+	<text> Hardheid wordt verhoogd door "Fysiek" en "Vitaliteit".</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Charm">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              Kruis Attributen</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Charme</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Charme maakt je opgeroepen beesten krachtiger en vergroot</text><nl/>
+	<text> de kans om 1 extra beest op te roepen.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.7" g="0.7" b="1"/>
+	<text> Charme wordt verhoogd door "Instinct" en Vitaliteit".</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Reaction">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              Kruis Attributen</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Reactie</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Reactie helpt je om aanvallen te ontwijken in een gevecht.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.7" g="0.7" b="1"/>
+	<text> Reactie wordt verhoogd door "Coordinatie" en "Instinct".</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Perception">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              Kruis Attributen</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Waarneming</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Waarneming zorgt er voor dat je beter kunt zien met</text><nl/>
+	<text> weinig licht.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.7" g="0.7" b="1"/>
+	<text> Waarneming wordt verhoogd door "Redeneren" en "Instinct".</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Rationality">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              Kruis Attributen</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Rationaliteit</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Rationaliteit vermindert onderzoek tijd en verhoogt</text><nl/>
+	<text> de hoeveelheid ervaring die je ontvangt.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.7" g="0.7" b="1"/>
+	<text> Rationaliteit wordt verhoogd door "Redeneren" en "Wil".</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Dexterity">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              Kruis Attributen</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Handigheid</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Handigheid verhoogt de kans om de tegenstander succesvol</text><nl/>
+	<text> te raken.</text><nl/>
+	<nl/>
+	<color r="0.7" g="0.7" b="1"/>
+	<text> Handigheid wordt verhoogd door Redeneren en Coordinatie.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Ethereality">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>              Kruis Attributen</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Etherealiteit</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Etherialiteit verhoogt de hoeveelheid etherische</text><nl/>
+	<text> punten (mana).</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.7" g="0.7" b="1"/>
+	<text> Etherialiteit wordt verhoogd door "Wil" en "Vitaliteit".</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Nx_Human">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  Nexus</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Mens Nexus</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> De Mens nexus bepaalt wat voor uitrusting je kunt dragen</text><nl/>
+	<text> (harnas, zwaard, schild, etc.).</text><nl/>
+	<text> Met een hogere Mens nexus kun je een betere uitrusting aan</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Let op: Als je een nexus verkregen hebt door een punt</text><nl/>
+	<text> te besteden bij de Wraith, duurt het ongeveer een</text><nl/>
+	<text> minuut om op te laden (positief voedsel niveau nodig).</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Nx_Animal">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  Nexus</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Dier Nexus</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> De Dier nexus bepaalt wat voor beesten je kunt oproepen.</text><nl/>
+	<text> Met een hogere Dier nexus kun je betere beesten oproepen.</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Let op: Als je een nexus verkregen hebt door een punt</text><nl/>
+	<text> te besteden bij de Wraith, duurt het ongeveer een</text><nl/>
+	<text> minuut om op te laden (positief voedsel niveau nodig).</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Nx_Vegetal">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  Nexus</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Vegetatie Nexus</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> De Vegetatie nexus bepaalt wat voor dranken je kunt maken.</text><nl/>
+	<text> Met een hogere Vegetatie nexus kun je betere dranken maken</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Let op: Als je een nexus verkregen hebt door een punt</text><nl/>
+	<text> te besteden bij de Wraith, duurt het ongeveer een</text><nl/>
+	<text> minuut om op te laden (positief voedsel niveau nodig).</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Nx_Inorganic">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  Nexus</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>            Inorganisch Nexus</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> De Inorganisch nexus bepaalt wat voor mineralen en ertsen</text><nl/>
+	<text> je kunt mijnen.</text><nl/>
+	<text> Met een hogere Inorganisch nexus kun je betere</text><nl/>
+	<text> grondstoffen mijnen.</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Let op: Als je een nexus verkregen hebt door een punt</text><nl/>
+	<text> te besteden bij de Wraith, duurt het ongeveer een</text><nl/>
+	<text> minuut om op te laden (positief voedsel niveau nodig).</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Nx_Artificial">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  Nexus</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>            Kunstmatig Nexus</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> De Kunstmatig nexus bepaalt wat voor harnassen en wapens</text><nl/>
+	<text> je kunt maken.</text><nl/>
+	<text> Met een hogere Inorganisch nexus kun je betere items maken</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Let op: Als je een nexus verkregen hebt door een punt</text><nl/>
+	<text> te besteden bij de Wraith, duurt het ongeveer een</text><nl/>
+	<text> minuut om op te laden (positief voedsel niveau nodig).</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Nx_Magic">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  Nexus</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Magie Nexus</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> De Magie nexus bepaalt wat voor magische items (ringen,</text><nl/>
+	<text> medaillons, etc.) je kunt maken.</text><nl/>
+	<text> Met een hogere Magie nexus kun je betere items maken.</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Let op: Als je een nexus verkregen hebt door een punt</text><nl/>
+	<text> te besteden bij de Wraith, duurt het ongeveer een</text><nl/>
+	<text> minuut om op te laden (positief voedsel niveau nodig).</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Sk_Attack">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                Vaardigheden</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Aanvallen</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Aanvallen wordt gebruikt om te bepalen wat de kans is</text><nl/>
+	<text> dat je je tegenstander succesvol raakt in een gevecht.</text>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Sk_Defense">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                Vaardigheden</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Verdedigen</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Verdedigen wordt gebruikt om te bepalen wat de kans is</text><nl/>
+	<text> dat je je tegenstander succesvol ontwijkt in een gevecht.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Sk_Harvesting">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                Vaardigheden</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Oogsten</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Oogsten wordt gebruikt om te bepalen hoe succesvol je</text><nl/>
+	<text> bent in het oogsten.</text><nl/>
+	<text> Met een hoger Oogsten level faal je minder vaak en oogst</text><nl/>
+	<text> je sneller (tot de maximum snelheid voor het oogstbare</text><nl/>
+	<text> item).</text><nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Sk_Alchemy">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                Vaardigheden</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Alchemie</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Alchemie wordt gebruikt om te bepalen hoe succesvol je</text><nl/>
+	<text> bent in het maken van essenties en baren.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Sk_Magic">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                Vaardigheden</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Magic</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Magie wordt gebruikt voor spreuken. Met een hoger Magie</text><nl/>
+	<text> level kun je betere spreuken gebruiken.</text><nl/>
+	<nl/>
+	<nl/>
+	<text> Let op: Magie is de enige Vaardigheid met vereiste levels.</text><nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Sk_Potion">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                Vaardigheden</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Dranken</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Dranken wordt gebruikt om te bepalen hoe succesvol je</text><nl/>
+	<text> bent in het maken van dranken.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Sk_Summoning">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                Vaardigheden</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Oproepen</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Oproepen wordt gebruikt om te bepalen hoe succesvol je</text><nl/>
+	<text> bent in het oproepen van beesten.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Sk_Manufacture">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                Vaardigheden</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Produceren</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Produceren wordt gebruikt om te bepalen hoe succesvol je</text><nl/>
+	<text> bent in het maken van kleding, wapens en harnassen.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Sk_Crafting">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                Vaardigheden</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Bewerken</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Bewerken wordt gebruikt om te bepalen hoe succesvol je</text><nl/>
+	<text> bent in het maken van juwelen.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Sk_Engineering">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                Vaardigheden</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Engineering</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Engineering wordt gebruikt om te bepalen hoe succesvol je</text><nl/>
+	<text> bent in het maken van spijkers, landmijnen en</text><nl/>
+	<text> andere apparaten.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Sk_Tailoring">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                Vaardigheden</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Kleermaken</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Tailoring wordt gebruikt om te bepalen hoe succesvol je</text><nl/>
+	<text> bent in het maken van textiel, kleurstof en kleding.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Sk_Ranging">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                Vaardigheden</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Boogschieten</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Boogschieten wordt gebruikt om te bepalen hoe succesvol je</text><nl/>
+	<text> bent in het raken van tegenstanders met pijl en boog.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                     </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+<Page name="Sk_Overall">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Attributes" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                Vaardigheden</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Algemeen</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<size>Medium</size>
+	<text> Je algemeen level is de som van ervaring van</text><nl/>
+	<text> al je vaardigheden.</text><nl/>
+	<nl/>
+	<color r="1" g="1" b="1"/>
+	<text> Algemeen is zelf geen Vaardigheid.</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Het wordt gebruikt om je keuzepunten te geven, waarmee je</text><nl/>
+	<text> attributen, nexus en perks kunt krijgen.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Attributes" title="Terug naar Attributen"/>
+</Page>
+</Attributes>

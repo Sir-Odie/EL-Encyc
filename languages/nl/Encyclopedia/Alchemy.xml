@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Alchemy>
+<Page name="Fire Essence">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Vuur Essentie</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="0" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Harnassen, Wapens en Bewerken.</text><nlkx/>
+	<text> Gebruikt voor Spreuken: Kou Schild</text><nlkx/>
+	<text> Gebruikt voor: Oproepen en het maken van flessen.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zwavel, 1 Rode Roos, 1 Rode Leeuwebek.</text><nl/>
+	<text> Geadviseerd Alchemie Level: 1</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 6</text><nl/>
+	<text> Voedsel Kosten: 1</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Water Essence">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Water Essentie</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="1" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Bewerken en Spreuken:</text><nlkx/>
+	<text> Hitte Schild</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Blauwe Lupine, 1 Blauwe Ster, 1 Saffier, 1 Blauwe Kwarts</text><nl/>
+	<text> Geadviseerd Alchemie Level: 2</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 10</text><nl/>
+	<text> Voedsel Kosten: 1</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Earth Essence">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Aarde Essentie</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="2" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Materie Conglomeraat.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zwavel, 2 Kolen, 1 Moeraskaars.</text><nl/>
+	<text> Geadviseerd Alchemie Level: 4</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 20</text><nl/>
+	<text> Voedsel Kosten: 2</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Air Essence">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Lucht Essentie</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="3" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Produceren van Bijlen en Spreuken:</text><nlkx/>
+	<text> Verminder Mana, Onzichtbaarheid</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zilver Erts, 1 Ruwe Diamant, 1 Witte Aziatische Lelie.</text><nl/>
+	<text> Geadviseerd Alchemie Level: 6</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 25</text><nl/>
+	<text> Voedsel Kosten: 3</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Spirit Essence">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Geest Essentie</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="4" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor Spreuken: Waar Zicht,</text><nlkx/>
+	<text> Teleporteer naar (Bereik/Portaal Kamer/Intercont.),</text><nlkx/>
+	<text> Genees Opgeroepene, Neerslaan Opgeroepene</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Kwik, 1 Zilver Erts, 1 Goud Erts.</text><nl/>
+	<text> Geadviseerd Alchemie Level: 8</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 35</text><nl/>
+	<text> Voedsel Kosten: 4</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Matter Essence">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Materie Essentie</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="5" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Oproepen en veel Spreuken.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 IJzer Erts, 1 Kwarts, 1 Rode Kwarts, 1 Blauwe Kwarts.</text><nl/>
+	<text> Geadviseerd Alchemie Level: 10</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 40</text><nl/>
+	<text> Voedsel Kosten: 5</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Energy Essence">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Energie Essentie</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="6" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Bewerken en veel Spreuken.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 IJzer Erts, 1 Zilver Erts, 1 Tijger Lelie.</text><nl/>
+	<text> Geadviseerd Alchemie Level: 12</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 45</text><nl/>
+	<text> Voedsel Kosten: 6</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Life Essence">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Leven Essentie</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="7" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Oproepen en Spreuken:</text><nlkx/>
+	<text> Verminder Leven, Genees Opgeroepene.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Zilver Erts, 2 Zonnebloem.</text><nl/>
+	<text> Kennis Vereist: Leven Essentie</text><nl/>
+	<text> Geadviseerd Alchemie Level: 14</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 50</text><nl/>
+	<text> Voedsel Kosten: 7</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Death Essence">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Dood Essentie</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="8" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor Spreuken: Vergiftigen, Verwonden,</text><nlkx/>
+	<text> Neerslaan Opgeroepene.</text><nlkx/>
+	<text> Ook gebruikt voor: Bewerken en Oproepen</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Kwik, 1 Kwarts, 1 Cactus.</text><nl/>
+	<text> Kennis Vereist: Dood Essentie</text><nl/>
+	<text> Geadviseerd Alchemie Level: 16</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 60</text><nl/>
+	<text> Voedsel Kosten: 8</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Health Essence">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>            Gezondheid Essentie</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="9" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor Spreuken: Genezen, Genezen op Afstand,</text><nlkx/>
+	<text> Verwonden, Herstellen, Genees Opgeroepene.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 2 Zilver Erts, 1 Chrysant.</text><nl/>
+	<text> Kennis Vereist: Gezondheid Essentie</text><nl/>
+	<text> Geadviseerd Alchemie Level: 18</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 70</text><nl/>
+	<text> Voedsel Kosten: 8</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Magic Essence">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Magie Essentie</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="10" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor Bewerken en Spreuken:</text><nlkx/>
+	<text> Straling Schild, Waar Zicht, Magie Bescherming,</text><nlkx/>
+	<text> Magie Immuniteit, Genezen op Afstand.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Smaragd, 1 Springzaad, 1 Sering.</text><nl/>
+	<text> Kennis Vereist: Magie Essentie</text><nl/>
+	<text> Geadviseerd Alchemie Level: 20</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 80</text><nl/>
+	<text> Voedsel Kosten: 10</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Iron Bar">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               IJzeren Baar</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="17" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Harnassen en Wapens.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 7 IJzer Erts, 3 Kolen, 2 Vuur Essenties.</text><nl/>
+	<text> Kennis Vereist: IJzer Smelten</text><nl/>
+	<text> Geadviseerd Alchemie Level: 22</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 120</text><nl/>
+	<text> Voedsel Kosten: 11</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Steel Bar">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Stalen Baar</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="18" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Harnassen en Wapens.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 8 IJzer Erts, 5 Kolen, 3 Vuur Essenties.</text><nl/>
+	<text> Kennis Vereist: Staal Smelten</text><nl/>
+	<text> Geadviseerd Alchemie Level: 24</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 140</text><nl/>
+	<text> Voedsel Kosten: 12</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Silver Bar">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Zilver Baar</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="15" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Bewerken.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 8 Zilver Erts, 3 Kolen, 4 Vuur Essenties.</text><nl/>
+	<text> Kennis Vereist: Zilver Smelten</text><nl/>
+	<text> Geadviseerd Alchemie Level: 26</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 155</text><nl/>
+	<text> Voedsel Kosten: 13</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Gold Bar">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Goud Baar</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="16" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Bewerken.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 8 Goud Erts, 3 Kolen, 5 Vuur Essenties.</text><nl/>
+	<text> Kennis Vereist: Goud Smelten</text><nl/>
+	<text> Geadviseerd Alchemie Level: 28</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 170</text><nl/>
+	<text> Voedsel Kosten: 14</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Titanium Bar">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Titanium Baar</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="19" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Harnassen en Wapens.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 8 Titanium Erts, 3 Kolen, 7 Vuur Essenties.</text><nl/>
+	<text> Kennis Vereist: Titanium Smelten</text><nl/>
+	<text> Geadviseerd Alchemie Level: 30</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 180</text><nl/>
+	<text> Voedsel Kosten: 15</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Copper Bar">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Koper Baar</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="1" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Bronzen Baar.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 10 Koper Erts, 10 Kolen, 20 Vuur Essenties.</text><nl/>
+	<text> Kennis Vereist: Koper Smelten</text><nl/>
+	<text> Geadviseerd Alchemie Level: 34</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 800</text><nl/>
+	<text> Voedsel Kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 15 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Dvarium Bar">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Dvarium Baar</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="16" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Radioactieve wapens</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 15 Dvarium Erts, 1 Serpent Steen, 8 Kolen,</text><nl/>
+	<text> 30 Vuur Essenties.</text><nl/>
+	<text> Kennis Vereist: Dvarium Smelten</text><nl/>
+	<text> Geadviseerd Alchemie Level: 70</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 2000</text><nl/>
+	<text> Voedsel Kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 10 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Hydrogenium Bar">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Waterstof Baar</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="8" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Geavanceerde Harnassen.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 10 Waterstof Erts, 4 Kolen, 10 Vuur Essenties.</text><nl/>
+	<text> Kennis Vereist: Waterstof Smelten</text><nl/>
+	<text> Geadviseerd Alchemie Level: 50</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 1000</text><nl/>
+	<text> Voedsel Kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/><nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Seridium Bar">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Seridium Baar</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="11" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Bewerken</text><nlkx/>
+	<text> </text><nlkx/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 6 Seridium Erts, 10 Kolen, 20 Vuur Essenties.</text><nl/>
+	<text> Kennis Vereist: Seridium Smelten</text><nl/>
+	<text> Geadviseerd Alchemie Level: 52</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 800</text><nl/>
+	<text> Voedsel Kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 15 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Irilium Bar">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Irilium Baar</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="13" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Onze wetenschappers zijn dit Erts nog aan het</text><nlkx/>
+	<text> onderzoeken, dus weten we nog niet waar het voor</text><nlkx/>
+	<text> kan worden gebruikt.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> Onbekend op dit moment</text><nl/>
+	<text> Kennis Vereist: Onbekend</text><nl/>
+	<text> Geadviseerd Alchemie Level: Onbekend</text><nl/>
+	<text> Alchemie Ervaring Gegeven: Onbekend</text><nl/>
+	<text> Voedsel Kosten: Onbekend</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: Onbekend EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Tin Bar">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Tin Baar</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="3" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Bronzen Baar.</text><nlkx/>
+	<text> </text><nlkx/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 6 Tin Erts, 10 Kolen, 20 Vuur Essenties.</text><nl/>
+	<text> Kennis Vereist: Tin Smelten</text><nl/>
+	<text> Geadviseerd Alchemie Level: 32</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 600</text><nl/>
+	<text> Voedsel Kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 15 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Wolfram Bar">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Wolfram Baar</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="6" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Geavanceerde Wapens.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 10 Wolframiet, 1 Serpent Steen, 30 Vuur Essenties.</text><nl/>
+	<text> Kennis Vereist: Wolframiet Smelten</text><nl/>
+	<text> Geadviseerd Alchemie Level: 60</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 1500</text><nl/>
+	<text> Voedsel Kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 30 EMU</text><nl/>
+	<nl/><nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Bronze Bar">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Bronzen Baar</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="4" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Bronzen Harnassen.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Koper Baar, 1 Tin Baar, 30 Vuur Essenties.</text><nl/>
+	<text> Geadviseerd Alchemie Level: 36</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 800</text><nl/>
+	<text> Voedsel Kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 20 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Enriched Fire Essence">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>          Verrijkte Vuur Essentie</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="10" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Geavanceerde Harnassen en Wapens.</text><nlkx/>
+	<text> Deze Essentie kan ook per toeval gemaakt worden</text><nlkx/>
+	<text> bij het maken van normale Vuur Essenties.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Verrijkings Steen, 100 Vuur Essentie</text><nl/>
+	<text> Geadviseerd Alchemie Level: 56</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 700</text><nl/>
+	<text> Voedsel Kosten: 30</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Enriched Life Essence">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>         Verrijkte Leven Essentie</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="16" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Geavanceerd Bewerken en Oproepen.</text><nlkx/>
+	<text> Deze Essentie kan ook per toeval gemaakt worden</text><nlkx/>
+	<text> bij het maken van normale Leven Essenties.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Verrijkings Steen, 100 Leven Essentie</text><nl/>
+	<text> Geadviseerd Alchemie Level: 48</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 500</text><nl/>
+	<text> Voedsel Kosten: 30</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Enriched Magic Essence">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>         Verrijkte Magie Essentie</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="9" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Geavanceerd Bewerken,Oproepen,Wapens.</text><nlkx/>
+	<text> Deze Essentie kan ook per toeval gemaakt worden</text><nlkx/>
+	<text> bij het maken van normale Magie Essenties.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Materialen:</text><nl/>
+	<text> 1 Verrijkings Steen, 100 Magie Essenties.</text><nl/>
+	<text> Geadviseerd Alchemie Level: 54</text><nl/>
+	<text> Alchemie Ervaring Gegeven: 600</text><nl/>
+	<text> Voedsel Kosten: 30</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Enriched Water Essence">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>         Verrijkte Water Essentie</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="11" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Geavanceerd Oproepen en Wapens.</text><nlkx/>
+	<text> Deze Essentie kan per toeval gemaakt worden</text><nlkx/>
+	<text> bij het maken van normale Water Essenties.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> </text><nl/>
+	<text> Dit item kan niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+<Page name="Enriched Death Essence">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Alchemy" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ALCHEMIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>          Verrijkte Dood Essentie</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="14" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Geavanceerd Oproepen.</text><nlkx/>
+	<text> Deze Essentie kan per toeval gemaakt worden</text><nlkx/>
+	<text> bij het maken van normale Dood Essenties.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> </text><nl/>
+	<text> Dit item kan niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Alchemy" title="Terug Naar Alchemie Index"/>
+</Page>
+</Alchemy>

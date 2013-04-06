@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+<Page name="newskills">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>             Eternal Lands Help</text><nl/>
+   <text>                   Skills</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <size>Big</size>
+   <text>             Basic skills guides</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>         </text><link ref="fight" title="Fighting"/><text>         </text>
+   <link ref="manu" title="Manufacturing"/>
+   <nl/><nl/>
+   <text>         </text><link ref="harv" title="Harvesting"/><text>       </text>
+   <link ref="pots" title="Potioning"/>
+   <nl/><nl/>
+   <text>         </text><link ref="alch" title="Alchemy"/><text>          </text>
+   <link ref="summ" title="Summoning"/>
+   <nl/><nl/>
+   <text>         </text><link ref="magc" title="Magic"/><text>            </text>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <size>Big</size>
+   <text>           Advanced skills guides</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>         </text><link ref="crft" title="Crafting"/><text>         </text>
+   <link ref="tail" title="Tailoring"/>
+   <nl/><nl/>
+   <text>         </text><link ref="engn" title="Engineering"/><text>       </text>
+   <link ref="rang" title="Ranging"/>
+   <nl/>
+</Page>
+
+<Page name="fight">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                   Skills</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Fighting:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> The</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> fighting skills are attack and defense. To start</text><nl/>
+   <text> raising these skills, you must fight a lot. You can fight</text><nl/>
+   <text> with animals like rabbits, beavers, rats, deer and such,</text><nl/>
+   <text> and later monsters like goblins, skeletons, etc. Another</text><nl/>
+   <text> option is going onto special PK (player killing) maps</text><nl/>
+   <text> and fighting other players.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Beginners</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> should try to fight some of the weaker</text><nl/>
+   <text> creatures in this game such as rabbits, rats, and</text><nl/>
+   <text> beavers.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> While</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> fighting you get injured or sometimes killed. To</text><nl/>
+   <text> regain health, make sure that your food level (the yellow</text><nl/>
+   <text> bar) is positive. To do this you must eat. You can eat</text><nl/>
+   <text> bread, fruits and veggies, and cooked meat. You can buy</text><nl/>
+   <text> your food at the taverns, find it in bags on the ground</text><nl/>
+   <text> on Isla Prima, or harvest the veggies yourself. You can</text><nl/>
+   <text> eat it by clicking on the pointing finger icon at the</text><nl/>
+   <text> bottom and then click on the food.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> To</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> heal during your first levels, you can go back on</text><nl/>
+   <text> Isla Prima and talk to the Tutorial NPC.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> To</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> heal even faster, you can buy or make healing potions</text><nl/>
+   <text> and drink them. Another option is to cast healing spells</text><nl/>
+   <text> on yourself.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> When</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> you are dead, you respawn near the campfire on Isla</text><nl/>
+   <text> Prima. When your levels are a little higher, you are sent</text><nl/>
+   <text> to the underworld. To leave the underworld, go north</text><nl/>
+   <text> until you see large steps with candles on each side</text><nl/>
+   <text> leading to a red glowing portal. Walk up close and click</text><nl/>
+   <text> on the arch above it to exit.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> You</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> will lose some of your items when you die. This is</text><nl/>
+   <text> normal, it happens to everyone! They will be dropped in a</text><nl/>
+   <text> little tan bag in the spot where you died. Most people do</text><nl/>
+   <text> not get their items back, this is legal and normal.</text><nl/>
+   <text> Anything in a bag on the ground is fair game for others,</text><nl/>
+   <text> no matter why it was dropped.</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+<Page name="harv">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                   Skills</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Harvesting:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> Harvesting</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> is used to get resources like flowers, ore,</text><nl/>
+   <text> gems, food and such. To start this skill, simply find a</text><nl/>
+   <text> flower and click on it and wait. You'll see a message:</text><nl/>
+   <text> "You started to harvest xxx" where xxx is the name of the</text><nl/>
+   <text> flower you clicked on. Open your inventory with a click</text><nl/>
+   <text> on the bag icon or press CTRL-i and you should see that</text><nl/>
+   <text> you get more and more flowers.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> You</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> will get harvesting xp for 120 harvests maximum per</text><nl/>
+   <text> in-game hour (to see what time it is in-game, click on</text><nl/>
+   <text> the clock on the right of your screen). A red message</text><nl/>
+   <text> tells you when you have reached this limit. You can, of</text><nl/>
+   <text> course, continue harvesting to get items, but you won't</text><nl/>
+   <text> get any harvesting xp for those.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> While</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> harvesting different kinds of flowers, you may find</text><nl/>
+   <text> out that you get a different amount of harvesting xp for</text><nl/>
+   <text> each flower type. Hard-to-get items give more xp than</text><nl/>
+   <text> items that are easy to get. For beginners, it's vegetables</text><nl/>
+   <text> to harvest. They will take longer than flowers, but</text><nl/>
+   <text> vegetables give the best harvesting xp. An extra</text><nl/>
+   <text> benefit to harvesting vegetables is that they are food.</text><nl/>
+   <text> No need to buy it anymore. And, vegetables are a source</text><nl/>
+   <text> of money because you can sell them in taverns.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> There</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> are also harvesting events which may occur from</text><nl/>
+   <text> time to time: some effect you negatively, some</text><nl/>
+   <text> positively. For example, you can get stung by a bee</text><nl/>
+   <text> (losing health), the Queen of Nature blesses you with</text><nl/>
+   <text> extra harvesting xp, or you find a bag with a few gold</text><nl/>
+   <text> coins. These events stop the autoharvester. You must</text><nl/>
+   <text> start harvesting again by clicking on the resource you</text><nl/>
+   <text> want to harvest.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> To</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> stop harvesting, click again on the resource you are</text><nl/>
+   <text> harvesting or simply walk away.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+<Page name="manu">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                   Skills</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Manufacturing:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> To</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> start making items, you need a needle, thread, and</text><nl/>
+   <text> furs. While hunting rabbits, keep the furs and sell only</text><nl/>
+   <text> the meat. Then go to a General Store, Lakeside has one</text><nl/>
+   <text> for example, and buy some thread and one needle.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Lakeside</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> is the village at the docks on White Stone map.</text><nl/>
+   <text> To go there from Isla Prima, go south to the docks and</text><nl/>
+   <text> click on the flag on the ship. Press TAB key to see a</text><nl/>
+   <text> map. General Stores are the green dots on it.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Make</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> sure you have food in your inventory. You can't</text><nl/>
+   <text> manufacture when you are hungry (yellow bar below 0) so</text><nl/>
+   <text> keep your food level positive.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> first thing to make is warm fur gloves. You need 3</text><nl/>
+   <text> brown rabbit furs and 2 thread. Make sure that you have</text><nl/>
+   <text> the needle in your inventory too. Open the manufacturing</text><nl/>
+   <text> window by clicking on the "hammer and anvil" icon on the</text><nl/>
+   <text> bottom. Then click 3 times on the rabbit furs, 2 times on</text><nl/>
+   <text> the thread. Now click the "Mix" button and wait. And,</text><nl/>
+   <text> hopefully, you have made your first pair of fur gloves.</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> **Note**:</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> You will sometimes fail to make an item. This</text><nl/>
+   <text> is normal. Just try again. Now make as many fur gloves as</text><nl/>
+   <text> you can get rabbit furs until your manufacture level is</text><nl/>
+   <text> up to 4 or 5. You can sell the gloves to any General</text><nl/>
+   <text> Store to make some money.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Now</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> it's time to make yourself a fur hat. Go on the</text><nl/>
+   <text> White Stone map and try to kill a white rabbit. Tirnwood</text><nl/>
+   <text> Vale (click Tab to see where that is) is good place to</text><nl/>
+   <text> find white rabbits. You will also need to get 3 beaver</text><nl/>
+   <text> furs, you can find beavers on Isla Prima. Then all you</text><nl/>
+   <text> need to do is buy 3 threads and you have the ingredients</text><nl/>
+   <text> for "teh one hat".</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> To</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> make the hat, be sure that you have the needle in your</text><nl/>
+   <text> inventory, then open the manufacturing window(hammer and</text><nl/>
+   <text> anvil icon) and click 3 times on the beaver furs, 3 times</text><nl/>
+   <text> on the thread and 1 time on the white rabbit fur. Then</text><nl/>
+   <text> click "Mix" button, wait, and pray that you have now made</text><nl/>
+   <text> a fur hat.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> When</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> you can make fur hats easily, try to get some wolf</text><nl/>
+   <text> and fox furs. Ask players who are training(fighting) on</text><nl/>
+   <text> foxes or wolves if they can sell you a few furs. Of course</text><nl/>
+   <text> you can try to kill some wolves and foxes yourself, but</text><nl/>
+   <text> they are much harder to kill than rabbits or rats, so</text><nl/>
+   <text> instead of committing suicide, better ask other players</text><nl/>
+   <text> for furs.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> You</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> need 3 wolf furs, 2 fox furs, and 5 thread to make a</text><nl/>
+   <text> fur cloak. Don't forget you need your needle and food in</text><nl/>
+   <text> your inventory as well. Follow the same procedure as</text><nl/>
+   <text> above to start to make the cloak.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> And</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> now you have a set of fur clothes: gloves, hat, and</text><nl/>
+   <text> cloak.</text><nl/>
+   <text> Now you can wear them. Congratulations!</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> next useful things to make are leather gloves. You</text><nl/>
+   <text> need 4 leather and 4 thread. Leather can be bought at</text><nl/>
+   <text> General Stores. Have your needle in your inventory and</text><nl/>
+   <text> eat some food, open the manufacture window, click 4 times</text><nl/>
+   <text> on leather, 4 times on thread and then the "Mix" button.</text><nl/>
+   <text> Expect to fail and even lose the ingredients. After a</text><nl/>
+   <text> few tries, you should now have a leather glove, which is</text><nl/>
+   <text> very useful. Leather gloves are needed to harvest sulphur,</text><nl/>
+   <text> pick cactus, and you can even use it as a weapon!</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+<Page name="alch">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                   Skills</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Alchemy:</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Alchemy</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> is the art of making essences and metal bars, so</text><nl/>
+   <text> let's make fire essences to start out with: they are easy</text><nl/>
+   <text> to make and you can sell them to magic shops or players</text><nl/>
+   <text> to make money.</text><nl/>
+   <text> Fire essences are used for metal smelting, to make metal</text><nl/>
+   <text> bars and other metal stuff.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> You</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> will need sulphur, red roses, and red snapdragons to</text><nl/>
+   <text> make fire essence. Both flowers can be found on the Valley</text><nl/>
+   <text> of the Dwarves map, on the western side of the river (you</text><nl/>
+   <text> might have to search for them a bit). To go to the Valley</text><nl/>
+   <text> of the Dwarves from Isla Prima, go south to the docks and</text><nl/>
+   <text> click on the ship's flag. Now you are at the Lakeside</text><nl/>
+   <text> docks. Go to the second ship, click on the flag (it has</text><nl/>
+   <text> a deer on it) and you are at the docks of Desert Pines.</text><nl/>
+   <text> The second ship (it has a bear on the flag) brings you</text><nl/>
+   <text> to the Valley of the Dwarves. Harvest the flowers and</text><nl/>
+   <text> store them at Molgor, the storage in the town.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Sulphur</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> can be found in Crystal Caves, which is located in</text><nl/>
+   <text> the middle of the Desert Pines map. To go there from the</text><nl/>
+   <text> Valley of the Dwarves, go back to the docks and click on</text><nl/>
+   <text> the flag with the deer on it. The cave is located in the</text><nl/>
+   <text> mountains in the middle of the map. To harvest sulphur,</text><nl/>
+   <text> you must wear leather gloves. Read the manufacture</text><nl/>
+   <text> walkthrough to learn how to make some, or you can buy</text><nl/>
+   <text> them from the White Stone City blacksmith (purple dot),</text><nl/>
+   <text> or buy them from other players. Once you find and harvest</text><nl/>
+   <text> the sulphur, you can store it at the Desert Pines storage</text><nl/>
+   <text> npc named Grim (he is inside a little cave).</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Now</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> that you have stored the flowers and sulphur, get some</text><nl/>
+   <text> food to have in your inventory. Go back to Grim and</text><nl/>
+   <text> withdraw 10 red roses, 10 red snapdragons and 10 sulphur.</text><nl/>
+   <text> Make sure that you're not hungry because you can't make</text><nl/>
+   <text> essences when your food level is not positive. Open the</text><nl/>
+   <text> manufacturing window (hammer and anvil icon at the</text><nl/>
+   <text> bottom) and click on one rose, one snapdragon and one</text><nl/>
+   <text> sulphur. Then click the "Mix" button and wait. And</text><nl/>
+   <text> hopefully you'll have made your first fire essence. It's</text><nl/>
+   <text> possible to fail: if that happens just try again.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Now</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> make some more fire essences. When you are done,</text><nl/>
+   <text> search for the magic shops in Grahm's Village (west of the</text><nl/>
+   <text> tavern) or in White Stone City on the White Stone/Lakeside</text><nl/>
+   <text> map. Enter and sell them and you now know how to make</text><nl/>
+   <text> easy money.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Now</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> start to make tons of fire essences. Watch your</text><nl/>
+   <text> inventory very carefully. If there is suddenly a second</text><nl/>
+   <text> box with a fire essence, that does not mean that the first</text><nl/>
+   <text> box is full. Check both essences with the "eye" cursor</text><nl/>
+   <text> (click on the "eye" icon at the bottom) to find out what</text><nl/>
+   <text> they are. One of them is an enriched fire essence and can</text><nl/>
+   <text> be sold to players for BIG amount of money. There is a</text><nl/>
+   <text> very small chance to make an enriched essence, so if you</text><nl/>
+   <text> get one, you are really, really lucky!</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+<Page name="magc">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                   Skills</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Magic:</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Magic</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> is the art of casting spells. To do so, you need</text><nl/>
+   <text> sigils and essences. You can buy sigils in magic shops on</text><nl/>
+   <text> the White Stone map. Once you have bought a sigil, it</text><nl/>
+   <text> shows up in your magic window (click on the icon with the</text><nl/>
+   <text> magic wand), not in your inventory, and stays forever.</text><nl/>
+   <text> Essences can be bought at magic shops too, but they are</text><nl/>
+   <text> single use. You can also make your own essences using</text><nl/>
+   <text> alchemy or buy them from other players.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> To</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> start with magic, go to the magic shop in Grahm's</text><nl/>
+   <text> Village and buy the "Health" sigil. Then find the magic</text><nl/>
+   <text> shop in White Stone City and get the "Increase" sigil.</text><nl/>
+   <text> There you should buy a few health essences too. And now</text><nl/>
+   <text> you are ready to cast heal spells. So fight some animals</text><nl/>
+   <text> to get injured and heal yourself!</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Now</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> click on the icon with the magic wand at the bottom</text><nl/>
+   <text> and you should see the 2 sigils. First click on the</text><nl/>
+   <text> Increase sigil, then on the Health sigil. Make sure that</text><nl/>
+   <text> you have the health essences in your inventory, then</text><nl/>
+   <text> click the "Cast" button. If you don't fail, you should</text><nl/>
+   <text> have recovered 10 material points now (red bar). And you</text><nl/>
+   <text> lost 5 ethereal points (blue bar). Each spell uses a</text><nl/>
+   <text> certain amount of ethereal points (also known as "mana").</text><nl/>
+   <text> When your ethereal points are less than 5, you can't</text><nl/>
+   <text> cast the heal spell, you must wait, until you have</text><nl/>
+   <text> regenerated more ethereal points. Also regenerating</text><nl/>
+   <text> ethereal points needs a positive food level.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> You</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> can also drink mana potions or potions of spirit</text><nl/>
+   <text> restoration to regain Ethereal points. Mira, the potion</text><nl/>
+   <text> seller in the market place in White Stone City, sells</text><nl/>
+   <text> them, or you can buy them from other players who can make</text><nl/>
+   <text> them. To train magic, just go and buy the cheap mana</text><nl/>
+   <text> potions, cast spells, then drink the potions when your</text><nl/>
+   <text> mana points are too low to cast any more spells. That's a</text><nl/>
+   <text> nice way to train magic. And make sure to keep your</text><nl/>
+   <text> empty vials, you will need them later!</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+<Page name="pots">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                   Skills</text><nl/>
+   
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <size>Big</size>
+   <text> Potions</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Lets</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> start with making healing potions. When you drink</text><nl/>
+   <text> them, you regain 5 material points (red bar), so you can</text><nl/>
+   <text> use then when fighting creatures.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> To</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> make all potions, you need empty vials. The easiest</text><nl/>
+   <text> way to get some, is to buy them from Harvy, who is</text><nl/>
+   <text> located in the south of the Kamara Desert. They cost</text><nl/>
+   <text> 3 gold coins and 5 quartz.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Then</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> go back to Grahm's Village, to the western most</text><nl/>
+   <text> house with the vegetable patch in the garden. Near the</text><nl/>
+   <text> house are sunflowers, pick a few and pick some vegetables</text><nl/>
+   <text> as well. After that, buy some wine from the Tavern and</text><nl/>
+   <text> you are ready to make your own potions.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Make</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> sure that your food level is positive, then open the</text><nl/>
+   <text> manufacturing window by clicking on the hammer and anvil</text><nl/>
+   <text> icon at the bottom. Click once on a vial, wine and</text><nl/>
+   <text> sunflower. Click the "Mix" button and wait. If you don't</text><nl/>
+   <text> fail, you will have your first self-made healing potion.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+<Page name="summ">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                   Skills</text><nl/>
+   
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <size>Big</size>
+   <text> Summoning</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Summoning</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> lets you bring creatures to life in this world</text><nl/>
+   <text> for a limited time. They will follow you wherever you go</text><nl/>
+   <text> on the actual map until they die.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> First,</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> you need a dead rabbit. Just go and kill one. You</text><nl/>
+   <text> need 1 brown rabbit fur, 1 bone and 1 meat. Buy a life</text><nl/>
+   <text> essence in one of the magic shops, make sure that your</text><nl/>
+   <text> ethereal points are not 0 (blue bar) and that's it. Now</text><nl/>
+   <text> find a quiet place. Never summon at crowded places like</text><nl/>
+   <text> storages and beam/wraith.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Open</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> the manufacture window by clicking on the hammer and</text><nl/>
+   <text> anvil icon at the bottom. Click once on the brown rabbit</text><nl/>
+   <text> fur, the meat, the bone and the life essence. Now click</text><nl/>
+   <text> the "Mix" button and wait. If you don't fail, there is</text><nl/>
+   <text> now a rabbit hopping near you. Now walk away and it will</text><nl/>
+   <text> follow you.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+<Page name="crft">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                   Skills</text><nl/>
+   
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <size>Big</size>
+   <text> Crafting</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Crafting</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> is a more advanced skill, only started after a</text><nl/>
+   <text> fair level of expertise has been acquired in other skills.</text><nl/>
+   <text> You rely heavily on alchemy and research and harvesting</text><nl/>
+   <text> skill to work on crafting, and you will find you need a</text><nl/>
+   <text> lot of gold coins as well. Crafting is the art of making</text><nl/>
+   <text> magical jewelry such as the fighting medallions and rings,</text><nl/>
+   <text> and the teleporting rings. It is time consuming and</text><nl/>
+   <text> expensive, and requires a lot of research.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> To</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> start getting the first levels in crafting all you</text><nl/>
+   <text> need is an artificial nexus 1 (see Wraith). Go to Desert</text><nl/>
+   <text> Pines and look for some cotton in the Corren Village</text><nl/>
+   <text> area and harvest it.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Once</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> you have about 30 cotton open the manufacture</text><nl/>
+   <text> window by clicking on the hammer and anvil icon at</text><nl/>
+   <text> the bottom. Click 5 times on the cotton and then</text><nl/>
+   <text> click the "Mix" button and wait.</text><nl/>
+   <text> If you don't fail, you'll make 1 thread; if you need food</text><nl/>
+   <text> there are usually vegetables growing near the cotton.</text><nl/>
+   <text> Go on making thread to gain your first crafting levels,</text><nl/>
+   <text> and keep the thread for when you train manufacturing.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> To</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> start crafting jewels, you need a lot of knowledge.</text><nl/>
+   <text> Meaning you must read books first before you can start.</text><nl/>
+   <text> Go to Tarsengaard and enter the magic school. But beware</text><nl/>
+   <text> of the armored goblins on that map! You can enter</text><nl/>
+   <text> Tarsengaard both from The Valley of the Dwarves or from</text><nl/>
+   <text> the White Stone maps. Find Itilli in the registry room,</text><nl/>
+   <text> that's on the left hand side just after entering the</text><nl/>
+   <text> entrance hall. Buy from her the Generic Rings and Gold</text><nl/>
+   <text> Rings books and read them. Yes, you will start with</text><nl/>
+   <text> making simple gold rings.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> While</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> reading, make sure, that your artificial nexus is 1</text><nl/>
+   <text> (see Wraith). Then go and get some gold bars, make them</text><nl/>
+   <text> (alchemy) or buy them from other players. You will also</text><nl/>
+   <text> need some fire essences. Make them (alchemy) or buy them</text><nl/>
+   <text> from other players or magic shops on the White Stone map.</text><nl/>
+   <text> And last you need a ring mold. The magic shop in Portland</text><nl/>
+   <text> (yellow dot on map) sells it. There you can get some</text><nl/>
+   <text> other items needed for crafting too like gem sanders, gem</text><nl/>
+   <text> cutters and such.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> When</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> you are done reading both books, have the gold bars,</text><nl/>
+   <text> fire essences, and ring mold in your inventory, you are</text><nl/>
+   <text> ready to start. Don't forget to grab some food.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Now</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> open the manufacture window (the icon with the hammer</text><nl/>
+   <text> and anvil at the bottom), click 2 times on a gold bar, 3</text><nl/>
+   <text> times on a fire essence, and then click the "Mix"</text><nl/>
+   <text> button. Wait, and hopefully you will have made your first</text><nl/>
+   <text> gold ring. To make silver rings, go to Itilli and buy</text><nl/>
+   <text> the Silver Rings book and read it. And so forth. The gold</text><nl/>
+   <text> and silver rings you make now are ingredients in making</text><nl/>
+   <text> the magic rings we use such as teleport rings, damage</text><nl/>
+   <text> rings, and disengagement rings.</text><nl/>
+   <nl/>
+   <text> As</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> you now have found out, crafting is a very expensive</text><nl/>
+   <text> and time consuming skill normally started by the more</text><nl/>
+   <text> advanced players.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+<Page name="engn">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                   Skills</text><nl/>
+   
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <size>Big</size>
+   <text> Engineering</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Engineering</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> is an advanced skill, used to create several</text><nl/>
+   <text> devices like landmines and visors or making dangerous</text><nl/>
+   <text> substances.</text><nl/>
+   <text> If you are new to the game, it is advised that you level</text><nl/>
+   <text> up in other skills before you start this one. For most</text><nl/>
+   <text> of the items you'll need the support of quite high</text><nl/>
+   <text> skills and you'll also have to travel to a distant and</text><nl/>
+   <text> dangerous place in order to buy the expensive books</text><nl/>
+   <text> you'll need.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Start</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> engineering by making some ashes. All you need for</text><nl/>
+   <text> this are branches and fire essences.</text><nl/>
+   <text> You can find branches on the ground in the woods, for</text><nl/>
+   <text> example on Isla Prima or in the Evergreen Woods in Desert</text><nl/>
+   <text> Pines; fire essences can be made (alchemy) or you could</text><nl/>
+   <text> buy them from other players or magic shops on the White</text><nl/>
+   <text> Stone map. Once you have the branches and the essences,</text><nl/>
+   <text> you can start making ashes: open the manufacturing window</text><nl/>
+   <text> by clicking on the hammer and anvil icon, then to add the</text><nl/>
+   <text> ingredients click 3 times on the branches, once on a fire</text><nl/>
+   <text> essence, and then click the "Mix" button.</text><nl/>
+   <text> Wait, and hopefully you will have made ashes!</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Continue</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> making ashes to gain your first engineering</text><nl/>
+   <text> levels, and save them in your storage as they can be used</text><nl/>
+   <text> later on for making some more advanced items.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> If</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> you want to start making something else after ashes,</text><nl/>
+   <text> you'll need to read books. The bookseller you'll need to</text><nl/>
+   <text> find is Neculce, located in North Redmoon. North Redmoon</text><nl/>
+   <text> is a map on the continent of Irilion and deadly monsters</text><nl/>
+   <text> live there. The books you need to start off with are</text><nl/>
+   <text> "Book of Nails" and "Book of Rope" which will both cost</text><nl/>
+   <text> a total of 8k gold coins.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> After</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> reading the books, The next 2 items you can try to</text><nl/>
+   <text> make are ropes and nails. You'll need some thread for the</text><nl/>
+   <text> ropes and iron bars for the nails. You can make thread</text><nl/>
+   <text> (crafting), or buy it from players or general stores.</text><nl/>
+   <text> When you have the thread, open the manufacture window,</text><nl/>
+   <text> click 5 times on the thread and then click the "Mix"</text><nl/>
+   <text> button to make your first rope. Ropes can also be sold</text><nl/>
+   <text> to the general stores.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> For</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> making nails you need iron bars and a hammer. You can</text><nl/>
+   <text> make the bars yourself or buy them from players, and the</text><nl/>
+   <text> hammer is sold by the blacksmith in White Stone City.</text><nl/>
+   <text> Once you have the bars and the hammer (and some food)</text><nl/>
+   <text> open the manufacturing window, click 2 times on the iron</text><nl/>
+   <text> bars and then click the "Mix" button to make some nails.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+<Page name="tail">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                   Skills</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Tailoring:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> Tailoring</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> is a more advanced skill, only started after a</text><nl/>
+   <text> fair level of expertise has been acquired in other skills.</text><nl/>
+   <text> It requires a lot of gold coins and some knowledge of</text><nl/>
+   <text> Irilion (the second continent - C2).</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> first thing you'll need to start learning is how to</text><nl/>
+   <text> make White Fabric. This requires you to make a trip to</text><nl/>
+   <text> the Emerald Valley bookseller on Irilion where you can</text><nl/>
+   <text> purchase White Fabric Weaving for 5000 gold coins.</text><nl/>
+   <text> While you are reading this book you should find yourself</text><nl/>
+   <text> a nice place to harvest cotton and make yourself at least</text><nl/>
+   <text> 10 thread. Remember to keep your food level positive while</text><nl/>
+   <text> you are researching. Alternatively you can buy thread at</text><nl/>
+   <text> a local general store.</text><nl/>
+   <text> To make thread yourself refer to the Crafting tutorial.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> After</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> your book is finished and you have a good stock of</text><nl/>
+   <text> thread, head over to the tailor shop in either</text><nl/>
+   <text> Tarsengaard or Irinveron where you can buy a loom to</text><nl/>
+   <text> weave fabric. Make sure to bring enough gold since looms</text><nl/>
+   <text> cost 50 gold each and can only weave one fabric.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Now</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> that you've read the book, made or bought your thread,</text><nl/>
+   <text> and purchased a loom you can go ahead and mix 10 thread</text><nl/>
+   <text> and the loom together in your mix window and tailor your</text><nl/>
+   <text> very first White Fabric.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+
+<Page name="rang">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                   Skills</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Ranging:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> Ranging</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> is a simple skill to learn, a challenging skill</text><nl/>
+   <text> to master and an expensive skill to undertake.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> To</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> begin you will first need to equip yourself with a</text><nl/>
+   <text> bow and some arrows. Both can be purchased from the</text><nl/>
+   <text> Blacksmith in Morcraven Marsh. If you're a fairly new</text><nl/>
+   <text> player to Eternal Lands this trip can be quite dangerous</text><nl/>
+   <text> since Morcraven Marsh is home to a few nasties, such as</text><nl/>
+   <text> Skeletons, who would gladly turn a new player into a</text><nl/>
+   <text> pile of useless pulp. A Monster Magnetism cloak or perk</text><nl/>
+   <text> can protect you otherwise you might want to consider</text><nl/>
+   <text> sending a friend or making your purchase on the market</text><nl/>
+   <text> channel.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> The</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> cheapest of the bows, a short bow, will set you back</text><nl/>
+   <text> about 2000 gold coins and training arrows will cost you</text><nl/>
+   <text> 10 gold coins each. These arrows, fortunately, can also</text><nl/>
+   <text> be purchased at General Stores throughout Eternal Lands.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Once</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> you have both your bow and enough arrows to begin</text><nl/>
+   <text> your training you will need to equip both items in your</text><nl/>
+   <text> equipment slots located on the right side of your</text><nl/>
+   <text> inventory. When both are equipped properly then you will</text><nl/>
+   <text> see your bow being held in the hand of your character</text><nl/>
+   <text> with a quiver slung across your back.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> You</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> are now ready to begin your range training. For</text><nl/>
+   <text> starters it would be a good idea to find a nice weak</text><nl/>
+   <text> creature that you can kill quickly because if that</text><nl/>
+   <text> creature manages to engage you in hand-to-hand combat</text><nl/>
+   <text> before it dies you will run the risk of having your bow</text><nl/>
+   <text> break. Bows are designed for ranged combat, thus the name</text><nl/>
+   <text> Ranging for this skill, and at close quarters your bow is</text><nl/>
+   <text> about as useless as a plastic spoon against a dragon.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> When</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> you have found your quarry (a rabbit or something</text><nl/>
+   <text> similar would be a good idea for your first target), press</text><nl/>
+   <text> and hold your Alt key. This will allow you to "lock" onto</text><nl/>
+   <text> your target and prevent you from running around aimlessly</text><nl/>
+   <text> if you misclick in an attempt to kill your victim.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Now,</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> fire repeatedly by clicking your left mouse button</text><nl/>
+   <text> until your target is killed. Once dead you can count</text><nl/>
+   <text> yourself among the rank of EL archers.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+</skills>
+ 

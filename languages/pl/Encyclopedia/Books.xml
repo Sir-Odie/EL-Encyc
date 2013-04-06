@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+<Page name="Books_MS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>               Wytapianie Metali</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Metal Smelting                        50         300</text><nl/>
+   <text> Iron Smelting                        100         500</text><nl/>
+   <text> Silver Smelting                      500         500</text><nl/>
+   <text> Gold Smelting                        250        1000</text><nl/>
+   <text> Steel Smelting                      1000        1200</text><nl/>
+   <text> Titanium Smelting           *       3000        2000</text><nl/>
+   <text> Hydrogenium Smelting                7000        4000</text><nl/>
+   <text> Tin Smelting                       20000       20000</text><nl/>
+   <text> Wolframite Smelting                 6000        6000</text><nl/>
+   <text> Copper Smelting                    20000       20000</text><nl/>
+   <text> Seridium Smelting                  10000       15000</text><nl/>
+   <text> Dvarium Smelting                   20000       30000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_MM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                Kopanie Metali</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Metal Mining                         250         300</text><nl/>
+   <text> Iron Mining                          500        2000</text><nl/>
+   <text> Silver Mining                       2500        1000</text><nl/>
+   <text> Gold Mining                         1000        1400</text><nl/>
+   <text> Titanium Mining             *       7500        6000</text><nl/>
+   <text> Hydrogenium Mining                  5000        8000</text><nl/>
+   <text> Tin Mining                         20000       20000</text><nl/>
+   <text> Wolframite Mining                   6000        9000</text><nl/>
+   <text> Copper Mining                      20000       20000</text><nl/>
+   <text> Seridium Mining                    10000       15000</text><nl/>
+   <text> Dvarium Mining                     20000       20000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_MD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>  
+   <text>                Odlewanie Metali</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Metal Molding                        500         400</text><nl/>
+   <text> Iron Molding                        1000        1500</text><nl/>
+   <text> Silver Molding                      2000        1500</text><nl/>
+   <text> Gold Molding                        1500        1000</text><nl/>
+   <text> Steel Molding                       5000        2000</text><nl/>
+   <text> Titanium Molding            *      10000        7000</text><nl/>
+   <text> Hydrogenium Molding                 6000       10000</text><nl/>
+   <text> Tin Molding                        20000       20000</text><nl/>
+   <text> Wolframite Molding                  6000       11000</text><nl/>
+   <text> Copper Molding                     20000       20000</text><nl/>
+   <text> Seridium Molding                   10000       15000</text><nl/>
+   <text> Dvarium Molding                    20000       30000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_MO">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>  
+   <text>                   Pozostale</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Metallurgy                            30         250</text><nl/>
+   <text> Gypsum Harvesting                    300         500</text><nl/>
+   <text> Gypsum Molding                       300         500</text><nl/>
+   <text> Mercury Extraction                 10000       15000</text><nl/>
+   <text> Cinnabar Mining                    10000       15000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_WC">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>               Tworzenie Broni</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Weapon Construction                  100         700</text><nl/>
+   <text> Sword Construction                   200         900</text><nl/>
+   <text> Iron Sword                           400        2000</text><nl/>
+   <text> Iron Broad Sword                     500        3000</text><nl/>
+   <text> Steel Long Sword                    1000        4000</text><nl/>
+   <text> Two Edged Sword                     2000        5000</text><nl/>
+   <text> Titanium Short Sword        *       4000        6000</text><nl/>
+   <text> Titanium Long Sword         *      10000        7000</text><nl/>
+   <text> Titanium Serpent Sword      *      50000        8000</text><nl/>
+   <text> General Axe Construction    *      30000        4000</text><nl/>
+   <text> Iron Axe Construction       *      35000        3000</text><nl/>
+   <text> Steel Axe Construction      *      40000        4000</text><nl/>
+   <text> Titanium Axe Construction   *      55000       10000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_AC">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>               Tworzenie Zbroi</text><nl/>  
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> General Armor                        500        1000</text><nl/>
+   <text> Head Armor                           500        1600</text><nl/>
+   <text> Legs Armor                           500        1600</text><nl/>
+   <text> Torso Armor                         1000        1200</text><nl/>
+   <text> Feet Armor                           500        1400</text><nl/>
+   <text> Shield Construction                  500         600</text><nl/>
+   <text> Leather Helmet                       400         800</text><nl/>
+   <text> Padded Leather Torso                1000        1000</text><nl/>
+   <text> Padded Leather Pants                 500        1200</text><nl/>
+   <text> Iron Helmet                         1000        1400</text><nl/>
+   <text> Iron Shield                         1000        1400</text><nl/>
+   <text> Steel Shield                *       5000        1800</text><nl/>
+   <text> Iron Chainmail                      2500        2000</text><nl/>
+   <text> Steel Chainmail                     5000        2100</text><nl/>
+   <text> Titanium Chainmail          *      20000        4000</text><nl/>
+   <text> Iron Cuisses                        5000        1600</text><nl/>
+   <text> Iron Greaves                        8000         800</text><nl/>
+   <text> Iron Platemail                     20000        2400</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_BI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                  Biologia</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Biology                               50         400</text><nl/>
+   <text> Biochemestry                          75         500</text><nl/>
+   <text> Botanics                              75         400</text><nl/>
+   <text> Anatomy                              100         600</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_AL">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                  Alchemia</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Advanced Alchemy                     100         600</text><nl/>
+   <text> Life Essence                         500        1200</text><nl/>
+   <text> Death Essence                        200        1300</text><nl/>
+   <text> Health Essence                      1000        1400</text><nl/>
+   <text> Magic Essence                       2000         800</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_PO">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                  Mikstury</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Advanced Potions                     100         800</text><nl/>
+   <text> Potion of Physique          *        750         600</text><nl/>
+   <text> Potion of Coordination               250        1000</text><nl/>
+   <text> Potion of Wildness                   500         400</text><nl/>
+   <text> Potion of Will                       250         300</text><nl/>
+   <text> Potion of Vitality                   150         900</text><nl/>
+   <text> Potion of Feasting          *       2000        2000</text><nl/>
+   <text> Potion of Body Restoration          1000         900</text><nl/>
+   <text> Potion of Manufacturing     *       2500        2300</text><nl/>
+   <text> Potion of Summoning         *       5000        2600</text><nl/>
+   <text> Potion of Crafting          *       3000       21000</text><nl/>
+   <text> Potion of Magic             *       7500       25000</text><nl/>
+   <text> Potion of Alchemy                  30000       20000</text><nl/>
+   <text> Potion of Potion                   15000       15000</text><nl/>
+   <text> Potion of Engineering              20000       25000</text><nl/>
+   <text> Potion of Heat Protection          12000       10000</text><nl/>
+   <text> Potion of Cold Protection          12000       10000</text><nl/>
+   <text> Potion of Radiation Protection     12000       10000</text><nl/>
+   <text> Potion of Speed Hax                20000       30000</text><nl/>
+   <text> Potion of Attack Reduction         20000           ?</text><nl/>
+   <text> Potion of Defense Reduction        20000           ?</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_FO">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>          Jedzenie Zmiennoksztaltnych</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Book of Creature Food              20000       20000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_SM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                  Przywolanie</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Advanced Summoning                    50         800</text><nl/>
+   <text> Snakes Summoning                     100         400</text><nl/>
+   <text> Boar Summoning                       200         500</text><nl/>
+   <text> Wolf Summoning                       100         600</text><nl/>
+   <text> Skeleton Summoning                   500         700</text><nl/>
+   <text> Gargoyle Summoning          *       1000         800</text><nl/>
+   <text> Puma Summoning              *       2000         900</text><nl/>
+   <text> Polar Bear Summoning                 900         800</text><nl/>
+   <text> Female Goblin Summoning             1000        1000</text><nl/>
+   <text> Armed Male Goblin Summoning         1100        1100</text><nl/>
+   <text> Armed Skeleton Summoning            1200        1300</text><nl/>
+   <text> Female Orc Summoning                1300        1400</text><nl/>
+   <text> Male Orc Summoning                  1400        1500</text><nl/>
+   <text> Armed Female Orc Summoning          1500        1600</text><nl/>
+   <text> Armed Male Orc Summoning            1600        1700</text><nl/>
+   <text> Bear Summoning              *       5000        1000</text><nl/>
+   <text> Cyclops Summoning                   1700        1700</text><nl/>
+   <text> Fluffy Rabbit Summoning            10000       15000</text><nl/>
+   <text> Mountain Chimeran Summoning        20000       20000</text><nl/>
+   <text> Falcon Summoning                   20000       20000</text><nl/>
+   <text> Hawk Summoning                     20000       20000</text><nl/>
+   <text> Arctic Chimeran Summoning          15000       15000</text><nl/>
+   <text> Yeti Summoning                     20000       20000</text><nl/>
+   <text> Giant Summoning                    25000       25000</text><nl/>
+   <text> Red Dragon Summoning               35000       35000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_SS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>              Kamienie Przywolujace</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Bear Stone                          6000        3000</text><nl/>
+   <text> Armed Orc Stone                     8000        6000</text><nl/>
+   <text> Giant Spider Stone                  6000        2000</text><nl/>
+   <text> Tiger Stone                         6000        3000</text><nl/>
+   <text> Phantom Stone                      10000       10000</text><nl/>
+   <text> Fluffy Rabbit Stone                15000       12000</text><nl/>
+   <text> SSlessar Stone                     20000       18000</text><nl/>
+   <text> Yeti Stone                         25000       18000</text><nl/>
+   <text> Arctic Chimeran Stone              30000       22000</text><nl/>
+   <text> Giant Stone                        35000       25000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_SH">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>               Zmiana Ksztaltu</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Book of Mule Glyph                 20000       20000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_FT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                   Walka</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Combat Tactics                        50         800</text><nl/>
+   <text> Goblin Fighting                      100         900</text><nl/>
+   <text> Skeleton Fighting                    250        1000</text><nl/>
+   <text> Gargoyle Fighting                    500        1100</text><nl/>
+   <text> Puma Fighting                        500        1200</text><nl/>
+   <text> Bear Fighting               *       1000        1400</text><nl/>
+   <text> Orc Fighting                *       2000        1300</text><nl/>
+   <text> Troll Fighting              *       5000        1500</text><nl/>
+   <text> Ogre Fighting                      10000        6000</text><nl/>
+   <text> Phantom Warrior Fighting           15000       10000</text><nl/>
+   <text> Cyclops Fighting            *      10000        1600</text><nl/>
+   <text> Dwarf Fighting              *      20000        2000</text><nl/>
+   <text> Elf Fighting                *      20000        2000</text><nl/>
+   <text> Human Fighting              *      20000        2000</text><nl/>
+   <text> Fluffy Fighting                    40000       20000</text><nl/>
+   <text> Yeti Fighting                     150000       35000</text><nl/>
+   <text> Giant Fighting                    200000       45000</text><nl/>
+   <text> Red Dragon Fighting               250000       55000</text><nl/>
+   <text> Black Dragon Fighting             290000       55000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_CM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>  
+   <color r="0.5" g="0.9" b="1"/>
+   <text>               Kopanie Krysztalow</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Crystal Technology                    30         300</text><nl/>
+   <text> Crystal Mining                        50         500</text><nl/>
+   <text> Quartz Mining                        150         400</text><nl/>
+   <text> Rose Quartz Mining                   250         500</text><nl/>
+   <text> Blue Quartz Mining                   350         500</text><nl/>
+   <text> Emerald Mining                      5000         700</text><nl/>
+   <text> Sapphire Mining                    10000         700</text><nl/>
+   <text> Ruby Mining                         2500         700</text><nl/>
+   <text> Diamond Mining                      7500         700</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_CP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>  
+   <color r="0.5" g="0.9" b="1"/>
+   <text>             Przerabianie Krysztalow</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Crystal Processing                    50         500</text><nl/>
+   <text> Emerald Processing                  5000         600</text><nl/>
+   <text> Sapphire Processing                 2500        1500</text><nl/>
+   <text> Ruby Processing                     1000         700</text><nl/>
+   <text> Diamond Processing                  2000        2000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_TM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>  
+   <color r="0.5" g="0.9" b="1"/>
+   <text>               Tworzenie Narzedzi</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Alembic Building                   10000       15000</text><nl/>
+   <text> Vial Mold Building                 10000       15000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_EI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>   
+   <color r="0.5" g="0.9" b="1"/>
+   <text>            Ulepszone Przedmioty</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Enhanced Items Building            30000       20000</text><nl/>
+   <text> Enhanced Armor Building            30000       30000</text><nl/>
+   <text> Enhanced Weapons Building          30000       30000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_JE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>  
+   <color r="0.5" g="0.9" b="1"/>
+   <text>              Oprawianie Klejnotow</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Jewelry Technology                   200         700</text><nl/>
+   <text> Crystal Embedding                    500         500</text><nl/>
+   <text> Emerald Embedding                   1000         360</text><nl/>
+   <text> Sapphire Embedding                  1000         300</text><nl/>
+   <text> Ruby Embedding                      1000         200</text><nl/>
+   <text> Diamond Embedding                   2000         400</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_MB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>              Tworzenie Medalionow</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Generic Medallion                    250         900</text><nl/>
+   <text> Silver Medallions                    500         600</text><nl/>
+   <text> Gold Medallions                      500         500</text><nl/>
+   <text> Unicorn Medallion           *       3000        1400</text><nl/>
+   <text> Sun Medallion               *       1000        1600</text><nl/>
+   <text> Moon Medallion              *      10000        1600</text><nl/>
+   <text> Stars Medallion             *       1500        1800</text><nl/>
+   <text> Seridium Medallions                10000        5000</text><nl/>
+   <text> Harvester Medallion                10000        2000</text><nl/>
+   <text> Heaven Spawner Medallion           10000        2000</text><nl/>
+   <text> Medallion of Life                  10000       15000</text><nl/>
+      <text> Gatherer Medallion                 20000       20000</text><nl/>
+   <text> Medallion of Mana                  20000       20000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_CB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>               Tworzenie Koron</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Crown of Mana                      25000       22000</text><nl/>
+   <text> Crown of Life                      25000       22000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_JO">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                    Inne</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Saving stone                       30000       30000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_RB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>               Tworzenie Pierscieni</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Generic Rings                        150         800</text><nl/>
+   <text> Silver Rings                         500         600</text><nl/>
+   <text> Gold Rings                           400         400</text><nl/>
+   <text> Isla Prima Ring             *       1000         200</text><nl/>
+   <text> VotD Ring                   *       3500         800</text><nl/>
+   <text> Naralik Ring                *       1500         900</text><nl/>
+   <text> White Stone Ring            *       2000         600</text><nl/>
+   <text> Portland Ring               *       1500         600</text><nl/>
+   <text> Desert Pines Ring           *       1500         600</text><nl/>
+   <text> Ring of Damage              *       5000        5000</text><nl/>
+   <text> Ring of Disengagement       *      10000        3000</text><nl/>
+   <text> Mana Destruction Ring               5000        8000</text><nl/>
+   <text> Massive Mana Destr. Ring           10000       15000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_RBC2">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>            Tworzenie Pierscieni Irilion</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ring of Anitora                     3000         800</text><nl/>
+   <text> Ring of Idaloran                    4000         800</text><nl/>
+   <text> Ring of Bethel                      4000         700</text><nl/>
+   <text> Ring of Sedicolis                   4000         700</text><nl/>
+   <text> Ring of Palon Vertas                4000        1000</text><nl/>
+   <text> Ring of Kusamura                    4000         600</text><nl/>
+   <text> Ring of Egratia Point               4000         600</text><nl/>
+   <text> Ring of Iscalrith                   4000         700</text><nl/>
+   <text> Ring of Irinveron                   4000         700</text><nl/>
+   <text> Ring of Hulda                       4000         700</text><nl/>
+   <text> Ring of Trassian                    4000         700</text><nl/>
+   <text> Ring of Isle of the Forgotten       4000         700</text><nl/>
+   <text> Ring of Imbroglio Islands           4000         700</text><nl/>
+   <text> Ring of Hurquin                     4000         700</text><nl/>
+   <text> Ring of Glacmor                     4000         700</text><nl/>
+   <text> Ring of Emerald Valley              4000         700</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_AAC">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>         Tworzenie Zaawansowanych Zbroi</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Steel Greaves                       6000        1500</text><nl/>
+   <text> Steel Cuisses                       6000        2000</text><nl/>
+   <text> Steel Plate Armor                   6000        4400</text><nl/>
+   <text> Steel Helm                          6000        1900</text><nl/>
+   <text> Titanium Greaves                    6000        2000</text><nl/>
+   <text> Titanium Cuisses                    6000        2800</text><nl/>
+   <text> Titanium Plate Armor                6000        6400</text><nl/>
+   <text> Titanium Helm                       6000        2500</text><nl/>
+   <text> Titanium Shield                     6000        2800</text><nl/>
+   <text> Bronze Greaves                     20000       15000</text><nl/>
+   <text> Bronze Cuisses                     20000       15000</text><nl/>
+   <text> Bronze Plate Armor                 20000       15000</text><nl/>
+   <text> Bronze Helm                        20000       15000</text><nl/>
+   <text> Bronze Shield                      20000       15000</text><nl/>
+   <text> Red Dragon Greaves                 20000       15000</text><nl/>
+   <text> Red Dragon Cuisses                 20000       15000</text><nl/>
+   <text> Red Dragon Torso Armor             20000       15000</text><nl/>
+   <text> Red Dragon Helm                    20000       15000</text><nl/>
+   <text> Black Dragon Greaves               20000         ???</text><nl/>
+   <text> Black Dragon Cuisses               20000         ???</text><nl/>
+   <text> Black Dragon Torso Armor           20000         ???</text><nl/>
+   <text> Black Dragon Helm                  20000         ???</text><nl/>
+   <text> Ice Dragon Greaves                 20000         ???</text><nl/>
+   <text> Ice Dragon Cuisses                 20000         ???</text><nl/>
+   <text> Ice Dragon Torso Armor             20000         ???</text><nl/>
+   <text> Ice Dragon Helm                    20000         ???</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_AWC">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>        Tworzenie Zaawansowanych Broni</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Emerald Claymore                    6000       12000</text><nl/>
+   <text> Cutlass                             6000       12000</text><nl/>
+   <text> Sunbreaker                          6000       12000</text><nl/>
+   <text> Orc Slayer                          6000       12000</text><nl/>
+   <text> Eagle Wing                          6000       12000</text><nl/>
+   <text> Rapier                              6000       12000</text><nl/>
+   <text> Jagged Saber                        6000       12000</text><nl/>
+   <text> Bronze Sword                       20000       15000</text><nl/>
+   <text> Golden Star Mace                   20000       15000</text><nl/>
+   <text> Spear                              20000       15000</text><nl/>
+   <text> Halberd                            20000       15000</text><nl/>
+   <text> Dragon Blade                       20000       15000</text><nl/>
+   <text> Scythe                             20000       15000</text><nl/>
+   <text> Radioactive Rapier                 20000         ???</text><nl/>
+   <text> Frying Pan                          8000        1500</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_EN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                 Inzynieria</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nails                               4000        2500</text><nl/>
+   <text> Rope                                4000        1000</text><nl/>
+   <text> Blackpowder                         5000        5000</text><nl/>
+   <text> Snare                              10000        2500</text><nl/>
+   <text> Caltrops                           10000       10000</text><nl/>
+   <text> Saltpetre                          10000       20000</text><nl/>
+   <text> Poisoned Caltrops                  15000       15000</text><nl/>
+   <text> Small Landmine                     20000       20000</text><nl/>
+   <text> Medium Landmine                    20000       15000</text><nl/>
+   <text> High Explosive Landmine            20000       15000</text><nl/>
+   <text> RC Landmine                        15000       20000</text><nl/>
+   <text> RC Landmine Detonator              15000       20000</text><nl/>
+   <text> Barricade                          20000       25000</text><nl/>
+   <text> Lightmeter                         10000       10000</text><nl/>
+   <text> Invasionmeter                      10000       10000</text><nl/>
+   <text> Night Visor                        25000       30000</text><nl/>
+   <text> Camouflage Cape                    25000       25000</text><nl/>
+   <text> Mana Burn Ward                     15000       20000</text><nl/>
+   <text> Mana Drain Ward                    15000       20000</text><nl/>
+   <text> Immunity Removal Ward              15000       20000</text><nl/>
+   <text> Invisibility Removal Ward          15000       20000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_ASTRO">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                  Astrologia</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Astrology Indicator                10000       20000</text><nl/>
+   <text> Attack/Defense Indicator           12000       25000</text><nl/>
+   <text> Criticals Indicator                12000       25000</text><nl/>
+   <text> Accuracy/Magic Indicator           12000       25000</text><nl/>
+   <text> Harvest/Degrade Indicator          12000       25000</text><nl/>
+   <text> Make Rare/Fail Indicator           12000       25000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_ARROWS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                  Lucznictwo</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Bows and Crossbows                 10000       10000</text><nl/>
+   <text> Arrow/Bolt Technology              10000       10000</text><nl/>
+   <text> PK Arrows                          10000       10000</text><nl/>
+   <text> Fire Arrows                        10000       10000</text><nl/>
+   <text> Ice Arrows                         10000       10000</text><nl/>
+   <text> Magic Arrows                       10000       10000</text><nl/>
+   <text> PK Bolts                           10000       10000</text><nl/>
+   <text> Fire Bolts                         10000       10000</text><nl/>
+   <text> Ice Bolts                          10000       10000</text><nl/>
+   <text> Magic Bolts                        10000       10000</text><nl/>
+   <text> Arrows/Bolts Head Mold             10000       10000</text><nl/>
+   <text> Arrows/Bolts Head                  10000       10000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>                                                        Wroc Do Indeksu Ksiazek
+<Page name="Books_TAI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>                  Krawiectwo</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki            Gubiona  Cena (gc)   Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Fabric Weaving                      5000       10000</text><nl/>
+   <text> Fabric Dyeing                       5000        8000</text><nl/>
+   <text> Red Dye                             5000        8000</text><nl/>
+   <text> Orange Dye                          5000        8000</text><nl/>
+   <text> Yellow Dye                          5000        8000</text><nl/>
+   <text> Green Dye                           5000        8000</text><nl/>
+   <text> Blue Dye                            5000        8000</text><nl/>
+   <text> Purple Dye                          5000        8000</text><nl/>
+   <text> Black Dye                           5000        8000</text><nl/>
+   <text> Robe                               15000       15000</text><nl/>
+   <text> Robe Skirt                         19000       15000</text><nl/>
+   <text> Tunic                              20000       15000</text><nl/>
+   <text> Tunic/Shirt Combo                  25000       15000</text><nl/>
+   <text> Baggy Pants                        20000       15000</text><nl/>
+   <text> Scarves                             9000       15000</text><nl/>
+   <text> Tricorn Hat                        12000       15000</text><nl/>
+   <text> Buccaneer Hat                      14000       15000</text><nl/>
+   <text> Santa Hat                          20000       15000</text><nl/>
+   <text> Hood                               20000       15000</text><nl/>
+   <text> No More Warlock Cape               20000       25000</text><nl/>
+   <text> Mage Robe                          20000         ???</text><nl/>
+   <text> Ninja Tunic                        20000         ???</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_MSW">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>               Magiczne Miecze</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki                     Gubiona     Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Special Sword Manufacturing          *          2000</text><nl/>
+   <text> Fire Sword Manufacturing             *          2000</text><nl/>
+   <text> Ice Sword Manufacturing              *          2000</text><nl/>
+   <text> Magic Sword Manufacturing            *          2000</text><nl/>
+   <text> Thermal Sword Manufacturing          *          2000</text><nl/>
+   <text> Iron Sword of Fire                   *          1000</text><nl/>
+   <text> Iron Broad Sword of Fire             *          1100</text><nl/>
+   <text> Steel Long Sword of Fire             *          1100</text><nl/>
+   <text> Steel Two Edged Sword of Fire        *          1200</text><nl/>
+   <text> Titanium Short Sword of Fire         *           ???</text><nl/>
+   <text> Titanium Long Sword of Fire          *           ???</text><nl/>
+   <text> Titanium Serpent Sword of Fire       *           ???</text><nl/>
+   <text> Iron Broad Sword of Ice              *          1100</text><nl/>
+   <text> Steel Long Sword of Ice              *          1100</text><nl/>
+   <text> Steel Two Edged Sword of Ice         *          1200</text><nl/>
+   <text> Titanium Short Sword of Ice          *           ???</text><nl/>
+   <text> Titanium Long Sword of Ice           *           ???</text><nl/>
+   <text> Titanium Serpent Sword of Ice        *           ???</text><nl/>
+   <text> Steel Long Sword of Magic            *          1100</text><nl/>
+   <text> Steel Two Edged Sword of Magic       *          1200</text><nl/>
+   <text> Titanium Short Sword of Magic        *           ???</text><nl/>
+   <text> Titanium Long Sword of Magic         *           ???</text><nl/>
+   <text> Titanium Serpent Sword of Magic      *           ???</text><nl/>
+   <text> Steel Two Edged Sword of Thermal     *          1200</text><nl/>
+   <text> Titanium Short Sword of Thermal      *           ???</text><nl/>
+   <text> Titanium Long Sword of Thermal       *           ???</text><nl/>
+   <text> Titanium Serpent Sword of Thermal    *           ???</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_AP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>             Zaawansowane Mikstury</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <text> Nazwa Ksiazki                     Gubiona     Punkty Badan</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Poison Antidote                      *          8000</text><nl/>
+   <text> Potion of True Sight                 *         10000</text><nl/>
+   <text> Potion of Invisibility               *         15000</text><nl/>
+   <text> Potion of Accuracy                   *         15000</text><nl/>
+   <text> Potion of Evasion                    *         15000</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_PRE_test">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>              Tabela Zaleznosci</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <nl/><nl/><nl/>
+   <text> STRONA W BUDOWIE!</text><nl/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+<Page name="Books_PRE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Books" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>              Tabela zaleznosci</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <nl/><nl/><nl/>
+   <text> STRONA W BUDOWIE!</text><nl/><nl/><nl/>
+   <text> Metals</text><nl/>
+   <color>yellow</color><text> +---------------+</text><nl/>
+   <color>yellow</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>  Metallurgy</text><color>yellow</color><text>  |</text><nl/>
+   <color>yellow</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text> Metal Mining</text><color>yellow</color><text> |</text><nl/>
+   <color>yellow</color><text> +---------------+</text><nl/>
+   <color>green</color><text>         |</text><nl/>
+   <color>green</color><text>         |</text><nl/>
+   <color>green</color><text>         |</text><nl/>
+   <color>red</color><text> +---------------+</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text> Iron Mining</text><color>red</color><text>  |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Silver Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Gold Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Titanium Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Hydrogenium Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Tin Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Wolframite Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Copper Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Seridium Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> | </text><color r="0.9" g="0.9" b="0.9"/><text>Cinnabar Mining</text><color>red</color><text> |</text><nl/>
+   <color>red</color><text> +---------------+</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <nl/><text>                     </text><link ref="Books" title="Wroc do Indeksu Ksiazek"/>
+</Page>
+</Books>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <options>
+    <full_screen>
+      <name>Tam Ekran</name>
+      <desc>Tam Ekran veya pencere moduna geçer</desc>
+    </full_screen>
+    <shadows_on>
+      <name>Gölgeler</name>
+      <desc>Gölgeleri etkinlestirir.</desc>
+    </shadows_on>
+    <use_shadow_mapping>
+      <name>Gölge Haritasi</name>
+      <desc>Eger daha kaliteli gölge kullanmak istiyorsaniz, bunu açin. Daha fazla kaynak kullanir ama daha güzel görünür.</desc>
+    </use_shadow_mapping>
+    <render_fog>
+      <name>Sis</name>
+      <desc>Sisi etkinlestirir.</desc>
+    </render_fog>
+    <poor_man>
+      <name>Zavalli Adam</name>
+      <desc>Eski sistemler icin Zavalli Adam'i etkinlestirin</desc>
+    </poor_man>
+    <show_reflection>
+      <name>Yansimalari Göster</name>
+      <desc>Yansimalari etkinlestirir.</desc>
+    </show_reflection>
+    <no_adjust_shadows>
+      <name>Gölgeleri Düzenleme</name>
+      <desc>Etkin iken, kare hizi çok düsük olsa bile gölgeler devre disi birakilmaz.</desc>
+    </no_adjust_shadows>
+    <clouds_shadows>
+      <name>Bulut Gölgeleri</name>
+      <desc>Bulut gölgeleri yere yansitilir, ve oyun daha güzel gözükür.</desc>
+    </clouds_shadows>
+    <show_fps>
+      <name>Saniyede Kare Orani</name>
+      <desc>Pencerenin kösesinde saniyedeki kare hizini gösterir</desc>
+    </show_fps>
+    <use_mipmaps>
+      <name>Mipmap</name>
+      <desc>Mipmap, dokulari bulaniklastiran bir efekttir - ekran karti ve sürücü ayarlarina göre daha düzgün ve güzel veya daha kötü görünebilir.</desc>
+    </use_mipmaps>
+    <use_point_particles>
+      <name>Nokta Parçaciklari</name>
+      <desc>Bazi sistemler EL'in yeni nokta tabanli parçaciklarini desteklemez. Eger istemciniz bu özelligi çalistirmazsa bunu devre disi birakin.</desc>
+    </use_point_particles>
+    <particles_percentage>
+      <name>Parçacik Yüzdesi</name>
+      <desc>Eger parçaciklarin yaninda oldukça yavaslama görüyorsaniz bu sayiyi azaltin.</desc>
+    </particles_percentage>
+    <use_vertex_array>
+      <name>Verteks Dizisi</name>
+      <desc>Verteks dizisini etkinlestirir.</desc>
+    </use_vertex_array>
+    <use_vertex_buffers>
+      <name>Verteks Arabellek Cisimleri</name>
+      <desc>Verteks arabellek cisimlerinin kulanilmasini etkinlestirir.</desc>
+    </use_vertex_buffers>
+    <mouse_limit>
+      <name>Fare Limiti</name>
+      <desc>Fare hasasiyetini ve imlecin degisme hizini bu sayiyi düsürerek degistirebilirsiniz, ama saniyedeki kare hiziniz da düsebilir!</desc>
+    </mouse_limit>
+    <normal_camera_rotation_speed>
+      <name>Kamera Döndürme Hizi</name>
+      <desc>Kamerayi döndürme hizini burdan ayarlayin.</desc>
+    </normal_camera_rotation_speed>
+    <fine_camera_rotation_speed>
+      <name>Ince Döndürme Hizi</name>
+      <desc>Kameranin ince dönme hizini burdan ayarlayin (shift+sag/sol tuslari)</desc>
+    </fine_camera_rotation_speed>
+    <name_text_size>
+      <name>Isim Metin Boyutu</name>
+      <desc>Oyuncularin isim boyutunu burdan ayarlayin.</desc>
+    </name_text_size>
+    <chat_text_size>
+      <name>Sohbet Metin Boyutu</name>
+      <desc>Metin boyutunu burdan ayarlayin.</desc>
+    </chat_text_size>
+    <name_font>
+      <name>Isim Fontu</name>
+      <desc>Isimler için kullanilan fontu burdan ayarlayin.</desc>
+    </name_font>
+    <chat_font>
+      <name>Sohbet Fontu</name>
+      <desc>Metinler için kullanilan fontu burdan ayarlayin.</desc>
+    </chat_font>
+    <enable_sound>
+      <name>Ses Efektlerini Etkinlestir</name>
+      <desc>Ses efektlerini açar/kapar</desc>
+    </enable_sound>
+    <enable_music>
+      <name>Müzigi Etkinlestir</name>
+      <desc>Müzigi açar/kapar</desc>
+    </enable_music>
+    <sound_gain>
+      <name>Ses Kazanci</name>
+      <desc>Ses efekt seviyesini burdan ayarlayin.</desc>
+    </sound_gain>
+    <music_gain>
+      <name>Müzik Kazanci</name>
+      <desc>Müzik seviyesini burdan ayarlayin.</desc>
+    </music_gain>
+    <sit_lock>
+      <name>Oturma Kilidi</name>
+      <desc>Otururken karakterinizin yanlislikla hareket etmesini engellemek icin bunu etkinlestirin.</desc>
+    </sit_lock>
+    <item_window_on_drop>
+      <name>Torba-Canta Tetiklemesi</name>
+      <desc>Torba açtiginda çanta penceresinin acilmasini burdan ayarlayin.</desc>
+    </item_window_on_drop>
+    <view_digital_clock>
+      <name>Dijital Saat</name>
+      <desc>Dijital saati etkinlestirir.</desc>
+    </view_digital_clock>
+    <view_analog_clock>
+      <name>Analog Saat</name>
+      <desc>Analog saati etkinlestirir.</desc>
+    </view_analog_clock>
+    <show_stats_in_hud>
+      <name>HUD'da Istatistikler</name>
+      <desc>HUD'da istatistikleri açmak icin burayi etkinlestirin.</desc>
+    </show_stats_in_hud>
+    <show_help_text>
+      <name>Yardim Metni</name>
+      <desc>Araç ipucu metinlerini etkinlestiririn.</desc>
+    </show_help_text>
+    <relocate_quickbar>
+      <name>Hizli Cubugu Tasi</name>
+      <desc>Hizli cubugu tasiyabilmek için burayi etkinlestirin.</desc>
+    </relocate_quickbar>
+    <compass_north>
+      <name>Pusula Yönü</name>
+      <desc>Duragan pusula yönü için burayi etkinlestirin.</desc>
+    </compass_north>
+    <auto_afk_time>
+      <name>AFK Zamani</name>
+      <desc>AFK mesajinin etkinlesmesi için geçmesi gereken zaman.</desc>
+    </auto_afk_time>
+    <afk_message>
+      <name>AFK Mesaji</name>
+      <desc>AFK mesajinizi buraya girin.</desc>
+    </afk_message>
+    <afk_local>
+      <name>AFK Iken Yerel Sohbet Mesajlarini Kaydet</name>
+      <desc>AFK modundayken hem yerel sohbet mesajlari hem de özel mesajlar kaydedilir.</desc>
+    </afk_local>
+    <use_global_ignores>
+      <name>Genel Yoksayimlar</name>
+      <desc>Genel yoksayimlar çirkin isler çevirmekle taninan oyunculari içeren bir listedir, bu oyuncular "global_ignores.txt" içinde bulunur. Baslangiçta bu listeyi yüklemek icin etkinlestirin.</desc>
+    </use_global_ignores>
+    <save_ignores>
+      <name>Yoksayimlari Kaydet</name>
+      <desc>Cikista yoksayimlari kaydetmek için etkinlestirin.</desc>
+    </save_ignores>
+    <use_global_filters>
+      <name>Genel Filtre</name>
+      <desc>Genel metin filtresini kullanmak için etkinlestirin.</desc>
+    </use_global_filters>
+    <caps_filter>
+      <name>Büyük Harf Filtresi</name>
+      <desc>Büyuü harf filtresini etkinlestirir.</desc>
+    </caps_filter>
+    <server_address>
+      <name>Sunucu Adresi</name>
+      <desc>EL sunucusunun adresi.</desc>
+    </server_address>
+    <server_port>
+      <name>Sunucu Port</name>
+      <desc>EL sunucusunun portu.</desc>
+    </server_port>
+    <username>
+      <name>Isim:</name>
+      <desc>Kullanici isminiz.</desc>
+    </username>
+    <password>
+      <name>Sifre</name>
+      <desc>Sifreniz.</desc>
+    </password>
+    <log_chat>
+      <name>Mesajlari Kaydet</name>
+      <desc>Sunucudan gelen mesajlari (sohbet, ham madde olaylari, GM mesajlari, vs) kaydetmek için etkinlestirin.</desc>
+    </log_chat>
+    <language>
+      <name>Dil</name>
+      <desc>Vat didin gülüm?</desc>
+    </language>
+    <browser>
+      <name>Internet Tarayici</name>
+      <desc>Internet tarayicinizin konumu (Windows kullanicilari varsayilan tarayiciyi kullanmak için buray bos birasinlar)</desc>
+    </browser>
+    <windowed_chat>
+      <name>Pencereli Sohbet</name>
+      <desc>Sohbet pencerenizi nasil kullanmak istersiniz?</desc>
+    </windowed_chat>
+    <write_ini_on_exit>
+      <name>INI Dosyasini Kaydet</name>
+      <desc>Oyundan çiktiginizda seçenekleri kaydetmek için etkinlestirin.</desc>
+    </write_ini_on_exit>
+    <ati_click_workaround>
+      <name>ATI Hatasi</name>
+      <desc>Eger ATI karti kullaniyorsaniz ve yere tikladiginizda karakteriniz hareket etmiyorsa bunu deneyin.</desc>
+    </ati_click_workaround>
+    <use_alpha_border>
+      <name>Alfa Cerçevesi</name>
+      <desc>Alfa çerçeve kullanimini etkinlestirir.</desc>
+    </use_alpha_border>
+    <use_alpha_banner>
+      <name>Isim/Can Arkasinda Alfa Cerçevesi</name>
+      <desc>Isim/Can arkasinda alfa çerçeve kullanimini etkinlestirir.</desc>
+    </use_alpha_banner>
+    <use_floating_messages>
+      <name>Uçan Mesajlar</name>
+      <desc>Uçan deneyim ve diger mesajlari etkinlestirir.</desc>
+    </use_floating_messages>
+    <local_chat_separate>
+      <name>Ayri Yerel Sohbet</name>
+      <desc>Yerel sohbet ayri olsun mu?</desc>
+    </local_chat_separate>
+    <guild_chat_separate>
+      <name>Ayri Klan Sohbeti</name>
+      <desc>Klan sohbeti ayri olsun mu?</desc>
+    </guild_chat_separate>
+    <server_chat_separate>
+      <name>Ayri Sunucu Mesajlari</name>
+      <desc>Sunucudan gelen mesajlar ayri olsun mu?</desc>
+    </server_chat_separate>
+    <mod_chat_separate>
+      <name>Ayri Denetleyici Sohbeti</name>
+      <desc>Denetleyici sohbeti digerlerinden ayri olsun mu?</desc>
+    </mod_chat_separate>
+    <highlight_tab_on_nick>
+      <name>Sekmelerin AydinlatilmasiHighlight Tabs On Name</name>
+      <desc>Isminiz sohbette geçtiginde sekme aydinlatilsin mi?</desc>
+    </highlight_tab_on_nick>
+    <isometric>
+      <name>Izometrik Bakis</name>
+      <desc>Perspektif bakis yerine izometrik görüs kullanmak için bunu etkinlestirin.</desc>
+    </isometric>
+    <perspective>
+      <name>Perspektif</name>
+      <desc>Perspektif çarpitma derecesi. Eger görüsünüz anormalse degistirin.</desc>
+    </perspective>
+    <near_plane>
+      <name>Yakin Düzlem Mesafesi</name>
+      <desc>Yakin kirpma düzleminin aktörünüze olan uzakligi.</desc>
+    </near_plane>
+    <buddy_log_notice>
+      <name>Ahbap Liste Giris/Cikis</name>
+      <desc>Ahbap listenizdekiler girip çiktiginda mesaj gösterilmesi için etkinlestirin.</desc>
+    </buddy_log_notice>
+    <data_dir>
+      <name>Veri Dizini</name>
+      <desc>Verimizi sakladigimiz yer. Sadece istemciyi yeniden baslatarak degistirilebilir.</desc>
+    </data_dir>
+    <video_mode>
+      <name>Video Modu</name>
+      <desc>Kullanmak istediginiz video modu.</desc>
+    </video_mode>
+    <limit_fps>
+      <name>FPS Limiti</name>
+      <desc>Kare oranini sinirlandiriniz. Bilgisayariniza asiri yüklenmeyin.</desc>
+    </limit_fps>
+    <gamma>
+      <name>Gamma</name>
+      <desc>Görüntünüzün ne kadar parlak olmasini istersiniz?</desc>
+    </gamma>
+    <render_skeleton>
+      <name>Iskeleti Isle</name>
+      <desc>Cal3d iskeletlerini isler.</desc>
+    </render_skeleton>
+    <render_mesh>
+      <name>Mesh'i Isle</name>
+      <desc>Mesh'i isler.</desc>
+    </render_mesh>
+    <shadow_map_size>
+      <name>Gölge Harita Boyutu</name>
+      <desc>Bu parametre gölge haritalarinin kalitesini belirler. En az 512'ye ayarlamaniz önerilir.</desc>
+    </shadow_map_size>
+    <use_old_clicker>
+      <name>Fare Hatasi</name>
+      <desc>Eger yukaridaki seçenek fareyi düzeltmiyorsa bunu deneyin.</desc>
+    </use_old_clicker>
+    <use_frame_buffer>
+      <name>Kare Arabellek Destegi</name>
+      <desc>Kare arabellek destegini etkinlestirin. Simdilik sadece yansimalarda kullanilmaktadir.</desc>
+    </use_frame_buffer>
+    <use_clipboard>
+      <name>Tasima Panosunu Kullan</name>
+      <desc>Yapistirmak için tasima panosunu kullanir.</desc>
+    </use_clipboard>
+    <use_compiled_vertex_array>
+      <name>Derlenmis Verteks Dizisi</name>
+      <desc>Bazi yeni sistemler EL'deki yeni derlenmis verkteks dizisini desteklemez. Eger bazi 3D objeler dogru olarak görünmüyorsa bunu devre disi birakin.</desc>
+    </use_compiled_vertex_array>
+    <show_statbars_in_hud>
+      <name>HUD'da Istatistik Cubuklari</name>
+      <desc>Hud'da istatistik çubuklarini görüntülemek için etkinlestirin.</desc>
+    </show_statbars_in_hud>
+    <autoupdate>
+      <name>Otomatik Güncelleme</name>
+      <desc>Güncellemelerin otomatik olarak indirilmesi için etkinlestirin.</desc>
+    </autoupdate>
+    <windows_on_top>
+      <name>Pencereler Üstte</name>
+      <desc>Pencerelerin harita ve konsolun üstünde gözükmesi için etkinlestirin.</desc>
+    </windows_on_top>
+    <use_eye_candy>
+      <name>Ekstra Efekt</name>
+      <desc>Ekstra efektleri etkinlestirir.</desc>
+    </use_eye_candy>
+  </options>
+</root>

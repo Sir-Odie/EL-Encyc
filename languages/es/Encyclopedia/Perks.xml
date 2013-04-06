@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Perks>
+<Page name="P_PS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                BONIFICACIONES</text><nl/>
+   <color>red</color>
+   <text>                   Saciedad</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: 3 puntos, 100 gc</text><nl/>
+   <text> El nivel de comida no decrecerá cada minuto si ningún</text><nl/>
+   <text> estatus se está restaurando o no se está estudiando</text><nl/>
+   <text> nada. No funciona con la bonificación "Voracidad".</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_FR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                BONIFICACIONES</text><nl/>
+   <color>red</color>
+   <text>             Regeneración Rápida</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: 3 puntos, 100 gc</text><nl/>
+   <text> Éter y materia regeneran a un ritmo tres veces más rápido</text><nl/>
+   <text> de lo normal.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_SD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                BONIFICACIONES</text><nl/>
+   <color>red</color>
+   <text>                  Inmolación</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: 5 puntos, 130 gc</text><nl/>
+   <text> Cuando mueres, cada oponente recibe 5-15 de daño, sin</text><nl/>
+   <text> importar la armadura o defensa del mismo.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_EX">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                BONIFICACIONES</text><nl/>
+   <color>red</color>
+   <text>                  Excavador</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: 5 puntos, 150 gc</text><nl/>
+   <text> Dobla la cantidad de objetos recolectados en cada turno.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_MM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                BONIFICACIONES</text><nl/>
+   <color>red</color>
+   <text>             Señor de las bestias</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: 5 puntos, 1500 gc</text><nl/>
+   <text> Los monstruos no atacarán si tu no inicias el combate.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_EV">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                BONIFICACIONES</text><nl/>
+   <color>red</color>
+   <text>                 Evanescencia</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: 5 puntos, 200 gc</text><nl/>
+   <text> Cada golpe que recibes tiene un 10% adicional de</text><nl/>
+   <text> posibilidades de fallar.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_CG">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                BONIFICACIONES</text><nl/>
+   <color>red</color>
+   <text>                   Alforjas</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: 5 puntos, 250 gc</text><nl/>
+   <text> Reduce la posibilidad de perder objetos cuando mueres del</text><nl/>
+   <text> 50% al 40%.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_BP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                BONIFICACIONES</text><nl/>
+   <color>red</color>
+   <text>                Armas afiladas</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: 7 puntos, 150 gc.</text><nl/>
+   <text> Incrementa la posibilidad de atravesar la armadura del</text><nl/>
+   <text> oponente en un 10%.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_FM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                BONIFICACIONES</text><nl/>
+   <color>red</color>
+   <text>                    Esgrima</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: 7 puntos, 150 gc</text><nl/>
+   <text> Incremanta la posibilidad de acertar un golpe, sin importar</text><nl/>
+   <text> las habilidades del enemigo o su defensa, en un 10%.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_CO">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                BONIFICACIONES</text><nl/>
+   <color>red</color>
+   <text>                  Nigromancia</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: 7 puntos, 250 gc</text><nl/>
+   <text> El coste de éter es la mitad para la invocación.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_IGD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                BONIFICACIONES</text><nl/>
+   <color>red</color>
+   <text>                Aura de energía</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: 7 puntos, 250 gc</text><nl/>
+   <text> Causa 2 puntos de daño por radiación a cualquier enemigo en</text><nl/>
+   <text> combate, cada vez que aciertas a tu objetivo.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_TNF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>               BONIFICACIONES</text><nl/>
+   <color>red</color>
+   <text>              Ira de Kalenthro</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: 7 puntos, 250 gc</text><nl/>
+   <text> Elimina la penalización en defensa cuando se lucha con</text><nl/>
+   <text> múltiples enemigos, no funciona con la bonificación</text><nl/>
+   <text> "Debacle".</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_MS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                BONIFICACIONES</text><nl/>
+   <color>red</color>
+   <text>               Aura refractaria</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: 7 puntos, 300 gc</text><nl/>
+   <text> 10% de probabilidad de que un golpe asestado por un enemigo</text><nl/>
+   <text> sea reflejado hacia él.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_NMT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                BONIFICACIONES</text><nl/>
+   <color>red</color>
+   <text>                    Zurrón</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: 7 puntos, 1000 gc</text><nl/>
+   <text> La oportunidad de perder objetos cuando se muere se reduce</text><nl/>
+   <text> a un cuarto de lo normal.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_IEDP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>              I Eat Dead People</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 3 points, 10000 gc</text><nl/>
+   <text> Allows you to eat bones for 10 food points, no cooldown.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_PH">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                PENALIZACIONES</text><nl/>
+   <color>red</color>
+   <text>                   Voracidad</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: -3 puntos</text><nl/>
+   <text> 3 puntos de comida se toman cada minuto, en lugar de 1.</text><nl/>
+   <text> No funciona con la bonificación "Saciedad".</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_ICD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                PENALIZACIONES</text><nl/>
+   <color>red</color>
+   <text>                    Debacle</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: -5 puntos, 1000 gc</text><nl/>
+   <text> Pena de un 15% adicional en defensa cuando se</text><nl/>
+   <text> lucha con múltiples oponentes.</text><nl/>
+   <text> No funciona con la bonificación "Ira de Kalenthro".</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_GB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                PENALIZACIONES</text><nl/>
+   <color>red</color>
+   <text>             Maldición de Takihis</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: -6 puntos</text><nl/>
+   <text> Cinco puntos adicionales de daño en cada golpe recibido.</text><nl/>
+   <text> Esto incluye radiación, veneno, magia, frío, calor...</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_G">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                PENALIZACIONES</text><nl/>
+   <color>red</color>
+   <text>                  Excomunión</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: -8 puntos</text><nl/>
+   <text> No podrás servir a ningún dios, si sirves a algún dios,</text><nl/>
+   <text> al tomar esta bonificación perderás el trabajo que ya tengas</text><nl/>
+   <text> hecho para ese -o esos- dios(es), y  todas las ventajas</text><nl/>
+   <text> que te hubieran concedido anteriormente.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_H">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                PENALIZACIONES</text><nl/>
+   <color>red</color>
+   <text>               Entre dos mundos</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: -10 puntos, 15000 gc</text><nl/>
+   <text> Cada vez que cambies de mapa tendrás un 20% de posibilidades</text><nl/>
+   <text> de ir directamente al inframundo, sin perder objetos.</text><nl/>
+   <text> Ten en cuenta que, simplemente entrar en una casa, es un</text><nl/>
+   <text> cambio de mapa.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_A">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                PENALIZACIONES</text><nl/>
+   <color>red</color>
+   <text>                  Antisocial</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Coste: -10 puntos, 15000 gc</text><nl/>
+   <text> Ningún NPC comerciará contigo. Aún podrás usar los almacenes y</text><nl/>
+   <text> comprar los susurros en las tiendas de magia.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Perks" title="Índice de bonificaciones"/>
+   <nl/>
+</Page>
+<Page name="P_ScD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                 Scotty Died</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: -3 points, 10000 gc</text><nl/>
+   <text> No more beaming up.</text><nl/>
+   <text> Better keeping a ring in inventory from now on.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_HoS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>             Harvester of Sorrow</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: -5 points, 100000 gc</text><nl/>
+   <text> If you hit a teleport nexus while harvesting, you'll be</text><nl/>
+   <text> taken to Kilaran Field (PK map).</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_Sk">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                   Skeptic</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Cost: 30000 gc</text><nl/>
+   <text> The Astrology doesn't apply to you: no bonuses,</text><nl/>
+   <text> no penalties.</text><nl/>
+   <color>red</color>
+   <nl/>
+   <text> WARNING!! This perk is permanent, it will NOT be removed</text><nl/>
+   <text> by a #reset.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_ONE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                     One</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Gives: 6 pickpoints</text><nl/>
+   <text> Costs: 60000 gc</text><nl/>
+   <text> Mine, caltrops and wards affect you even on non PK maps.</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_UND">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>              The Underworlder</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Costs: 2 pickpoints, 20000 gc</text><nl/>
+   <text> Allows you to use the teleport to portals room (both</text><nl/>
+   <text> spells), and teleport rings directly from the Underworld.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_SUM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                The Summoner</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Costs: 5 pickpoints, 20000 gc</text><nl/>
+   <text> Gives +10% to your creature's attack and defense, as well</text><nl/>
+   <text> as +5 to its critical to hit and to damage.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_AR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                  Artificer</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Costs: 7 pickpoints, 60000 gc</text><nl/>
+   <text> Increases the chance of creating rare items (modable</text><nl/>
+   <text> weapons, enriched essences, etc...).</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_ER">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>               Ethereal Ranger</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Costs: 5 pickpoints, 20000 gc</text><nl/>
+   <text> You have 30% chance to not lose an arrow/bolt after</text><nl/>
+   <text> firing it.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_WH">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color>red</color>
+   <text>                 Wilhelm Hood</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Costs: 5 pickpoints, 20000 gc</text><nl/>
+   <text> You get 15% more ranging experience, your ranged weapons</text><nl/>
+   <text> are considerably more accurate and do 15% more damage.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+</Perks>

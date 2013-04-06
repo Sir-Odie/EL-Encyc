@@ -1,0 +1,1646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Summoning>
+<Page name="S_Rabbit">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Rabbit</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Rabbit</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Life Essence, 1 Brown Rabbit Fur, 1 Raw Meat, 1 Bone</text>
+   <nl/>
+   <text> Recommended Summoning Level: 0</text>
+   <nl/>
+   <text> Summoning Experience Given: 5</text>
+   <nl/>
+   <text> Mana subtracted: 5</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_Rat">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Rat</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Rat</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Life Essence, 1 Rat Tail, 1 Raw Meat, 1 Bone</text>
+   <nl/>
+   <text> Recommended Summoning Level: 3</text>
+   <nl/>
+   <text> Summoning Experience Given: 7</text>
+   <nl/>
+   <text> Mana subtracted: 7</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_Beaver">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Beaver</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Beaver</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Life Essence, 1 Beaver Fur, 1 Raw Meat, 1 Bone</text>
+   <nl/>
+   <text> Required Nexuses: Animal 1</text>
+   <nl/>
+   <text> Recommended Summoning Level: 4</text>
+   <nl/>
+   <text> Summoning Experience Given: 10</text>
+   <nl/>
+   <text> Mana subtracted: 9</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_Deer">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Deer</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Deer</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Deer Fur, 1 Deer Antlers, 3 Raw Meat,</text>
+   <nl/>
+   <text> 3 Bones</text>
+   <nl/>
+   <text> Required Nexuses: Animal 1</text>
+   <nl/>
+   <text> Recommended Summoning Level: 5</text>
+   <nl/>
+   <text> Summoning Experience Given: 18</text>
+   <nl/>
+   <text> Mana subtracted: 12</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_Skunk">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Skunk</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Skunk</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Life Essence, 1 Skunk Fur, 1 Raw Meat, 1 Bone</text>
+   <nl/>
+   <text> Required Nexuses: Animal 1</text>
+   <nl/>
+   <text> Recommended Summoning Level: 5</text>
+   <nl/>
+   <text> Summoning Experience Given: 20</text>
+   <nl/>
+   <text> Mana subtracted: 10</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_Racoon">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Racoon</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Racoon</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Life Essence, 1 Racoon Fur, 1 Raw Meat, 1 Bone</text>
+   <nl/>
+   <text> Required Nexuses: Animal 1</text>
+   <nl/>
+   <text> Recommended Summoning Level: 6</text>
+   <nl/>
+   <text> Summoning Experience Given: 25</text>
+   <nl/>
+   <text> Mana subtracted: 11</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_SnakeG">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Green Snake</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Green Snake</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Life Essence, 1 Green Snake Skin, 1 Raw Meat</text>
+   <nl/>
+   <text> Knowledge needed: Snakes Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 2</text>
+   <nl/>
+   <text> Recommended Summoning Level: 8</text>
+   <nl/>
+   <text> Summoning Experience Given: 21</text>
+   <nl/>
+   <text> Mana subtracted: 13</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_SnakeR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Red Snake</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Red Snake</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Life Essence, 1 Red Snake Skin, 1 Raw Meat</text>
+   <nl/>
+   <text> Knowledge needed: Snakes Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 2</text>
+   <nl/>
+   <text> Recommended Summoning Level: 12</text>
+   <nl/>
+   <text> Summoning Experience Given: 25</text>
+   <nl/>
+   <text> Mana subtracted: 17</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_SnakeB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Brown Snake</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Brown Snake</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Life Essence, 1 Brown Snake Skin, 2 Raw Meat</text>
+   <nl/>
+   <text> Knowledge needed: Snakes Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 2</text>
+   <nl/>
+   <text> Recommended Summoning Level: 17</text>
+   <nl/>
+   <text> Summoning Experience Given: 30</text>
+   <nl/>
+   <text> Mana subtracted: 22</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_Fox">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Fox</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Fox</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Fox Fur, 2 Raw Meat, 2 Bones</text>
+   <nl/>
+   <text> Required Nexuses: Animal 2</text>
+   <nl/>
+   <text> Recommended Summoning Level: 22</text>
+   <nl/>
+   <text> Summoning Experience Given: 40</text>
+   <nl/>
+   <text> Mana subtracted: 25</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_Boar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Boar</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Boar</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Life Essences, 4 Raw Meat, 3 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Boar Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 2</text>
+   <nl/>
+   <text> Recommended Summoning Level: 26</text>
+   <nl/>
+   <text> Summoning Experience Given: 50</text>
+   <nl/>
+   <text> Mana subtracted: 29</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_Wolf">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Wolf</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Wolf</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Wolf Fur, 2 Raw Meat, 3 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Wolf Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 2</text>
+   <nl/>
+   <text> Recommended Summoning Level: 32</text>
+   <nl/>
+   <text> Summoning Experience Given: 60</text>
+   <nl/>
+   <text> Mana subtracted: 33</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_Puma">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Puma</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Puma</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Puma Fur, 3 Raw Meat, 3 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Puma Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 2</text>
+   <nl/>
+   <text> Recommended Summoning Level: 40</text>
+   <nl/>
+   <text> Summoning Experience Given: 80</text>
+   <nl/>
+   <text> Mana subtracted: 45</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_BearP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Polar Bear</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Polar Bear</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Life Essences, 1 Polar Bear Fur, 5 Raw Meat, 5 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Polar Bear Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 3</text>
+   <nl/>
+   <text> Recommended Summoning Level: 40</text>
+   <nl/>
+   <text> Summoning Experience Given: 90</text>
+   <nl/>
+   <text> Mana subtracted: 48</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_BearB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Black Bear</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Black Bear</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Life Essences, 1 Bear Fur, 5 Raw Meat, 5 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Bear Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 3</text>
+   <nl/>
+   <text> Recommended Summoning Level: 45</text>
+   <nl/>
+   <text> Summoning Experience Given: 90</text>
+   <nl/>
+   <text> Mana subtracted: 50</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_Skeleton">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Skeleton</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Skeleton</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Life Essences, 3 Death Essences, 10 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Skeleton Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 2</text>
+   <nl/>
+   <text> Recommended Summoning Level: 32</text>
+   <nl/>
+   <text> Summoning Experience Given: 64</text>
+   <nl/>
+   <text> Mana subtracted: 37</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_SkeletonA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Armed Skeleton</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon an Armed Skeleton</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Steel Long Sword, 8 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Armed Skeleton Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 3</text>
+   <nl/>
+   <text> Recommended Summoning Level: 47</text>
+   <nl/>
+   <text> Summoning Experience Given: 500</text>
+   <nl/>
+   <text> Mana subtracted: 52</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_Phantom">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Phantom Warrior</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Phantom Warrior</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Enriched Death Essence, 10 Life Essences, 5 Bones</text>
+   <nl/>
+   <text> Required Nexuses: Animal 5</text>
+   <nl/>
+   <text> Recommended Summoning Level: 57</text>
+   <nl/>
+   <text> Summoning Experience Given: 1000</text>
+   <nl/>
+   <text> Mana subtracted: 43</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_GargoyleS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Short Gargoyle</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Short Gargoyle</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Life Essences, 2 Death Essences, 2 Fire Essences,</text>
+   <nl/>
+   <text> 2 Matter Essences</text>
+   <nl/>
+   <text> Knowledge needed: Gargoyle Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 2</text>
+   <nl/>
+   <text> Recommended Summoning Level: 34</text>
+   <nl/>
+   <text> Summoning Experience Given: 70</text>
+   <nl/>
+   <text> Mana subtracted: 39</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_GargoyleM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Medium Gargoyle</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Medium Gargoyle</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Life Essences, 3 Death Essences, 3 Fire Essences,</text>
+   <nl/>
+   <text> 3 Matter Essences</text>
+   <nl/>
+   <text> Knowledge needed: Gargoyle Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 2</text>
+   <nl/>
+   <text> Recommended Summoning Level: 36</text>
+   <nl/>
+   <text> Summoning Experience Given: 74</text>
+   <nl/>
+   <text> Mana subtracted: 41</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_GargoyleT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Tall Gargoyle</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Tall Gargoyle</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 4 Life Essences, 4 Death Essences, 4 Fire Essences,</text>
+   <nl/>
+   <text> 4 Matter Essences</text>
+   <nl/>
+   <text> Knowledge needed: Gargoyle Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 2</text>
+   <nl/>
+   <text> Recommended Summoning Level: 38</text>
+   <nl/>
+   <text> Summoning Experience Given: 80</text>
+   <nl/>
+   <text> Mana subtracted: 43</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_GoblinF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Female Goblin</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Female Goblin</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Iron Sword, 3 Raw Meat, 3 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Female Goblin Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 3</text>
+   <nl/>
+   <text> Recommended Summoning Level: 41</text>
+   <nl/>
+   <text> Summoning Experience Given: 300</text>
+   <nl/>
+   <text> Mana subtracted: 46</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_GoblinAM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Male Armed Goblin</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Male Armed Goblin</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Iron Broad Sword, 3 Raw Meat, 3 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Armed Male Goblin Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 3</text>
+   <nl/>
+   <text> Recommended Summoning Level: 47</text>
+   <nl/>
+   <text> Summoning Experience Given: 400</text>
+   <nl/>
+   <text> Mana subtracted: 52</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_Falcon">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Falcon</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Falcon</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 10 Falcon Feathers, 20 Life Essences, 2 Meat, 3 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Falcon Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal UNKNOWN</text>
+   <nl/>
+   <text> Recommended Summoning Level: UNKNOWN</text>
+   <nl/>
+   <text> Summoning Experience Given: 300</text>
+   <nl/>
+   <text> Mana subtracted: UNKNOWN</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_Hawk">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Hawk</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Hawk</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 10 Hawk Feathers, 20 Life Essences, 2 Meat, 3 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Hawk Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal UNKNOWN</text>
+   <nl/>
+   <text> Recommended Summoning Level: UNKNOWN</text>
+   <nl/>
+   <text> Summoning Experience Given: 320</text>
+   <nl/>
+   <text> Mana subtracted: UNKNOWN</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_OrcF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Female Orc</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Female Orc</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Steel 2edge Sword, 3 Raw Meat, 3 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Female Orc Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 3</text>
+   <nl/>
+   <text> Recommended Summoning Level: 49</text>
+   <nl/>
+   <text> Summoning Experience Given: 400</text>
+   <nl/>
+   <text> Mana subtracted: 54</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_OrcM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Male Orc</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Male Orc</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Titanium Short Sword, 3 Raw Meat,</text>
+   <nl/>
+   <text> 3 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Male Orc Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 4</text>
+   <nl/>
+   <text> Recommended Summoning Level: 50</text>
+   <nl/>
+   <text> Summoning Experience Given: 800</text>
+   <nl/>
+   <text> Mana subtracted: 55</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_OrcAF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Armed Female Orc</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon an Armed Female Orc</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Titanium Long Sword, 3 Raw Meat,</text>
+   <nl/>
+   <text> 3 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Armed Female Orc Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 4</text>
+   <nl/>
+   <text> Recommended Summoning Level: 51</text>
+   <nl/>
+   <text> Summoning Experience Given: 1000</text>
+   <nl/>
+   <text> Mana subtracted: 56</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_OrcAM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Armed Male Orc</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon an Armed Male Orc</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Titanium Long Sword, 3 Raw Meat,</text>
+   <nl/>
+   <text> 1 Wooden Battle Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Armed Male Orc Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 4</text>
+   <nl/>
+   <text> Recommended Summoning Level: 52</text>
+   <nl/>
+   <text> Summoning Experience Given: 1600</text>
+   <nl/>
+   <text> Mana subtracted: 57</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_Cyclops">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Cyclops</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Cyclops</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Life Essences, 1 Titanium Serpent Sword, 3 Raw Meat,</text>
+   <nl/>
+   <text> 3 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Cyclops Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 4</text>
+   <nl/>
+   <text> Recommended Summoning Level: 53</text>
+   <nl/>
+   <text> Summoning Experience Given: 3000</text>
+   <nl/>
+   <text> Mana subtracted: 58</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_RabbitF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Fluffy Rabbit</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Fluffy Rabbit</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Enriched Life Essence, 1 White Rabbit Fur, 1 Raw Meat,</text>
+   <nl/>
+   <text> 1 Bone</text>
+   <nl/>
+   <text> Knowledge needed: Fluffy Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 2</text>
+   <nl/>
+   <text> Recommended Summoning Level: 35</text>
+   <nl/>
+   <text> Summoning Experience Given: 750</text>
+   <nl/>
+   <text> Mana subtracted: 40</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_ChimeranM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Mountain Chimeran Wolf</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Mountain Chimeran Wolf</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Enriched Life Essences, 2 Wolf Fur, 1 Raw Meat, 1 Bone</text>
+   <nl/>
+   <text> Knowledge needed: Mountain Chimeran Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 2</text>
+   <nl/>
+   <text> Recommended Summoning Level: 40</text>
+   <nl/>
+   <text> Summoning Experience Given: 2000</text>
+   <nl/>
+   <text> Mana subtracted: 45</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_ChimeranA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Arctic Chimeran Wolf</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon an Arctic Chimeran Wolf</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 4 Enriched Life Essences, 1 Enriched Water Essence,</text>
+   <nl/>
+   <text> 5 Raw Meat, 5 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Arctic Chimeran Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 5</text>
+   <nl/>
+   <text> Recommended Summoning Level: 50</text>
+   <nl/>
+   <text> Summoning Experience Given: 5000</text>
+   <nl/>
+   <text> Mana subtracted: 55</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_Yeti">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Yeti</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Yeti</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Enriched Life Essences, 1 Enriched Water Essence,</text>
+   <nl/>
+   <text> 5 Raw Meat, 5 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Yeti Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 5</text>
+   <nl/>
+   <text> Recommended Summoning Level: 45</text>
+   <nl/>
+   <text> Summoning Experience Given: 4000</text>
+   <nl/>
+   <text> Mana subtracted: 50</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_Giant">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Giant</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Giant</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Enriched Life Essences, 1 Enriched Magic Essence,</text>
+   <nl/>
+   <text> 5 Raw Meat, 5 Bones</text>
+   <nl/>
+   <text> Knowledge needed: Giant Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 5</text>
+   <nl/>
+   <text> Recommended Summoning Level: 55</text>
+   <nl/>
+   <text> Summoning Experience Given: 6000</text>
+   <nl/>
+   <text> Mana subtracted: 60</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_Sslessar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Sslessar</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Sslessar</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 20 Life Essences, 10 Death Essences, 1 Serpent Stone</text>
+   <nl/>
+   <text> Required Nexuses: Animal 5</text>
+   <nl/>
+   <text> Recommended Summoning Level: 60</text>
+   <nl/>
+   <text> Summoning Experience Given: 2000</text>
+   <nl/>
+   <text> Mana subtracted: 65</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_DragonR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Red Dragon</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Red Dragon</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 6 Enriched Fire Essences, 5 Enriched Life Essences,</text>
+   <nl/>
+   <text> 10 Serpent Stone, 1 Mixture of Power, 15 Bones.</text>
+   <nl/>
+   <text> Knowledge needed: Red Dragon Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal UNKNOWN</text>
+   <nl/>
+   <text> Recommended Summoning Level: UNKNOWN</text>
+   <nl/>
+   <text> Summoning Experience Given: UNKNOWN</text>
+   <nl/>
+   <text> Mana subtracted: UNKNOWN</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="ST_Bear">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Bear Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> When used, summon a Black Bear.</text>
+   <nl/>
+   <text>       Good for one use only.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 15 Life Essences, 1 Bear Fur, 20 Gypsum,</text>
+   <nl/>
+   <text> 3 Potions of Spirit Restoration</text>
+   <nl/>
+   <text> Knowledge needed: Bear Stone Construction</text>
+   <nl/>
+   <text> Required Nexuses: Animal 5</text>
+   <nl/>
+   <text> Recommended Summoning Level: 30</text>
+   <nl/>
+   <text> Summoning Experience Given: 200</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="ST_TigerW">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Tiger Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> When used, summon a White Tiger.</text>
+   <nl/>
+   <text>       Good for one use only.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 20 Life Essences, 1 White Tiger Fur, 20 Gypsum,</text>
+   <nl/>
+   <text> 4 Potions of Spirit Restoration</text>
+   <nl/>
+   <text> Knowledge needed: Tiger Stone Construction</text>
+   <nl/>
+   <text> Required Nexuses: Animal 5</text>
+   <nl/>
+   <text> Recommended Summoning Level: 45</text>
+   <nl/>
+   <text> Summoning Experience Given: 320</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="ST_Spider">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>        Giant Spider Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> When used, summon a Giant Spider.</text>
+   <nl/>
+   <text>       Good for one use only.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 20 Life Essences, 20 Thread, 20 Gypsum,</text>
+   <nl/>
+   <text> 4 Potions of Spirit Restoration</text>
+   <nl/>
+   <text> Knowledge needed: Giant Spider Stone Construction</text>
+   <nl/>
+   <text> Required Nexuses: Animal 5</text>
+   <nl/>
+   <text> Recommended Summoning Level: 40</text>
+   <nl/>
+   <text> Summoning Experience Given: 280</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="ST_OrcAM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Armed Orc Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> When used, summon an Armed Orc.</text>
+   <nl/>
+   <text>       Good for one use only.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 10 Life Essences, 1 Iron Sword, 20 Gypsum,</text>
+   <nl/>
+   <text> 2 Potions of Spirit Restoration</text>
+   <nl/>
+   <text> Knowledge needed: Armed Orc Stone Construction</text>
+   <nl/>
+   <text> Required Nexuses: Animal 5</text>
+   <nl/>
+   <text> Recommended Summoning Level: 35</text>
+   <nl/>
+   <text> Summoning Experience Given: 400</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="ST_Phantom">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>       Phantom Warrior Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> When used, summon a Phantom Warrior.</text>
+   <nl/>
+   <text>       Good for one use only.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Enriched Death Essence, 20 Gypsum,</text>
+   <nl/>
+   <text> 2 Potions of Spirit Restoration</text>
+   <nl/>
+   <text> Knowledge needed: Phantom Warrior Stone Construction</text>
+   <nl/>
+   <text> Required Nexuses: Animal 5</text>
+   <nl/>
+   <text> Recommended Summoning Level: 50</text>
+   <nl/>
+   <text> Summoning Experience Given: 3500</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="ST_RabbitF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>        Fluffy Rabbit Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> When used, summon a Fluffy Rabbit.</text>
+   <nl/>
+   <text>       Good for one use only.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Enriched Life Essences, 20 Gypsum,</text>
+   <nl/>
+   <text> 3 Potions of Spirit Restoration</text>
+   <nl/>
+   <text> Knowledge needed: Fluffy Rabbit Stone Construction</text>
+   <nl/>
+   <text> Required Nexuses: Animal 6</text>
+   <nl/>
+   <text> Recommended Summoning Level: 55</text>
+   <nl/>
+   <text> Summoning Experience Given: 3000</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="ST_Sslessar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Sslessar Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> When used, summon Sslessar.</text>
+   <nl/>
+   <text>       Good for one use only.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 20 Gypsum, 1 Potion of Extra Mana, 1 Serpent Stone</text>
+   <nl/>
+   <text> Knowledge needed: Sslessar Stone Construction</text>
+   <nl/>
+   <text> Required Nexuses: Animal 6</text>
+   <nl/>
+   <text> Recommended Summoning Level: 60</text>
+   <nl/>
+   <text> Summoning Experience Given: 3500</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="ST_ChimeranA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>       Arctic Chimeran Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> When used, summon an Arctic Chimeran Wolf.</text>
+   <nl/>
+   <text>       Good for one use only.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Enriched Life Essence, 1 Enriched Water Essence,</text>
+   <nl/>
+   <text> 20 Gypsum, 3 Potions of Extra Mana, 1 Binding Stone</text>
+   <nl/>
+   <text> Knowledge needed: Arctic Chimeran Stone Construction</text>
+   <nl/>
+   <text> Required Nexuses: Animal 6</text>
+   <nl/>
+   <text> Recommended Summoning Level: 71</text>
+   <nl/>
+   <text> Summoning Experience Given: 8000</text>
+   <nl/>
+   <text> Food subtracted: 40</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="ST_Yeti">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Yeti Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> When used, summon a Yeti.</text>
+   <nl/>
+   <text>       Good for one use only.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Enriched Life Essence, 1 Enriched Water Essence,</text>
+   <nl/>
+   <text> 20 Gypsum, 1 Binding Stone</text>
+   <nl/>
+   <text> Knowledge needed: Yeti Stone Construction</text>
+   <nl/>
+   <text> Required Nexuses: Animal 6</text>
+   <nl/>
+   <text> Recommended Summoning Level: 65</text>
+   <nl/>
+   <text> Summoning Experience Given: 7000</text>
+   <nl/>
+   <text> Food subtracted: 45</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="ST_Giant">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Giant Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> When used, summon a Giant.</text>
+   <nl/>
+   <text>       Good for one use only.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Enriched Life Essences, 1 Enriched Magic Essence,</text>
+   <nl/>
+   <text> 20 Gypsum, 1 Binding Stone</text>
+   <nl/>
+   <text> Knowledge needed: Giant Stone Construction</text>
+   <nl/>
+   <text> Required Nexuses: Animal 6</text>
+   <nl/>
+   <text> Recommended Summoning Level: 75</text>
+   <nl/>
+   <text> Summoning Experience Given: 9000</text>
+   <nl/>
+   <text> Food subtracted: 50</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+</Summoning>

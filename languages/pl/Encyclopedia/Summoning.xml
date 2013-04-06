@@ -1,0 +1,1717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Summoning>
+<Page name="S_Rabbit">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Rabbit</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Krolika</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Life Essence, 1 Brown Rabbit Fur, 1 Raw Meat, 1 Bone</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 0</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 5</text>
+   <nl/>
+   <text> Koszt Many: 5</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_Rat">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Rat</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Szczura</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Life Essence, 1 Rat Tail, 1 Raw Meat, 1 Bone</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 3</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 7</text>
+   <nl/>
+   <text> Koszt Many: 7</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_Beaver">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Beaver</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Bobra</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Life Essence, 1 Beaver Fur, 1 Raw Meat, 1 Bone</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 1</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 4</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 10</text>
+   <nl/>
+   <text> Koszt Many: 9</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_Deer">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Deer</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Jelenia</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Deer Fur, 1 Deer Antlers, 3 Raw Meat,</text>
+   <nl/>
+   <text> 3 Bones</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 1</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 5</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 18</text>
+   <nl/>
+   <text> Koszt Many: 12</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_Skunk">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Skunk</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Skunksa</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Life Essence, 1 Skunk Fur, 1 Raw Meat, 1 Bone</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 1</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 5</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 20</text>
+   <nl/>
+   <text> Koszt Many: 10</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_Racoon">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Racoon</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Szopa</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Life Essence, 1 Racoon Fur, 1 Raw Meat, 1 Bone</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 1</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 6</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 25</text>
+   <nl/>
+   <text> Koszt Many: 11</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_SnakeG">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Green Snake</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Zielonego Weza</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Life Essence, 1 Green Snake Skin, 1 Raw Meat</text>
+   <nl/>
+   <text> Wymagana Wiedza: Snakes Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 2</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 8</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 21</text>
+   <nl/>
+   <text> Koszt Many: 13</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_SnakeR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Red Snake</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Czerwonego Weza</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Life Essence, 1 Red Snake Skin, 1 Raw Meat</text>
+   <nl/>
+   <text> Wymagana Wiedza: Snakes Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 2</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 12</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 25</text>
+   <nl/>
+   <text> Koszt Many: 17</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_SnakeB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Brown Snake</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Brazowego Weza</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Life Essence, 1 Brown Snake Skin, 2 Raw Meat</text>
+   <nl/>
+   <text> Wymagana Wiedza: Snakes Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 2</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 17</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 30</text>
+   <nl/>
+   <text> Koszt Many: 22</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_Fox">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Fox</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Lisa</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Fox Fur, 2 Raw Meat, 2 Bones</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 2</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 22</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 40</text>
+   <nl/>
+   <text> Koszt Many: 25</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_Boar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Boar</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Dzika</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Life Essences, 4 Raw Meat, 3 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Boar Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 2</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 26</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 50</text>
+   <nl/>
+   <text> Koszt Many: 29</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_Wolf">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Wolf</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Wilka</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Wolf Fur, 2 Raw Meat, 3 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Wolf Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 2</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 32</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 60</text>
+   <nl/>
+   <text> Koszt Many: 33</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_Puma">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Puma</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Pume</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Puma Fur, 3 Raw Meat, 3 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Puma Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 2</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 40</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 80</text>
+   <nl/>
+   <text> Koszt Many: 45</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_BearP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Polar Bear</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Niedzwiedzia Polarnego</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 3 Life Essences, 1 Polar Bear Fur, 5 Raw Meat, 5 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Polar Bear Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 3</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 40</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 90</text>
+   <nl/>
+   <text> Koszt Many: 48</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_BearB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Black Bear</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Czarnego Niedzwiedzia</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 3 Life Essences, 1 Bear Fur, 5 Raw Meat, 5 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Bear Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 3</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 45</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 90</text>
+   <nl/>
+   <text> Koszt Many: 50</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_Skeleton">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Skeleton</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Szkielet</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 3 Life Essences, 3 Death Essences, 10 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Skeleton Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 2</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 32</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 64</text>
+   <nl/>
+   <text> Koszt Many: 37</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_SkeletonA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Armed Skeleton</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Uzbrojonego Szkieleta</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Steel Long Sword, 8 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Armed Skeleton Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 3</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 47</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 500</text>
+   <nl/>
+   <text> Koszt Many: 52</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_Phantom">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Phantom Warrior</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Widmo</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Enriched Death Essence, 10 Life Essences, 5 Bones</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 5</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 57</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 1000</text>
+   <nl/>
+   <text> Koszt Many: 43</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_GargoyleS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Short Gargoyle</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Niskiego Gargulca</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Life Essences, 2 Death Essences, 2 Fire Essences,</text>
+   <nl/>
+   <text> 2 Matter Essences</text>
+   <nl/>
+   <text> Wymagana Wiedza: Gargoyle Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 2</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 34</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 70</text>
+   <nl/>
+   <text> Koszt Many: 39</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_GargoyleT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Tall Gargoyle</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Wysokiego Gargulca</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 3 Life Essences, 3 Death Essences, 3 Fire Essences,</text>
+   <nl/>
+   <text> 3 Matter Essences</text>
+   <nl/>
+   <text> Wymagana Wiedza: Gargoyle Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 2</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 36</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 74</text>
+   <nl/>
+   <text> Koszt Many: 41</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_GargoyleM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Medium Gargoyle</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Sredniego Gargulca</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 4 Life Essences, 4 Death Essences, 4 Fire Essences,</text>
+   <nl/>
+   <text> 4 Matter Essences</text>
+   <nl/>
+   <text> Wymagana Wiedza: Gargoyle Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 3</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 38</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 80</text>
+   <nl/>
+   <text> Koszt Many: 43</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_GoblinF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Female Goblin</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Zenskiego Goblina</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Iron Sword, 3 Raw Meat, 3 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Female Goblin Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 3</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 41</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 300</text>
+   <nl/>
+   <text> Koszt Many: 46</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_GoblinAM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Male Armed Goblin</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Uzbrojonego Goblina</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Iron Broad Sword, 3 Raw Meat, 3 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Armed Male Goblin Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 3</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 47</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 400</text>
+   <nl/>
+   <text> Koszt Many: 52</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_TankRabbit">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Tank Rabbit</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instukcja przywolania Pancernego Krolika:</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Brown Rabbit Fur, 1 Life Essence, 1 Meat, 1 Bone,</text><nl/>
+   <text> 1 Titanium Bar.</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 6</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 58</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 200</text>
+   <nl/>
+   <text> Koszt Many: 63</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_Falcon">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Falcon</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Sokola</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 10 Falcon Feathers, 20 Life Essences, 2 Meat, 3 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Falcon Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 5</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 60</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 300</text>
+   <nl/>
+   <text> Koszt Many: 65</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_Hawk">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Hawk</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Jastrzebia</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 10 Hawk Feathers, 20 Life Essences, 2 Meat, 3 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Hawk Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 5</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 62</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 320</text>
+   <nl/>
+   <text> Koszt Many: 67</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_OrcF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Female Orc</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Zenskiego Orka</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Steel 2edge Sword, 3 Raw Meat, 3 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Female Orc Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 3</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 49</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 400</text>
+   <nl/>
+   <text> Koszt Many: 54</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_OrcM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Male Orc</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Orka</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Titanium Short Sword, 3 Raw Meat,</text>
+   <nl/>
+   <text> 3 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Male Orc Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 4</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 50</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 800</text>
+   <nl/>
+   <text> Koszt Many: 55</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_OrcAF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Armed Female Orc</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Uzbrojonego Zenskiego Orka</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Titanium Long Sword, 3 Raw Meat,</text>
+   <nl/>
+   <text> 3 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Armed Female Orc Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 4</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 51</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 1000</text>
+   <nl/>
+   <text> Koszt Many: 56</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_OrcAM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Armed Male Orc</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolacn Uzbrojonego Orka</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Life Essences, 1 Titanium Long Sword, 3 Raw Meat,</text>
+   <nl/>
+   <text> 1 Wooden Battle Hammer</text>
+   <nl/>
+   <text> Wymagana Wiedza: Armed Male Orc Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 4</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 52</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 1600</text>
+   <nl/>
+   <text> Koszt Many: 57</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_Cyclops">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Cyclops</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Cyklopa</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 3 Life Essences, 1 Titanium Serpent Sword, 3 Raw Meat,</text>
+   <nl/>
+   <text> 3 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Cyclops Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 4</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 53</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 3000</text>
+   <nl/>
+   <text> Koszt Many: 58</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_RabbitF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Fluffy Rabbit</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Kroliczka Fluffy</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Enriched Life Essence, 1 White Rabbit Fur, 1 Raw Meat,</text>
+   <nl/>
+   <text> 1 Bone</text>
+   <nl/>
+   <text> Wymagana Wiedza: Fluffy Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 2</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 35</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 750</text>
+   <nl/>
+   <text> Koszt Many: 40</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_ChimeranM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Mountain Chimeran Wolf</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Gorska Chimere.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Enriched Life Essences, 2 Wolf Fur, 1 Raw Meat, 1 Bone</text>
+   <nl/>
+   <text> Wymagana Wiedza: Mountain Chimeran Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 2</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 40</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 2000</text>
+   <nl/>
+   <text> Koszt Many: 45</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_ChimeranA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Arctic Chimeran Wolf</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolacn Arktyczna Chimere</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 4 Enriched Life Essences, 1 Enriched Water Essence,</text>
+   <nl/>
+   <text> 5 Raw Meat, 5 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Arctic Chimeran Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 5</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 50</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 5000</text>
+   <nl/>
+   <text> Koszt Many: 55</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_Yeti">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Yeti</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Yeti</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Enriched Life Essences, 1 Enriched Water Essence,</text>
+   <nl/>
+   <text> 5 Raw Meat, 5 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Yeti Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 5</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 45</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 4000</text>
+   <nl/>
+   <text> Koszt Many: 50</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_Giant">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Giant</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Giganta</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 5 Enriched Life Essences, 1 Enriched Magic Essence,</text>
+   <nl/>
+   <text> 5 Raw Meat, 5 Bones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Giant Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 5</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 55</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 6000</text>
+   <nl/>
+   <text> Koszt Many: 60</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_Sslessar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Sslessar</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Sslessara</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 20 Life Essences, 10 Death Essences, 1 Serpent Stone</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 5</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 60</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 2000</text>
+   <nl/>
+   <text> Koszt Many: 65</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="S_DragonR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Red Dragon</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Instrukcje jak przywolac Czerwonego Smoka</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 6 Enriched Fire Essences, 5 Enriched Life Essences,</text>
+   <nl/>
+   <text> 10 Serpent Stone, 1 Mixture of Power, 15 Bones.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Red Dragon Summoning</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 6</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 80</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 1200</text>
+   <nl/>
+   <text> Koszt Many: 85</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="ST_Bear">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Bear Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przywoluje Czarnego Niedzwiedzia.</text>
+   <nl/>
+   <text>       Jednorazowego uzytku.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 15 Life Essences, 1 Bear Fur, 20 Gypsum,</text>
+   <nl/>
+   <text> 3 Potions of Spirit Restoration</text>
+   <nl/>
+   <text> Wymagana Wiedza: Bear Stone Construction</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 5</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 30</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 200</text>
+   <nl/>
+   <text> Koszt Jedzenia: 25</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="ST_TigerW">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Tiger Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przywoluje Bialego Tygrysa.</text>
+   <nl/>
+   <text>       Jednorazowego uzytku.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 20 Life Essences, 1 White Tiger Fur, 20 Gypsum,</text>
+   <nl/>
+   <text> 4 Potions of Spirit Restoration</text>
+   <nl/>
+   <text> Wymagana Wiedza: Tiger Stone Construction</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 5</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 45</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 320</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="ST_Spider">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>        Giant Spider Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przywoluje Wielkiego Pajaka.</text>
+   <nl/>
+   <text>       Jednorazowego uzytku.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 20 Life Essences, 20 Thread, 20 Gypsum,</text>
+   <nl/>
+   <text> 4 Potions of Spirit Restoration</text>
+   <nl/>
+   <text> Wymagana Wiedza: Giant Spider Stone Construction</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 5</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 40</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 280</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="ST_OrcAM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Armed Orc Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przywolujen Uzbrojonego Orka.</text>
+   <nl/>
+   <text>       Jednorazowego uzytku.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 10 Life Essences, 1 Iron Sword, 20 Gypsum,</text>
+   <nl/>
+   <text> 2 Potions of Spirit Restoration</text>
+   <nl/>
+   <text> Wymagana Wiedza: Armed Orc Stone Construction</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 5</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 35</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 400</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="ST_Phantom">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>       Phantom Warrior Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przywoluje Widmo.</text>
+   <nl/>
+   <text>       Jednorazowego uzytku.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Enriched Death Essence, 20 Gypsum,</text>
+   <nl/>
+   <text> 2 Potions of Spirit Restoration</text>
+   <nl/>
+   <text> Wymagana Wiedza: Phantom Warrior Stone Construction</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 5</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 50</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 3500</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="ST_RabbitF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>        Fluffy Rabbit Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przywoluje Kroliczka Fluffy.</text>
+   <nl/>
+   <text>       Jednorazowego uzytku.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Enriched Life Essences, 20 Gypsum,</text>
+   <nl/>
+   <text> 3 Potions of Spirit Restoration</text>
+   <nl/>
+   <text> Wymagana Wiedza: Fluffy Rabbit Stone Construction</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 6</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 55</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 3000</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="ST_Sslessar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Sslessar Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przywoluje Sslessara.</text>
+   <nl/>
+   <text>       Jednorazowego uzytku.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 20 Gypsum, 1 Potion of Extra Mana, 1 Serpent Stone</text>
+   <nl/>
+   <text> Wymagana Wiedza: Sslessar Stone Construction</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 6</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 60</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 3500</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="ST_ChimeranA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>       Arctic Chimeran Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przywoluje Arktyczna Chimere.</text>
+   <nl/>
+   <text>       Jednorazowego uzytku.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Enriched Life Essence, 1 Enriched Water Essence,</text>
+   <nl/>
+   <text> 20 Gypsum, 3 Potions of Extra Mana, 1 Binding Stone</text>
+   <nl/>
+   <text> Wymagana Wiedza: Arctic Chimeran Stone Construction</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 6</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 71</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 8000</text>
+   <nl/>
+   <text> Koszt Jedzenia: 40</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="ST_Yeti">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Yeti Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przywoluje Yeti.</text>
+   <nl/>
+   <text>       Jednorazowego uzytku.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Enriched Life Essence, 1 Enriched Water Essence,</text>
+   <nl/>
+   <text> 20 Gypsum, 1 Binding Stone</text>
+   <nl/>
+   <text> Wymagana Wiedza: Yeti Stone Construction</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 6</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 65</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 7000</text>
+   <nl/>
+   <text> Koszt Jedzenia: 45</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="ST_Giant">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Giant Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przywoluje Giganta.</text>
+   <nl/>
+   <text>       Jednorazowego uzytku.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 3 Enriched Life Essences, 1 Enriched Magic Essence,</text>
+   <nl/>
+   <text> 20 Gypsum, 1 Binding Stone</text>
+   <nl/>
+   <text> Wymagana Wiedza: Giant Stone Construction</text>
+   <nl/>
+   <text> Wymagany Nexus: Animal 6</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 75</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 9000</text>
+   <nl/>
+   <text> Koszt Jedzenia: 50</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+<Page name="Glyph_Mule">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Mule Glyph</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu zamienia Cie w Osla.</text>
+   <nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Uwaga: wyprodukowanie wytworzy 40 glyfow na raz.</text><nl/>
+   <nl/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Enriched Life Essence, 1 Mixture of Power, 40 Mule Skins.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Mule Glyph Construction</text>
+   <nl/>
+   <text> Wymagane Nexusy: Animal 5</text>
+   <nl/>
+   <text> Zalecany Poziom Przywolywania: 48</text>
+   <nl/>
+   <text> Doswiadczenie w Przywolywaniu: 4200</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Wroc do Indeksu Przywolan"/>
+</Page>
+</Summoning>

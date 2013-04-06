@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Potions>
+<Page name="P_Mana">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Potion de Mana</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Restore 5 points d'ether.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Fiole Vide, 1 Vin, 1 Lupin Bleu</text><nl/>
+   <text> Expérience gagnée: Potion: 5</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <text> Coût de base: 5 pièces d'or</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Healing">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Potion de Soin Mineur</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Restore 6 points de vie.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Fiole Vide, 1 Vin, 1 Tournesol</text><nl/>
+   <text> Nexus requis: Potion: 2</text><nl/>
+   <text> Expérience gagnée: Potion: 9</text><nl/>
+   <text> Empilable: Yes</text><nl/>
+   <text> Coût de base: 6 pièces d'or</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Reasoning">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Potion de Raisonnement</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Augmente temporairement votre Raisonnement.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Fiole Vide, 3 Poudres d'Os, 1 Légume</text><nl/>
+   <text> Outils requis: Mortier et Pilon</text><nl/>
+   <text> Nexus requis: Végétal: 1</text><nl/>
+   <text> Talents recommandés: Potion: 4</text><nl/>
+   <text> Expérience gagnée: Potion: 15</text><nl/>
+   <text> Nourriture consommée: 1</text><nl/>
+   <text> Empilable: Yes</text><nl/>
+   <text> Coût de base: 30 pièces d'or</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Physique">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion de Physique</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Augmente temporairement votre Physique.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Fiole Vide, 3 Poudres d'Os, 3 Viandes Crues,</text><nl/>
+   <text> 1 Pot de Miel.</text><nl/>
+   <text> Outils requis: Mortier et Pilon</text><nl/>
+   <text> Connaissance requise: Potion of Physique</text><nl/>
+   <text> Nexus requis: Végétal: 1</text><nl/>
+   <text> Talents recommandés: Potion: 6</text><nl/>
+   <text> Expérience gagnée: Potion: 20</text><nl/>
+   <text> Nourriture consommée: 2</text><nl/>
+   <text> Empilable: Yes</text><nl/>
+   <text> Coût de base: 25 pièces d'or</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Defense">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Potion de Défense</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Augmente temporairement votre Défense.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Fiole Vide, 2 Peaux de Castor, 2 Minerais d'Argent,</text><nl/>
+   <text> 4 Swamp Candles, 1 Poudres d'Os</text><nl/>
+   <text> Outils requis: Mortier et Pilon</text><nl/>
+   <text> Nexus requis: Végétal: 2</text><nl/>
+   <text> Talents recommandés: Potion: 8</text><nl/>
+   <text> Expérience gagnée: Potion: 25</text><nl/>
+   <text> Nourriture consommée: 3</text><nl/>
+   <text> Empilable: Yes</text><nl/>
+   <text> Coût de base: 28 pièces d'or</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Coordination">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Potion de Coordination</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Augmente temporairement votre Coordination.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Cactus, 1 Fiole Vide, 1 Peau de Cerf</text><nl/>
+   <text> Outils requis: Mortier et Pilon</text><nl/>
+   <text> Connaissance requise: Potion de Coordination</text><nl/>
+   <text> Nexus requis: Végétal: 2</text><nl/>
+   <text> Talents recommandés: Potion: 10</text><nl/>
+   <text> Expérience gagnée: Potion: 30</text><nl/>
+   <text> Nourriture consommée: 4</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <text> Coût de base: 22 pièces d'or</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Wildness">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion de Férocité</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Augmente temporairement votre Instinct.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Bière, 1 Fiole Vide, 1 Peau de Loup</text><nl/>
+   <text> Connaissance requise: Potion de Férocité</text><nl/>
+   <text> Nexus requis: Végétal: 3</text><nl/>
+   <text> Talents recommandés: Potion: 12</text><nl/>
+   <text> Expérience gagnée: Potion: 35</text><nl/>
+   <text> Nourriture consommée: 5</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <text> Coût de base: 28 pièces d'or</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Will">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Potion de Volonté</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Augmente temporairement votre Volonté.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Fiole Vide, 3 Poudres d'Os, 2 Minerais d'Argent, 1 Rose Jaune</text><nl/>
+   <text> Outils requis: Mortier et Pilon</text><nl/>
+   <text> Connaissance requise: Potion de Volonté</text><nl/>
+   <text> Nexus requis: Végétal: 3</text><nl/>
+   <text> Talents recommandés: Potion: 14</text><nl/>
+   <text> Expérience gagnée: Potion: 45</text><nl/>
+   <text> Nourriture consommée: 6</text><nl/>
+   <text> Empilable: Yes</text><nl/>
+   <text> Coût de base: 24 pièces d'or</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Vitality">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion de Vitalité</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Augmente temporairement votre Volonté.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Cactus, 1 Fiole Vide, 1 Peau de Puma</text><nl/>
+   <text> Outils requis: Mortier et Pilon</text><nl/>
+   <text> Connaissance requise: Potion de Vitalité</text><nl/>
+   <text> Nexus requis: Végétal: 3</text><nl/>
+   <text> Talents recommandés: Potion: 16</text><nl/>
+   <text> Expérience gagnée: Potion: 50</text><nl/>
+   <text> Nourriture consommée: 7</text><nl/>
+   <text> Empilable: Yes</text><nl/>
+   <text> Coût de base: 25 pièces d'or</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Attack">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Potion d'Attaque</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Augmente temporairement votre Attaque.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Fiole Vide, 1 Peau d'Ours, 1 Minerais d'Or,</text><nl/>
+   <text> 1 Tiger Lilly.</text><nl/>
+   <text> Outils requis: Mortier et Pilon</text><nl/>
+   <text> Nexus requis: Végétal: 4</text><nl/>
+   <text> Talents recommandés: Potion: 18</text><nl/>
+   <text> Expérience gagnée: Potion: 55</text><nl/>
+   <text> Nourriture consommée: 8</text><nl/>
+   <text> Empilable: Yes</text><nl/>
+   <text> Coût de base: 30 pièces d'or</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Spirit Restoration">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>        Potion de Régénération Spirituelle</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Restore 20 points d'Ether.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Fiole Vide, 1 Vin, 2 Blue Star Flowers, 1 Quartz Bleu</text><nl/>
+   <text> Outils requis: Mortier et Pilon</text><nl/>
+   <text> Nexus requis: Végétal: 4</text><nl/>
+   <text> Talents recommandés: Potion: 20</text><nl/>
+   <text> Expérience gagnée: Potion: 65</text><nl/>
+   <text> Nourriture consommée: 9</text><nl/>
+   <text> Empilable: Yes</text><nl/>
+   <text> Coût de base: 26 pièces d'or</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Feasting">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Potion de Satiété</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Augmente temporairement votre niveau de </text>
+   <nlkx/>
+   <text> Nourriture par 50.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Fiole Vide, 1 Vin, 1 Viande Crue, 1 Légume, 1 Fruit</text><nl/>
+   <text> Outils requis: Mortier et Pilon</text><nl/>
+   <text> Connaissance requise: Potion de Satiété</text><nl/>
+   <text> Nexus requis: Végétal: 4</text><nl/>
+   <text> Talents recommandés: Potion: 22</text><nl/>
+   <text> Expérience gagnée: Potion: 70</text><nl/>
+   <text> Nourriture consommée: 10</text><nl/>
+   <text> Empilable: Yes</text><nl/>
+   <text> Coût de base: 10 pièces d'or</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Body Restoration">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Potion de Rétablissement</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Restore 20 points de vie.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Fiole Vide, 1 Vin, 2 Tournesol, 1 Quartz Rose</text><nl/>
+   <text> Outils requis: Mortier et Pilon</text><nl/>
+   <text> Connaissance requise: Potion de Rétablissement</text><nl/>
+   <text> Nexus requis: Végétal: 4</text><nl/>
+   <text> Talents recommandés: Potion: 24</text><nl/>
+   <text> Expérience gagnée: Potion: 75</text><nl/>
+   <text> Nourriture consommée: 11</text><nl/>
+   <text> Empilable: Yes</text><nl/>
+   <text> Coût de base: 30 pièces d'or</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Harvesting">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion de Récolte</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Augmente temporairement votre niveau de Récolte.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Fiole Vide, 2 Peaux de Lapin Blanc, 3 Lilas</text><nl/>
+   <text> Outils requis: Mortier et Pilon</text><nl/>
+   <text> Nexus requis: Végétal: 5</text><nl/>
+   <text> Talents recommandés: Potion: 26</text><nl/>
+   <text> Expérience gagnée: Potion: 90</text><nl/>
+   <text> Nourriture consommée: 12</text><nl/>
+   <text> Empilable: Yes</text><nl/>
+   <text> Coût de base: 20 pièces d'or</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Manufacturing">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Potion de Fabrication</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Augmente temporairement votre niveau de Fabrication.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Fiole Vide, 2 Minerais de Fer, 1 Minerai d'Argent,</text><nl/>
+   <text> 1 Tournesol, 1 Chrysanthème</text><nl/>
+   <text> Outils requis: Mortier et Pilon</text><nl/>
+   <text> Connaissance requise: Potion de Fabrication</text><nl/>
+   <text> Nexus requis: Végétal: 5</text><nl/>
+   <text> Talents recommandés: Potion: 28</text><nl/>
+   <text> Expérience gagnée: Potion: 95</text><nl/>
+   <text> Nourriture consommée: 13</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <text> Coût de base: 45 pièces d'or</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Summoning">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion d'Invocation</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Augmente temporairement votre niveau d'Invocation.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Fiole Vide, 1 Lingot d'Argent, 1 Bois de Cerf,</text><nl/>
+   <text> 4 White Asiatic Lilies</text><nl/>
+   <text> Outils requis: Mortier et Pilon</text><nl/>
+   <text> Connaissance requise: Potion d'Invocation</text><nl/>
+   <text> Nexus requis: Végétal: 5</text><nl/>
+   <text> Talents recommandés: Potion: 30</text><nl/>
+   <text> Expérience gagnée: Potion: 105</text><nl/>
+   <text> Nourriture consommée: 14</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <text> Coût de base: 40 pièces d'or</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Craft">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Potion d'Artisanat</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Augmente temporairement votre niveau d'Artisanat.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Fiole Vide, 1 Rubis Poli, 2 Quartz Blu,</text><nl/>
+   <text> 1 Mead, 1 Mercury</text><nl/>
+   <text> Outils requis: Mortier et Pilon</text><nl/>
+   <text> Connaissance requise: Potion d'Artisanat</text><nl/>
+   <text> Nexus requis: Végétal: 5</text><nl/>
+   <text> Talents recommandés: Potion: 35</text><nl/>
+   <text> Expérience gagnée: Potion: 100</text><nl/>
+   <text> Nourriture consommée: 20</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Magic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Retour"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">L'Encyclopédie d'Eternal Lands</text><nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Potion de Magie</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Augmente temporairement votre niveau de Magie.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingrédients nécessaires:</text><nl/>
+   <text> 1 Fiole Vide, 1 Rubis Poli, 2 Roses Noires,</text><nl/>
+   <text> 1 Bière, 1 Queue de Rat</text><nl/>
+   <text> Outils requis: Mortier et Pilon</text><nl/>
+   <text> Connaissance requise: Potion de Magie</text><nl/>
+   <text> Nexus requis: Végétal: 5</text><nl/>
+   <text> Talents recommandés: Potion: 40</text><nl/>
+   <text> Expérience gagnée: Potion: 120</text><nl/>
+   <text> Nourriture consommée: 30</text><nl/>
+   <text> Empilable: Non</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Retour vers Potions"/>
+</Page>
+<Page name="P_Extra_Mana">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Potion of Extra Mana</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Restores 50 ethereal points.</text><nlkx/>
+   <text> It can also be made randomly when creating potions</text><nlkx/>
+   <text> of mana or potions of spirit restoration.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> FIRST FORMULA:</text>
+   <nl/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 30 Ogre Toes, 15 Potions of Spirit Restoration,</text>
+   <nl/>
+   <text> 10 Magic Essences.</text>
+   <nl/>
+   <text> Tools required to have: Mortar and Pestle</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 6</text>
+   <nl/>
+   <text> Recommended Potion Level: 36</text>
+   <nl/>
+   <text> Potion Experience Given: 500</text>
+   <nl/>
+   <text> Food Subtracted: 60</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 10 EMU</text>
+   <nl/>
+   <nl/>
+   <text> SECOND FORMULA:</text>
+   <nl/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Binding stone, 2 Potions of Spirit Restoration.</text>
+   <nl/>
+   <text> Required Nexuses: Magic 4</text>
+   <nl/>
+   <text> Recommended Potion Level: 36</text>
+   <nl/>
+   <text> Potion Experience Given: 500</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 10 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="P_Extra_Life">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion of Great Healing</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Restores 50 material points.</text><nlkx/>
+   <text> It can also be made randomly when creating potions</text><nlkx/>
+   <text> of minor healing or potions of body restoration.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Binding stone, 2 Potions of Body Restoration.</text>
+   <nl/>
+   <text> Required Nexuses: Magic 4</text>
+   <nl/>
+   <text> Recommended Potion Level: 40</text>
+   <nl/>
+   <text> Potion Experience Given: 500</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="P_Antidote">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Poison Antidote</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Removes any current poison from your body.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Empty Vial, 3 Rues, 10 Yarrows, 3 Poppies, 4 Ale.</text>
+   <nl/>
+   <text> Tools required to have: Mortar and Pestle</text>
+   <nl/>
+   <text> Knowledge needed: Poison Antidote</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 5</text>
+   <nl/>
+   <text> Recommended Potion Level: 40</text>
+   <nl/>
+   <text> Experience given:</text>
+   <nl/>
+   <text> Potion exp: 125</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 5 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="P_TS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion of True Sight</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Allows you to see invisible characters.</text><nlkx/>
+   <text> (30% chance of temporarily reducing your attack</text><nlkx/>
+   <text> and defense instead)</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Empty Vial, 9 Wormwoods, 3 Henbanes, 7 Toadstools,</text>
+   <nl/>
+   <text> 2 Meads.</text>
+   <nl/>
+   <text> Tools required to have: Mortar and Pestle</text>
+   <nl/>
+   <text> Knowledge needed: Potion of True Sight</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 5</text>
+   <nl/>
+   <text> Recommended Potion Level: 42</text>
+   <nl/>
+   <text> Potion Experience Given: 140</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="P_Invis">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Potion of Invisibility</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Make your character invisible, except to those</text><nl/>
+   <text>       with True Sight.</text><nl/>
+   <text>       (30% chance of poisoning you instead)</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Empty Vial, 2 Ales, 2 Snow Leopard Furs, 7 Wormwoods</text>
+   <nl/>
+   <text> 5 Daffodils, 6 Mulleins.</text>
+   <nl/>
+   <text> Tools required to have: Mortar and Pestle</text>
+   <nl/>
+   <text> Knowledge needed: Potion of Invisibility</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 5</text>
+   <nl/>
+   <text> Recommended Potion Level: 44</text>
+   <nl/>
+   <text> Potion Experience Given: 150</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 10 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="P_Accuracy">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Potion of Accuracy</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Temporarily increases your ability to aim attacks.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Empty Vial, 3 Skunk Furs, 5 Valerians, 15 Dandelions,</text>
+   <nl/>
+   <text> 1 Ale.</text>
+   <nl/>
+   <text> Tools required to have: Mortar and Pestle</text>
+   <nl/>
+   <text> Knowledge needed: Potion of Accuracy</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 5</text>
+   <nl/>
+   <text> Recommended Potion Level: 46</text>
+   <nl/>
+   <text> Potion Experience Given: 160</text>
+   <nl/>
+   <text> Food subtracted: 32</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 5 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="P_Evasion">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Potion of Evasion</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Temporarily increases your ability to evade attacks.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Empty Vial, 10 Mulleins, 10 Yarrows, 4 Racoon Furs,</text>
+   <nl/>
+   <text> 1 Ale.</text>
+   <nl/>
+   <text> Tools required to have: Mortar and Pestle</text>
+   <nl/>
+   <text> Knowledge needed: Potion of Evasion</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 5</text>
+   <nl/>
+   <text> Recommended Potion Level: 48</text>
+   <nl/>
+   <text> Potion Experience Given: 170</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 5 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="P_Alchemy">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Potion of Alchemy</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Temporarily increases your Alchemy skill.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Empty Vial, 3 Feran Horns, 3 Mercury, 1 Wine,</text>
+   <nl/>
+   <text> 5 Daffodils.</text>
+   <nl/>
+   <text> Tools required to have: Mortar and Pestle</text>
+   <nl/>
+   <text> Knowledge needed: Potion of Alchemy</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 5</text>
+   <nl/>
+   <text> Recommended Potion Level: 50</text>
+   <nl/>
+   <text> Potion Experience Given: 190</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="P_Potion">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Potion of Potion</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Temporarily increases your Potion skill.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Empty Vial, 2 Feran Horns, 1 Wine, 5 Rues, 7 Dandelions,</text>
+   <nl/>
+   <text> 4 Nightshades.</text>
+   <nl/>
+   <text> Tools required to have: Mortar and Pestle</text>
+   <nl/>
+   <text> Knowledge needed: Potion of Potion</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 5</text>
+   <nl/>
+   <text> Recommended Potion Level: 52</text>
+   <nl/>
+   <text> Potion Experience Given: 210</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="P_Eng">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Potion of Engineering</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Temporarily increases your Engineering skill.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Empty Vial, 2 Hawk Feathers, 2 Falcon Feathers,</text>
+   <nl/>
+   <text> 2 Polar Bear Furs, 3 Meads, 5 Wheats.</text>
+   <nl/>
+   <text> Tools required to have: Mortar and Pestle</text>
+   <nl/>
+   <text> Knowledge needed: Potion of Engineering</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 5</text>
+   <nl/>
+   <text> Recommended Potion Level: 60</text>
+   <nl/>
+   <text> Potion Experience Given: 510</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="Extract_YWT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>    Yarrow - Wormwood - Tulips Extract</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for </text><link ref="Mixture_VEG" title="Refined Vegetal Mixture"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Empty Vial, 40 Yarrows, 40 Wormwoods, 40 Tulips,</text>
+   <nl/>
+   <text> 2 Gypsum.</text>
+   <nl/>
+   <text> Tools required to have: Mortar and Pestle</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 5</text>
+   <nl/>
+   <text> Recommended Potion Level: 35</text>
+   <nl/>
+   <text> Potion Experience Given: 450</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="Extract_NMD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text> Nightshade - Mullein - Dandelion Extract</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for </text><link ref="Mixture_VEG" title="Refined Vegetal Mixture"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Empty Vial, 40 Nightshades, 40 Mulleins, 40 Dandelions,</text>
+   <nl/>
+   <text> 2 Gypsum.</text>
+   <nl/>
+   <text> Tools required to have: Mortar and Pestle</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 5</text>
+   <nl/>
+   <text> Recommended Potion Level: 37</text>
+   <nl/>
+   <text> Potion Experience Given: 470</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="Extract_PHP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>  Poison Ivy - Henbane - Poppies Extract</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for </text><link ref="Mixture_VEG" title="Refined Vegetal Mixture"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Empty Vial, 40 Poison Ivys, 40 Henbanes, 40 Poppies,</text>
+   <nl/>
+   <text> 2 Gypsum.</text>
+   <nl/>
+   <text> Tools required to have: Mortar and Pestle</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 5</text>
+   <nl/>
+   <text> Recommended Potion Level: 39</text>
+   <nl/>
+   <text> Potion Experience Given: 550</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="Extract_RBR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text> Red Currants - Blue Berries - Rue Extract</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for </text><link ref="Mixture_VEG" title="Refined Vegetal Mixture"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Empty Vial, 40 Red Currants, 40 Blue Berries, 40 Rues,</text>
+   <nl/>
+   <text> 2 Gypsum.</text>
+   <nl/>
+   <text> Tools required to have: Mortar and Pestle</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 5</text>
+   <nl/>
+   <text> Recommended Potion Level: 41</text>
+   <nl/>
+   <text> Potion Experience Given: 600</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="Extract_WOT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>       White Chanterelle - Ogre Toes -</text><nl/>
+   <text>            Tree Mushroom Extract</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for </text><link ref="Mixture_POW" title="Mixture of Power"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Empty Vial, 40 White Chanterelles, 40 Ogre Toes,</text>
+   <nl/>
+   <text> 40 Tree Mushrooms, 2 Gypsum.</text>
+   <nl/>
+   <text> Tools required to have: Mortar and Pestle</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 5</text>
+   <nl/>
+   <text> Recommended Potion Level: 43</text>
+   <nl/>
+   <text> Potion Experience Given: 620</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="Extract_WVM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>     Wheat - Valerian - Mugwort Extract</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for </text><link ref="Mixture_POW" title="Mixture of Power"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Empty Vial, 40 Wheats, 40 Valerians, 40 Mugworts,</text>
+   <nl/>
+   <text> 2 Gypsum.</text>
+   <nl/>
+   <text> Tools required to have: Mortar and Pestle</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 5</text>
+   <nl/>
+   <text> Recommended Potion Level: 45</text>
+   <nl/>
+   <text> Potion Experience Given: 640</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="Extract_WDF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>   Wheat - Daffodils - Feran Horn Extract</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for </text><link ref="Mixture_POW" title="Mixture of Power"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Empty Vial, 40 Wheats, 40 Daffodils, 4 Feran Horns,</text>
+   <nl/>
+   <text> 2 Gypsum.</text>
+   <nl/>
+   <text> Tools required to have: Mortar and Pestle</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 5</text>
+   <nl/>
+   <text> Recommended Potion Level: 47</text>
+   <nl/>
+   <text> Potion Experience Given: 660</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="Mixture_VEG">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Refined Vegetal Mixture</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for ???.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Yarrow - Wormwood - Tulips Extracts,</text><nl/>
+   <text> 5 Nightshade - Mullein - Dandelion Extracts,</text><nl/>
+   <text> 5 Poison Ivy - Henbane - Poppies Extracts,</text><nl/>
+   <text> 5 Red Currants - Blue Berries - Rue Extracts.</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 6</text>
+   <nl/>
+   <text> Recommended Potion Level: 51</text>
+   <nl/>
+   <text> Potion Experience Given: 1200</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+<Page name="Mixture_POW">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Mixture of Power</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for ???.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 White Chanterelle - Ogre Toes - Tree Mushroom Extracts,</text><nl/>
+   <text> 5 Wheat - Valerian - Mugwort Extracts,</text><nl/>
+   <text> 5 Wheat - Daffodils - Feran Horn Extracts.</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 6</text>
+   <nl/>
+   <text> Recommended Potion Level: 53</text>
+   <nl/>
+   <text> Potion Experience Given: 1200</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
+</Potions>

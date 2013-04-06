@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gods>
+<Page name="ALUWEN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Encyklopädie</text>
+   <nl/>
+   <text>                   GÖTTER</text><nl/>
+   <color>red</color>
+   <text>           Aluwen - Gott der Verteidigung</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Aluwens Pfad zu folgen bedeutet, die Unschuldigen zu</text><nl/>
+   <text> verteidigen, Verwundete zu heilen und von ganzem Herzen</text><nl/>
+   <text> die Wahrheit zu sprechen.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Standort: Forest of the Fall, White Stone</text><nl/>
+   <text> Priester: Noria</text><nl/>
+   <text> Vorteil: Anhänger erhalten mehr Verteidigungserfahrung</text><nl/>
+   <text> Feinde: Mortos, Selain.</text><nl/>
+   <text> Verehrungslevel zu Beginn: Rang -2</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Zurück zu Götter"/>
+</Page>
+<Page name="UNOLAS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Encyklopädie</text>
+   <nl/>
+   <text>                   GÖTTER</text><nl/>
+   <color>red</color>
+   <text>            Unolas - Gott der Magie</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Unolas Pfad zu folgen bedeutet, zu suchen, was hinter</text><nl/>
+   <text> der Idee von Logik und Verstand steht - Magie.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Standort: Vermor Castle, White Stone</text><nl/>
+   <text> Priester: Adrian</text><nl/>
+   <text> Vorteil: Anhänger erhalten mehr Erfahrungspunkte</text><nl/>
+   <text>          in Magie</text><nl/>
+   <text> Feinde: Zarin, Lucaa.</text><nl/>
+   <text> Verehrungslevel zu Beginn: Rang -2</text><nl/>
+   <text> Hinweis: Einige Monster beschützen den Priester von Unolas.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Zurück zu Götter"/>
+</Page>
+<Page name="MORTOS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Encyklopädie</text>
+   <nl/>
+   <text>                   GÖTTER</text><nl/>
+   <color>red</color>
+   <text>           Mortos - Gott des Angriffs</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Mortos Pfad zu folgen bedeutet, sich dem Herrscher</text><nl/>
+   <text> der Schatten zu unterwerfen und eigene Stärke zu gewinnen.</text><nl/>
+   <text> Sterben ist von kurzer Dauer, aber der Tod ist für immer.</text><nl/>
+   <text> Mortos zu folgen bedeutet, Vorbote vom Ende des Lebens zu</text><nl/>
+   <text> sein.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Standort: Die Katakomben, Naralik.</text><nl/>
+   <text> Priester: Dirhyan.</text><nl/>
+   <text> Vorteil: Anhänger erhalten mehr Erfahrungspunkte im</text><nl/>
+   <text>          Angriff</text><nl/>
+   <text> Feinde: Aluwen, Elandria.</text><nl/>
+   <text> Verehrungslevel zu Beginn: Rang -2</text><nl/>
+   <text> Hinweis: Orcs beschützen den Priester von Mortos.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Zurück zu Götter"/>
+</Page>
+<Page name="SELAIN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Encyklopädie</text>
+   <nl/>
+   <text>                   GÖTTER</text><nl/>
+   <color>red</color>
+   <text>           Selain - Gott der Beschwörung</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Den Pfad Selains zu folgen bedeutet es zu wagen,</text><nl/>
+   <text> Möglichkeiten zu ergreifen; reicher, klüger und besser</text><nl/>
+   <text> zu sein als alle anderen Lebewesen.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Standort: Tirnwood, White Stone</text><nl/>
+   <text> Priester: Sylpho</text><nl/>
+   <text> Vorteil: Anhänger erhalten mehr Erfahrungspunkte in</text><nl/>
+   <text>          Beschwörung</text><nl/>
+   <text> Feinde: Aluwen, Glilin.</text><nl/>
+   <text> Verehrungslevel zu Beginn: Rang -2</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Zurück zu Götter"/>
+</Page>
+<Page name="GLILIN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Encyklopädie</text>
+   <nl/>
+   <text>                   GÖTTER</text><nl/>
+   <color>red</color>
+   <text>         Glilin - Gott der Herstellung</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Den Pfad Glilins zu folgfen bedeutet, wahres</text><nl/>
+   <text> handwerkliches Können in die Welt zu bringen.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Standort: Nordcarn</text><nl/>
+   <text> Priester: Baostas</text><nl/>
+   <text> Vorteil: Anhänger erhalten mehr Erfahrungspunkte in</text><nl/>
+   <text>          Herstellung</text><nl/>
+   <text> Feinde: Selain, Lucaa.</text><nl/>
+   <text> Verehrungslevel zu Beginn: Rang -2</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Zurück zu Götter"/>
+</Page>
+<Page name="ELANDRIA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Encyklopädie</text>
+   <nl/>
+   <text>                   GÖTTER</text><nl/>
+   <color>red</color>
+   <text>          Elandria - Gott der Alchemie</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Den Pfad Elandrias zu folgen bedeutet, deine Mit-</text><nl/>
+   <text> streiter zu lieben und die Naturgesetze aufrecht-</text><nl/>
+   <text> zuerhalten.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Standort: Evergreen Forest, Desert Pines</text><nl/>
+   <text> Priester: Romira (noch nicht im Tempel).</text><nl/>
+   <text> Vorteil: Anhänger erhalten mehr Erfahrungspunkte in</text><nl/>
+   <text>          Alchemie.</text><nl/>
+   <text> Feinde: Zarin, Mortos.</text><nl/>
+   <text> Verehrungslevel zu Beginn: Rang -2</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Zurück zu Götter"/>
+</Page>
+<Page name="ZARIN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Encyklopädie</text>
+   <nl/>
+   <text>                   GÖTTER</text><nl/>
+   <color>red</color>
+   <text>          Zarin - Gott der Veredelung</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Den Pfad Zarins zu folgen bedeutet das Streben nach</text><nl/>
+   <text> Freiheit, Dingen Schönheit zu verleihen.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Standort: Tarsengaard</text><nl/>
+   <text> Priester: Durnam</text><nl/>
+   <text> Vorteil: Anhänger erhalten mehr Erfahrungspunkte in</text><nl/>
+   <text>          Veredelung.</text><nl/>
+   <text> Feinde: Elandria, Unolas.</text><nl/>
+   <text> Verehrungslevel zu Beginn: Rang -2</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Zurück zu Götter"/>
+</Page>
+<Page name="LUCAA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Encyklopädie</text>
+   <nl/>
+   <text>                   GÖTTER</text><nl/>
+   <color>red</color>
+   <text>           Lucaa - Gott der Ernte</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Den Pfad Lucaas zu folgen bedeutet, die rohe Gewalt</text><nl/>
+   <text> der Natur bereitwillig anzunehmen und die Launen der</text><nl/>
+   <text> Königin der Natur zu ertragen.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Standort: Roanof Island, Tarsengaard</text><nl/>
+   <text> Priester: Quira (Noch nicht im Tempel).</text><nl/>
+   <text> Vorteil: Anhänger erhalten mehr Erfahrungspunkte beim</text><nl/>
+   <text>          Ernten.</text><nl/>
+   <text> Feinde: Unolas, Glilin.</text><nl/>
+   <text> Verehrungslevel zu Beginn: Rang -2</text><nl/>
+   <nl/><nl/>
+   <text> Unsere Gelehrten streben noch nach Wissen bezüglich</text><nl/>
+   <text> dieser Gottheit.</text><nl/>
+   <text> Auch ist der Weg nach Roanof Island "völlig" unbekannt.</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Zurück zu Götter"/>
+</Page>
+<Page name="JAYDEN">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Zurück"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Encyklopädie</text>
+   <nl/>
+   <text>                    GÖTTER</text><nl/>
+   <color>red</color>
+   <text>          Jayden - Gott der Tränke</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Den Pfad Jaydens zu folgen bedeutet zielgerichtet zu blei-</text><nl/>
+   <text> ben. Der einzige Weg der Erlösung ist das zu heilen, was</text><nl/>
+   <text> nicht geheilt werden kann. Nur wenn wir dem Fluss des</text><nl/>
+   <text> Stromes folgen, können wir das Ziel erreichen.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Standort: Morcraven Marsh</text><nl/>
+   <text> Priester: Iazurn (noch nicht im Tempel).</text><nl/>
+   <text> Vorteil: Anhänger erhalten mehr Erfahrungspunkte bei</text><nl/>
+   <text>          Tränken.</text><nl/>
+   <text> Feinde: Galienne, LaForge.</text><nl/>
+   <text> Verehrungslevel zu Beginn: Rang -2</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Zurück zu Götter"/>
+</Page>
+<Page name="LAFORGE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>         LaForge - Engineering God</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> To follow the path of LaForge is to create and engineer</text><nl/>
+   <text> items and concepts that stretch the concept of the world</text><nl/>
+   <text> and advance the knowledge of science.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Location: Arius</text><nl/>
+   <text> Priest: Diesel</text><nl/>
+   <text> Benefits: Followers get more Engineering experience</text><nl/>
+   <text> Enemies: Jayden, Galienne.</text><nl/>
+   <text> Starting worship level: rank -2</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+<Page name="XIAO">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>             Xiao - Ranging God</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> To follow the path of Xiao is to have true aim, kill</text><nl/>
+   <text> swiftly, live secretly, and honor those of the clan.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Location: Ruins of Tirnym</text><nl/>
+   <text> Priest: Marn (Not yet in the temple).</text><nl/>
+   <text> Benefits: Followers get more Ranging experience</text><nl/>
+   <text> Enemies: Unknown</text><nl/>
+   <text> Starting worship level: rank -2</text><nl/>
+   <nl/><nl/>
+   <text> Our scholars are still in pursuit of knowledge about</text><nl/>
+   <text> this deity.</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+<Page name="GALIENNE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    GODS</text><nl/>
+   <color>red</color>
+   <text>        Galienne - Tailoring Goddess</text><nl/><nl/>
+   <Size>Medium</Size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> To follow Galienne is to inspire others and strive to</text><nl/>
+   <text> achieve perfection of your craft.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Location: Glacmor</text><nl/>
+   <text> Priest: Tyra (Not yet in the temple).</text><nl/>
+   <text> Benefits: Followers get more Tailoring experience</text><nl/>
+   <text> Enemies: Jayden, LaForge.</text><nl/>
+   <text> Starting worship level: rank -2</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Gods" title="Back To Gods"/>
+</Page>
+</Gods>

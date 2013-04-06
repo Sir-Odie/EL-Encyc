@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <actors>
+    <load>Aktör yüklenemiyor</load>
+    <frame>Cerçeve bulunamadi</frame>
+    <unk_frame>Bilinmeyen çerçeve</unk_frame>
+    <dup_id>Cift aktör degeri</dup_id>
+    <namelen>Hatali aktör ismi/uzunlugu</namelen>
+    <addcommand>Komut eklenemedi</addcommand>
+    <loadbody>Vücud parçasi yüklenemiyor</loadbody>
+    <head>kafa</head>
+    <torso>gögüs</torso>
+    <weapon>silah</weapon>
+    <helmet>migfer</helmet>
+    <cape>pelerin</cape>
+    <dupnpc>Cift aktör ismi</dupnpc>
+  </actors>
+  <load>
+    <obj>2d nesne açilamadi</obj>
+    <file>Dosya açilamadi</file>
+    <cursors>Imleçler dosyasi açilamadi.</cursors>
+    <font>Font yüklenemedi</font>
+    <fatal>Teklikeli</fatal>
+    <noe3d>e3dlist.txt okunamadi</noe3d>
+    <elini>Yapi dosyasi el.ini okunamadi</elini>
+    <invmap>%s geçersiz haritadir!</invmap>
+    <parsenotes>Xml notdefteri çözümlenemedi. Üstüne yazilacaktir.</parsenotes>
+    <noteswrong>Yanlis türde bir belge. Üstüne yazilacaktir.</noteswrong>
+    <manynotes>Cok fazla not - Son dügümler yoksayilmistir.</manynotes>
+    <notenode>Yanlis dügüm türü - kopyalanamadi.</notenode>
+    <savenotes>Notlar %s dosyasina yazilamadi.</savenotes>
+    <exceednotes>Notdefter arabellegi asilmaya çalisildi! Yoksayildi.</exceednotes>
+  </load>
+  <misc>
+    <error>Hata</error>
+    <objerr>Nesne hatasi</objerr>
+    <nasty>Sunu islemeye çalisirken kötü bir sey oldu:</nasty>
+    <corrupt>Nesne bozuk görtüntüyor. Nesne atlaniyor. Uyari: Bu, daha fazla soruna neden olabilir.</corrupt>
+    <badobj>Hatali nesne</badobj>
+    <multimat>Ayni doku isimli iki yada daha faza madde var!</multimat>
+    <resync>Sunucuyla senkronize...</resync>
+    <vertex>Köse dizilimi etkinlestirildi (hafiza oburlugu acik!)...</vertex>
+    <compiled>Derlenmis Köse Dizilimi devre disinda.</compiled>
+    <point>Nokta Parçaciklari devre disinda.</point>
+    <particles>Parçaciklar tamamen devre disinda!</particles>
+    <net>Ag ilkelenemedi</net>
+    <timer_fail>Zamanlayici ilkelenemedi</timer_fail>
+    <resolve>Sunucu adresi cözümlenemedi.
+Belki internete bagli degilsiniz veya DNS sunucunuz bozuk!</resolve>
+    <connect>Sunucuya baglanamadim :(</connect>
+    <redefine>Yeni modellerden dolayi karakterinizi güncellemelisiniz!
+Yeni karakter ekranina gidin, su anki karakterinizn kullanici
+ismini ve sifresini girin, karakterinizi güncelleyin, ve "Bitti"ye
+basin. *SEVIYE VE ESYALARINIZ ETKILENMEYECEKTIR!*</redefine>
+    <noexist>Böyle bir karakter yoktur!</noexist>
+    <latency>Sunucu gecikmesi</latency>
+    <newver>Istemcinin yeni sürümü cikti, lütfen güncelleyiniz</newver>
+    <notsup>Bu sürüm artik desteklenmiyor, lütfen güncelleyiniz!</notsup>
+    <packets>Paket asmasi...veri kaybi!</packets>
+    <disconnect>Sunucuyla baglantim kesildi!</disconnect>
+    <stat>Sunucu geçersiz stat numarasi yolladi</stat>
+    <ascii>ASCII degil</ascii>
+    <timer_lag>%s zamanlayicizi asiri gecikiyordu veya durmustu, yeniden baslatildi</timer_lag>
+    <nameinuse>Karakter ismi zaten alinmis</nameinuse>
+    <notabs>Sekme penceresini %d video moduyla degistiremezsiniz, zorla degistiriliyor</notabs>
+    <nomap>%s haritasina geçilemedi!</nomap>
+    <emptymap>Yerine bos bir harita kullaniliyor.</emptymap>
+    <nonomap>Onulmaz hata: Harita yüklenemedi ./maps/nomap.elm.
+Haritalarinizi düzeltiniz.</nonomap>
+    <nobmpmap>Buranin haritasi yok.</nobmpmap>
+    <book_open>Bu kitap açilamadi: %s!</book_open>
+    <noanimation>Animasyon yok: %s!
+</noanimation>
+    <invalid_location>Geçersiz konum %d,%d</invalid_location>
+    <badnode>Dügüm alanlarinin birinde bir sorun var.</badnode>
+    <badroot>%s içindeki dügüm kökü hatalidir.</badroot>
+    <undefnode>%s (%s) cözümlenirken beklenmedik dügüm türü bulundu.</undefnode>
+    <use_builtin_chans>Dosyadan bir kanal listesi yüklenemedi. Yerine kisitli dahili set kullaniliyor.</use_builtin_chans>
+    <use_eng_chans>%s dil kodu için kanal listesi yüklenemedi. Yerine ingilizce seti kullaniliyor.</use_eng_chans>
+  </misc>
+  <particles>
+    <version>%s sürüm (%i) parçacik dosyasi, dosya okuyucu sürüm (%i) ile uyusmuyor!</version>
+    <overrun>%s parçacik dosyasi %i parçacik tanimlamaya çalisiyor, ki %i en fazladir!</overrun>
+    <pos>%s parçacik dosyasi garip konum/kosul içeriyordu. Düzeltilmeye  çalisildi.</pos>
+    <sysdump>-- PARCACIK SISTEM DÖKÜMÜ --</sysdump>
+    <disabled>Parçaciklar devre disi!</disabled>
+    <point>Nokta hareketleri kullaniliyor</point>
+    <quads>Dokulu dörtlükler kullaniliyor</quads>
+    <defs>Tanimlamalar</defs>
+    <system>sistemler</system>
+    <particles>parçaciklar</particles>
+  </particles>
+  <snd>
+    <loadwav>Wav dosyasi yüklenemedi: %s</loadwav>
+    <loadfile>Ogg dosyasi yüklenemedi</loadfile>
+    <loadstream>Ogg akimi yüklenemedi</loadstream>
+    <buffer>Arabellegi olusturmada hata var</buffer>
+    <number>Geçersiz ses numarasi alindi</number>
+    <source>Kayanak yaratmada hata var</source>
+    <skip>Atla! Hizlandiriliyor...</skip>
+    <tooslow>Özür dileriz, müzik çalmak için çok yavas...</tooslow>
+    <fail>Bütün sesler durdurulamadi.</fail>
+    <init>Sesi ilkelendirmede hata var</init>
+    <toomany>Çok fazla ses.</toomany>
+    <read>Medyadan oku.</read>
+    <notvorbis>Vorbis verisi yok.</notvorbis>
+    <version>Vorbis sürüm uyumsuzlugu.</version>
+    <header>Geçersiz Vorbis üstbilgisi.</header>
+    <intern>Dahili mantik kusuru (ariza ya da yigin/yiginlama bozulmasi)</intern>
+    <unknown>Bilinmeyen Ogg hatasi.</unknown>
+    <false>Ogg hatasi medya yanlis.</false>
+    <hole>Ogg hatasi medya delik.</hole>
+    <einval>Ogg hatasi medya EINVAL.</einval>
+    <eof>Ogg hatasi medya EOF.</eof>
+    <ebadlink>Ogg hatasi medya EBADLINK.</ebadlink>
+    <enoseek>Ogg hatasi medya ENOSEEK.</enoseek>
+    <enomusic>Bu istemci müzik desteksiz olusturulmustur</enomusic>
+    <musicstopped>Su an bir ses  çalmiyor</musicstopped>
+    <musicinfo>Su an  çalan: "%s" by %s (%d:%02d/%d:%02d)</musicinfo>
+    <musicinfonoartist>Su an  çalan: "%s" (%d:%02d/%d:%02d)</musicinfonoartist>
+  </snd>
+  <video>
+    <nostencil>Kalip arabellegi ile %s video modu mevcut degildir
+Bu modu kalip arabelleksiz deneyiniz...</nostencil>
+    <safemode>Kalip arabellegi ile %s video modu mevcut degildir
+Güvenli kipiyle deneyiniz: (640x480x32) Tam Ekran (kalipsiz)</safemode>
+    <nosdl>SDL ilkelenemedi</nosdl>
+    <nohwstencil>Donanim ivmeli kalip arabellegi bulunamadi.
+Gölgeler mevcut degildir.</nohwstencil>
+    <depth>Ipucu: 32 BPP çözünürlügü deneyiniz (XWindows kullaniyorsaniz, ekran görüntüsünü 24 ya da 32 BPP'ye koyun).</depth>
+    <glmode>GL modu belirlenemedi</glmode>
+    <swstencil>Hmm... Bu mod sanki 'ivme' açisindan geri kaliyor.
+Kalip arabellegi devre disi birakmayi deneyiniz.</swstencil>
+    <last_try>Hmm... Kalip arabelleksiz sansin da yok...
+Son bir sey deneyelim...</last_try>
+    <swmode>Kahretsin, sansin bitti gibi görünüyor, yazilim modundayiz simdi, bu yüzden oyun çooook yavas çalisir. Eger 3D ivmeli kartiniz varsa, OpenGL sürücülerinizi güncellemeyi deneyiniz...</swmode>
+    <extfound>%s uzantisi bulundu, kullaniliyor.</extfound>
+    <extnouse>%s uzantisi bulundu, kullanilmiyor...</extnouse>
+    <extnotfound>%s uzantisi bulunmadi, kullanilmiyor...</extnotfound>
+    <multitex>GL_ARB_multitexture uzantisi bulunmadi, bulut, gölge ve doku detaylarini birakiliyor...</multitex>
+    <noshadowmapping>Gölge haritalamasi devre disindadir (daha yeni donanim lazim)</noshadowmapping>
+    <toobigshadowmap>Gölge harita boyutu desteklenmiyor! Gölge harita boyutu %d'e indirildi!</toobigshadowmap>
+    <invalid>Yapilandirma dosyasiyla oynamayi birak ve geçerli modlar seç!</invalid>
+    <noframebuffer>Kare arabellegi devre disidir (daha yeni donanim lazim)</noframebuffer>
+    <fboattachmenterror>Kare arabellegi: eklenti hatasi</fboattachmenterror>
+    <fbomissingattachmenterror>Kare arabellegi: eksik eklenti</fbomissingattachmenterror>
+    <fboduplicateattachmenterror>Kare arabellegi: çift eklenti</fboduplicateattachmenterror>
+    <fbodimensionserror>Kare arabellegi: boyut hatasi</fbodimensionserror>
+    <fboformatserror>Kare arabellegi: biçim hatasi</fboformatserror>
+    <fbodrawbuffererror>Kare arabellegi: arabellek çizme hatasi</fbodrawbuffererror>
+    <fboreadbuffererror>Kare arabellegi: arabellek okuma hatasi</fboreadbuffererror>
+    <fbounknowerror>Kare arabellegi: bilinmeyen hata</fbounknowerror>
+  </video>
+  <rules>
+    <proceed>Kurallari OKU ve %dsn içinde oynayabilirsiniz</proceed>
+    <ready>BÜTÜN kurallari oku (asagiya kaydir) ve "Kabul ediyorum" dügmesine bas!</ready>
+    <accept>Kabul ediyorum</accept>
+    <read>Kurallari okurken hata olustu</read>
+    <parse>Kurallari çözümlarken hata olustu</parse>
+    <notfound>rules.xml dosyasi bulunamadi. Oyunu tekrar bastan indirmeniz gerekiyor.</notfound>
+  </rules>
+</root>

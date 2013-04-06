@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Miscellanea>
+<Page name="Mortar_Pestle">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 NARZEDZIA</text><nl/>
+   <color>red</color>
+   <text>              Mortar &amp; Pestle</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Mozdzierz i Tluczek)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Narzedzie uzywane przy </text><link ref="Potions" title="Miksturach"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 15 Gypsums, 10 Water Essences, 8 Fire Essences</text>
+   <nl/>
+   <text> Wymagana Wiedza: Gypsum Molding</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 1</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 17</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 80</text>
+   <nl/>
+   <text> Koszt Jedzenia: 14</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text> 
+   <nl/>
+   <text> Waga: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Needle">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 NARZEDZIA</text><nl/>
+   <color>red</color>
+   <text>                  Needle</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Igla)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Narzedzie uzywane do </text><link ref="Clothes" title="Ubran"/><text>, </text><link ref="Armors" title="Zbroi"/><text> oraz </text><link ref="Tailoring" title="Krawiectwa"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Hammer">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 NARZEDZIA</text><nl/>
+   <color>red</color>
+   <text>                  Hammer</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                         (Mlotek)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Narzedzie uzywane do produkcji </text><link ref="Armors" title="Zbroi"/><text> i </text><link ref="Weapons" title="Broni"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Nie</text> 
+   <nl/>
+   <text> Waga: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Ring_Mold">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 NARZEDZIA</text><nl/>
+   <color>red</color>
+   <text>                 Ring Mold</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                  (Forma do Pierscieni)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Narzedzie potrzebne do </text><link ref="Ring_Silver" title="Silver Ring"/><text> i </text><link ref="Ring_Gold" title="Gold Ring"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 10 Gypsums, 5 Water Essences, 6 Fire Essences</text>
+   <nl/>
+   <text> Wymagana Wiedza: Gypsum Molding</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 1</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 13</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 65</text>
+   <nl/>
+   <text> Koszt Jedzenia: 8</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Med_Mold">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 NARZEDZIA</text><nl/>
+   <color>red</color>
+   <text>              Medallion Mold</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                  (Forma do Medalionow)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Narzedzie potrzebne do </text><link ref="Med_Silver" title="Silver Medallion"/><text> i </text><nl/>
+   <text>       </text><link ref="Med_Gold" title="Gold Medallion"/><text>.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 12 Gypsums, 7 Water Essences, 8 Fire Essences</text>
+   <nl/>
+   <text> Wymagana Wiedza: Gypsum Molding</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 1</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 15</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 70</text>
+   <nl/>
+   <text> Koszt Jedzenia: 10</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Hammer_Chisel">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 NARZEDZIA</text><nl/>
+   <color>red</color>
+   <text>           Gemstone Hammer &amp; Chisel</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Dlutko i Mlotek)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Potrzebne do </text><link ref="Jewelry" title="Szlifowania Klejnotow"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="T_LGloves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 NARZEDZIA</text><nl/>
+   <color>red</color>
+   <text>               Leather Gloves</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Skorzane Rekawice)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Przydatne do zbierania </text><link ref="Sulphur" title="Sulphur"/><text> i </text><link ref="Poison_Ivy" title="Poison Ivy"/><text>.</text>
+   <nl/>
+   <text>       Uzywane takze jako </text><link ref="Armors" title="armor"/><text> and </text><link ref="Weapons" title="bron"/><text>.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 4 Leather, 4 Thread</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Needle</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 8</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 40</text>
+   <nl/>
+   <text> Koszt Jedzenia: 5</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text> 
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="T_Pickaxe">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 NARZEDZIA</text><nl/>
+   <color>red</color>
+   <text>                  Pickaxe</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                         (Kilof)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Potrzebne do zbierania </text><link ref="Minerals" title="mineralow"/><text> oraz </text><link ref="Ores" title="rud metali"/><text>.</text>
+   <nl/>
+   <text>        Uzywane takze jako </text><link ref="Weapons" title="bron"/><text>.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Nie</text> 
+   <nl/>
+   <text> Waga: 5 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Vial_Mold">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 NARZEDZIA</text><nl/>
+   <color>red</color>
+   <text>                 Vial Mold</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Forma do Fiolek)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Potrzebne do produkcji </text><link ref="Empty_Vial" title="Empty Vial"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Enriched Fire Essence, 5 Titanium Bars</text>
+   <nl/>
+   <text> Wymagana Wiedza: Vial Mold Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 3</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 31</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 1500</text>
+   <nl/>
+   <text> Koszt Jedzenia: 16</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 30 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Head_Mold">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 NARZEDZIA</text><nl/>
+   <color>red</color>
+   <text>            Arrow/Bolt Head Mold</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Forma do Grotow)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Potrzebna do tworzenia </text><link ref="ArrowBolt_Head" title="grotow strzal"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Wolfram Bar, 1 Enriched Fire Essence,</text><nl/>
+   <text> 1 Enriched Water Essence</text>
+   <nl/>
+   <text> Wymagana Wiedza: Arrow/Bow Head Mold Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 7</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 70</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 1200</text>
+   <nl/>
+   <text> Koszt Jedzenia: 40</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Saw">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 NARZEDZIA</text><nl/>
+   <color>red</color>
+   <text>                     Saw</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                            (Pila)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Potrzebna do zbierania </text><link ref="Yew" title="Yew"/><text>.</text>
+   <nl/><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Nie</text> 
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Knife">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 NARZEDZIA</text><nl/>
+   <color>red</color>
+   <text>               Carving Knife</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                            (Noz)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywany do produkowania </text><link ref="pk_arrow" title="Strzal PK"/><text> i </text><link ref="pk_bolt" title="Beltow PK"/><text>.</text>
+   <nl/><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Alembic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 NARZEDZIA</text><nl/>
+   <color>red</color>
+   <text>                  Alembic</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                         (Alembik)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Sluzy do wytwarzania </text><link ref="Mercury" title="rteci"/><text> z rudy cynoberu.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Enriched Fire Essence, 4 Titanium Bars, 20 Quartz</text>
+   <nl/>
+   <text> Wymagana Wiedza: Alembic Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 3</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 33</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 1700</text>
+   <nl/>
+   <text> Koszt Jedzenia: 16</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 30 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Bucket">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 NARZEDZIA</text><nl/>
+   <color>red</color>
+   <text>                   Bucket</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Wiadro)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Potrzebne do wytwarzania </text><link ref="Saltpetre" title="saletry"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/>
+   <text> Uwaga: Wiadro mozna przechowywac jedynie w Magazynie </text><nl/>
+   <text> Substancji Niebezpiecznych (Hazardous Storage).</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 10 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Scissors">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 NARZEDZIA</text><nl/>
+   <color>red</color>
+   <text>                  Scissors</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Nozyce)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Potrzebne w </text><link ref="Tailoring" title="krawiectwie"/><nl/>
+   <text>       Uwazaj zebys nie odcial sobie palcow.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Bones Powder">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    ROZNE</text><nl/>
+   <color>red</color>
+   <text>                 Bone Powder</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Maczka Kostna)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Potions" title="Mikstur"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 3 Bones</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Mortar &amp; Pestle</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 0</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 1</text>
+   <nl/>
+   <text> Koszt Jedzenia: 0</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Thread">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    ROZNE</text><nl/>
+   <color>red</color>
+   <text>                   Thread</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                             (Nic)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Clothes" title="Ubran"/><text>, </text><link ref="Armors" title="Zbroi"/><text> i </text><link ref="Tailoring" title="Krawiectwa"/><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 5 Cotton</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 1</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 6</text>
+   <nl/>
+   <text> Koszt Jedzenia: 1</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Leather">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    ROZNE</text><nl/>
+   <color>red</color>
+   <text>                  Leather</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                            (Skora)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Armors" title="Zbroi"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Sand_Paper">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    ROZNE</text><nl/>
+   <color>red</color>
+   <text>              Gem Sanding Paper</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Papier Scierny)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Jewelry" title="szlifowania klejnotow"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Loom">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    ROZNE</text><nl/>
+   <color>red</color>
+   <text>                    Loom</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Krosno)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Narzedzie potrzebne do produkcji </text><link ref="White Fabric" title="plotna"/><text>.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Wood_Handle">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    ROZNE</text><nl/>
+   <color>red</color>
+   <text>                 Wood Handle</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Drewniany Uchwyt)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Weapons" title="Toporow"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Nie</text> 
+   <nl/>
+   <text> Waga: 5 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Empty_Vial">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    ROZNE</text><nl/>
+   <color>red</color>
+   <text>                 Empty Vial</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Pusta Fiolka)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Potions" title="Mikstur"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Fire Essence, 2 Quartz</text>
+   <nl/>
+   <text> Items required to have: Vial Mold</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 14</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 30</text>
+   <nl/>
+   <text> Koszt Jedzenia: 5</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Square_Vial">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    ROZNE</text><nl/>
+   <color>red</color>
+   <text>                 Square Vial</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Kwadratowa Fiolka)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Tailoring" title="farb"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/>
+   <text> Uklada sie w Stos: Tak</text><nl/>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Skull_Key">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    ROZNE</text><nl/>
+   <color>red</color>
+   <text>                 Skull Key</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Klucz Czaszki)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: tworzenia workow w nadprzestrzeni.</text>
+   <nlkx/>
+   <text> Przedmiot jednorazowego uzytu.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Aby stworzyc worek w nadprzestrzeni stan na nim</text><nl/>
+   <text> i kliknij 'Uzyj' na Kluczu Czaszki.</text><nl/>
+   <text> Worki wyslane w nadprzestrzen staja sie niewidzialne</text><nl/>
+   <text> i nigdy nie znikaja - chyba ze ktos uzyje na nich</text><nl/>
+   <text> Klucza Szkieletu</text><nl/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Skeleton_Key">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    ROZNE</text><nl/>
+   <color>red</color>
+   <text>                Skeleton Key</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Klucz Szkieletu)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: odzyskiwania workow z nadprzestrzeni.</text>
+   <nlkx/>
+   <text> Przedmiot jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Aby odzyskac worek wyslany w nadprzestrzen, stan </text><nl/>
+   <text> dokladnie w tym miejscu, w ktorym worek ten zostal</text><nl/>
+   <text> wczesniej wyslany i uzyj Klucza Szkieletu.</text><nl/>
+   <text> Po uzyciu klucz zniknie, bez wzgledu czy w miejscu w</text><nl/>
+   <text> ktorym stales byl worek czy nie.</text><nl/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="FD_Fruit">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>              JEDZENIE I NAPOJE</text><nl/>
+   <color>red</color>
+   <text>                    Fruit</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Owoce)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Owoce przywracaja 20 punktow jedzenia.</text><nlkx/>
+   <text> Uzywane do: </text><link ref="P_Feasting" title="Potion of Feasting"/><text>.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <nl/>
+   <text> Owoce mozna </text><link ref="Harv_Other" title="zebrac"/><text> lub kupic w Tawernie.</text>
+   <nl/>
+   <nl/>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Horse_Whistle">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    ROZNE</text><nl/>
+   <color>red</color>
+   <text>               Horse Whistle</text><nl/><nl/>
+   <text x="151"> </text>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <nl/><nl/><nl/>
+   <size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Konski gwizdek pozwala na przywolanie konia - Karego,</text><nl/>
+   <text> Bialego, lub Kasztana. Konie poruszaja sie z normalna</text><nl/>
+   <text> predkoscia pieszych graczy. Mozna sie na nich poruszac</text><nl/>
+   <text> jedynie poza budynkami - po wejsciu do sklepu, jaskini,</text><nl/>
+   <text> domku etc. kon zniknie. To samo stanie sie gdy kon </text><nl/>
+   <text> zostanie zaatakowany. Jazda na koniu nie wymaga Creature</text><nl/>
+   <text> Food, a bedac w siodle nie mozesz miksowac, zbierac ani</text><nl/>
+   <text> rozmawiac z postaciami NPC. Nadal mozesz jednak handlowac</text>
+   <text> (wymieniac sie przedmiotami) i korzystac ze swojego</text><nl/>
+   <text> magazyniu.</text><nl/>
+   <text> Przy korzystaniu z gwizdka istnieje szansa, ze ten nie</text><nl/>
+   <text> zostanie zuzyty (szansa ta wynosi 1/3).</text><nl/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text><nl/>
+   <nl/>
+   <text> Gwizdki mozesz zakupic jedynie poprzez </text><link ref="http://www.eternal-lands.com/page/shop.php" title="EL shop"/><text>.</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Bouquet">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    ROZNE</text><nl/>
+   <color>red</color>
+   <text>              Bouquet of Roses</text><nl/><nl/>
+   <text x="208"> </text>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <nl/><nl/><nl/>
+   <size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Nie mozna wyprodukowac tego przedmiotu.</text><nl/>
+   <nl/>
+   <text> Bukiet roz dostepny jest jedynie poprzez </text><link ref="http://www.eternal-lands.com/page/shop.php" title="EL shop"/><text>.</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="FD_Vegetables">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>              JEDZENIE I NAPOJE</text><nl/>
+   <color>red</color>
+   <text>                 Vegetables</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Warzywa)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Warzywa przywracaja 15 punktow jedzenia.</text><nlkx/>
+   <text> Uzywane do: Mikstur: </text><link ref="P_Reasoning" title="Reasoning"/><text> i </text><link ref="P_Feasting" title="Feasting"/><text>.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <nl/>
+   <text> Warzywa mozna </text><link ref="Harv_Other" title="zebrac"/><text> lub kupic w Tawernie.</text>
+   <nl/>
+   <nl/>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="FD_Bread">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>              JEDZENIE I NAPOJE</text><nl/>
+   <color>red</color>
+   <text>                   Bread</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Chleb)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Przywraca 10 punktow jedzenia.</text><nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <nl/>
+   <text> Chleb mozna kupic w Tawernach;</text><nl/>
+   <text> na Isla Prima mozna znalezc W porozrzucanych workach.</text>
+   <nl/>
+   <nl/>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="FD_Cooked_Meat">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>              JEDZENIE I NAPOJE</text><nl/>
+   <color>red</color>
+   <text>                 Cooked Meat</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Gotowane Mieso)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Gotowane mieso przywraca 25 punktow jedzenia.</text><nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Gotowane mieso kupisz w Tawernie, mozesz je tez sam</text><nl/>
+   <text> ugotowac uzywajac do tego celu surowegdo miesa (raw meat)</text><nl/>
+   <text> oraz palacego sie ogniska.</text>
+   <nl/>
+   <nl/>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="FD_Wine">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>              JEDZENIE I NAPOJE</text><nl/>
+   <color>red</color>
+   <text>                    Wine</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Wino)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Potions" title="Mikstur"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Wina nie da sie wytworzyc: musisz je kupic.</text>
+   <nl/>
+   <nl/>
+   <text> Uwaga: Nie da sie pic wina.</text>
+   <nl/>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="FD_Mead">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>              JEDZENIE I NAPOJE</text><nl/>
+   <color>red</color>
+   <text>                     Mead</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                         (Miod Pitny)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Potions" title="Mikstur"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Miodu Pitnego nie da sie wytworzyc: musisz je kupic.</text>
+   <nl/>
+   <nl/>
+   <text> Uwaga: Miodu nie da sie pic.</text>
+   <nl/>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="FD_Ale">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>              JEDZENIE I NAPOJE</text><nl/>
+   <color>red</color>
+   <text>                    Ale</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Piwo)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Potions" title="Mikstur"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Piwa nie da sie wytworzyc: musisz je kupic.</text>
+   <nl/>
+   <nl/>
+   <text> Uwaga: Piwa nie da sie wypic.</text>
+   <nl/>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Conglo">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    ROZNE</text><nl/>
+   <color>red</color>
+   <text>           Matter Conglomerate</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Skoncentrowana Materia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: zbierania rud </text><link ref="Copper" title="Miedzi"/><text> i </text><link ref="Seridium" title="Seridium"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 80 Earth Essences, 25 Matter Essences</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 23</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 200</text>
+   <nl/>
+   <text> Koszt Jedzenia: 11</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 30 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+<Page name="Mercury">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    ROZNE</text><nl/>
+   <color>red</color>
+   <text>                   Mercury</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Rtec)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Spirit Essence" title="Spirit Essence"/><text>, </text><link ref="Death Essence" title="Death Essence"/><text>, </text><nl/>
+   <text>       </text><link ref="P_Craft" title="Potion of Crafting"/><text>, </text><link ref="P_Alchemy" title="Potion of Alchemy"/><text>.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Uwaga: Ten metal moze zostac wytworzony z rudy cynoberu;</text><nl/>
+   <text> Kazda proba wytworzenia rteci wyprodukuje 2 sztuki na raz.</text><nl/>
+   <nl/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Cinnabar Ores, 1 Energy Essence.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Alembic</text>
+   <nl/>
+   <text> Wymagana Wiedza: Mercury Extraction</text>
+   <nl/>
+   <text> Zalecany Poziom Alchemii: 25</text>
+   <nl/>
+   <text> Doswiadczenie w Alchemii: 150</text>
+   <nl/>
+   <text> Koszt Jedzenia: 13</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Wroc do Indeksu Roznosci"/>
+</Page>
+</Miscellanea>

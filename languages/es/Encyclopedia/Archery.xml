@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Archery>
+<Page name="Short_Bow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARCHERY</text><nl/>
+   <color>red</color>
+   <text>                  Short Bow</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 5-8 damage, +4 Missile Accuracy.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Tools required to have: ???</text>
+   <nl/>
+   <text> Knowledge needed: ???</text>
+   <nl/>
+   <text> Recommended Level: ???</text>
+   <nl/>
+   <text> Experience Given: ???</text>
+   <nl/>
+   <text> Food subtracted: ???</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 7 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Archery" title="Back To Archery Index"/>
+</Page>
+<Page name="Long_Bow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARCHERY</text><nl/>
+   <color>red</color>
+   <text>                  Long Bow</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 5-8 damage, +2 Missile Accuracy.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Tools required to have: ???</text>
+   <nl/>
+   <text> Knowledge needed: ???</text>
+   <nl/>
+   <text> Recommended Level: ???</text>
+   <nl/>
+   <text> Experience Given: ???</text>
+   <nl/>
+   <text> Food subtracted: ???</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 7 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Archery" title="Back To Archery Index"/>
+</Page>
+<Page name="Recurve_Bow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARCHERY</text><nl/>
+   <color>red</color>
+   <text>                 Recurve Bow</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 5-8 damage, +6 Missile Accuracy.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Tools required to have: ???</text>
+   <nl/>
+   <text> Knowledge needed: ???</text>
+   <nl/>
+   <text> Recommended Level: ???</text>
+   <nl/>
+   <text> Experience Given: ???</text>
+   <nl/>
+   <text> Food subtracted: ???</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 7 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Archery" title="Back To Archery Index"/>
+</Page>
+<Page name="Elven_Bow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARCHERY</text><nl/>
+   <color>red</color>
+   <text>                  Elven Bow</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 5-8 damage, +10 Missile Accuracy.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Tools required to have: ???</text>
+   <nl/>
+   <text> Knowledge needed: ???</text>
+   <nl/>
+   <text> Recommended Level: ???</text>
+   <nl/>
+   <text> Experience Given: ???</text>
+   <nl/>
+   <text> Food subtracted: ???</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 7 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Archery" title="Back To Archery Index"/>
+</Page>
+<Page name="Crossbow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARCHERY</text><nl/>
+   <color>red</color>
+   <text>                  Crossbow</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 5-8 damage, +8 Missile Accuracy.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Tools required to have: ???</text>
+   <nl/>
+   <text> Knowledge needed: ???</text>
+   <nl/>
+   <text> Recommended Level: ???</text>
+   <nl/>
+   <text> Experience Given: ???</text>
+   <nl/>
+   <text> Food subtracted: ???</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 7 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Archery" title="Back To Archery Index"/>
+</Page>
+<Page name="Arrows">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARCHERY</text><nl/>
+   <color>red</color>
+   <text>               Training Arrows</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Training arrows, not good for PK!</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> This item cannot be manufactured.</text>
+   <nl/><nl/><nl/>
+   <text> Stackable: Yes</text> 
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Archery" title="Back To Archery Index"/>
+</Page>
+<Page name="pk_arrow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARCHERY</text><nl/>
+   <color>red</color>
+   <text>                  PK Arrows</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +10 Missile Accuracy.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Arrow/Bolt Head, 1 Yew, 1 Air Essence, 1 Hawk Feather.</text>
+   <nl/>
+   <text> Tools required to have: Carving Knife</text>
+   <nl/>
+   <text> Knowledge needed: PK Arrows</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 27</text>
+   <nl/>
+   <text> Experience Given: 115</text>
+   <nl/>
+   <text> Food subtracted: 20</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Archery" title="Back To Archery Index"/>
+</Page>
+<Page name="Magic_Arrows">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARCHERY</text><nl/>
+   <color>red</color>
+   <text>                Magic Arrows</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 15 normal damage, 15 magic damage, -25 Accuracy,</text><nlkx/>
+   <text> +15 Missile Accuracy, -15 Critical to hit,</text><nlkx/>
+   <text> very fast to reload!</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: the process produces 75 arrows at a time.</text><nl/>
+   <nl/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Enriched Magic Essence, 50 Arrow/Bolt Heads, 50 Yews,</text><nl/>
+   <text> 50 Hawk Feathers.</text>
+   <nl/>
+   <text> Tools required to have: Carving Knife</text>
+   <nl/>
+   <text> Knowledge needed: Magic arrows</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 31</text>
+   <nl/>
+   <text> Experience Given: 2000</text>
+   <nl/>
+   <text> Food subtracted: 20</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Archery" title="Back To Archery Index"/>
+</Page>
+<Page name="Fire_Arrows">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARCHERY</text><nl/>
+   <color>red</color>
+   <text>                 Fire Arrows</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 15 normal damage, 35 heat damage, -25 Accuracy,</text><nlkx/>
+   <text> -10 Missile Accuracy, -15 Critical to hit.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: the process produces 80 arrows at a time.</text><nl/>
+   <nl/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Enriched Fire Essence, 50 Arrow/Bolt Heads, 50 Yews,</text><nl/>
+   <text> 50 Hawk Feathers.</text>
+   <nl/>
+   <text> Tools required to have: Carving Knife</text>
+   <nl/>
+   <text> Knowledge needed: Fire arrows</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 35</text>
+   <nl/>
+   <text> Experience Given: 2300</text>
+   <nl/>
+   <text> Food subtracted: 20</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Archery" title="Back To Archery Index"/>
+</Page>
+<Page name="Ice_Arrows">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARCHERY</text><nl/>
+   <color>red</color>
+   <text>                 Ice Arrows</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 40 cold damage, -25 Accuracy, -15 Missile Accuracy,</text><nlkx/>
+   <text> -15 Critical to hit, very slow to reload!</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: the process produces 50 arrows at a time.</text><nl/>
+   <nl/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Enriched Water Essence, 50 Arrow/Bolt Heads, 50 Yews,</text><nl/>
+   <text> 50 Hawk Feathers.</text>
+   <nl/>
+   <text> Tools required to have: Carving Knife</text>
+   <nl/>
+   <text> Knowledge needed: Ice arrows</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 33</text>
+   <nl/>
+   <text> Experience Given: 2100</text>
+   <nl/>
+   <text> Food subtracted: 20</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Archery" title="Back To Archery Index"/>
+</Page>
+<Page name="Explosive_Arrows">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARCHERY</text><nl/>
+   <color>red</color>
+   <text>              Explosive Arrows</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> ???</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Tools required to have: ???</text>
+   <nl/>
+   <text> Knowledge needed: ???</text>
+   <nl/>
+   <text> Required Nexuses: ???</text>
+   <nl/>
+   <text> Recommended Level: ???</text>
+   <nl/>
+   <text> Experience Given: ???</text>
+   <nl/>
+   <text> Food subtracted: ???</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Archery" title="Back To Archery Index"/>
+</Page>
+<Page name="Bolts">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARCHERY</text><nl/>
+   <color>red</color>
+   <text>               Training Bolts</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Crossbow training bolt, not good for PK!</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> This item cannot be manufactured.</text>
+   <nl/><nl/><nl/>
+   <text> Stackable: Yes</text> 
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Archery" title="Back To Archery Index"/>
+</Page>
+<Page name="pk_bolt">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARCHERY</text><nl/>
+   <color>red</color>
+   <text>                  PK Bolts</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +15 Missile Accuracy.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Arrow/Bolt Head, 1 Yew, 1 Air Essence, 1 Falcon Feather.</text>
+   <nl/>
+   <text> Tools required to have: Carving Knife</text>
+   <nl/>
+   <text> Knowledge needed: PK Bolts</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 29</text>
+   <nl/>
+   <text> Experience Given: 120</text>
+   <nl/>
+   <text> Food subtracted: 20</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Archery" title="Back To Archery Index"/>
+</Page>
+<Page name="Magic_Bolts">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARCHERY</text><nl/>
+   <color>red</color>
+   <text>                 Magic Bolts</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 10 normal damage, 10 magic damage, -15 Accuracy,</text><nlkx/>
+   <text> +15 Missile Accuracy, -15 Critical to hit,</text><nlkx/>
+   <text> 7% chance do deplete mana, very fast to reload!</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Tools required to have: ???</text>
+   <nl/>
+   <text> Knowledge needed: ???</text>
+   <nl/>
+   <text> Required Nexuses: ???</text>
+   <nl/>
+   <text> Recommended Level: ???</text>
+   <nl/>
+   <text> Experience Given: ???</text>
+   <nl/>
+   <text> Food subtracted: ???</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Archery" title="Back To Archery Index"/>
+</Page>
+<Page name="Fire_Bolts">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARCHERY</text><nl/>
+   <color>red</color>
+   <text>                 Fire Bolts</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 10 normal damage, 10 heat damage, -15 Accuracy,</text><nlkx/>
+   <text> -10 Missile Accuracy, -15 Critical to hit,</text><nlkx/>
+   <text> 15% chance to do mana burn.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Tools required to have: ???</text>
+   <nl/>
+   <text> Knowledge needed: ???</text>
+   <nl/>
+   <text> Required Nexuses: ???</text>
+   <nl/>
+   <text> Recommended Level: ???</text>
+   <nl/>
+   <text> Experience Given: ???</text>
+   <nl/>
+   <text> Food subtracted: ???</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Archery" title="Back To Archery Index"/>
+</Page>
+<Page name="Ice_Bolts">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARCHERY</text><nl/>
+   <color>red</color>
+   <text>                  Ice Bolts</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 10 normal damage, 10 cold damage, -15 Accuracy,</text><nlkx/>
+   <text> -15 Missile Accuracy, -15 Critical to hit,</text><nlkx/>
+   <text> 10% chance to do cooldown, very slow to reload!</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Tools required to have: ???</text>
+   <nl/>
+   <text> Knowledge needed: ???</text>
+   <nl/>
+   <text> Required Nexuses: ???</text>
+   <nl/>
+   <text> Recommended Level: ???</text>
+   <nl/>
+   <text> Experience Given: ???</text>
+   <nl/>
+   <text> Food subtracted: ???</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Archery" title="Back To Archery Index"/>
+</Page>
+<Page name="Explosive_Bolts">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARCHERY</text><nl/>
+   <color>red</color>
+   <text>               Explosive Bolts</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> ???</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Tools required to have: ???</text>
+   <nl/>
+   <text> Knowledge needed: ???</text>
+   <nl/>
+   <text> Required Nexuses: ???</text>
+   <nl/>
+   <text> Recommended Level: ???</text>
+   <nl/>
+   <text> Experience Given: ???</text>
+   <nl/>
+   <text> Food subtracted: ???</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Archery" title="Back To Archery Index"/>
+</Page>
+</Archery>

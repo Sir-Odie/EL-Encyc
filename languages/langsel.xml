@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LANGUAGE_LIST>
+   <LANG CODE="en" SAVE="Save" DEFAULT="true" TEXT="Select English Language">Note English is used for server messages and most player chat. See Rules for details (F5).</LANG>
+   <LANG CODE="pl" SAVE="Zapisz" TEXT="Wybierz Jezyk Polski">Notatka Angielski jest uzywany do wiadomosci z serwera i wiekszosci rozmow miedzy graczami. Zobacz Reguly w celu sprawdzenia szczegolow (F5).</LANG>
+   <LANG CODE="pt" SAVE="Salvar" TEXT="Selecionar a Língua Portuguesa">Note que o inglês é utilizado para as mensagens do servidor e a maioria do bate-papo entre jogadores. Veja as regras para detalhes (F5).</LANG>
+   <LANG CODE="de" SAVE="Speichern" TEXT="Deutsche Sprache auswählen">Anmerkung: Servernachrichten und Bedienelemente sind auf englisch, in manchen Chats ist Englisch Pflicht, siehe Spielregeln (F5).</LANG>
+   <LANG CODE="es" SAVE="Salvar" TEXT="Seleccionar Idioma Española">Notad que el ingles se utiliza para los mensajes del servidor y la mayoría de la charla del jugador. Ver las reglas para los detalles (F5).</LANG>
+   <LANG CODE="nl" SAVE="Opslaan" TEXT="Nederlandse Taal Selecteren">Let op: Engels wordt gebruikt voor Server berichten en de meeste spelersdialogen. Zie regels voor meer details (F5).</LANG>
+   <LANG CODE="fr" SAVE="Sauvegarder" TEXT="Choisir la Langue Française">Notez l'Anglais est utilisé pour les messages du serveur et ceux des joueurs. Voyez les lois pour les détails (F5).</LANG>
+   <LANG CODE="hu" SAVE="Mentés" TEXT="Magyar Nyelv Kiválasztása">Megjegyzés: egyes szerver üzenetek és játékosok beszélgetései angolul olvashatók. Nézd meg a szabályokat a részletekért (F5).</LANG>
+   <LANG CODE="tr" SAVE="Kaydet" TEXT="Türkçe Dilini Seç">Not: Ingilizce, sunucu mesajlari ve çogu oyuncu sohbeti için kullanilir. Daha fazla bilgi için Kurallar'a bakin (F5).</LANG>
+   <SETTINGS TEXT="0.9 0.9 0.9" HIGHLIGHT="0.5 0.5 1.0" CHOSEN="0.4 0.8 1.0" BUTTONS="0.77 0.57 0.39" NOTELINES="4"/>
+</LANGUAGE_LIST>

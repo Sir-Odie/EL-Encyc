@@ -1,0 +1,1866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<General>
+<Page name="Index">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <size>Small</size>
+   <color r="1" g="1" b="1"/>
+   <text>    Na etapie ROZWOJU! Wszelkie bledy prosze zglaszac na</text><nl/>
+   <text>        Forum, lub via e-mail: theryndan@hotmail.it</text><nl/>
+   <size>Medium</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Alchemy"     title="Alchemia"/><size>Small</size><text>     - Jak produkowac Esencje i Metale.</text><size>Medium</size><nl/>
+   <link ref="Attributes"  title="Atrybuty"/><size>Small</size><text>     - Pomaga zrozumiec atrybuty.</text><size>Medium</size><nl/>
+   <link ref="Gods"        title="Bogowie"/><size>Small</size><text>      - Dowiedz sie wszystkiego o religii w EL.</text><size>Medium</size><nl/>
+   <link ref="Weapons"     title="Bronie"/><size>Small</size><text>       - Miecze, topory, kije...</text><size>Medium</size><nl/>
+   <link ref="Engineering" title="Inzynieria"/><size>Small</size><text>   - Zasieki, miny, barykady i inne.</text><size>Medium</size><nl/>
+   <link ref="Jewelry"     title="Jubilerstwo"/><size>Small</size><text>  - Pierscienie, medaliony, bizuteria.</text><size>Medium</size><nl/>
+   <link ref="Tailoring"   title="Krawiectwo"/><size>Small</size><text>   - Sztuka szycia ubran.</text><size>Medium</size><nl/>
+   <link ref="Books"       title="Ksiazki"/><size>Small</size><text>      - Czyli jak roszerzac swoja wiedze.</text><size>Medium</size><nl/>
+   <link ref="Magic"       title="Magia"/><size>Small</size><text>        - Spis magicznych zaklec.</text><size>Medium</size><nl/>
+   <link ref="Maps"        title="Mapy"/><size>Small</size><text>         - Informacje o mapach.</text><size>Medium</size><nl/>
+   <link ref="Potions"     title="Mikstury"/><size>Small</size><text>     - Recepty do wszystkich mikstur.</text><size>Medium</size><nl/>
+   <link ref="Perks"       title="Perki"/><size>Small</size><text>        - Informacje o perkach.</text><size>Medium</size><nl/>
+   <link ref="Creatures"   title="Potwory"/><size>Small</size><text>      - Potwory swiata EL.</text><size>Medium</size><nl/>
+   <link ref="Summoning"   title="Przywolanie"/><size>Small</size><text>  - Informacje o przywolywaniu.</text><size>Medium</size><nl/>
+   <link ref="Misc"        title="Rozne"/><size>Small</size><text>        - Rozne Roznosci.</text><size>Medium</size><nl/>
+   <link ref="Archery"     title="Strzelectwo"/><size>Small</size><text>  - Luki, kusze, strzaly...</text><size>Medium</size><nl/>
+   <link ref="Clothes"     title="Ubrania"/><size>Small</size><text>      - Wszystko o plaszczach i ubraniach z futra.</text><size>Medium</size><nl/>
+   <link ref="Harvesting"  title="Zbieractwo"/><size>Small</size><text>   - Wszystko to, co da sie zbierac.</text><size>Medium</size><nl/>
+   <link ref="Armors"      title="Zbroje"/><size>Small</size><text>       - Zbroje: od skorzanych po plytowe.</text><size>Medium</size>
+</Page>
+<Page name="Alchemy">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ALCHEMIA</text><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Alchemia jest sztuka tworzenia esencji i metali.</text><nl/>
+   <text> Esencji uzywa sie do rzucania zaklec oraz jako skladnikow</text><nl/>
+   <text> przy produkcji niektorych przedmiotow, metale zas sa</text><nl/>
+   <text> podstawowym skladnikiem broni, zbroi i medalionow.</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text>Esencje</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Air Essence" title="Air Essence"/><text>                    </text>
+   <link ref="Life Essence" title="Life Essence"/><nl/>
+   <link ref="Death Essence" title="Death Essence"/><text>                  </text>
+   <link ref="Magic Essence" title="Magic Essence"/><nl/>
+   <link ref="Earth Essence" title="Earth Essence"/><text>                  </text>
+   <link ref="Matter Essence" title="Matter Essence"/><nl/>
+   <link ref="Energy Essence" title="Energy Essence"/><text>                 </text>
+   <link ref="Spirit Essence" title="Spirit Essence"/><nl/>
+   <link ref="Fire Essence" title="Fire Essence"/><text>                   </text>
+   <link ref="Water Essence" title="Water Essence"/><nl/>
+   <link ref="Health Essence" title="Health Essence"/>
+   <nl/>
+   <nl/>
+   <color r="0.1" g="0.5" b="1"/><text>Wzbogacone Esencje</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Enriched Fire Essence" title="Enriched Fire Essence"/><text>          </text>
+   <link ref="Enriched Death Essence" title="Enriched Death Essence"/><nl/>
+   <link ref="Enriched Water Essence" title="Enriched Water Essence"/><text>         </text>
+   <link ref="Enriched Magic Essence" title="Enriched Magic Essence"/><nl/>
+   <link ref="Enriched Life Essence" title="Enriched Life Essence"/><text>          </text>
+   <nl/>
+   <nl/>
+   <color r="0.1" g="0.5" b="1"/><text>Metale</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Iron Bar" title="Iron Bar"/><text>                       </text>
+   <link ref="Bronze Bar" title="Bronze Bar"/>
+   <nl/>
+   <link ref="Steel Bar" title="Steel Bar"/><text>                      </text>
+   <link ref="Hydrogenium Bar" title="Hydrogenium Bar"/>
+   <nl/>
+   <link ref="Silver Bar" title="Silver Bar"/><text>                     </text>
+   <link ref="Seridium Bar" title="Seridium Bar"/>
+   <nl/>
+   <link ref="Gold Bar" title="Gold Bar"/><text>                       </text>
+   <link ref="Wolfram Bar" title="Wolfram Bar"/>
+   <nl/>
+   <link ref="Titanium Bar" title="Titanium Bar"/><text>                   </text>
+   <link ref="Dvarium Bar" title="Dvarium Bar"/>
+   <nl/>
+   <link ref="Tin Bar" title="Tin Bar"/><text>                        </text>
+   <link ref="Irilium Bar" title="Irilium Bar"/><text>*</text>
+   <nl/>
+   <link ref="Copper Bar" title="Copper Bar"/><text>                     </text>
+   <text> </text>
+   <nl/>
+   <nl/>
+   <text> * Wskazuje sztabki ktorych rude odkryto, ale nie wiadomo</text><nl/>
+   <text> jeszcze w jaki sposob ja wydobywac ani na co moze sie</text><nl/>
+   <text> przydac. Naukowcy jeszcze nad tym pracuja.</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Wroc do Indeksu"/>
+</Page>
+<Page name="Archery">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Luki i strzaly.</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0" g="0.7" b="1"/>
+   <text>Luki</text><text>                           </text>
+   <text>Kusze</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Short_Bow" title="Short Bow"/><text>                      </text>
+   <link ref="Crossbow" title="Crossbow"/>
+   <nl/>
+   <link ref="Long_Bow" title="Long Bow"/><text>                       </text>
+   <text> </text>
+   <nl/>
+   <link ref="Recurve_Bow" title="Recurve Bow"/><text>                    </text>
+   <color r="0" g="0.7" b="1"/><text>Belty</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <link ref="Elven_Bow" title="Elven Bow"/><text>                      </text>
+   <link ref="Bolts" title="Bolts"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="pk_bolt" title="PK Bolts"/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Strzaly</text><text>                        </text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Magic_Bolts" title="Magic Bolts"/>
+   <nl/>
+   <link ref="Arrows" title="Arrows"/><text>                         </text>
+   <link ref="Fire_Bolts" title="Fire Bolts"/>
+   <nl/>
+   <link ref="pk_arrow" title="PK Arrows"/><text>                      </text>
+   <link ref="Ice_Bolts" title="Ice Bolts"/>
+   <nl/>
+   <link ref="Magic_Arrows" title="Magic Arrows"/><text>                   </text>
+   <link ref="Explosive_Bolts" title="Explosive Bolts"/>
+   <nl/>
+   <link ref="Fire_Arrows" title="Fire Arrows"/><text>                    </text>
+   <text> </text>
+   <nl/>
+   <link ref="Ice_Arrows" title="Ice Arrows"/><text>                     </text>
+   <text> </text>
+   <nl/>
+   <link ref="Explosive_Arrows" title="Explosive Arrows"/><text>               </text>
+   <text> </text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+<Page name="Armors">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   ZBROJE</text><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Zestawy zbroi skladaja sie z odzielnych czesci: helmow</text><nl/>
+   <text> napiersnikow, spodni, butow i tarcz. Rozne materialy sa</text><nl/>
+   <text> uzywane do produkcji zbroi: skora, zelazo, stal, tytan</text><nl/>
+   <text> czy bronz. Mieszanie tych materialow obfituje w szereg</text><nl/>
+   <text> ciekawych zbroi o roznych wlasciwosciach.</text>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0" g="0.7" b="1"/>
+   <text>Napiersniki</text><text>                    </text>
+   <text>Helmy</text><nl/>
+      <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Leather Torso Armor" title="Leather Torso"/><text>                  </text>
+   <link ref="Leather Helm" title="Leather Helm"/>
+   <nl/>
+   <link ref="Aug Leather Torso Armor" title="Augmented Leather Torso"/><text>        </text>
+   <link ref="Iron Helm" title="Iron Helm"/>
+   <nl/>
+   <link ref="Iron Chainmail Torso Armor" title="Iron Chainmail"/><text>                 </text>
+   <link ref="Steel Helm" title="Steel Helm"/>
+   <nl/>
+   <link ref="Steel Chainmail Torso Armor" title="Steel Chainmail"/><text>                </text>
+   <link ref="Titanium Helm" title="Titanium Helm"/>
+   <nl/>
+   <link ref="Titanium Chainmail Torso Armor" title="Titanium Chainmail"/><text>             </text>
+   <link ref="Bronze Helm" title="Bronze Helm"/>
+   <nl/>
+   <link ref="Iron Plate" title="Iron Plate Mail"/><text>                </text>
+   <link ref="Red Dragon Helm" title="Red Dragon Helm"/>
+   <nl/>
+   <link ref="Steel Plate" title="Steel Plate Mail"/><text>               </text>
+   <link ref="Black Dragon Helm" title="Black Dragon Helm"/>
+   <nl/>
+   <link ref="Titanium Plate" title="Titanium Plate Mail"/><text>            </text>
+   <link ref="Ice Dragon Helm" title="Ice Dragon Helm"/>
+   <nl/>
+   <link ref="Bronze Plate" title="Bronze Plate Mail"/><text>              </text>
+   <text> </text>
+   <nl/>
+   <link ref="Red Dragon Torso" title="Red Dragon Torso Armor"/><text>         </text>
+   <color r="0" g="0.7" b="1"/><text>Tarcze</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <link ref="Black Dragon Torso" title="Black Dragon Torso Armor"/><text>       </text>
+   <link ref="Wooden Shield" title="Wooden Shield"/>
+   <nl/>
+   <link ref="Ice Dragon Torso" title="Ice Dragon Torso Armor"/><text>         </text>
+   <link ref="E Wooden Shield" title="Enhanced Wooden Shield"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="Iron Shield" title="Iron Shield"/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Spodnie</text><color r="0.9" g="0.9" b="0.9"/><text>                        </text>
+   <link ref="Steel Shield" title="Steel Shield"/>
+   <nl/>
+   <link ref="Leather Pants" title="Leather Pants"/><text>                  </text>
+   <link ref="Titanium Shield" title="Titanium Shield"/>
+   <nl/>
+   <link ref="Aug Leather Pants" title="Augmented Leather Pants"/><text>        </text>
+   <link ref="Bronze Shield" title="Bronze Shield"/>
+   <nl/>
+   <link ref="Iron Cuisses" title="Iron Cuisses"/><text>                   </text>
+   <text> </text>
+   <nl/>
+   <link ref="Steel Cuisses" title="Steel Cuisses"/><text>                  </text>
+   <color r="0" g="0.7" b="1"/><text>Buty</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <link ref="Titanium Cuisses" title="Titanium Cuisses"/><text>               </text>
+   <link ref="Leather Boots" title="Leather Boots"/>
+   <nl/>
+   <link ref="Bronze Cuisses" title="Bronze Cuisses"/><text>                 </text>
+   <link ref="Iron Greaves" title="Iron Greaves"/>
+   <nl/>
+   <link ref="Red Dragon Cuisses" title="Red Dragon Cuisses"/><text>             </text>
+   <link ref="Steel Greaves" title="Steel Greaves"/>
+   <nl/>
+   <link ref="Black Dragon Cuisses" title="Black Dragon Cuisses"/><text>           </text>
+   <link ref="Titanium Greaves" title="Titanium Greaves"/>
+   <nl/>
+   <link ref="Ice Dragon Cuisses" title="Ice Dragon Cuisses"/><text>             </text>
+   <link ref="Bronze Greaves" title="Bronze Greaves"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="Red Dragon Greaves" title="Red Dragon Greaves"/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Rekawice</text><color r="0.9" g="0.9" b="0.9"/><text>                       </text>
+   <link ref="Black Dragon Greaves" title="Black Dragon Greaves"/>
+   <nl/>
+   <link ref="Leather Gloves" title="Leather Gloves"/><text>                 </text>
+   <link ref="Ice Dragon Greaves" title="Ice Dragon Greaves"/>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+<Page name="Attributes">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ATRYBUTY</text><nl/><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text>     W nawiasach wpisano angielskie odpowiedniki nazw.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>Podstawowe Atrybuty            </text>
+   <text>Nexus</text>
+   <nl/>
+   <link ref="Physique" title="Budowa Ciala (Physique)"/><text>        </text>
+   <link ref="Nx_Human" title="Human"/>
+   <nl/>
+   <link ref="Coordination" title="Koordynacja (Coordination)"/><text>     </text>
+   <link ref="Nx_Animal" title="Animal"/>
+   <nl/>
+   <link ref="Reasoning" title="Rozum (Reasoning)"/><text>              </text>
+   <link ref="Nx_Vegetal" title="Vegetal"/>
+   <nl/>
+   <link ref="Will" title="Wola (Will)"/><text>                    </text>
+   <link ref="Nx_Inorganic" title="Inorganic"/>
+   <nl/>
+   <link ref="Instinct" title="Instynkt (Instinct)"/><text>            </text>
+   <link ref="Nx_Artificial" title="Artificial"/>
+   <nl/>
+   <link ref="Vitality" title="Witalnosc (Vitality)"/><text>           </text>
+   <link ref="Nx_Magic" title="Magic"/>
+   <nl/>
+   <text>                               </text>
+   <text> </text>
+   <nl/>
+   <color>yellow</color>
+   <text>Posrednie Atrybuty             </text><color r="0.5" g="0.9" b="1"/>
+   <text>Umiejetnosci</text><color>yellow</color>
+   <nl/>
+   <link ref="Might" title="Sila (Might)"/><text>                   </text><color r="0.5" g="0.9" b="1"/>
+   <link ref="Sk_Attack" title="Atak (Attack)"/><color>yellow</color>
+   <nl/>
+   <link ref="Matter" title="Materia (Matter)"/><text>               </text><color r="0.5" g="0.9" b="1"/>
+   <link ref="Sk_Defense" title="Obrona (Defense)"/><color>yellow</color>
+   <nl/>
+   <link ref="Toughness" title="Wytrzymalosc (Toughness)"/><text>       </text><color r="0.5" g="0.9" b="1"/>
+   <link ref="Sk_Harvesting" title="Zbieractwo (Harvesting)"/><color>yellow</color>
+   <nl/>
+   <link ref="Charm" title="Urok (Charm)"/><text>                   </text><color r="0.5" g="0.9" b="1"/>
+   <link ref="Sk_Alchemy" title="Alchemia (Alchemy)"/><color>yellow</color>
+   <nl/>
+   <link ref="Reaction" title="Reakcje (Reaction)"/><text>             </text><color r="0.5" g="0.9" b="1"/>
+   <link ref="Sk_Magic" title="Magia (Magic)"/><color>yellow</color>
+   <nl/>
+   <link ref="Perception" title="Percepcja (Perception)"/><text>         </text><color r="0.5" g="0.9" b="1"/>
+   <link ref="Sk_Potion" title="Mikstury (Potion)"/><color>yellow</color>
+   <nl/>
+   <link ref="Rationality" title="Racjonalnosc (Rationality)"/><text>     </text><color r="0.5" g="0.9" b="1"/>
+   <link ref="Sk_Summoning" title="Przywolanie (Summoning)"/><color>yellow</color>
+   <nl/>
+   <link ref="Dexterity" title="Zrecznosc (Dexterity)"/><text>          </text><color r="0.5" g="0.9" b="1"/>
+   <link ref="Sk_Manufacture" title="Rzemieslnictwo (Manufacture)"/><color>yellow</color>
+   <nl/>
+   <link ref="Ethereality" title="Eterycznosc (Ethereality)"/><text>      </text><color r="0.5" g="0.9" b="1"/>
+   <link ref="Sk_Crafting" title="Jubilerstwo (Crafting)"/><color>yellow</color>
+   <nl/>
+   <text>                               </text><color r="0.5" g="0.9" b="1"/>
+   <link ref="Sk_Engineering" title="Inzynieria (Engineering)"/><color>yellow</color>
+   <nl/>
+   <text>                               </text><color r="0.5" g="0.9" b="1"/>
+   <link ref="Sk_Tailoring" title="Krawiectwo (Tailoring)"/><color>yellow</color>
+   <nl/>
+   <text>                               </text><color r="0.5" g="0.9" b="1"/>
+   <link ref="Sk_Ranging" title="Strzelectwo (Ranging)"/><color>yellow</color>
+   <nl/>
+   <text>                               </text><color r="0.5" g="0.9" b="1"/>
+   <link ref="Sk_Overall" title="Poziom Calkowity (Overall)"/><color>yellow</color>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+<Page name="Books">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   KSIAZKI</text><nl/><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Aby moc rozwijac swoja postac bedziesz potrzebowal wielu</text>
+   <nl/>
+   <text> ksiazek. Tutaj znajdziesz liste sklepow, ktore je</text>
+   <nl/>
+   <text> sprzedaja.</text><nl/><nl/>
+   
+   <color r="0" g="0.7" b="1"/>
+   <text>Frukas (Grahm's Village, White Stone)</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Books_BI" title="Biologia"/><nl/>
+   <link ref="Books_AL" title="Alchemia"/><nl/>
+   <link ref="Books_PO" title="Mikstury"/><nl/>
+   <link ref="Books_FO" title="Jedzenie dla Zmiennoksztaltnych"/><nl/>
+   <nl/>
+   
+   <color r="0" g="0.7" b="1"/>
+   <text>Brogan (Portland, blisko pustyni Kamara)</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Books_CM" title="Kopanie Krysztalow"/><nl/>
+   <link ref="Books_CP" title="Przerabianie Krysztalow"/><nl/>
+   <link ref="Books_TM" title="Tworzenie Narzedzi"/><nl/>
+   <link ref="Books_EI" title="Ulepszone Przedmioty"/><nl/>
+   <nl/>
+   
+   <color r="0" g="0.7" b="1"/>
+   <text>Ardur (Poludniowo-zachodni Naralik)</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Books_MM" title="Kopanie Metali"/><nl/>
+   <link ref="Books_MS" title="Wytapianie Metali"/><nl/>
+   <link ref="Books_MD" title="Odlewanie Metali"/><nl/>
+   <link ref="Books_MO" title="Inne"/><nl/>
+   <nl/>
+   
+   <color r="0" g="0.7" b="1"/>
+   <text>Dan (Plac targowy w White Stone City)</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Books_WC" title="Tworzenie Broni"/><nl/>
+   <link ref="Books_AC" title="Tworzenie Zbroi"/><nl/>
+   <nl/>
+   
+   <color r="0" g="0.7" b="1"/>
+   <text>Itilli (Rejestratura w Szkole Magii w Tarsengaard)</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Books_JE" title="Oprawianie Klejnotow"/><nl/>
+   <link ref="Books_MB" title="Tworzenie Medalionow"/><nl/>
+   <link ref="Books_RB" title="Tworzenie Pierscieni"/><nl/>
+   <link ref="Books_CB" title="Tworzenie Koron"/><nl/>
+   <link ref="Books_JO" title="Inne"/><nl/>
+   <nl/>
+   
+   <color r="0" g="0.7" b="1"/>
+   <text>Nahark (Ywarstav, Grubani Peninsula)</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Books_FT" title="Walka"/><nl/>
+   <link ref="Books_SM" title="Przywolywanie"/><nl/>
+   <link ref="Books_SS" title="Kamienie Przywolujace"/><nl/>
+   <link ref="Books_SH" title="Zmiennoksztaltnosc"/><nl/>
+   <nl/>
+   
+   <color r="0" g="0.7" b="1"/>
+   <text>Cantemir (Zirak City, Zirakinbar)</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Books_AWC" title="Tworzenie Zaawansowanych Broni"/><nl/>
+   <link ref="Books_AAC" title="Tworzenie Zaawansowanych Zbroi"/><nl/>
+   <nl/>
+   
+   <color r="0" g="0.7" b="1"/>
+   <text>Grigore Ureche (Emerald Valley Trade Route)</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Books_RBC2" title="Tworzenie Pierscieni Irillion"/><nl/>
+   <link ref="Books_TAI" title="Krawiectwo"/><nl/>
+   <nl/>
+   
+   <color r="0" g="0.7" b="1"/>
+   <text>Neculce (North Redmoon)</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Books_EN" title="Inzynieria"/><nl/>
+   <link ref="Books_ASTRO" title="Astrologia"/><nl/>
+   <link ref="Books_ARROWS" title="Lucznictwo"/><nl/>
+   <nl/>
+   
+   <color r="0" g="0.7" b="1"/>
+   <text>Ksiazki Gubione Przez Potwory (Nie do kupienia u NPC)</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Books_MSW" title="Magiczne Miecze"/><nl/>
+   <link ref="Books_AP" title="Zaawansowane Mikstury"/><nl/>
+   <nl/>
+   
+   <color r="0" g="0.7" b="1"/>
+   <text>Zaleznosci</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Books_PRE" title="Tabela zaleznosci"/><nl/>
+   <nl/>
+   
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+<Page name="Clothes">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Ubrania</text><nl/>
+   <size>Small</size><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Ubrania chronia Cie przed obrazeniami od zimna i goraca,</text><nl/>
+   <text> wplywaja takze na Twoj wyglad. Niektore maja magiczne</text><nl/>
+   <text> wlasciwosci, m.in.: plaszcze. </text><nl/>
+   <text> Zerknij tazke na </text>
+   <link ref="Armors" title="Zbroje"/>
+   <text> i </text>
+   <link ref="Weapons" title="Bronie"/>
+   <text> aby </text><nl/>
+   <text> dowiedziec sie czegos wiecej o przedmiotach, ktore da sie.</text><nl/>
+   <text> nosic.</text><nl/><nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text>Ubrania                        Magiczne Plaszcze</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Fur_Gloves" title="Warm Fur Gloves"/><text>                </text>
+   <link ref="Cloak_PS" title="Powersaving Cloak"/><nl/>
+   <link ref="Fox_Scarf" title="Fox Scarf"/><text>                      </text>
+   <link ref="Cloak_EX" title="Excavator Cape"/><nl/>
+   <link ref="Hat_Fur" title="Fur Hat"/><text>                        </text>
+   <link ref="Cloak_CJ" title="Conjurer Cloak"/><nl/>
+   <link ref="Cloak_Fur" title="Fur Cloak"/><text>                      </text>
+   <link ref="Cloak_FR" title="Fast Regeneration Cape"/><nl/>
+   <link ref="Hat_Skunk" title="Skunk Hat"/><text>                      </text>
+   <link ref="Cloak_MM" title="Monster Magnetism Cloak"/><nl/>
+   <link ref="Hat_Racoon" title="Racoon Hat"/><text>                     </text>
+   <link ref="Cloak_BP" title="Body Piercing Cloak"/><nl/>
+   <link ref="Fur_Boots" title="Fur Boots"/><text>                      </text>
+   <link ref="Cloak_MI" title="Mirror Cloak"/><nl/>
+   <link ref="Fur_Pants" title="Fur Pants"/><text>                      </text>
+   <link ref="Cloak_NMT" title="No More Tears Cloak"/><nl/>
+   <link ref="Fur_Torso" title="Fur Torso"/><text>                      </text>
+   <link ref="Cloak_UB" title="Cape of the Unbreakable"/><nl/>
+   <link ref="Bandana" title="Opaski"/><text>                         </text>
+   <link ref="Cloak_WA" title="Warlock's Cloak"/><nl/>
+   <link ref="Adv_Cap" title="Adventurer's Caps"/><text>              </text>
+   <link ref="Cloak_CAM" title="Cape of Passive Camouflage"/><nl/>
+   <link ref="Tiaras" title="Tiary"/><text>                          </text>
+   <link ref="Cloak_ART" title="Artificer Cape"/><nl/>
+   <link ref="Crowns" title="Korony"/><text>                         </text>
+   <text> </text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+<Page name="Creatures">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             Zwierzeta i Potwory</text><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> W EL mozna spotkac wiele potworow oraz zwierzat.</text><nl/>
+   <text> Jedne sa nastawione pokojowo, inne z miejsca</text><nl/>
+   <text> atakuja - stad tez, przy zwiedzaniu swiata EL, zalecana</text><nl/>
+   <text> jest ostroznosc.</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0" g="0.7" b="1"/>
+   <text>Nieagresywne                 Agresywne</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Rabbits" title="Kroliki"/><text>                      </text>
+   <link ref="Goblin" title="Gobliny"/>
+   <nl/>
+   <link ref="Rat" title="Szczur"/><text>                       </text>
+   <link ref="Skeleton" title="Szkielety"/>
+   <nl/>
+   <link ref="Beaver" title="Bobr"/><text>                         </text>
+   <link ref="Gargoyle" title="Niskie Gargulce"/>
+   <nl/>
+   <link ref="Brownie" title="Brownie"/><text>                      </text>
+   <link ref="Gargoyle" title="Wysokie Gargulce"/>
+   <nl/>
+   <link ref="Deer" title="Jelen"/><text>                        </text>
+   <link ref="Gargoyle" title="Srednie Gargulce"/>
+   <nl/>
+   <link ref="Wood_Sprite" title="Wood Sprite"/><text>                  </text>
+   <link ref="Goblin" title="Samica Goblina"/>
+   <nl/>
+   <link ref="Skunk" title="Skunks"/><text>                       </text>
+   <link ref="Skeleton" title="Uzbrojony Szkielet"/>
+   <nl/>
+   <link ref="Racoon" title="Szop"/><text>                         </text>
+   <link ref="Orc" title="Samica Orka"/>
+   <nl/>
+   <link ref="Fox" title="Lis"/><text>                          </text>
+   <link ref="Goblin" title="Uzbrojony Goblin"/>
+   <nl/>
+   <link ref="Leprechaun" title="Leprechaun"/><text>                   </text>
+   <link ref="Hobgob" title="Hobgoblin"/>
+   <nl/>
+   <link ref="Spiders" title="Maly Pajak"/><text>                   </text>
+   <link ref="Orc" title="Ork"/>
+   <nl/>
+   <link ref="Snakes" title="Weze"/><text>                         </text>
+   <link ref="Troll" title="Trolle"/>
+   <nl/>
+   <link ref="Boar" title="Dzik"/><text>                         </text>
+   <link ref="Ogre" title="Ogr"/>
+   <nl/>
+   <link ref="Imp" title="Imp"/><text>                          </text>
+   <link ref="Orc" title="Uzbrojona Samica Orka"/>
+   <nl/>
+   <link ref="Wolf" title="Wilk"/><text>                         </text>
+   <link ref="Orc" title="Uzbrojony Ork"/>
+   <nl/>
+   <link ref="Penguins" title="Pingwiny"/><text>                     </text>
+   <link ref="Phantom_Warrior" title="Phantom Warrior"/>
+   <nl/>
+   <link ref="Spiders" title="Duze Pajaki"/><text>                  </text>
+   <link ref="Cyclops" title="Cyklopy"/>
+   <nl/>
+   <link ref="Puma" title="Puma"/><text>                         </text>
+   <link ref="Fluffy" title="Kroliczek Fluffy"/>
+   <nl/>
+   <link ref="Leopard" title="Leopard"/><text>                      </text>
+   <link ref="Feros" title="Feros"/>
+   <nl/>
+   <link ref="Snow_Leopard" title="Sniezny Leopard"/><text>              </text>
+   <link ref="Chimera" title="Pustynna Chimera"/>
+   <nl/>
+   <link ref="Feran" title="Feran"/><text>                        </text>
+   <link ref="Chimera" title="Lesna Chimera"/>
+   <nl/>
+   <link ref="Panther" title="Czarna Pantera"/><text>               </text>
+   <link ref="Chimera" title="Gorska Chimera"/>
+   <nl/>
+   <link ref="Hawk" title="Jastrzab"/><text>                     </text>
+   <link ref="Chimera" title="Arktyczna Chimera"/>
+   <nl/>
+   <link ref="Falcon" title="Sokol"/><text>                        </text>
+   <link ref="Yeti" title="Yeti"/>
+   <nl/>
+   <link ref="BearB" title="Niedzwiedz Czarny"/><text>            </text>
+   <link ref="Cockatrice" title="Bazyliszek"/>
+   <nl/>
+   <link ref="BearP" title="Niedzwiedz Polarny"/><text>           </text>
+   <link ref="Giant" title="Gigant"/>
+   <nl/>
+   <link ref="BearG" title="Niedzwiedz Grizzly"/><text>           </text>
+   <link ref="DragonR" title="Czerwony Smok"/>
+   <nl/>
+   <link ref="Panda" title="Panda"/><text>                        </text>
+   <link ref="DragonB" title="Czarny Smok"/>
+   <nl/>
+   <link ref="Lion" title="Lew"/><text>                          </text>
+   <link ref="DragonW" title="Lodowy Smok"/>
+   <nl/>
+   <link ref="Penguins" title="Pingwiny"/><text>                    </text>
+   <nl/>
+   <link ref="Tiger" title="Tygrys"/><text>                          </text>
+   <text> </text>
+   <nl/>
+   <link ref="White_Tiger" title="Tygrys Bialy"/><text>                    </text>
+   <text> </text>
+   <nl/>
+   <link ref="Unicorn" title="Jednorozec"/><text>                        </text>
+   <text> </text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+<Page name="Engineering">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 INZYNIERIA</text><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Umiejetnosc Inzynierii pozwala na tworzenie kilku</text><nl/>
+   <text> niebezpiecznych substancji (m.in. prochu) jak i paru</text><nl/>
+   <text> przedmiotow (m.in. miny, zasieki). Dodatkowo dzieki niej</text><nl/>
+   <text> mozliwe jest konstruowanie pewnych urzadzen, na przyklad</text><nl/>
+   <text> maski do widzenia w nocy oraz kamieni astrologicznych.</text><nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text>Inzynieria</text><text>                     </text>
+   <text>Kamienie</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Ashes" title="Ashes"/><text>                          </text>
+   <link ref="Ind_AD" title="Attack/Defence Indicator"/>
+   <nl/>
+   <link ref="Ropes" title="Ropes"/><text>                          </text>
+   <link ref="Ind_Crit" title="Criticals Indicator"/>
+   <nl/>
+   <link ref="Nails" title="Nails"/><text>                          </text>
+   <link ref="Ind_AccMag" title="Accuracy/Magic Indicator"/>
+   <nl/>
+   <link ref="Saltpetre" title="Saltpetre"/><text>                      </text>
+   <link ref="Ind_HarvDegr" title="Harvest/Degrade Indicator"/>
+   <nl/>
+   <link ref="Blackpowder" title="Blackpowder"/><text>                    </text>
+   <link ref="Ind_RareFail" title="Make Rare/Fail Indicator"/>
+   <nl/>
+   <link ref="Snare" title="Snare"/><text>                          </text>
+   <link ref="Predictor" title="Predictor Stones"/>
+   <nl/>
+   <link ref="Caltrops" title="Caltrops"/><text>                       </text>
+   <link ref="Lightmeter" title="Lightmeter"/>
+   <nl/>
+   <link ref="P_Caltrops" title="Poisoned Caltrops"/><text>              </text>
+   <link ref="Invasionmeter" title="Invasionmeter"/>
+   <nl/>
+   <link ref="S_Landmine" title="Small Landmines"/><text>                </text>
+   <text> </text>
+   <nl/>
+   <link ref="M_Landmine" title="Medium Landmines"/><text>               </text>
+   <text> </text>
+   <nl/>
+   <link ref="L_Landmine" title="Large Landmines"/><text>                </text>
+   <text> </text>
+   <nl/>
+   <link ref="RC_Landmine" title="RC Landmines"/><text>                   </text>
+   <text> </text>
+   <nl/>
+   <link ref="RC_Detonator" title="RC Mine Detonator"/><text>              </text>
+   <text> </text>
+   <nl/>
+   <link ref="Mana_Drain_Ward" title="Mana Drain Ward"/><text>                </text>
+   <text> </text>
+   <nl/>
+   <link ref="Mana_Burn_Ward" title="Mana Burn Ward"/><text>                 </text>
+   <text> </text>
+   <nl/>
+   <link ref="Inv_Remove_Ward" title="Invisibility Removal Ward"/><text>      </text>
+   <text> </text>
+   <nl/>
+   <link ref="MI_Remove_Ward" title="Magic Immunity Removal Ward"/><text>    </text>
+   <text> </text>
+   <nl/>
+   <link ref="ArrowBolt_Head" title="Arrow/Bolt Head"/><text>                </text>
+   <text> </text>
+   <nl/>
+   <link ref="Night_Visor" title="Night Visor"/><text>                    </text>
+   <text> </text>
+   <nl/>
+   <link ref="Barricade" title="Barricades"/><text>                     </text>
+   <text> </text>
+   <nl/>
+   <link ref="EN_Cloak_CAM" title="Cape of Passive Camouflage"/><text>                           </text>
+   <text> </text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+<Page name="Gods">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  BOGOWIE</text><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Bogowie swiata EL posiadaja wlasne swiatynie - kazdy ma</text><nl/>
+   <text> swoja. Sluzenie im polega na wykonywaniu powierzonych</text><nl/>
+   <text> przez kaplanow zadan. Kazde zadanie podnosi range,</text><nl/>
+   <text> a tym samym zwieksza doswiadczenie otrzymywane w wybranej</text><nl/>
+   <text> umiejetnosci. Dodatkowo, po pewnym czasie, kaplan moze</text><nl/>
+   <text> udzielic platnego blogoslawienstwa, ktore na pewien czas</text><nl/>
+   <text> zwiekszy Twoja umiejetnosc.</text><nl/>
+   <text> Mozna sluzyc maksymalnie 3 bogom, wybrani bogowie nie moga</text><nl/>
+   <text> byc sobie wrodzy.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="MORTOS" title="Mortos"/><text>    - Bog Ataku</text><nl/>
+   <link ref="ALUWEN" title="Aluwen"/><text>    - Bogini Obrony</text><nl/>
+   <link ref="LUCAA" title="Lucaa"/><text>*    - Bogini Zbieractwa</text><nl/>
+   <link ref="ELANDRIA" title="Elandria"/><text>  - Bogini Alchemii</text><nl/>
+   <link ref="UNOLAS" title="Unolas"/><text>    - Bog Magii</text><nl/>
+   <link ref="JAYDEN" title="Jayden"/><text>*   - Bog Mikstur</text><nl/>
+   <link ref="GLILIN" title="Glilin"/><text>    - Bog Rzemieslnictwa</text><nl/>
+   <link ref="SELAIN" title="Selain"/><text>    - Bog Przywolywania</text><nl/>
+   <link ref="ZARIN" title="Zarin"/><text>     - Bogini Jubilerstwa</text><nl/>
+   <link ref="LAFORGE" title="LaForge"/><text>   - Bog Inzynierii</text><nl/>
+    <link ref="GALIENNE" title="Galienne"/><text>* - Bogini Krawiectwa</text><nl/>
+   <link ref="XIAO" title="Xiao"/><text>*     - Bog Srzelectwa</text>
+   <nl/><nl/>
+   <text> *Wskazuje Bogow, ktorzy nie posiadaja jeszcze swoich</text><nl/>
+   <text> kaplanow.</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+<Page name="Harvesting">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 ZBIERACTWO</text>
+   <nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Zbieranie przedmiotow bywa czasem niebezpieczne. Trafiaja</text><nl/>
+   <text> sie uzadlenia pszczol, walace sie sciany kopaln czy tez</text><nl/>
+   <text> zly humor Matki Natury. Na szczescie, procz wypadkow</text><nl/>
+   <text> zdarzaja sie takze mile niespodzianki.</text><nl/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Kategorie przedmiotow, ktore da sie zbierac:</text><nl/>
+   <nl/>
+   <size>Big</size><color r="0.9" g="0.9" b="0.9"/>
+   <text> </text><link ref="Plants" title="Rosliny"/><nl/>
+   <text> </text><link ref="Minerals" title="Mineraly i Krysztaly"/><nl/>
+   <text> </text><link ref="Ores" title="Rudy Metali"/><nl/>
+   <text> </text><link ref="Harv_Other" title="Inne, zbieralne przedmioty"/><nl/>
+   <text> </text><link ref="Stones" title="Kamienie"/><nl/>
+   <nl/><nl/>
+   <size>Small</size>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+<Page name="Jewelry">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <size>Small</size><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Jubilerstwo jest umiejetnoscia tworzenia klejnotow:</text><nl/>
+   <text> szlifowania kamieni, oprawiania ich w pierscieniach i</text><nl/>
+   <text> medalionach. Odpowiednio polaczone skladniki moga tworzyc</text><nl/>
+   <text> pierscienie teleportacyjne, badz medaliony pomocne w walce.</text>
+   <nl/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text>Obrobione Klejnoty</text><text>             </text>
+   <text>Pierscienie Seridia</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Ring_Silver" title="Silver Ring"/><text>                    </text>
+   <link ref="Ring_Isla" title="Ring of Isla Prima"/>
+   <nl/>
+   <link ref="Ring_Gold" title="Gold Ring"/><text>                      </text>
+   <link ref="Ring_Votd" title="Ring of VotD"/>
+   <nl/>
+   <link ref="Med_Silver" title="Silver Medallion"/><text>               </text>
+   <link ref="Ring_Naralik" title="Ring of Naralik"/>
+   <nl/>
+   <link ref="Med_Gold" title="Gold Medallion"/><text>                 </text>
+   <link ref="Ring_WSC" title="Ring of White Stone"/>
+   <nl/>
+   <link ref="P_Ruby" title="Polished Ruby"/><text>                  </text>
+   <link ref="Ring_Port" title="Ring of Portland"/>
+   <nl/>
+   <link ref="P_Emer" title="Polished Emerald"/><text>               </text>
+   <link ref="Ring_Dp" title="Ring of Desert Pines"/>
+   <nl/>
+   <link ref="P_Saph" title="Polished Sapphire"/><text>              </text>
+   <text> </text>
+   <nl/>
+   <link ref="P_Diam" title="Polished Diamond"/><text>               </text>
+   <color r="0" g="0.7" b="1"/><text>Pierscienie Irilion</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="Ring_Anitora" title="Ring of Anitora"/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Medaliony</text><text>                      </text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Ring_Idaloran" title="Ring of Idaloran"/>
+   <nl/>
+   <link ref="Med_Unicorn" title="Unicorn Medallion"/><text>              </text>
+   <link ref="Ring_Bethel" title="Ring of Bethel"/>
+   <nl/>
+   <link ref="Med_Sun" title="Sun Medallion"/><text>                  </text>
+   <link ref="Ring_Sedicolis" title="Ring of Sedicolis"/>
+   <nl/>
+   <link ref="Med_Moon" title="Moon Medallion"/><text>                 </text>
+   <link ref="Ring_Palon_Vertas" title="Ring of Palon Vertas"/>
+   <nl/>
+   <link ref="Med_Stars" title="Stars Medallion"/><text>                </text>
+   <link ref="Ring_Kusamura" title="Ring of Kusamura"/>
+   <nl/>
+   <link ref="Med_Harv" title="Harvester Medallion"/><text>            </text>
+   <link ref="Ring_Egratia" title="Ring of Egratia"/>
+   <nl/>
+   <link ref="Med_Heaven" title="Heaven Spawner Medallion"/><text>       </text>
+   <link ref="Ring_Iscalrith" title="Ring of Iscalrith"/>
+   <nl/>
+   <link ref="Med_Life" title="Medallion of Life"/><text>              </text>
+   <link ref="Ring_Irinveron" title="Ring of Irinveron"/>
+   <nl/>
+   <link ref="Med_Gather" title="Gatherer Medallion"/><text>             </text>
+   <link ref="Ring_Hulda" title="Ring of Hulda"/>
+   <nl/>
+    <text>                               </text><link ref="Ring_Trassian" title="Ring of Trassian"/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Korony</text><text>                         </text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Ring_Imbroglio_Islands" title="Ring of Imbroglio Islands"/>
+   <nl/>
+   <link ref="Crown_Mana" title="Crown of Mana"/><text>                  </text>
+   <link ref="Ring_Isle_Forgotten" title="Ring of IotF"/>
+   <nl/>
+   <link ref="Crown_Life" title="Crown of Life"/><text>                  </text>
+   <link ref="Ring_Hurquin" title="Ring of Hurquin"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="Ring_Glacmor" title="Ring of Glacmor"/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Pierscienie Bitewne</text><text>            </text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Ring_Emerald_Valley" title="Ring of Emerald Valley"/>
+   <nl/>
+   <link ref="Ring_Damage" title="Ring of Damage"/><text>                 </text>
+   <text> </text>
+   <nl/>
+   <link ref="Ring_Disengagement" title="Ring of Disengagement"/><text>          </text>
+   <color r="0" g="0.7" b="1"/><text>Magiczne Kamienie</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <link ref="Ring_Power" title="Ring of Power"/><text>                  </text>
+   <link ref="Saving_Stone" title="Saving Stone"/>
+   <nl/>
+   <link ref="Ring_MDestr" title="Ring of Mana Destruction"/><text>       </text>
+   <text> </text>
+   <nl/>
+   <link ref="Ring_MMDestr" title="Massive Mana Destr. Ring"/><text>       </text>
+   
+   <nl/>
+   <text>                               </text>
+   <color r="0" g="0.7" b="1"/><text>Ulepszone Zbroje</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="En_Iron_Greaves" title="Enhanced Iron Greaves"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="En_Iron_Cuisses" title="Enhanced Iron Cuisses"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="En_Iron_Plate" title="Enhanced Iron Plate Mail"/>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+<Page name="Magic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Ten dzial Encyklopedii opisuje sposoby rzucania zaklec.</text><nl/>
+   <text> Rozne zaklecia wymagaja roznej kombinacji sigili (run),</text><nl/>
+   <text> innych poziomow umiejetnosci, zuzywaja inne zasoby many</text><nl/>
+   <text> oraz esencji. Sigile moga byc kupione w jednym z dwoch</text><nl/>
+   <text> sklepow magicznych w White Stone. Kosztuja 700 lub 400gc</text><nl/>
+   <text> za sztuke (w zaleznosci jaki to sigil). Sigile moga</text><nl/>
+   <text> byc uzyte nieskonczona ilosc razy, nie zuzywaja sie,</text><nl/>
+   <text> nie niszcza ani nie lamia sie w czasie walki.</text>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text>Zaklecia</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Heal" title="Heal"/><text>                           </text>
+   <link ref="Heal_Sum" title="Heal Summoned"/>
+   <nl/>
+   <link ref="R_Heal" title="Remote Heal"/><text>                    </text>
+   <link ref="Smite_Sum" title="Smite Summoned"/>
+   <nl/>
+   <link ref="M_Prot" title="Magic Protection"/><text>               </text>
+   <link ref="Heat_Shield" title="Heat Shield"/>
+   <nl/>
+   <link ref="Shield" title="Shield"/><text>                         </text>
+   <link ref="Cold_Shield" title="Cold Shield"/>
+   <nl/>
+   <link ref="Poison" title="Poison"/><text>                         </text>
+   <link ref="Radiation_Shield" title="Radiation Shield"/>
+   <nl/>
+   <link ref="Tp_to_range" title="Teleport to Range"/><text>              </text>
+   <link ref="Drain_Mana" title="Drain Mana"/>
+   <nl/>
+   <link ref="Harm" title="Harm"/><text>                           </text>
+   <link ref="True_Sight" title="True Sight"/>
+   <nl/>
+   <link ref="Restoration" title="Restoration"/><text>                    </text>
+   <link ref="Itc_Tp_to_Port_Room" title="I.C.T.P.R."/>
+   <nl/>
+   <link ref="Bones_to_gold" title="Bones to Gold"/><text>                  </text>
+   <link ref="Invisibility" title="Invisibility"/>
+   <nl/>
+   <link ref="Tp_to_Port_Room" title="Teleport to Portals Room"/><text>       </text>
+   <text> </text>
+   <nl/>
+   <link ref="Life_drain" title="Life Drain"/><text>                     </text>
+   <text> </text>
+   <nl/>
+   <link ref="Magic_Immun" title="Magic Immunity"/><text>                 </text>
+   <text> </text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+<Page name="Maps">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <text x="2" y="18">Page 1/2</text>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <link x="450" y="18" ref="Maps_C2" title=">>>"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Ponizej zamieszczone sa informacje o mapach (m.in. o tym,</text><nl/>
+   <text> ktore sa PK). W nawiasach umieszczono skroty nazw, ktore</text><nl/>
+   <text> czesto wykorzystywane sa przez graczy.</text><nl/>
+   <text> Kliknij na nazwie mapy aby dowiedziec sie wiecej.</text><nl/>
+   <nl/>
+   <size>Big</size><color r="1" g="0.2" b="0.2"/>
+   <text>                Mapy Seridia</text><nl/><nl/>
+   <size>Small</size>
+   <color r="0" g="0.7" b="1"/>
+   <text>Nazwa (skrot)                   Magazyn     MC     PK</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Maps_IP" title="Isla Prima"/><text> (IP)                 </text>
+   <text>   -        -      -</text><nl/>
+   <link ref="Maps_WS" title="White Stone"/><text> (WS)                </text>
+   <text>   T        -      Arena</text><nl/>
+   <link ref="Maps_DP" title="Desert Pines"/><text> (DP)               </text>
+   <text>   T        -      Arena</text><nl/>
+   <link ref="Maps_VOTD" title="Valley of the Dwarves"/><text> (VOTD)    </text>
+   <text>   T        -      -</text><nl/>
+   <link ref="Maps_NC" title="Nordcarn"/><text> (NC)                   </text>
+   <text>   T        -      Arena</text><nl/>
+   <link ref="Maps_TG" title="Tarsengaard"/><text> (TG)                </text>
+   <text>   T        -      -</text><nl/>
+   <link ref="Maps_PL" title="Portland"/><text> (PL)                   </text>
+   <text>   T        T      -</text><nl/>
+   <link ref="Maps_MM" title="Morcraven Marsh"/><text> (MM)            </text>
+   <text>   T        T      -</text><nl/>
+   <link ref="Maps_NK" title="Naralik"/><text> (NK)                    </text>
+   <text>   T        T      -</text><nl/>
+   <link ref="Maps_GP" title="Grubani Peninsula"/><text> (GP)          </text>
+   <text>   -        T      -</text><nl/>
+   <link ref="Maps_SK" title="Southern Kilaran"/><text> (SKF)          </text>
+   <text>   -        T      -</text><nl/>
+   <color r="1" g="0.1" b="0.1"/><link ref="Maps_KF" title="Kilaran Field"/><color r="0.9" g="0.9" b="0.9"/><text> (KF)              </text>
+   <text>   -        T      T</text><nl/>
+   <color r="1" g="0.1" b="0.1"/><link ref="Maps_TD" title="Tahraji Desert"/><color r="0.9" g="0.9" b="0.9"/><text> (TD)             </text>
+   <text>   -        T      T</text><nl/>
+   <link ref="Maps_Tirnym" title="Ruins of Tirnym"/><text> (Tirnym)        </text>
+   <text>   -        T      -</text><nl/>
+   <nl/>
+   <text>MC oznacza mapy Multi-Combat.</text><nl/>
+   <text>Mapy oznaczone kolorem czerwonym sa calkowicie PK.</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text> </text><link ref="Index" title="Wroc do Indeksu"/>
+   <text>                           </text><link ref="Maps_C2" title="Mapy Irilion >>>"/>
+   <nl/>
+</Page>
+<Page name="Maps_C2">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <text x="2" y="18">Page 2/2</text>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <link x="450" y="18" ref="Maps" title=">>>"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Ponizej zamieszczone sa informacje o mapach (m.in. o tym,</text><nl/>
+   <text> ktore sa PK). W nawiasach umieszczono skroty nazw, ktore</text><nl/>
+   <text> czesto wykorzystywane sa przez graczy.</text><nl/>
+   <text> Kliknij na nazwie mapy aby dowiedziec sie wiecej.</text><nl/>
+   <nl/>
+   <size>Big</size><color r="1" g="0.2" b="0.2"/>
+   <text>                Mapy Irilion</text><nl/><nl/>
+   <size>Small</size>
+   <color r="0" g="0.7" b="1"/>
+   <text>Nazwa (skrot)                   Magazyn     MC     PK</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Maps2_PA" title="Port Anitora"/><text> (PA)               </text>
+   <text>   -        -      -</text><nl/>
+   <link ref="Maps2_Ida" title="Idaloran"/><text> (Ida)                  </text>
+   <text>   T        T      -</text><nl/>
+   <link ref="Maps2_IRS" title="Irsis"/><text>                           </text>
+   <text>   T        T      -</text><nl/>
+   <link ref="Maps2_PV" title="Palon Vertas"/><text> (PV)               </text>
+   <text>   T        -      -</text><nl/>
+   <link ref="Maps2_Sed" title="Sedicolis"/><text>                       </text>
+   <text>   -        T      -</text><nl/>
+   <link ref="Maps2_BE" title="Bethel"/><text>                          </text>
+   <text>   -        T      Cave</text><nl/>
+   <link ref="Maps2_EVTR" title="Emerald Valley"/><text> (EVTR)           </text>
+   <text>   T        -      -</text><nl/>
+   <link ref="Maps2_WF" title="Willowvine Forest"/><text>               </text>
+   <text>   T        T      -</text><nl/>
+   <link ref="Maps2_Kus" title="Kusamura Jungle"/><text>                 </text>
+   <text>   -        T      Arena</text><nl/>
+   <link ref="Maps2_ME" title="Melinis"/><text>                         </text>
+   <text>   -        T      Arena</text><nl/>
+   <color r="1" g="0.1" b="0.1"/><link ref="Maps2_The" title="Thelinor"/><color r="0.9" g="0.9" b="0.9"/><text>                        </text>
+   <text>   T        T      T</text><nl/>
+   <link ref="Maps2_Zir" title="Zirakinbar"/><text>                      </text>
+   <text>   -        -      Arena</text><nl/>
+   <link ref="Maps2_EP" title="Egratia Point"/><text> (EP)              </text>
+   <text>   -        T      Arena</text><nl/>
+   <link ref="Maps2_AA" title="Aeth Aeflan"/><text> (AA)                </text>
+   <text>   T        T      North</text><nl/>
+   <link ref="Maps2_AR" title="Arius"/><text>                           </text>
+   <text>   T        -      -</text><nl/>
+   <link ref="Maps2_HUR" title="Hurquin"/><text>                         </text>
+   <text>   -        T      -</text><nl/>
+   <link ref="Maps2_SRM" title="South Redmoon"/><text> (SRM)             </text>
+   <text>   T        T      -</text><nl/>
+   <link ref="Maps2_NRM" title="North Redmoon"/><text> (NRM)             </text>
+   <text>   -        T      -</text><nl/>
+   <link ref="Maps2_IR" title="Irinveron"/><text>                       </text>
+   <text>   T        T      Cave</text><nl/>
+   <link ref="Maps2_IS" title="Iscalrith"/><text>                       </text>
+   <text>   T        -      Arena</text><nl/>
+   <link ref="Maps2_TR" title="Trassian"/><text>                        </text>
+   <text>   -        T      Arenas</text><nl/>
+   <link ref="Maps2_GLA" title="Glacmor"/><text>                         </text>
+   <text>   T        -      -</text><nl/>
+   <color r="1" g="0.1" b="0.1"/><link ref="Maps2_HU" title="Hulda"/><color r="0.9" g="0.9" b="0.9"/><text>                           </text>
+   <text>   -        T      T</text><nl/>
+   <link ref="Maps2_IOTF" title="Isles of the Forgotten"/><text> (IotF)   </text>
+   <text>   -        -      -</text><nl/>
+   <color r="1" g="0.1" b="0.1"/><link ref="Maps2_II" title="Imbroglio Islands"/><color r="0.9" g="0.9" b="0.9"/><text> (II)          </text>
+   <text>   -        T      T</text><nl/>
+   <nl/>
+   <text>MC oznacza mapy Multi-Combat.</text><nl/>
+   <text>Mapy oznaczone kolorem czerwonym sa calkowicie PK.</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text> </text><link ref="Index" title="Wroc do Indeksu"/>
+   <text>                           </text><link ref="Maps" title="Mapy Seridia >>>"/>
+   <nl/>
+</Page>
+<Page name="Misc">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  ROZNOSCI</text><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Rzut okiem na narzedzia, jedzenie, napoje i inne</text><nl/>
+   <text> przedmioty ktore znalezc mozna w EL, a ktore ciezko jest</text><nl/>
+   <text> jednoznacznie skategoryzowac.</text>
+   <nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/>
+   <text>Narzedzia                      Rozne</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Needle" title="Needle"/><text>                         </text>
+   <link ref="Bones Powder" title="Bones Powder"/>
+   <nl/>
+   <link ref="Hammer" title="Hammer"/><text>                         </text>
+   <link ref="Thread" title="Thread"/>
+   <nl/>
+   <link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><text>                </text>
+   <link ref="Leather" title="Leather"/>
+   <nl/>
+   <link ref="T_Pickaxe" title="Pickaxe"/><text>                        </text>
+   <link ref="Empty_Vial" title="Empty Vial"/>
+   <nl/>
+   <link ref="T_LGloves" title="Leather Gloves"/><text>                 </text>
+   <link ref="Wood_Handle" title="Wood Handle"/>
+   <nl/>
+   <link ref="Hammer_Chisel" title="Gemstone Hammer &amp; Chisel"/><text>       </text>
+   <link ref="Sand_Paper" title="Gem Sanding Paper"/>
+   <nl/>
+   <link ref="Ring_Mold" title="Ring Mold"/><text>                      </text>
+   <link ref="Loom" title="Loom"/>
+   <nl/>
+   <link ref="Med_Mold" title="Medallion Mold"/><text>                 </text>
+   <link ref="Square_Vial" title="Square Vial"/>
+   <nl/>
+   <link ref="Bucket" title="Bucket"/><text>                         </text>
+   <link ref="Skull_Key" title="Skull Key"/>
+   <nl/>
+   <link ref="Scissors" title="Scissors"/><text>                       </text>
+   <link ref="Skeleton_Key" title="Skeleton Key"/>
+   <nl/>
+   <link ref="Saw" title="Saw"/><text>                            </text>
+   <link ref="Conglo" title="Matter Conglomerate"/>
+   <nl/>
+   <link ref="Knife" title="Carving Knife"/><text>                  </text>
+   <link ref="Mercury" title="Mercury"/>
+   <nl/>
+   <link ref="Vial_Mold" title="Vial Mold"/><text>                      </text>
+   <link ref="Horse_Whistle" title="Horse Whistle"/>
+   <nl/>
+   <link ref="Alembic" title="Alembic"/><text>                        </text>
+   <link ref="Bouquet" title="Bouquet of Roses"/>
+   <nl/>
+   <link ref="Head_Mold" title="Arrow/Bolt Head Mold"/><text>           </text>
+   <text> </text>
+   <nl/>
+   <text>                               </text>
+   <color r="0" g="0.7" b="1"/><text>Jedzenie</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Napoje</text><color r="0.9" g="0.9" b="0.9"/><text>                         </text>
+   <link ref="FD_Bread" title="Bread"/>
+   <nl/>
+   <link ref="FD_Wine" title="Wine"/><text>                           </text>
+   <link ref="FD_Vegetables" title="Vegetables"/>
+   <nl/>
+   <link ref="FD_Ale" title="Ale"/><text>                            </text>
+   <link ref="FD_Fruit" title="Fruit"/>
+   <nl/>
+   <link ref="FD_Mead" title="Mead"/><text>                           </text>
+   <link ref="FD_Cooked_Meat" title="Cooked Meat"/>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+<Page name="Perks">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    PERKI</text><nl/>
+   <size>Small</size>
+   <color>red</color>
+   <nl/>
+   <text> Perki mozesz sobie wybrac odwiedzajac Wraitha na Isla</text><nl/>
+   <text> Prima. Sa one przyznawane na stale i nie znikaja nawet</text><nl/>
+   <text> kiedy giniesz. Pamietaj o tym, aby dobrze przemyslec</text><nl/>
+   <text> kazda decyzje o wyborze perka.</text><nl/>
+   <text> Perki nadaja Twojej postaci pewne unikalne cechy, ktorych</text><nl/>
+   <text> skutki moga byc zarowno pozytywne, jak i negatywne.</text><nl/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text>Perki Pozytywne:</text><text>               </text><text>Perki Negatywne:</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="P_PS" title="Powersaving"/><text>                    </text>
+   <link ref="P_PH" title="Power Hungry"/>
+   <nl/>
+   <link ref="P_FR" title="Fast Regeneration"/><text>              </text>
+   <link ref="P_ICD" title="I Can't Dance"/>
+   <nl/>
+   <link ref="P_SD" title="Self Destruction"/><text>               </text>
+   <link ref="P_GB" title="Gelatine Bones"/>
+   <nl/>
+   <link ref="P_Ex" title="Excavator"/><text>                      </text>
+   <link ref="P_G" title="Godless"/>
+   <nl/>
+   <link ref="P_MM" title="Monster Magnetism"/><text>              </text>
+   <link ref="P_A" title="Antisocial"/>
+   <nl/>
+   <link ref="P_Ev" title="Evanescence"/><text>                    </text>
+   <link ref="P_H" title="Hellspawn"/>
+   <nl/>
+   <link ref="P_CG" title="Careful Guy"/><text>                    </text>
+   <link ref="P_ScD" title="Scotty Died"/>
+   <nl/>
+   <link ref="P_NMT" title="No More Tears"/><text>                  </text>
+   <link ref="P_HoS" title="Harvester of Sorrow"/>
+   <nl/>
+   <link ref="P_BP" title="Body Piercing"/><text>                  </text>
+   <link ref="P_Sk" title="Skeptic"/>
+   <nl/>
+   <link ref="P_FM" title="Fatal Man"/><text>                      </text>
+   <link ref="P_ONE" title="One"/>
+   <nl/>
+   <link ref="P_CO" title="Conjurer"/><text>                       </text>
+   <text>  </text>
+   <nl/>
+   <link ref="P_IGD" title="I Glow in the Dark"/><text>             </text>
+   <text> </text>
+   <nl/>
+   <link ref="P_TNF" title="There is no Fork"/><text>               </text>
+   <text> </text>
+   <nl/>
+   <link ref="P_MS" title="Mirror Skin"/><text>                    </text>
+   <text> </text>
+   <nl/>
+   <link ref="P_IEDP" title="I Eat Dead People"/><text>              </text>
+   <text> </text>
+   <nl/>
+   <link ref="P_AR" title="Artificer"/><text>                      </text>
+   <text> </text>
+   <nl/>
+   <link ref="P_UND" title="The Underworlder"/><text>               </text>
+   <text> </text>
+   <nl/>
+   <link ref="P_SUM" title="The Summoner"/><text>                   </text>
+   <text> </text>
+   <nl/>
+   <link ref="P_ER" title="Ethereal Ranger"/><text>                </text>
+   <text> </text>
+   <nl/>
+   <link ref="P_WH" title="Wilhelm Hood"/><text>                   </text>
+   <text> </text>
+   <nl/>
+   <link ref="P_N" title="Ninja"/><text>                          </text>
+   <text> </text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+<Page name="Potions">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Wiekszosc kwiatow i roslin ktore rosna w swiecie EL,</text><nl/>
+   <text> jak i mineralow znalezionych w kopalniach, moze</text><nl/>
+   <text> byc zmieszana tak, aby stworzyc unikalne mikstury i</text><nl/>
+   <text> eliksiry. Te moga chwilowo zwiekszac Twoje atrybuty,</text><nl/>
+   <text> leczyc, lub przywracac punkty many.</text>
+   <nl/><nl/>
+   <color r="0.1" g="0.5" b="1"/><text>Eliksiry:</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="P_Mana" title="Potion of Mana"/><text>                 </text>
+   <link ref="P_Antidote" title="Poison Antidote"/>
+   <nl/>
+   <link ref="P_Healing" title="Potion of Minor Healing"/><text>        </text>
+   <link ref="P_TS" title="Potion of True Sight"/>
+   <nl/>
+   <link ref="P_Reasoning" title="Potion of Reasoning"/><text>            </text>
+   <link ref="P_Invis" title="Potion of Invisibility"/>
+   <nl/>
+   <link ref="P_Physique" title="Potion of Physique"/><text>             </text>
+   <link ref="P_Accuracy" title="Potion of Accuracy"/>
+   <nl/>
+   <link ref="P_Defense" title="Potion of Defense"/><text>              </text>
+   <link ref="P_Evasion" title="Potion of Evasion"/>
+   <nl/>
+   <link ref="P_Coordination" title="Potion of Coordination"/><text>         </text>
+   <link ref="P_Alchemy" title="Potion of Alchemy"/>
+   <nl/>
+   <link ref="P_Wildness" title="Potion of Wildness"/><text>             </text>
+   <link ref="P_Potion" title="Potion of Potion"/>
+   <nl/>
+   <link ref="P_Will" title="Potion of Will"/><text>                 </text>
+   <link ref="P_Eng" title="Potion of Engineering"/>
+   <nl/>
+   <link ref="P_Vitality" title="Potion of Vitality"/><text>             </text>
+   <link ref="P_Cold" title="Potion of Cold Protection"/>
+   <nl/>
+   <link ref="P_Attack" title="Potion of Attack"/><text>               </text>
+   <link ref="P_Heat" title="Potion of Heat Protection"/>
+   <nl/>
+   <link ref="P_Spirit Restoration" title="Potion of Spirit Restoration"/><text>   </text>
+   <link ref="P_Rad" title="Potion of Rad. Protection"/>
+   <nl/>
+   <link ref="P_Feasting" title="Potion of Feasting"/><text>             </text>
+   <link ref="P_Extra_Mana" title="Potion of Extra Mana"/>
+   <nl/>
+   <link ref="P_Body Restoration" title="Potion of Body Restoration"/><text>     </text>
+   <link ref="P_Extra_Life" title="Potion of Great Healing"/>
+   <nl/>
+   <link ref="P_Harvesting" title="Potion of Harvesting"/><text>           </text>
+   <link ref="P_Speed" title="Potion of Speed Hax"/>
+   <nl/>
+   <link ref="P_Manufacturing" title="Potion of Manufacturing"/><text>        </text>
+   <link ref="C_Food" title="Creature Food"/>
+   <nl/>
+   <link ref="P_Summoning" title="Potion of Summoning"/><text>            </text>
+   <link ref="P_Attack_Reduction" title="Potion of Attack Reduction"/>
+   <nl/>
+   <link ref="P_Craft" title="Potion of Crafting"/><text>             </text>
+   <link ref="P_Defense_Reduction" title="Potion of Defense Reduction"/>
+   <nl/>
+   <link ref="P_Magic" title="Potion of Magic"/><text>               </text>
+   <link ref="P_Archery_AP" title="Potion of Archery AP"/>
+   <text> </text>
+   
+   <nl/><nl/>
+   <color r="0.1" g="0.5" b="1"/><text>Ekstrakty i Mikstury:</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Extract_YWT" title="Yarrow - Wormwood - Tulips Extract"/>
+   <nl/>
+   <link ref="Extract_NMD" title="Nightshade - Mullein - Dandelion Extract"/>
+   <nl/>
+   <link ref="Extract_PHP" title="Poison Ivy - Henbane - Poppies Extract"/>
+   <nl/>
+   <link ref="Extract_RBR" title="Red Currents - Blue Berries - Rue Extract"/>
+   <nl/>
+   <link ref="Extract_WOT" title="White Chanterelle - Ogre Toes - Tree Mushroom Extract"/>
+   <nl/>
+   <link ref="Extract_WVM" title="Wheat - Valerian - Mugwort Extract"/>
+   <nl/>
+   <link ref="Extract_WDF" title="Wheat - Daffodils - Feran Horn Extract"/>
+   <nl/>
+   <link ref="Mixture_VEG" title="Refined Vegetal Mixture"/>
+   <nl/>
+   <link ref="Mixture_POW" title="Mixture of Power"/>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Wroc do Indeksu"/>
+   <nl/>
+</Page>
+<Page name="Summoning">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                PRZYWOLANIA</text><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Z pomoca umiejetnosci przywolywania, z kilku odpowiednio</text><nl/>
+   <text> dobranych skladnikow mozna powolac do zycia potwory i</text><nl/>
+   <text> zwierzeta. Przywolane istoty beda za Toba podazac i</text><nl/>
+   <text> atakowac inne potwory, zwierzeta a mapach PK - graczy.</text>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text>Zwierzeta</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="S_Rabbit" title="Krolik"/><text>                         </text>
+   <link ref="S_Fox" title="Lis"/>
+   <nl/>
+   <link ref="S_Rat" title="Szczur"/><text>                         </text>
+   <link ref="S_Boar" title="Dzik"/>
+   <nl/>
+   <link ref="S_Beaver" title="Bobr"/><text>                           </text>
+   <link ref="S_Wolf" title="Wilk"/>
+   <nl/>
+   <link ref="S_Deer" title="Jelen"/><text>                          </text>
+   <link ref="S_Puma" title="Puma"/>
+   <nl/>
+   <link ref="S_Skunk" title="Skunks"/><text>                         </text>
+   <link ref="S_BearP" title="Niedzwiedz Polarny"/>
+   <nl/>
+   <link ref="S_Racoon" title="Szop"/><text>                           </text>
+   <link ref="S_BearB" title="Niedzwiedz Czarny"/>
+   <nl/>
+   <link ref="S_SnakeG" title="Waz Zielony"/><text>                    </text>
+   <link ref="S_TankRabbit" title="Pancerny Krolik"/>
+   <nl/>
+   <link ref="S_SnakeR" title="Waz Czerwony"/><text>                   </text>
+   <link ref="S_Hawk" title="Jastrzab"/>
+   <nl/>
+   <link ref="S_SnakeB" title="Waz Brazowy"/><text>                    </text>
+   <link ref="S_Falcon" title="Sokol"/>
+   <text> </text>
+   <nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text>Potwory</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="S_Skeleton" title="Szkielet"/><text>                       </text>
+   <link ref="S_OrcM" title="Ork"/>
+   <nl/>
+   <link ref="S_GargoyleS" title="Niski Gargulec"/><text>                 </text>
+   <link ref="S_OrcAF" title="Uzbrojona Samica Orka"/>
+   <nl/>
+   <link ref="S_GargoyleT" title="Wysoki Gargulec"/><text>                </text>
+   <link ref="S_OrcAM" title="Uzbrojony Ork"/>
+   <nl/>
+   <link ref="S_GargoyleM" title="Sredni Gargulec"/><text>                </text>
+   <link ref="S_Cyclops" title="Cyklop"/>
+   <nl/>
+   <link ref="S_RabbitF" title="Kroliczek Fluffy"/><text>               </text>
+   <link ref="S_Yeti" title="Yeti"/>
+   <nl/>
+   <link ref="S_ChimeranM" title="Chimera Gorska"/><text>                 </text>
+   <link ref="S_ChimeranA" title="Chimera Arktyczna"/>
+   <nl/>
+   <link ref="S_GoblinF" title="Samica Goblina"/><text>                 </text>
+   <link ref="S_Giant" title="Gigant"/>
+   <nl/>
+   <link ref="S_GoblinAM" title="Uzbrojony Goblin"/><text>               </text>
+   <link ref="S_Phantom" title="Phantom Warrior"/>
+   <nl/>
+   <link ref="S_SkeletonA" title="Uzbrojony Szkielet"/><text>             </text>
+   <link ref="S_Sslessar" title="Sslessar"/>
+   <nl/>
+   <link ref="S_OrcF" title="Samica Orka"/><text>                    </text>
+   <link ref="S_DragonR" title="Czerwony Smok"/>
+   <nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text>Kamienie</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="ST_Bear" title="Niedzwiedz"/><text>                     </text>
+   <link ref="ST_RabbitF" title="Kroliczek Fluffy"/>
+   <nl/>
+   <link ref="ST_OrcAM" title="Uzbrojony Ork"/><text>                  </text>
+   <link ref="ST_Sslessar" title="SSlessar"/>
+   <nl/>
+   <link ref="ST_Spider" title="Gigantyczny Pajak"/><text>              </text>
+   <link ref="ST_Yeti" title="Yeti"/>
+   <nl/>
+   <link ref="ST_TigerW" title="Tygrys Bialy"/><text>                   </text>
+   <link ref="ST_ChimeranA" title="Chimera Arktyczna"/>
+   <nl/>
+   <link ref="ST_Phantom" title="Phantom Warrior"/><text>                </text>
+   <link ref="ST_Giant" title="Gigant"/>
+   <nl/>
+   <nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text>Zmiana Ksztaltu</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Glyph_Mule" title="Mule Glyph"/><text>                     </text>
+   <text> </text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Wroc do Indeksu"/>
+</Page>
+<Page name="Tailoring">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  KRAWIECTWO</text><nl/>
+   <size>Small</size><nl/>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Krawiectwo jest sztuka wytwarzania pieknych i eleganckich</text><nl/>
+   <text> ubran. Zaczynajac od bialego plotna i farb, az do szycia</text><nl/>
+   <text> olbrzymiej gamy ubiorow: tunik, kapturow, spodni, koszul</text><nl/>
+   <text> i to w roznych fasonach i kolorach, wszystko tak, aby</text><nl/>
+   <text> zaspokoic potrzeby kazdego strojnisia.</text>
+   <nl/><nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text>Plotna i Farby                 Tuniki</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="White Fabric" title="White Fabric"/><text>                   </text>
+   <link ref="Tunic_Brown" title="Brown Tunic"/>
+   <nl/>
+   <link ref="Red Dye" title="Red Dye"/><text>                        </text>
+   <link ref="Tunic_Purple" title="Lavender Tunic"/>
+   <nl/>
+   <link ref="Orange Dye" title="Orange Dye"/><text>                     </text>
+   <link ref="Tunic_Green" title="Green Tunic"/>
+   <nl/>
+   <link ref="Yellow Dye" title="Yellow Dye"/><text>                     </text>
+   <link ref="Tunic_Black" title="Black Tunic"/>
+   <nl/>
+   <link ref="Green Dye" title="Green Dye"/><text>                      </text>
+   <link ref="Tunic_Red" title="Red Tunic"/>
+   <nl/>
+   <link ref="Blue Dye" title="Blue Dye"/><text>                       </text>
+   <link ref="Tunic_Blue" title="Blue Tunic"/>
+   <nl/>
+   <link ref="Purple Dye" title="Purple Dye"/><text>                     </text>
+   <link ref="Tunic_White" title="White Tunic"/>
+   <nl/>
+   <link ref="Black Dye" title="Black Dye"/><text>                      </text>
+   <text> </text>
+   <nl/>
+   <link ref="Red Fabric" title="Red Fabric"/><text>                     </text>
+   <color r="0" g="0.7" b="1"/><text>Tunika z Koszula</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <link ref="Orange Fabric" title="Orange Fabric"/><text>                  </text>
+   <link ref="TunicShirt_RedWhite" title="Red/White Tunic and Shirt"/>
+   <nl/>
+   <link ref="Yellow Fabric" title="Yellow Fabric"/><text>                  </text>
+   <link ref="TunicShirt_BlueWhite" title="Blue/White Tunic and Shirt"/>
+   <nl/>
+   <link ref="Green Fabric" title="Green Fabric"/><text>                   </text>
+   <link ref="TunicShirt_BrownWhite" title="Brown/White Tunic and Shirt"/>
+   <nl/>
+   <link ref="Blue Fabric" title="Blue Fabric"/><text>                    </text>
+   <link ref="TunicShirt_BlackGreen" title="Black/Green Tunic and Shirt"/>
+   <nl/>
+   <link ref="Black Fabric" title="Black Fabric"/><text>                   </text>
+   <link ref="TunicShirt_BlackPurple" title="Black/Purple Tunic and Shirt"/>
+   <nl/>
+   <link ref="Purple Fabric" title="Purple Fabric"/><text>                  </text>
+   <link ref="TunicShirt_BlackRed" title="Black/Red Tunic and Shirt"/>
+   <nl/>
+   <link ref="Gray Fabric" title="Gray Fabric"/><text>                    </text>
+   <link ref="TunicShirt_BlackGray" title="Black/Gray Tunic and Shirt"/>
+   <nl/>
+   <link ref="Brown Fabric" title="Brown Fabric"/><text>                   </text>
+   <link ref="TunicShirt_BlackWhite" title="Black/White Tunic and Shirt"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="TunicShirt_BrownBlue" title="Brown/Blue Tunic and Shirt"/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Chusty</text><text>                        </text><color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
+   <nl/>
+   <link ref="Scarf_Black" title="Black Scarf"/><text>                    </text>
+   <color r="0" g="0.7" b="1"/><text>Togi</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <link ref="Scarf_Red"   title="Red Scarf"/><text>                      </text>
+   <link ref="Robe_Purple" title="Purple Robe"/>
+   <nl/>
+   <link ref="Scarf_Skull" title="Skull Crossbones Scarf"/><text>         </text>
+   <link ref="RobeSkirt_Purple" title="Purple Robe Skirt"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="Robe_Green" title="Green Robe"/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Czapki</text><text>                         </text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="RobeSkirt_Green" title="Green Robe Skirt"/>
+   <nl/>
+   <link ref="Tricorn_Black" title="Black Tricorn Hat"/><text>              </text>
+   <link ref="Robe_LightBlue" title="Light Blue Robe"/>
+   <nl/>
+   <link ref="Tricorn_Brown" title="Brown Tricorn Hat"/><text>              </text>
+   <link ref="RobeSkirt_LightBlue" title="Light Blue Robe Skirt"/>
+   <nl/>
+   <link ref="Tricorn_Blue" title="Blue Tricorn Hat"/><text>               </text>
+   <link ref="Robe_White" title="White Robe"/>
+   <nl/>
+   <link ref="Buccaneer_Brown" title="Brown Buccaneer Hat"/><text>            </text>
+   <link ref="RobeSkirt_White" title="White Robe Skirt"/>
+   <nl/>
+   <link ref="Buccaneer_Black" title="Black Buccaneer Hat"/><text>            </text>
+   <link ref="Robe_Blue" title="Blue Robe"/>
+   <nl/>
+   <link ref="Cavalier_BlackP" title="Black Cavalier Peacock Hat"/><text>     </text>
+   <link ref="RobeSkirt_Blue" title="Blue Robe Skirt"/>
+   <nl/>
+   <link ref="Cavalier_GreenP" title="Green Cavalier Peacock Hat"/><text>     </text>
+   <link ref="Robe_Black" title="Black Robe"/>
+   <nl/>
+   <link ref="Cavalier_Blue" title="Blue Cavalier Hat"/><text>              </text>
+   <link ref="RobeSkirt_Black" title="Black Robe Skirt"/>
+   <nl/>
+   <link ref="Cavalier_Black" title="Black Cavalier Hat"/><text>             </text>
+   <link ref="Robe_Gray" title="Gray Robe"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="RobeSkirt_Gray" title="Gray Robe Skirt"/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Czapki Specjalne</text><text>               </text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Robe_Brown" title="Brown Robe"/>
+   <nl/>
+   <link ref="Santa_Hat" title="Santa Hat"/><text>                      </text>
+   <link ref="RobeSkirt_Brown" title="Brown Robe Skirt"/>
+   <nl/>
+   <link ref="Hood" title="Universal Hood"/><text>                 </text>
+   <link ref="Robe_Red" title="Red Robe"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="RobeSkirt_Red" title="Red Robe Skirt"/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Spodnie</text><text>                        </text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Robe_Yellow" title="Yellow Robe"/>
+   <nl/>
+   <link ref="Pants_RedBlack" title="Black Red Striped Pants"/><text>        </text>
+   <link ref="RobeSkirt_Yellow" title="Yellow Robe Skirt"/>
+   <nl/>
+   <link ref="Pants_RedWhite" title="White Red Striped Pants"/><text>        </text>
+   <text> </text>
+   <nl/>
+   <link ref="Pants_PurpleBlack" title="Black Purple Striped Pants"/><text>     </text>
+   <color r="0" g="0.7" b="1"/><text>Plaszcze</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <link ref="Pants_BlueBlack" title="Black Blue Striped Pants"/><text>       </text>
+   <link ref="NMW_Cape" title="Cape of No More Warlock"/>
+   <nl/>
+   <link ref="Pants_Black" title="Black Baggy Pants"/><text>              </text>
+   <link ref="Tunic_Ninja" title="Tunic of the Ninja"/>
+   <nl/>
+   <link ref="Pants_Brown" title="Brown Baggy Pants"/><text>              </text>
+   <text> </text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Wroc do Indeksu"/>
+</Page>
+<Page name="Weapons">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <text x="2" y="18">Strona 1/2</text>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <link x="450" y="18" ref="Ench_Weapons" title=">>>"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   BRONIE</text><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> W EL isnieje olbrzymia liczba broni dostepna dla kazdego</text><nl/>
+   <text> zapalonego wojownika. Wybierac mozna sposrod mieczy,</text><nl/>
+   <text> toporow, czy wloczni. Kazda bron ma swoje wlasne, unikalne</text><nl/>
+   <text> wlasciwosci, ktorych dobor zaspokoi kazdy styl walki</text><nl/>
+   <text> preferowany przez wojownikow.</text>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0" g="0.7" b="1"/>
+   <text>Miecze</text><text>                         </text>
+   <text>Proste Bronie</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Iron Sword" title="Iron Sword"/><text>                     </text>
+   <link ref="Bone" title="Bone"/>
+   <nl/>
+   <link ref="Iron Broad Sword" title="Iron Broad Sword"/><text>               </text>
+   <link ref="Branch" title="Branch"/>
+   <nl/>
+   <link ref="Steel Long Sword" title="Steel Long Sword"/><text>               </text>
+   <link ref="W_LGloves" title="Leather Gloves"/>
+   <nl/>
+   <link ref="2e Steel Sword" title="Two Edged Steel Sword"/><text>          </text>
+   <link ref="W_Pickaxe" title="Pickaxe"/>
+   <nl/>
+   <link ref="Tit Steel Short Sword" title="Titanium Short Sword"/><text>           </text>
+   <text> </text>
+   <nl/>
+   <link ref="Tit Steel Long Sword" title="Titanium Long Sword"/><text>            </text>
+   <color r="0" g="0.7" b="1"/><text>Topory, Mloty i Maczugi</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <link ref="Tit Steel Serpent Sword" title="Titanium Serpent Sword"/><text>         </text>
+   <link ref="Iron Axe" title="Iron Axe"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="Steel Axe" title="Steel Axe"/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Miecze Wspaniale</text><text>               </text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Titanium Axe" title="Titanium Axe"/>
+   <nl/>
+   <link ref="Emerald Claymore" title="Emerald Claymore"/><text>               </text>
+   <link ref="W Battle Hammer" title="Wooden Battle Hammer"/>
+   <nl/>
+   <link ref="Cutlass" title="Cutlass"/><text>                        </text>
+   <link ref="I War Hammer" title="Iron Battle Hammer"/>
+   <nl/>
+   <link ref="Sunbreaker" title="Sunbreaker"/><text>                     </text>
+   <link ref="Frying Pan" title="Frying Pan"/>
+   <nl/>
+   <link ref="Orc Slayer" title="Orc Slayer"/><text>                     </text>
+   <link ref="Golden Star Mace" title="Golden Star Mace"/>
+   <nl/>
+   <link ref="Eagle Wing" title="Eagle Wing"/><text>                     </text>
+   <text> </text>
+   <nl/>
+   <link ref="Rapier" title="Rapier"/><text>                         </text>
+   <color r="0" g="0.7" b="1"/><text>Bronie Dwureczne</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <link ref="Jagged Saber" title="Jagged Saber"/><text>                   </text>
+   <link ref="W Staff" title="Wooden Staff"/>
+   <nl/>
+   <link ref="Bronze Sword" title="Bronze Sword"/><text>                   </text>
+   <link ref="Q Staff" title="Quarter Staff"/>
+   <nl/>
+   <link ref="Rad_TitLong" title="Radioactive Titanium Long"/><text>      </text>
+   <link ref="Spear" title="Spear"/>
+   <nl/>
+   <link ref="Rad_Rapier" title="Radioactive Rapier"/><text>             </text>
+   <link ref="Halberd" title="Halberd"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="Dragon Blade" title="Dragon Blade"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="Scythe" title="Scythe"/>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text> </text><link ref="Index" title="Wroc do Indeksu"/>
+   <text>                     </text><link ref="Ench_Weapons" title="Zaczarowane Bronie >>>"/>
+   <nl/>
+</Page>
+<Page name="Ench_Weapons">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Wroc"/>
+   <text x="2" y="18">Strona 2/2</text>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <link x="450" y="18" ref="Weapons" title=">>>"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> W EL isnieje olbrzymia liczba broni dostepna dla kazdego</text><nl/>
+   <text> zapalonego wojownika. Wybierac mozna sposrod mieczy,</text><nl/>
+   <text> toporow, czy wloczni. Kazda bron ma swoje wlasne, unikalne</text><nl/>
+   <text> wlasciwosci, ktorych dobor zaspokoi kazdy styl walki</text><nl/>
+   <text> preferowany przez wojownikow.</text>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0" g="0.7" b="1"/>
+   <text>Miecze Ognia</text><text>                   </text>
+   <text>Miecze Magii</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="ISOF" title="Iron Sword"/><text>                     </text>
+   <link ref="SLSOM" title="Steel Long Sword"/>
+   <nl/>
+   <link ref="IBSOF" title="Iron Broad Sword"/><text>               </text>
+   <link ref="STESOM" title="Two Edged Steel Sword"/>
+   <nl/>
+   <link ref="SLSOF" title="Steel Long Sword"/><text>               </text>
+   <link ref="TSSOM" title="Titanium Short Sword"/>
+   <nl/>
+   <link ref="STESOF" title="Two Edged Steel Sword"/><text>          </text>
+   <link ref="TLSOM" title="Titanium Long Sword"/>
+   <nl/>
+   <link ref="TSSOF" title="Titanium Short Sword"/><text>           </text>
+   <link ref="SerpOM" title="Titanium Serpent Sword"/>
+   <nl/>
+   <link ref="TLSOF" title="Titanium Long Sword"/><text>            </text>
+   <text> </text>
+   <nl/>
+   <link ref="SerpOF" title="Titanium Serpent Sword"/><text>         </text>
+   <color r="0" g="0.7" b="1"/><text>Miecze Termiczne</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="STESOT" title="Two Edged Steel Sword"/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Miecze Lodu</text><text>                    </text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="TSSOT" title="Titanium Short Sword"/>
+   <nl/>
+   <link ref="IBSOI" title="Iron Broad Sword"/><text>               </text>
+   <link ref="TLSOT" title="Titanium Long Sword"/>
+   <nl/>
+   <link ref="SLSOI" title="Steel Long Sword"/><text>               </text>
+   <link ref="SerpOT" title="Titanium Serpent Sword"/>
+   <nl/>
+   <link ref="STESOI" title="Two Edged Steel Sword"/><text>          </text>
+   <text> </text>
+   <nl/>
+   <link ref="TSSOI" title="Titanium Short Sword"/><text>           </text>
+   <color r="0" g="0.7" b="1"/><text>Bronie Specjalne</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <link ref="TLSOI" title="Titanium Long Sword"/><text>            </text>
+   <link ref="Ice_Axe" title="Axe of Freezing"/>
+   <nl/>
+   <link ref="SerpOI" title="Titanium Serpent Sword"/><text>         </text>
+   <link ref="BOD" title="Bone of Death"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="BROD" title="Branch of Destruction"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="Staff_Mage" title="Staff of the Mage"/>
+   <nl/>
+   <text>                               </text>
+   <link ref="Staff_Protection" title="Staff of Protection"/>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text> </text><link ref="Index" title="Wroc do Indeksu"/>
+   <text>                                 </text><link ref="Weapons" title="Bronie >>>"/>
+   <nl/>
+</Page>
+</General>

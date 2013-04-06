@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Jewelry>
+<Page name="Ring_Gold">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Anillo de Oro</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Un anillo de Oro, se usa como base para otros.</text><nl/>
+   <nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 2 Lingotes de Oro, 3 Esencias de Fuego</text><nl/>
+   <text> Herramientas: Molde de anillos</text><nl/>
+   <text> Conocimiento necesario: Anillo de Oro</text><nl/>
+   <text> Nexo requerido: Artificial: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 1</text><nl/>
+   <text> Experiencia: Joyería: 10</text><nl/>
+   <text> Comida: 1</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Silver">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Anillo de Plata</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Un anillo de Plata, se usa como base para otros.</text><nl/>
+   <nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 2 Lingotes de Plata, 3 Esencias de Fuego</text><nl/>
+   <text> Herramientas: Molde de anillos</text><nl/>
+   <text> Conocimiento necesario: Anillos de Plata</text><nl/>
+   <text> Nexo requerido: Artificial: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 3</text><nl/>
+   <text> Experiencia: Joyería: 15</text><nl/>
+   <text> Comida: 2</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Med_Silver">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Medallón de Plata</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Un medallón de Plata, se usa como base para otros.</text><nl/>
+   <nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 3 Lingotes de Plata, 3 Esencias de Fuego</text><nl/>
+   <text> Herramientas: Molde para Medallones</text><nl/>
+   <text> Conocimiento necesario: Medallones de Plata</text><nl/>
+   <text> Nexo requerido: Artificial: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 5</text><nl/>
+   <text> Experiencia: Joyería: 25</text><nl/>
+   <text> Comida: 4</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Med_Gold">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Medallón de Oro</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Un medallón de Oro, se usa como base para otros.</text><nl/>
+   <nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 3 Lingotes de Oro, 3 Esencias de Fuego</text><nl/>
+   <text> Herramientas: Molde para Medallones</text><nl/>
+   <text> Conocimiento necesario: Medallones de Oro</text><nl/>
+   <text> Nexo requerido: Artificial: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 7</text><nl/>
+   <text> Experiencia: Joyería: 35</text><nl/>
+   <text> Comida: 6</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="P_Ruby">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Rubí Pulido</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Un rubí Pulido, se engarza en Medallones y anillos.</text><nl/>
+   <nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Rubí, 2 Esencias de agua, 1 Papel de Lija</text><nl/>
+   <text> Herramientas: Cortador de gemas</text><nl/>
+   <text> Conocimiento necesario: Procesado de Rubíes</text><nl/>
+   <text> Nexo requerido: Artificial: 2</text><nl/>
+   <text> Habilidad recomendada: Joyería: 9</text><nl/>
+   <text> Experiencia: Joyería: 40</text><nl/>
+   <text> Comida: 8</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="P_Emer">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Esmeralda pulida</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Una esmeralda pulida, se engarza en Medallones</text><nlkx/>
+   <text> y anillos.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Esmeralda, 2 Esencias de agua, 1 Papel de Lija</text><nl/>
+   <text> Herramientas: Cortador de gemas</text><nl/>
+   <text> Conocimiento necesario: Procesado de Esmeraldas</text><nl/>
+   <text> Nexo requerido: Artificial: 2</text><nl/>
+   <text> Habilidad recomendada: Joyería: 12</text><nl/>
+   <text> Experiencia: Joyería: 50</text><nl/>
+   <text> Comida: 10</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="P_Saph">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Zafiro Pulido</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Un safiro Pulido, se engarza en Medallones</text><nlkx/>
+   <text> y anillos.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Zafiro, 2 Esencias de agua, 1 Papel de Lija</text><nl/>
+   <text> Herramientas: Cortador de gemas</text><nl/>
+   <text> Conocimiento necesario: Procesado de Zafiros</text><nl/>
+   <text> Nexo requerido: Artificial: 2</text><nl/>
+   <text> Habilidad recomendada: Joyería: 14</text><nl/>
+   <text> Experiencia: Joyería: 60</text><nl/>
+   <text> Comida: 12</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="P_Diam">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Diamante Pulido</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Un diamante Pulido, se engarza en Medallones</text><nlkx/>
+   <text> y anillos.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Diamante, 2 Esencias de agua, 3 Papeles de Lija</text><nl/>
+   <text> Herramientas: Cortador de gemas</text><nl/>
+   <text> Conocimiento necesario: Procesado de Diamantes</text><nl/>
+   <text> Nexo requerido: Artificial: 3</text><nl/>
+   <text> Habilidad recomendada: Joyería: 16</text><nl/>
+   <text> Experiencia: Joyería: 65</text><nl/>
+   <text> Comida: 14</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Isla">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Anillo de Isla Prima</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Te transporta a Isla Prima.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Plata, 1 Esmeralda pulida, 1 Esencia de Fuego</text><nl/>
+   <text> Conocimiento necesario: Anillo de Isla Prima</text><nl/>
+   <text> Nexo requerido: Artificial: 3, Magia: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 17</text><nl/>
+   <text> Experiencia: Joyería: 70</text><nl/>
+   <text> Comida: 16</text><nl/>
+   <text> Coste base: 100 Monedas de Oro</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Votd">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>      Anillo de Valley of the Dwarves</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Te transporta al Valle de los Enanos.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Plata, 1 Diamante Pulido, 1 Esencia de Fuego</text><nl/>
+   <text> Conocimiento necesario: Anillo de VoTDr</text><nl/>
+   <text> Nexo requerido: Artificial: 3, Magia: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 18</text><nl/>
+   <text> Experiencia: Joyería: 75</text><nl/>
+   <text> Comida: 18</text><nl/>
+   <text> Coste base: 150 Monedas de Oro</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Naralik">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Anillo de Naralik</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Te transporta a Naralik.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Plata, 1 Diamante Pulido, 2 Esencias de Fuego</text><nl/>
+   <text> Conocimiento necesario: Anillo de Naralik</text><nl/>
+   <text> Nexo requerido: Artificial: 3, Magia: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 19</text><nl/>
+   <text> Experiencia: Joyería: 80</text><nl/>
+   <text> Comida: 20</text><nl/>
+   <text> Coste base: 140 Monedas de Oro</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_WSC">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Anillo de White Stone</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Te transporta a White Stone.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Oro, 1 Esmeralda pulida, 1 Esencia de Fuego</text><nl/>
+   <text> Conocimiento necesario: Anillo de White Stone</text><nl/>
+   <text> Nexo requerido: Artificial: 3, Magia: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 20</text><nl/>
+   <text> Experiencia: Joyería: 82</text><nl/>
+   <text> Comida: 22</text><nl/>
+   <text> Coste base: 140 Monedas de Oro</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Port">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Anillo de Portland</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Te transporta a Portland.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Oro, 1 Rubí Pulido, 1 Esencia de Fuego</text><nl/>
+   <text> Conocimiento necesario: Anillo de Portland</text><nl/>
+   <text> Nexo requerido: Artificial: 3, Magia: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 21</text><nl/>
+   <text> Experiencia: Joyería: 85</text><nl/>
+   <text> Comida: 24</text><nl/>
+   <text> Coste base: 120 Monedas de Oro</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Dp">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Anillo de Desert Pines</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Te transporta a Desert Pines.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Oro, 1 Zafiro Pulido, 1 Esencia de Fuego</text><nl/>
+   <text> Conocimiento necesario: Anillo de Desert Pines</text><nl/>
+   <text> Nexo requerido: Artificial: 3, Magia: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 22</text><nl/>
+   <text> Experiencia: Joyería: 90</text><nl/>
+   <text> Comida: 26</text><nl/>
+   <text> Coste base: 130 Monedas de Oro</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Anitora">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Anillo de Anitora</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Al usarlo, te teletransporta hacia Anitora.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Plata, 2 Rubíes Pulidos, 1 Zafiro Pulido,</text><nl/>
+   <text> 15 Esencias de Magia, 14 Esencias de Energía</text>
+   <text> Imposible de fabricar ahora mismo.</text><nl/>
+   <text> Conocimiento necesario: Anillo de Anitora</text><nl/>
+   <text> Nexo requerido: Artificial: 4; Mágico: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 30</text><nl/>
+   <text> Experiencia: 130</text><nl/>
+   <text> Comida: 30</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Bethel">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Anillo de Bethel</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Al usarlo, te teletransporta hacia Bethel.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Plata, 1 Rubí Pulido, 1 Zafiro Pulido,</text><nl/>
+   <text> 15 Esencias de Magia, 14 Esencias de Energía</text><nl/>
+   <text> Conocimiento necesario: Anillo de Bethel</text><nl/>
+   <text> Nexo requerido: Artificial: 4; Mágico: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 34</text><nl/>
+   <text> Experiencia: 150</text><nl/>
+   <text> Comida: 30</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Egratia">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Anillo de Egratia</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Al usarlo, te teletransporta hacia Egratia.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Plata, 3 Esmeraldas Pulidas,</text><nl/>
+   <text> 25 Esencias de Magia,</text><nl/>
+   <text> 8 Esencias de Energía</text><nl/>
+   <text> Conocimiento necesario: Anillo de Egratia</text><nl/>
+   <text> Nexo requerido: Artificial: 4; Mágico: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 42</text><nl/>
+   <text> Experiencia: 190</text><nl/>
+   <text> Comida: 35</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Emerald_Valley">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Anillo de Emerald Valley</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Al usarlo, te teletransporta hacia Emerald Valley.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> Imposible de fabricar ahora mismo.</text><nl/>
+   <text> Conocimiento necesario: Desconocido</text><nl/>
+   <text> Nexo requerido: Artificial: 4; Mágico: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: </text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Comida: Desconocido</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Glacmor">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Anillo de Glacmor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Al usarlo, te teletransporta hacia Glacmor.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> Imposible de fabricar ahora mismo.</text><nl/>
+   <text> Conocimiento necesario: Desconocido</text><nl/>
+   <text> Nexo requerido: Artificial: 4; Mágico: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: </text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Comida: Desconocido</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Hulda">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Anillo de Hulda</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Al usarlo, te teletransporta hacia Hulda.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Plata, 3 Esmeraldas Pulidas, 3 Rubíes,</text><nl/>
+   <text> 20 Esencias de Magia, 6 Esencias de Energía</text><nl/>
+   <text> Conocimiento necesario: Anillo de Hulda</text><nl/>
+   <text> Nexo requerido: Artificial: 4; Mágico: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 48</text><nl/>
+   <text> Experiencia: 220</text><nl/>
+   <text> Comida: 35</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Hurquin">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Anillo de Hurquin</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Al usarlo, te teletransporta hacia Hurquin.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> Imposible de fabricar ahora mismo.</text><nl/>
+   <text> Conocimiento necesario: Desconocido</text><nl/>
+   <text> Nexo requerido: Artificial: 4; Mágico: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: </text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Comida: Desconocido</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Idaloran">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Anillo de Idaloran</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Al usarlo, te teletransporta hacia Idaloran.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Oro, 2 Diamantes Pulidos, 12 Esencias de Magia,</text><nl/>
+   <text> 14 Esencias de Energía</text><nl/>
+   <text> Conocimiento necesario: Anillo de Idaloran</text><nl/>
+   <text> Nexo requerido: Artificial: 4; Mágico: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 32</text><nl/>
+   <text> Experiencia: 140</text><nl/>
+   <text> Comida: 30</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Imbroglio_Islands">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Anillo de Imbroglio Islands</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Al usarlo, te teletransporta hacia Imbroglio Islands.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> Imposible de fabricar ahora mismo.</text><nl/>
+   <text> Conocimiento necesario: Desconocido</text><nl/>
+   <text> Nexo requerido: Artificial: 4; Mágico: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: </text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Comida: Desconocido</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Irinveron">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Anillo de Irinveron</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Al usarlo, te teletransporta hacia Irinveron.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Oro, 3 Zafiros Pulidos, 3 Rubíes,</text><nl/>
+   <text> 20 Esencias de Magia, 7 Esencias de Energía</text><nl/>
+   <text> Conocimiento necesario: Anillo de Irinveron</text><nl/>
+   <text> Nexo requerido: Artificial: 4; Mágico: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 46</text><nl/>
+   <text> Experiencia: 210</text><nl/>
+   <text> Comida: 35</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Iscalrith">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Anillo de Iscalrith</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Al usarlo, te teletransporta hacia Iscalrith.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Oro, 3 Zafiros Pulidos, 3 Rubíes,</text><nl/>
+   <text> 22 Esencias de Magia, 7 Esencias de Energía</text><nl/>
+   <text> Conocimiento necesario: Anillo de Iscalrith</text><nl/>
+   <text> Nexo requerido: Artificial: 4; Mágico: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 44</text><nl/>
+   <text> Experiencia: 200</text><nl/>
+   <text> Comida: 35</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Isle_Forgotten">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>      Anillo de Isle of the Forgotten</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Al usarlo, te teletransporta hacia Isle of the Forgotten.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Plata, 2 Zafiros Pulidos, 2 Rubíes,</text><nl/>
+   <text> 20 Esencias de Magia, 5 Esencias de Energía</text><nl/>
+   <text> Conocimiento necesario: Anillo de Isle of the Forgotten</text><nl/>
+   <text> Nexo requerido: Artificial: 4, Mágico: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 52</text><nl/>
+   <text> Experiencia: Joyería: 240</text><nl/>
+   <text> Comida: 35</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Kusamura">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Anillo de Kusamura</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Al usarlo, te teletransporta hacia Kusamura.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Oro, 1 Lingote de Plata, 25 Esencias de Magia</text><nl/>
+   <text> 9 Esencias de Energía</text><nl/>
+   <text> Conocimiento necesario: Anillo de Kusamura</text><nl/>
+   <text> Nexo requerido: Artificial: 4; Mágico: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 40</text><nl/>
+   <text> Experiencia: 180</text><nl/>
+   <text> Comida: 35</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Palon_Vertas">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Anillo de Palon Vertas</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Al usarlo, te teletransporta hacia Palon Vertas.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Plata, 1 Lingote de Oro, 30 Esencias de Magia,</text><nl/>
+   <text> 8 Esencias de Energía</text><nl/>
+   <text> Conocimiento necesario: Anillo de Palon Vertas</text><nl/>
+   <text> Nexo requerido: Artificial: 4; Mágico: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 38</text><nl/>
+   <text> Experiencia: 170</text><nl/>
+   <text> Comida: 35</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Sedicolis">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Anillo de Sedicolis</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Al usarlo, te teletransporta hacia Sedicolis.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Oro, 1 Zafiro Pulido, 15 Esencias de Magia</text><nl/>
+   <text> 12 Esencias de Energía</text><nl/>
+   <text> Conocimiento necesario: Anillo de Sedicolis</text><nl/>
+   <text> Nexo requerido: Artificial: 4; Mágico: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 36</text><nl/>
+   <text> Experiencia: 160</text><nl/>
+   <text> Comida: 30</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Trassian">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Anillo de Trassian</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Al usarlo, te teletransporta hacia Trassian.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Oro, 3 Zafiros Pulidos, 3 Rubíes,</text><nl/>
+   <text> 20 Esencias de Magia, 5 Esencias de Energía</text><nl/>
+   <text> Conocimiento necesario: Anillo de Trassian</text><nl/>
+   <text> Nexo requerido: Artificial: 4; Mágico: 1</text><nl/>
+   <text> Habilidad recomendada: Joyería: 54</text><nl/>
+   <text> Experiencia: 240</text><nl/>
+   <text> Comida: 35</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Damage">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Anillo de daño</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado en combate infringe 10 puntos de daño a tu</text><nlkx/>
+   <text> oponente, sin importar su defensa o armadura.</text><nlkx/>
+   <text> Objeto de un solo uso.</text>
+   <nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Plata, 1 Rubí Pulido, 2 Esencias de Fuego</text><nl/>
+   <text> Conocimiento necesario: Anillo de Daño</text><nl/>
+   <text> Nexo requerido: Artificial: 3, Magia: 3</text><nl/>
+   <text> Habilidad recomendada: Joyería: 26</text><nl/>
+   <text> Experiencia: Joyería: 110</text><nl/>
+   <text> Comida: 34</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Disengagement">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Anillo de Estasis</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado en combate, congela a tu adversario por.</text><nlkx/>
+   <text> un breve periodo de tiempo, permitiéndote la</text><nlkx/>
+   <text> huída.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Anillo de Plata, 1 Zafiro Pulido, 2 Esencias de Fuego</text><nl/>
+   <text> Conocimiento necesario: Anillo de Éstasis</text><nl/>
+   <text> Nexo requerido: Artificial: 3, Magia: 3</text><nl/>
+   <text> Habilidad recomendada: Joyería: 27</text><nl/>
+   <text> Experiencia: Joyería: 115</text><nl/>
+   <text> Comida: 36</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_Power">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Anillo de Poder</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Infringe 50 puntos de daño a tu adversario sin</text><nlkx/>
+   <text> importar su nivel de defensa o armadura.</text><nlkx/>
+   <text> Objeto de un solo uso.</text><nl/>
+   <nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 2 Piedras de Enlace, 10 Anillos de Daño,</text><nl/>
+   <text> 50 Esencias de Muerte</text><nl/>
+   <text> Conocimiento necesario: Anillo de Poder</text><nl/>
+   <text> Nexo requerido: Artificial: 4; Mágico: 5</text><nl/>
+   <text> Habilidad recomendada: Joyería: 40</text><nl/>
+   <text> Experiencia: Joyería: 500</text><nl/>
+   <text> Comida: 30</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Ring_MDestr">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Ring of Mana Destruction</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> When used in combat, it removes 20 points of mana</text>
+   <nlkx/>
+   <text> from your opponent.</text>
+   <nlkx/>
+   <text> Good for one use only.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Polished Emerald, 1 Silver Ring, 1 Gold Ring,</text>
+   <nl/>
+   <text> 6 Magic Essences, 6 Energy Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Ring of Mana Destruction</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4, Magic 3</text>
+   <nl/>
+   <text> Recommended Crafting Level: 49</text>
+   <nl/>
+   <text> Crafting Experience Given: 225</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_MMDestr">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>     Ring of Massive Mana Destruction</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> When used in combat, it removes 50 points of mana</text>
+   <nlkx/>
+   <text> from your opponent.</text>
+   <nlkx/>
+   <text> Good for one use only.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 10 Silver Rings, 50 Magic Essences, 50 Energy Essences,</text>
+   <nl/>
+   <text> 10 Death Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Ring of Massive Mana Destruction</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Recommended Crafting Level: 57</text>
+   <nl/>
+   <text> Crafting Experience Given: 300</text>
+   <nl/>
+   <text> Food subtracted: 65</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Med_Unicorn">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Medallón del Unicornio</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Incrementa tu defensa en 4 puntos.</text><nlkx/>
+   <nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Lingote de Plata, 1 Medallón de Plata, 2 Esencias de Fuego</text><nl/>
+   <text> Conocimiento necesario: Medallón del Unicornio</text><nl/>
+   <text> Nexo requerido: Artificial: 3, Magia: 2</text><nl/>
+   <text> Habilidad recomendada: Joyería: 23</text><nl/>
+   <text> Experiencia: Joyería: 95</text><nl/>
+   <text> Comida: 28</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Med_Sun">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Medallón del Sol</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Incrementa la puntería en 4 puntos.</text><nlkx/>
+   <nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Lingote de Oro, 1 Medallón de Oro, 2 Esencias de Fuego</text><nl/>
+   <text> Conocimiento necesario: Medallón del Sol</text><nl/>
+   <text> Nexo requerido: Artificial: 3, Magia: 2</text><nl/>
+   <text> Habilidad recomendada: Joyería: 23</text><nl/>
+   <text> Experiencia: Joyería: 95</text><nl/>
+   <text> Comida: 28</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Med_Moon">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Medallón de la Luna</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Incrementa armadura y puntería en 4 puntos.</text><nlkx/>
+   <nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Zafiro Pulido, 1 Medallón de Plata, 2 Esencias de Fuego</text><nl/>
+   <text> Conocimiento necesario: Medallón de la Luna</text><nl/>
+   <text> Nexo requerido: Artificial: 3, Magia: 2</text><nl/>
+   <text> Habilidad recomendada: Joyería: 24</text><nl/>
+   <text> Experiencia: Joyería: 100</text><nl/>
+   <text> Comida: 30</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Med_Stars">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                  JOYERÍA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Medallón de las Estrellas</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Incrementa el daño producido en 4</text><nlkx/>
+   <text> y tu armadura en 2 puntos.</text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ingredientes:</text><nl/>
+   <text> 1 Rubí Pulido, 1 Medallón de Plata, 2 Esencias de Fuego</text><nl/>
+   <text> Conocimiento necesario: Medallón de las Estrellas</text><nl/>
+   <text> Nexo requerido: Artificial: 3, Magia: 2</text><nl/>
+   <text> Habilidad recomendada: Joyería: 25</text><nl/>
+   <text> Experiencia: Joyería: 105</text><nl/>
+   <text> Comida: 32</text><nl/>
+   <text> Coste base: -</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Jewelry" title="Índice de joyería"/>
+</Page>
+<Page name="Crown_Mana">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Crown of Mana</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> When worn, it increases your maximum ethereal</text>
+   <nlkx/>
+   <text> points by 150.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Binding Stones, 2 Enriched Magic Essences, 1 Wolfram Bar,</text>
+   <nl/>
+   <text> 1 Hydrogenium Bar, 50 Silver Bars.</text>
+   <nl/>
+   <text> Knowledge needed: Crown of Mana</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Recommended Crafting Level: 60</text>
+   <nl/>
+   <text> Crafting Experience Given: 1000</text>
+   <nl/>
+   <text> Food subtracted: 60</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Crown_Life">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Crown of Life</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> When worn, it increases your maximum material</text>
+   <nlkx/>
+   <text> points by 150.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Binding Stones, 6 Enriched Life Essences, 1 Wolfram Bar,</text>
+   <nl/>
+   <text> 1 Hydrogenium Bar, 50 Gold Bars.</text>
+   <nl/>
+   <text> Knowledge needed: Crown of Life</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Recommended Crafting Level: 61</text>
+   <nl/>
+   <text> Crafting Experience Given: 1050</text>
+   <nl/>
+   <text> Food subtracted: 60</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Med_Harv">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Harvester Medallion</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> When worn while harvesting, it decreases the tool</text>
+   <nlkx/>
+   <text> breaking chances by 2, increases the experience</text>
+   <nlkx/>
+   <text> and money from random events by 10 times.</text>
+   <nlkx/>
+   <text> Random harvesting events can destroy it.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Seridium Bar, 2 Gold Bars, 20 Red Toadstools,</text>
+   <nl/>
+   <text> 10 Fire Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Harvester Medallion Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4, Magic 2</text>
+   <nl/>
+   <text> Recommended Crafting Level: 43</text>
+   <nl/>
+   <text> Crafting Experience Given: 400</text>
+   <nl/>
+   <text> Food subtracted: 28</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Med_Heaven">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Heaven Spawner Medallion</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> When worn, if you have the hellspawn perk, instead</text>
+   <nlkx/>
+   <text> of hellspawning you lose the medallion.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Seridium Bar, 2 Silver Bars, 20 White Chanterelles,</text>
+   <nl/>
+   <text> 10 Fire Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Heavenspawn Medallion Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4, Magic 2</text>
+   <nl/>
+   <text> Recommended Crafting Level: 47</text>
+   <nl/>
+   <text> Crafting Experience Given: 450</text>
+   <nl/>
+   <text> Food subtracted: 28</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Med_Life">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Medallion of Life</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Increases your maximum material points by 30.</text>
+   <nlkx/>
+   <text> +2 Armor, +2 Accuracy, 5% chance to heal 25 hp</text>
+   <nlkx/>
+   <text> when hit.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Seridium Bar, 2 Enriched Life Essences,</text>
+   <nl/>
+   <text> 10 Fire Essences, 30 White Chanterelles.</text>
+   <nl/>
+   <text> Knowledge needed: Medallion of Life Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4, Magic 2</text>
+   <nl/>
+   <text> Recommended Crafting Level: 51</text>
+   <nl/>
+   <text> Crafting Experience Given: 1000</text>
+   <nl/>
+   <text> Food subtracted: 28</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Saving_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Saving Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> If you have this stone in inventory while mixing,</text>
+   <nlkx/>
+   <text> in case of critical failure you'll lose the stone</text>
+   <nlkx/>
+   <text> instead of the materials.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Refined Vegetal Mixture, 1 Mixture of Power,</text>
+   <nl/>
+   <text> 2 Enriched Magic Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Saving Stone</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 7, Magic 5</text>
+   <nl/>
+   <text> Recommended Crafting Level: 65</text>
+   <nl/>
+   <text> Crafting Experience Given: 1000</text>
+   <nl/>
+   <text> Food subtracted: 60</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+</Jewelry>

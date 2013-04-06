@@ -1,0 +1,2215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tailoring>
+<Page name="White Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Wit Textiel</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Textiel: wit</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Weefgetouw, 10 Garen.</text><nl/>
+   <text> Kennis Vereist: Textiel Weven</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 1</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 9</text><nl/>
+   <text> Voedsel Kosten: 10</text><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Red Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                Rode Kleurstof</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Kleurstof (Rood), 100% organisch.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Vierkante Fles, 1 Salpeter, 2 Water Essenties, 5 Rode Rozen.</text><nl/>
+   <text> Kennis Vereist: Rode Kleurstof</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 5</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 15</text><nl/>
+   <text> Voedsel Kosten: 10</text><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Orange Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>               Oranje Kleurstof</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Kleurstof (Oranje), 100% organisch.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Vierkante Fles, 2 Water Essenties, 14 Rode Rozen,</text><nl/>
+   <text> 14 Zonnebloemen.</text><nl/>
+   <text> Kennis Vereist: Oranje Kleurstof</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 7</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 18</text><nl/>
+   <text> Voedsel Kosten: 10</text><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Yellow Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                Gele Kleurstof</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Kleurstof (Geel), 100% organisch.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Vierkante Fles, 1 Salpeter, 2 Water Essenties,</text><nl/>
+   <text> 12 Narcissen.</text><nl/>
+   <text> Kennis Vereist: Gele Kleurstof</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 9</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 22</text><nl/>
+   <text> Voedsel Kosten: 10</text><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Green Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>               Groene Kleurstof</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Kleurstof (Groen), 100% organisch.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Vierkante Fles, 1 Salpeter, 2 Water Essenties, 15 Bijvoet.</text><nl/>
+   <text> Kennis Vereist: Groene Kleurstof</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 11</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 25</text><nl/>
+   <text> Voedsel Kosten: 12</text><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Blue Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>               Blauwe Kleurstof</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Kleurstof (Blauw), 100% organisch.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Vierkante Fles, 1 Salpeter, 2 Water Essenties,</text><nl/>
+   <text> 20 Blauwe Sterren.</text><nl/>
+   <text> Kennis Vereist: Blauwe Kleurstof</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 13</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 28</text><nl/>
+   <text> Voedsel Kosten: 12</text><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Purple Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>               Paarse Kleurstof</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Kleurstof (Paars), 100% organisch.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Vierkante Fles, 1 Salpeter, 2 Water Essenties,</text><nl/>
+   <text> 20 Nachtschade.</text><nl/>
+   <text> Kennis Vereist: Paarse Kleurstof</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 15</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 31</text><nl/>
+   <text> Voedsel Kosten: 14</text><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Black Dye">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text>
+   <nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>               Zwarte Kleurstof</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Kleurstof (Zwart), 100% organisch.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Vierkante Fles, 1 Salpeter, 3 Water Essenties, 20 Kolen.</text><nl/>
+   <text> Kennis Vereist: Zwarte Kleurstof</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 17</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 35</text><nl/>
+   <text> Voedsel Kosten: 14</text><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Red Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                Rood Textiel</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Textiel: rood.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Rode Kleurstof, 1 Wit Textiel, 5 Lucht Essenties.</text><nl/>
+   <text> Kennis Vereist: Textiel Kleuren</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 19</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 40</text><nl/>
+   <text> Voedsel Kosten: 14</text><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Orange Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                Oranje Textiel</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Textiel: oranje.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Oranje Kleurstof, 1 Wit Textiel, 5 Lucht Essenties.</text><nl/>
+   <text> Kennis Vereist: Textiel Kleuren</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 21</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 45</text><nl/>
+   <text> Voedsel Kosten: 14</text><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Yellow Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                  Geel Textiel</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Textiel: geel.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Gele Kleurstof, 1 Wit Textiel, 5 Lucht Essenties.</text><nl/>
+   <text> Kennis Vereist: Textiel Kleuren</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 23</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 50</text><nl/>
+   <text> Voedsel Kosten: 14</text><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Green Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                Groen Textiel</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Textiel: groen.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Groene Kleurstof, 1 Wit Textiel, 5 Lucht Essenties.</text><nl/>
+   <text> Kennis Vereist: Textiel Kleuren</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 25</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 55</text><nl/>
+   <text> Voedsel Kosten: 14</text><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Blue Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                Blauw Textiel</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Textiel: blauw.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Blauwe Kleurstof, 1 Wit Textiel, 5 Lucht Essenties.</text><nl/>
+   <text> Kennis Vereist: Textiel Kleuren</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 27</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 60</text><nl/>
+   <text> Voedsel Kosten: 14</text><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Black Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Zwart Textiel</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Textiel: zwart.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 2 Zwarte Kleurstof, 1 Wit Textiel, 5 Lucht Essenties.</text><nl/>
+   <text> Kennis Vereist: Textiel Kleuren</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 29</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 75</text><nl/>
+   <text> Voedsel Kosten: 14</text><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Purple Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Paars Textiel</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Textiel: paars.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Paarse Kleurstof, 1 Wit Textiel, 5 Lucht Essenties.</text><nl/>
+   <text> Kennis Vereist: Textiel Kleuren</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 31</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 65</text><nl/>
+   <text> Voedsel Kosten: 14</text><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Gray Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Grijs Textiel</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Textiel: grijs.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Zwarte Kleurstof, 1 Wit Textiel, 5 Lucht Essenties.</text><nl/>
+   <text> Kennis Vereist: Textiel Kleuren</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 33</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 70</text><nl/>
+   <text> Voedsel Kosten: 14</text><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Brown Fabric">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Bruin Textiel</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Textiel: bruin.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Rode Kleurstof, 1 Zwarte Kleurstof, 1 Wit Textiel,</text><nl/>
+   <text> 5 Lucht Essenties.</text><nl/>
+   <text> Kennis Vereist: Textiel Kleuren</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 33</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 90</text><nl/>
+   <text> Voedsel Kosten: 14</text><nl/>
+   <text> Stapelbaar: Ja</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="NMW_Cape">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>           Geen Magiër Meer Mantel</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Deze mantel geeft je de Geen Tranen Meer perk,</text><nlkx/>
+   <text> verhoogd je magie weerstand met 8 en geeft je</text><nlkx/>
+   <text> een beetje camouflage.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 1 Geen Tranen Meer Mantel, 1 Magiër Mantel,</text><nl/>
+   <text> 2 Bind Stenen, 2 Verrijkte Magie Essenties.</text><nl/>
+   <text> Kennis Vereist: Geen Magiër Meer</text><nl/>
+   <text> Nexus Vereist: Magie 4</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 50</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 3500</text><nl/>
+   <text> Voedsel Kosten: 14</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 4 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Scarf_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>              Zwarte Hoofddoek</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwarte Hoofddoek.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 5 Zwart Textiel, 10 Garen, 1 Naald.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Hoofddoek Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 36</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 100</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Scarf_Red">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>               Rode Hoofddoek</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Rode Hoofddoek.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 5 Rood Textiel, 10 Garen, 1 Naald.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Hoofddoek Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 37</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 110</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Scarf_Skull">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>              Piraten Hoofddoek</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Piraten Hoofddoek.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 5 Zwart Textiel, 2 Wit Textiel, 10 Garen, 1 Naald.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Hoofddoek Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 38</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 120</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Tricorn_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>             Zwarte Driepunt Hoed</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Black Tricorn Hat.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 5 Zwart Textiel, 10 Garen, 2 Naalden.</text><nl/><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Driepunt Hoed Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 39</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 180</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Tricorn_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>             Bruine Driepunt Hoed</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Bruine Driepunt Hoed.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 5 Bruin Textiel, 10 Garen, 1 Naald.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Driepunt Hoed Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 40</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 190</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Tricorn_Blue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>             Blauwe Driepunt Hoed</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Blauwe Driepunt Hoed.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 5 Blauw Textiel, 10 Garen, 1 Naald.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Driepunt Hoed Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 41</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 200</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Buccaneer_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text>
+   <nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>            Bruine Boekanier Hoed</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Bruine Boekanier Hoed.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 6 Bruin Textiel, 15 Garen, 1 Cockatrice Veer,</text><nl/>
+   <text> 1 Naald.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Boekanier Hoed Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 42</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 190</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Buccaneer_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>            Zwarte Boekanier Hoed</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwarte Boekanier Hoed.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 6 Zwart Textiel, 15 Garen, 1 Cockatrice Veer,</text><nl/>
+   <text> 1 Naald.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Boekanier Hoed Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 43</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 200</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Cavalier_BlackP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>         Zwarte Cavalier Peacock Hoed</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwarte Cavalier Peacock Hoed.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 6 Zwart Textiel, 1 Cockatrice Veer, 16 Garen,</text><nl/>
+   <text> 2 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 44</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 220</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Cavalier_GreenP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>         Groene Cavalier Peacock Hoed</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Groene Cavalier Peacock Hoed.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 6 Groen Textiel, 1 Cockatrice Veer, 15 Garen,</text><nl/>
+   <text> 1 Naald.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 45</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 240</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Cavalier_Blue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>              Blauwe Cavalier Hoed</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Blauwe Cavalier Hoed.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 6 Blauw Textiel, 1 Valk Veer, 15 Garen,</text><nl/>
+   <text> 1 Naald.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 46</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 240</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Cavalier_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>             Zwarte Cavalier Hoed</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwarte Cavalier Hoed.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 6 Zwart Textiel, 1 Valk Veer, 15 Garen,</text><nl/>
+   <text> 1 Naald.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 47</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 245</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Santa_Hat">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                  Kerstmuts</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Kerstmuts.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Kerstmuts Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Hood">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>               Universele Kap</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Universele Kap.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Kap Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Tunic_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Bruine Tuniek</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Bruine Tuniek.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Tuniek Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Tunic_Purple">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                Paarse Tuniek</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Paarse Tuniek.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Tuniek Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Tunic_Green">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Groene Tuniek</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Groene Tuniek.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Tuniek Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Tunic_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Zwarte Tuniek</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwarte Tuniek.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Tuniek Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Tunic_Red">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                  Rode Tuniek</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Rode Tuniek.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Tuniek Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Tunic_Blue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Blauwe Tuniek</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Blauwe Tuniek.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Tuniek Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Tunic_White">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Witte Tuniek</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Witte Tuniek.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Tuniek Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="TunicShirt_RedWhite">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>       Rood/Witte Tuniek en Shirt Combo</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Rood/Witte Tuniek en Shirt Combo.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Tuniek en Shirt Combo Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="TunicShirt_BlueWhite">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>      Blauw/Witte Tuniek en Shirt Combo</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Blauw/Witte Tuniek en Shirt Combo.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Tuniek en Shirt Combo Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="TunicShirt_BrownWhite">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>      Bruin/Witte Tuniek en Shirt Combo</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Bruin/Witte Tuniek en Shirt Combo.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Tuniek en Shirt Combo Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="TunicShirt_BlackGreen">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>      Zwart/Groene Tuniek en Shirt Combo</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwart/Groene Tuniek en Shirt Combo.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Tuniek en Shirt Combo Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="TunicShirt_BlackPurple">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>     Zwart/Paarse Tuniek en Shirt Combo</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwart/Paarse Tuniek en Shirt Combo.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Tuniek en Shirt Combo Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="TunicShirt_BlackRed">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>      Zwart/Rode Tuniek en Shirt Combo</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwart/Rode Tuniek en Shirt Combo.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Tuniek en Shirt Combo Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="TunicShirt_BlackGray">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>      Zwart/Grijze Tuniek en Shirt Combo</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwart/Grijze Tuniek en Shirt Combo.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Tuniek en Shirt Combo Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="TunicShirt_BlackWhite">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>      Zwart/Witte Tuniek en Shirt Combo</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwart/Witte Tuniek en Shirt Combo.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Tuniek en Shirt Combo Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="TunicShirt_BrownBlue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>       Bruin/Blauwe Tuniek en Shirt Combo</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Bruin/Blauwe Tuniek en Shirt Combo.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> ???.</text><nl/>
+   <text> Gereedschappen: ???</text><nl/>
+   <text> Kennis Vereist: Tuniek en Shirt Combo Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: ???</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: ???</text><nl/>
+   <text> Voedsel Kosten: ???</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Robe_Purple">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Paars Gewaad</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Paars Gewaad.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Paars Textiel, 2 Gouden Baren, 20 Garen, 2 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 56</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 310</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="RobeSkirt_Purple">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>              Paars Gewaad Rok</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Paars Gewaad Rok.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Paars Textiel, 20 Garen, 3 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Rok Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 61</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 360</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Robe_Green">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Groen Gewaad</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Groen Gewaad.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Groen Textiel, 2 Gouden Baren, 20 Garen, 2 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 56</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 310</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="RobeSkirt_Green">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>              Groen Gewaad Rok</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Groen Gewaad Rok.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Groen Textiel, 20 Garen, 3 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Rok Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 61</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 360</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Robe_LightBlue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>               Lichtblauw Gewaad</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Lichtblauw Gewaad.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 14 Blauw Textiel, 14 Wit Textiel, 2 Gouden Baren,</text><nl/>
+   <text> 20 Garen, 2 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 57</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 320</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="RobeSkirt_LightBlue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>            Lichtblauw Gewaad Rok</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Lichtblauw Gewaad Rok.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 14 Blauw Textiel, 14 Wit Textiel, 20 Garen, 3 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Rok Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 62</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 370</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Robe_White">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                  Wit Gewaad</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Wit Gewaad.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Wit Textiel, 2 Gouden Baren, 20 Garen, 2 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 57</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 320</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="RobeSkirt_White">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>              Wit Gewaad Rok</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Wit Gewaad Rok.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Wit Textiel, 20 Garen, 3 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Rok Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 62</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 370</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Robe_Blue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Blauw Gewaad</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Blauw Gewaad.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Blauw Textiel, 2 Gouden Baren, 20 Garen, 2 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 58</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 330</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="RobeSkirt_Blue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>               Blauw Gewaad Rok</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Blauw Gewaad Rok.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Blauw Textiel, 20 Garen, 3 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Rok Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 63</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 380</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Robe_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Zwart Gewaad</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwart Gewaad.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Zwart Textiel, 2 Gouden Baren, 20 Garen, 2 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 58</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 330</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="RobeSkirt_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>               Zwart Gewaad Rok</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwart Gewaad Rok.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Zwart Textiel, 20 Garen, 3 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Rok Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 63</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 380</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Robe_Gray">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Grijs Gewaad</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Grijs Gewaad.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Grijs Textiel, 2 Gouden Baren, 20 Garen, 2 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 59</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 340</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="RobeSkirt_Gray">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>               Grijs Gewaad Rok</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Grijs Gewaad Rok.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Grijs Textiel, 20 Garen, 3 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Rok Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 64</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 390</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Robe_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Bruin Gewaad</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Bruin Gewaad.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Bruin Textiel, 2 Gouden Baren, 20 Garen, 2 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 59</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 340</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="RobeSkirt_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>              Bruin Gewaad Rok</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Bruin Gewaad Rok.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Bruin Textiel, 20 Garen, 3 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Rok Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 64</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 390</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Robe_Red">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Rood Gewaad</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Rood Gewaad.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Rood Textiel, 2 Gouden Baren, 20 Garen, 2 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 60</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 350</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="RobeSkirt_Red">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>               Rood Gewaad Rok</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Rood Gewaad Rok.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Rood Textiel, 20 Garen, 3 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Rok Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 65</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 400</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Robe_Yellow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>                 Geel Gewaad</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Geel Gewaad.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Geel Textiel, 2 Gouden Baren, 20 Garen, 2 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 60</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 350</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="RobeSkirt_Yellow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>              Geel Gewaad Rok</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items22.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Geel Gewaad Rok.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 28 Geel Textiel, 20 Garen, 3 Naalden.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Gewaad Rok Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 65</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 400</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Pants_Brown">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>               Bruine Pofbroek</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Bruine Pofbroek.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 24 Bruin Textiel, 25 Garen, 1 Naald.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Pofbroek Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 54</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 300</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Pants_Black">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>               Zwarte Pofbroek</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwarte Pofbroek.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 24 Zwart Textiel, 25 Garen, 1 Naald.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Pofbroek Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 53</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 220</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Pants_RedBlack">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>        Zwart/Rood Gestreepte Pofbroek</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwart/Rood Gestreepte Pofbroek.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 12 Zwart Textiel, 25 Garen, 1 Naald,</text><nl/>
+   <text> 12 Rood Textiel.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Pofbroek Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 48</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 255</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Pants_RedWhite">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>         Rood/Wit Gestreepte Pofbroek</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Rood/Wit Gestreepte Pofbroek.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 12 Wit Textiel, 25 Garen, 1 Naald,</text><nl/>
+   <text> 12 Rood Textiel.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Pofbroek Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 49</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 260</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Pants_PurpleBlack">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>       Zwart/Paars Gestreepte Pofbroek</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwart/Paars Gestreepte Pofbroek.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 12 Paars Textiel, 25 Garen, 1 Naald,</text><nl/>
+   <text> 12 Zwart Textiel.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Pofbroek Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 51</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 270</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+<Page name="Pants_BlueBlack">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Tailoring" title="Terug"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+   <text>                 KLEERMAKEN</text><nl/>
+   <color>red</color>
+   <text>       Zwart/Blauw Gestreepte Pofbroek</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items21.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwart/Blauw Gestreepte Pofbroek.</text><nlkx/>
+   <text> </text><nl/>
+   <nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Vereiste materialen:</text><nl/>
+   <text> 12 Blauw Textiel, 25 Garen, 1 Naald,</text><nl/>
+   <text> 12 Zwart Textiel.</text><nl/>
+   <text> Gereedschappen: Schaar</text><nl/>
+   <text> Kennis Vereist: Pofbroek Maken</text><nl/>
+   <text> Geadviseerd Kleermaken Level: 52</text><nl/>
+   <text> Kleermaken Ervaring Gegeven: 280</text><nl/>
+   <text> Voedsel Kosten: 25</text><nl/>
+   <text> Stapelbaar: Nee</text><nl/>
+   <text> Gewicht: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Tailoring" title="Terug Naar Kleermaken Index"/>
+</Page>
+</Tailoring>

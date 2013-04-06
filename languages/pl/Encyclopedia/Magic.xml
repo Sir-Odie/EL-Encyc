@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Magic>
+<page name="Heal">
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/><text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Heal</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Ulecz)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="3" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/> 
+   <text>      Przywraca 10 HP</text>
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="23" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Sigile: Increase, Health</text>  
+   <nl/>
+   <text>      Potrzeba: Health Essence</text> 
+   <nl/><text>      Wymagany poziom magii: 0</text>  
+   <nl/><text>      Doswiadczenie w Magii: 5</text> 
+   <nl/><text>      Koszt Many: 5</text>   
+   <nl/><nl/><Color>yellow</Color>
+   <text>                      </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</page>
+<page name="R_Heal"> 
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Remote Heal</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Zdalne Uleczanie)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="9" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/> 
+   <text>      Przywraca HP oddalonemu celowi.</text>
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="3" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Sigile: Global, Increase, Health</text>   
+   <nl/>
+   <text>      Potrzeba: 2 Health Essence, Magic Essence</text>
+   <nl/>
+   <text>      Wymagany poziom magii: 3</text>  
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="23" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Doswiadczenie w Magii: 15</text>   
+   <nl/>
+   <text>      Koszt Many: 8</text>   
+   <nl/><nl/>
+   <Color>yellow</Color>
+   <text>                      </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</page>
+<page name="M_Prot"> 
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Magic Protection</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Ochrona Przed Magia)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/> 
+   <text>      Zwieksza o 8 ochrone przed zakleciami.</text>   
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="17" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Sigile: Create, Magic, Protection</text>  
+   <nl/>
+   <text>      Potrzeba: Magic Essence, Energy Essence</text> 
+   <nl/>
+   <text>      Wymagany poziom magii: 6</text>  
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Doswiadczenie w Magii: 30</text>   
+   <nl/>
+   <text>      Koszt Many: 10</text>  
+   <nl/><nl/>
+   <Color>yellow</Color>
+   <text>                      </text><link ref="Magic" title="Wroc do Indeksu Magii"/>   
+   <size>big</size>
+</page>
+<page name="Shield"> 
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Shield</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Tarcza)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/> 
+   <text>      Zwieksza Twoj Zbroje o 3</text>   
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="15" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Sigile: Create, Matter, Protection</text> 
+   <nl/>
+   <text>      Potrzeba: Matter Essence</text> 
+   <nl/>
+   <text>      Wymagany poziom magii: 9</text>  
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Doswiadczenie w Magii: 40</text>   
+   <nl/>
+   <text>      Koszt Many: 11</text>  
+   <nl/><nl/>
+   <Color>yellow</Color>
+   <text>                      
+   </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</page>
+<page name="Poison"> 
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Poison</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Trucizna)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="5" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/> 
+   <text>      Zatruwa cel.</text>  
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="4" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Sigile: Temporary, Decrease, Life</text>  
+   <nl/>
+   <text>      Potrzeba: 2 Death Essence</text>  
+   <nl/>
+   <text>      Wymagany poziom magii: 12</text> 
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="24" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Doswiadczenie w Magii: 50</text>   
+   <nl/>
+   <text>      Koszt Many: 14</text>  
+   <nl/><nl/>
+   <Color>yellow</Color>
+   <text>                      </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</page>
+<page name="Tp_to_range">  
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Teleport to Range</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Teleport Do Celu)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="7" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/> 
+   <text>      Pozwala Ci teleportowac sie do najblizszej lokacji.</text>  
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Sigile: Move, Change, Local, Space</text> 
+   <nl/>
+   <text>      Potrzeba: Matter Essence, Energy Essence,</text><nl/>
+   <text>                Spirit Essence</text><nl/>
+   <text>      Wymagany poziom magii: 15</text> 
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="8" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Doswiadczenie w Magii: 65</text>   
+   <nl/><text>      Koszt Many: 15</text>  
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="2" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size>  
+   <nl/><nl/>
+   <Color>yellow</Color>
+   <text>                      </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</page>
+<page name="Harm">   
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Harm</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                         (Zranienie)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="22" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/> 
+   <text>      Zadaje wybranemu celowi obrazenia.</text><nl/>
+   <text>      Ilosc obrazen zalezna jest od poziomu Magii.</text>  
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="23" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Sigile: Remove, Health</text> 
+   <nl/>
+   <text>      Potrzeba: 5 Health Essence, 3 Death Essence</text> 
+   <nl/>
+   <text>      Wymagany poziom magii: 18</text> 
+   <nl/>
+   <text>      Doswiadczenie w Magii: 80</text>   
+   <nl/>
+   <text>      Koszt Many: 25</text>
+   <nl/><nl/>
+   <Color>yellow</Color>
+   <text>                      </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</page>
+<page name="Restoration">  
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Restoration</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Przywrocenie)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="1" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/> 
+   <text>      Przywraca Ci pewna ilosc punktow HP.</text><nl/>
+   <text>      Ilosc ta zalezna jest od poziomu Magii i od</text><nl/>
+   <text>      posiadanych atrybutow.</text><nl/>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="24" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Sigile: Restore, Life</text>  
+   <nl/>
+   <text>      Potrzeba: 4 Health Essence</text>  
+   <nl/>
+   <text>      Wymagany poziom magii: 21</text> 
+   <nl/>
+   <text>      Doswiadczenie w Magii: 95</text>   
+   <nl/>
+   <text>      Koszt Many: 25</text>  
+   <nl/><nl/>
+   <Color>yellow</Color>
+   <text>                      
+   </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</page>
+<page name="Bones_to_gold">   
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Bones to Gold</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Kosci w Zloto)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="6" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/> 
+   <text>      Zamienia wszystkie kosci w plecaku na zlote monety.</text>  
+   <nl/>
+   <text>      (ilosc zlotych monet zalezna jest od poziomu Magii)</text>   
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Sigile: Permanent, Change, Matter</text>  
+   <nl/>
+   <text>      Potrzeba: 2 Matter Essence, 1 Energy Essence</text> 
+   <nl/>
+   <text>      Wymagany poziom magii: 23</text> 
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="15" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Wymagany poziom Alchemy: 20</text>  
+   <nl/>
+   <text>      Doswiadczenie w Magii: 100</text>  
+   <nl/>
+   <text>      Doswiadczenie w Magii Alchemy: 50</text> 
+   <nl/>
+   <text>      Koszt Many: 30</text>  
+   <nl/><nl/>
+   <Color>yellow</Color>
+   <text>                      </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</page>
+<page name="Tp_to_Port_Room"> 
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Teleport to Portal Room</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                 (Teleport do Pokoju Portali)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="7" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/> 
+   <text>      Teleportuje Cie do Pokoju Portali, gdzie</text> 
+   <nl/>
+   <text>      znajduja sie przejscia na inne mapy.</text>  
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Sigile: Move, Change, Global, Space</text>   
+   <nl/>
+   <text>      Potrzeba: Matter Essence, 5 Energy Essence,</text>
+   <nl/>
+   <text>                Spirit Essence</text>
+   <nl/>
+   <text>      Wymagany poziom magii: 24</text> 
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="9" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Doswiadczenie w Magii: 105</text>  
+   <nl/>
+   <text>      Koszt Many: 20</text>  
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="2" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size>  
+   <nl/><nl/>
+   <Color>yellow</Color>
+   <text>                      </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</page>
+<page name="Life_drain">
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Life Drain</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Wyssanie Zycia)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="7" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/> 
+   <text>      Zabiera celowi okreslona liczbe punktow HP,</text><nl/>
+   <text>      i przywraca je Tobie. Ilosc tych punktow</text><nl/> 
+   <text>      zalezna jest od poziomu Magii.</text>
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Sigile: Move, Change, Life</text>   
+   <nl/>
+   <text>      Potrzeba: 3 Life Essence</text> 
+   <nl/>
+   <text>      Wymagany poziom magii: 27</text> 
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="24" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Doswiadczenie w Magii: 120</text>  
+   <nl/>
+   <text>      Koszt Many: 20</text>  
+   <nl/><nl/>
+   <Color>yellow</Color>
+   <text>                      </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</page>
+<page name="Magic_Immun">  
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Magic Immunity</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Niewrazliosc Na Magie)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/> 
+   <text>      Czyni Cie niewrazliwym na magiczne zaklecia.</text>  
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="3" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Sigile: Create, Increase, Magic, Protection</text> 
+   <nl/>
+   <text>      Potrzeba: 2 Magic Essence, 1 Energy Essence</text>  
+   <nl/>
+   <text>      Wymagany poziom magii: 30</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="17" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Doswiadczenie w Magii: 140</text>  
+   <nl/>
+   <text>      Koszt Many: 30</text>  
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size>  
+   <nl/><nl/>
+   <Color>yellow</Color>
+   <text>                      </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</page>
+<page name="Heal_Sum">  
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Heal Summoned</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Leczenie Przywolanych)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="8" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/> 
+   <text>      Przywraca HP kazdej przywolanej istocie ktora</text><nl/>
+   <text>      znajduje sie w kwadracie 16x16 wokol Twojej</text><nl/>
+   <text>      pozycji. Ilosc HP zalezna jest od Magii.</text> 
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="2" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Sigile: Local, Space, Health, Spirit</text><nl/>
+   <text>      Potrzeba: 2 Spirit Essence, 2 Life Essence,</text><nl/>
+   <text>                2 Health Essence</text>   
+   <nl/><simage isize="256" tsize="32" size="100" tid="23" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Wymagany poziom magii: 33</text> 
+   <nl/>
+   <text>      Doswiadczenie w Magii: 110</text>  
+   <nl/>
+   <text>      Koszt Many: 25</text>  
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="14" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size>  
+   <nl/><nl/>
+   <Color>yellow</Color>
+   <text>                      </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</page>
+<page name="Smite_Sum"> 
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Smite Summoned</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Porazenie Przywolanych)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="8" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/> 
+   <text>      Zabiera HP kazdej przywolanej istocie ktora</text><nl/>
+   <text>      znajduje sie w kwadracie 16x16 wokol Twojej</text><nl/>
+   <text>      pozycji. Ilosc HP zalezna jest od Magii.</text>
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="2" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Sigile: Local, Space, Remove, Life</text><nl/>
+   <text>      Potrzeba: 2 Spirit Essence, 3 Death Essence,</text><nl/>
+   <text>      2 Matter Essence</text>   
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="22" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Wymagany poziom magii: 36</text> 
+   <nl/>
+   <text>      Doswiadczenie w Magii: 120</text>  
+   <nl/>
+   <text>      Koszt Many: 30</text>  
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="24" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size>  
+   <nl/><nl/>
+   <Color>yellow</Color>
+   <text>                      </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</page>
+<page name="Drain_Mana">   
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Mana Drain</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Wyssanie Many)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="7" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/> 
+   <text>      Zabiera przeciwnikowi okreslona ilosc punktow</text><nl/>
+   <text>      many i przekazuje ja Tobie.</text><nl/>
+   <text>      Ilosc wyssanej many zalezna od poziomu Magii.</text>   
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>   
+   <nl/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Sigile: Move, Change, Magic</text>  
+   <nl/>
+   <text>      Potrzeba: 6 Air Essence</text>   
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="17" name="textures/sigils.bmp" yposupdate="0" xposupdate="0"/>  
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>   
+   <text>      Wymagany poziom magii: 40</text> 
+   <nl/>
+   <text>      Doswiadczenie w Magii: 200</text>  
+   <nl/>
+   <text>      Koszt Many: 20</text>  
+   <nl/>
+   <nl/>
+   <Size>Medium</Size>  
+   <nl/><nl/>
+   <Color>yellow</Color>
+   <text>                      </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</page>
+<Page name="Invisibility"> 
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Invisibility</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Niewidzialnosc)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="22" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Sprawia ze przez jakis czas jestes zupelnie</text><nlkx/>
+   <text>  niewidzialny (no chyba ze ktos korzysta z</text><nlkx/>
+   <text>  zaklecia True Sight - wtedy Cie zobaczy).</text>
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="15" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigile: Remove, Matter, Knowledge</text><nlkx/>
+   <text>  Potrzeba: 10 Air Essences, 10 Energy Essences,</text><nlkx/>
+   <text>            10 Matter Essences.</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="20" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Wymagany Poziom Magii: 50</text><nlkx/>
+   <text>  Doswiadczenie w Magii: 400</text><nlkx/>
+   <text>  Koszt Many: 30</text>
+   <nl/><nl/><nl/><nl/>
+   <Color>yellow</Color>
+   <text>                    </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</Page>
+<Page name="True_Sight">   
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 True Sight</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Czysta Wizja)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Pozwala Ci widziec niewidzialne osoby.</text>
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="15" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Create, Matter, Knowledge</text><nlkx/>
+   <text>  Potrzeba: 4 Energy Essences, 4 Magic Essences,</text><nlkx/>
+   <text>            4 Spirit Essences.</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="20" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Wymagany Poziom Magii: 45</text><nlkx/>
+   <text>  Doswiadczenie w Magii: 300</text><nlkx/>
+   <text>  Koszt Many: 20</text>
+   <nl/><nl/><nl/><nl/>
+   <Color>yellow</Color>
+   <text>                    </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</Page>
+<Page name="Heat_Shield">  
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Heat Shield</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Tarcza Ciepla)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Chroni Cie przed obrazeniami od ciepla.</text>
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="10" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Create, Fire, Protection</text><nlkx/>
+   <text>  Potrzeba: 3 Energy Essences, 3 Matter Essences,</text><nlkx/>
+   <text>            4 Water Essences.</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Wymagany Poziom Magii: 37</text><nlkx/>
+   <text>  Doswiadczenie w Magii: 200</text><nlkx/>
+   <text>  Koszt Many: 25</text>
+   <nl/><nl/><nl/><nl/>
+   <Color>yellow</Color>
+   <text>                    </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</Page>
+<Page name="Cold_Shield">  
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Cold Shield</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Tarcza Zimna)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Chroni Cie przed obrazeniami od zimna.</text>
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="11" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Create, Water, Protection</text><nlkx/>
+   <text>  Potrzeba: 3 Energy Essences, 3 Matter Essences,</text><nlkx/>
+   <text>            4 Fire Essences.</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Wymagany Poziom Magii: 38</text><nlkx/>
+   <text>  Doswiadczenie w Magii: 230</text><nlkx/>
+   <text>  Koszt Many: 27</text>
+   <nl/><nl/><nl/><nl/>
+   <Color>yellow</Color>
+   <text>                    </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</Page>
+<Page name="Radiation_Shield">   
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Radiation Shield</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                  (Tarcza Promieniowania)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Chroni Cie przed obrazeniami od promieniowania.</text>
+   <nl/><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="15" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Create, Matter, Energy, Protection</text><nlkx/>
+   <text>  Potrzeba: 3 Energy Essences, 4 Magic Essences,</text><nlkx/>
+   <text>            3 Matter Essences.</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="16" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Wymagany Poziom Magii: 39</text><nlkx/>
+   <text>  Doswiadczenie w Magii: 260</text><nlkx/>
+   <text>  Koszt Many: 30</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size>  
+   <nl/><nl/><nl/>
+   <Color>yellow</Color>
+   <text>                    </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</Page>
+<Page name="Itc_Tp_to_Port_Room"> 
+   <size>Small</size><Color>yellow</Color>
+   <link x="2" y="2" ref="Magic" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MAGIA</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>   
+   <text>       Intercontinental Teleport to</text><nl/>
+   <text>             the Portals Room</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                  (Miedzykontynentalny Teleport)</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Przenosi Ci do Pokoju Portali kontynentu</text><nlkx/>
+   <text>  przeciwnego do tego, na ktorym sie znajdujesz.</text>
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="9" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Change, Global, Space</text><nlkx/>
+   <text>  Potrzeba: 4 Matter Essences, 10 Energy Essences,</text><nlkx/>
+   <text>            12 Spirit Essences</text>
+   <nl/>
+   <simage isize="256" tsize="32" size="100" tid="2" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Wymagany Poziom Magii: 50</text><nlkx/>
+   <text>  Doswiadczenie w Magii: 220</text><nlkx/>
+   <text>  Koszt Many: 40</text>
+   <nl/><nl/><nl/><nl/>
+   <Color>yellow</Color>
+   <text>                    </text><link ref="Magic" title="Wroc do Indeksu Magii"/>
+</Page>
+</Magic>

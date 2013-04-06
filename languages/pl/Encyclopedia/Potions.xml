@@ -1,0 +1,1545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Potions>
+<Page name="P_Mana">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Potion of Mana</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Przywraca 5 punktow many.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                1 </text><link ref="FD_Wine" title="Wine"/><nl/>
+   <text>                                1 </text><link ref="Blue_Lupine" title="Blue Lupine"/>
+   <nl/><nl/>
+   <text> Zalecany Poziom w Miksturach:  0</text><nl/>
+   <text> Doswiadczenie w Miksturach:    5</text><nl/>
+   <text> Koszt Jedzenia:                1</text><nl/>
+   <text> Uklada sie w Stos:             Nie</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Healing">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Potion of Minor Healing</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Przywraca 6 punktow zdrowia.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                1 </text><link ref="FD_Wine" title="Wine"/><nl/>
+   <text>                                1 </text><link ref="Sunflower" title="Sunflower"/>
+   <nl/><nl/>
+   <text> Zalecany Poziom w Miksturach:  2</text><nl/>
+   <text> Doswiadczenie w Miksturach:    9</text><nl/>
+   <text> Koszt Jedzenia:                1</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Reasoning">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion of Reasoning</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Tymczasowo zwieksza Rozum (Reasoning).</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                1 </text><link ref="FD_Vegetables" title="Vegetables"/><nl/>
+   <text>                                3 </text><link ref="Bones Powder" title="Bones Powder"/>
+   <nl/><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        1</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  4</text><nl/>
+   <text> Doswiadczenie w Miksturach:    15</text><nl/>
+   <text> Koszt Jedzenia:                1</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Physique">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion of Physique</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Tymczasowo zwieksza Budowe Ciala (Physique).</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                3 Raw Meats</text><nl/>
+   <text>                                3 </text><link ref="Bones Powder" title="Bones Powder"/><nl/>
+   <text>                                1 </text><link ref="FD_Mead" title="Mead"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Physique</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        1</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  6</text><nl/>
+   <text> Doswiadczenie w Miksturach:    20</text><nl/>
+   <text> Koszt Jedzenia:                2</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Defense">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion of Defense</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Tymczasowo zwieksza umiejetnosc Obrona (Defense).</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                2 </text><link ref="Beaver" title="Beaver Furs"/><nl/>
+   <text>                                2 </text><link ref="Silver Ore" title="Silver Ore"/><nl/>
+   <text>                                4 </text><link ref="Swamp_Candle" title="Swamp Candle"/><nl/>
+   <text>                                1 </text><link ref="Bones Powder" title="Bones Powder"/>
+   <nl/><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        2</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  8</text><nl/>
+   <text> Doswiadczenie w Miksturach:    25</text><nl/>
+   <text> Koszt Jedzenia:                3</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Coordination">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion of Coordination</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Tymczasowo zwieksza koordynacje (Coordination).</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                1 </text><link ref="Deer" title="Deer Fur"/><nl/>
+   <text>                                1 </text><link ref="Cactus" title="Cactus"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Coordination</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        2</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  10</text><nl/>
+   <text> Doswiadczenie w Miksturach:    30</text><nl/>
+   <text> Koszt Jedzenia:                4</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Wildness">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion of Wildness</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Tymczasowo zwieksza Instynkt (Instinct).</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                1 </text><link ref="Wolf" title="Wolf Fur"/><nl/>
+   <text>                                1 </text><link ref="FD_Ale" title="Ale"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Wildness</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        3</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  12</text><nl/>
+   <text> Doswiadczenie w Miksturach:    35</text><nl/>
+   <text> Koszt Jedzenia:                5</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Will">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion of Will</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Tymczasowo zwieksza Wole (Will).</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                3 </text><link ref="Wolf" title="Wolf Fur"/><nl/>
+   <text>                                2 </text><link ref="FD_Ale" title="Ale"/><nl/>
+   <text>                                1 </text><link ref="Yellow_Rose" title="Yellow Rose"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Will</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        3</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  14</text><nl/>
+   <text> Doswiadczenie w Miksturach:    35</text><nl/>
+   <text> Koszt Jedzenia:                6</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Vitality">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion of Vitality</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Tymczasowo zwieksza Witalnosc (Vitality).</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                1 </text><link ref="Puma" title="Puma Fur"/><nl/>
+   <text>                                1 </text><link ref="Cactus" title="Cactus"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Vitality</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        3</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  16</text><nl/>
+   <text> Doswiadczenie w Miksturach:    50</text><nl/>
+   <text> Koszt Jedzenia:                7</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Attack">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion of Attack</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Chwilowo zwieksza umiejetnosc: Atak (Attack).</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                1 </text><link ref="Beaver" title="Beaver Fur"/><nl/>
+   <text>                                1 </text><link ref="Gold Ore" title="Gold Ore"/><nl/>
+   <text>                                1 </text><link ref="Tiger_Lilly" title="Tiger Lilly"/>
+   <nl/><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        4</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  18</text><nl/>
+   <text> Doswiadczenie w Miksturach:    55</text><nl/>
+   <text> Koszt Jedzenia:                8</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Spirit Restoration">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>        Potion of Spirit Restoration</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Przywraca 20 punktow many.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                1 </text><link ref="FD_Wine" title="Wine"/><nl/>
+   <text>                                1 </text><link ref="Blue Quartz" title="Blue Quartz"/><nl/>
+   <text>                                2 </text><link ref="Blue_Star_Flower" title="Blue Star Flower"/>
+   <nl/><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        4</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  20</text><nl/>
+   <text> Doswiadczenie w Miksturach:    65</text><nl/>
+   <text> Koszt Jedzenia:                9</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          5 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Feasting">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion of Feasting</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Przywraca 50 punktow jedzenia.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                1 </text><link ref="FD_Wine" title="Wine"/><nl/>
+   <text>                                1 Raw Meat</text>
+   <text>                                1 </text><link ref="FD_Vegetables" title="Vegetables"/><nl/>
+   <text>                                1 </text><link ref="FD_Fruits" title="Fruit"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Feasting</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        4</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  22</text><nl/>
+   <text> Doswiadczenie w Miksturach:    70</text><nl/>
+   <text> Koszt Jedzenia:                10</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          5 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Body Restoration">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Potion of Body Restoration</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Przywraca 20 punktow zycia.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                1 </text><link ref="FD_Wine" title="Wine"/><nl/>
+   <text>                                2 </text><link ref="Sunflower" title="Sunflowers"/><nl/>
+   <text>                                1 </text><link ref="Rose Quartz" title="Rose Quartz"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Body Restoration</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        4</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  24</text><nl/>
+   <text> Doswiadczenie w Miksturach:    75</text><nl/>
+   <text> Koszt Jedzenia:                11</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Harvesting">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion of Harvesting</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Chwilowo zwieksza umiejetnosc Zbieractwo.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                2 </text><link ref="Rabbits" title="White Rabbit Furs"/><nl/>
+   <text>                                3 </text><link ref="Lilacs" title="Lilacs"/>
+   <nl/><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  26</text><nl/>
+   <text> Doswiadczenie w Miksturach:    90</text><nl/>
+   <text> Koszt Jedzenia:                12</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Manufacturing">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Potion of Manufacturing</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Tymczasowo zwieksza umiejetnosc Rzemieslnictwo.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                2 </text><link ref="Iron Ore" title="Iron Ores"/><nl/>
+   <text>                                1 </text><link ref="Silver Ore" title="Silver Ore"/><nl/>
+   <text>                                1 </text><link ref="Sunflower" title="Sunflowers"/><nl/>
+   <text>                                1 </text><link ref="Chrysanthemum" title="Chrysanthemum"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Manufacturing</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  28</text><nl/>
+   <text> Doswiadczenie w Miksturach:    95</text><nl/>
+   <text> Koszt Jedzenia:                13</text><nl/>
+   <text> Uklada sie w Stos:             Nie</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Summoning">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion of Summoning</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Chwilowo zwieksza umiejetnosc: Przywolywanie.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                1 </text><link ref="Silver Bar" title="Silver Bar"/><nl/>
+   <text>                                1 </text><link ref="Deer" title="Deer Antlers"/><nl/>
+   <text>                                4 </text><link ref="White Asiatic Lilly" title="White Asiatic Lilies"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Summoning</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  30</text><nl/>
+   <text> Doswiadczenie w Miksturach:    105</text><nl/>
+   <text> Koszt Jedzenia:                14</text><nl/>
+   <text> Uklada sie w Stos:             Nie</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Craft">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Potion of Crafting</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Chwilowo zwieksza umiejetnosc: Jubilerstwo.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                1 </text><link ref="Titanium Bar" title="Titanium Bar"/><nl/>
+   <text>                                1 </text><link ref="FD_Mead" title="Mead"/><nl/>
+   <text>                                2 </text><link ref="Blue Quartz" title="Blue Quartz"/><nl/>
+   <text>                                1 </text><link ref="Mercury" title="Mercury"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Crafting</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  32</text><nl/>
+   <text> Doswiadczenie w Miksturach:    112</text><nl/>
+   <text> Koszt Jedzenia:                20</text><nl/>
+   <text> Uklada sie w Stos:             Nie</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Magic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Potion of Magic</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Chwilowo zwieksza umiejetnosc: Magia.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                1 </text><link ref="P_Ruby" title="Polished Ruby"/><nl/>
+   <text>                                2 </text><link ref="Black_Rose" title="Black Roses"/><nl/>
+   <text>                                1 </text><link ref="FD_Ale" title="Ale"/><nl/>
+   <text>                                1 </text><link ref="Rat" title="Rat Tail"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Magic</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  34</text><nl/>
+   <text> Doswiadczenie w Miksturach:    118</text><nl/>
+   <text> Koszt Jedzenia:                30</text><nl/>
+   <text> Uklada sie w Stos:             Nie</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Extra_Mana">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Potion of Extra Mana</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Przywraca 50 puntkow many.</text><nlkx/>
+   <text> Czasem powstaje w trakcie tworzenia eliksiru</text><nlkx/>
+   <text> Potion of Spirit Restoration.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>                ----- RECEPTURA PIERWSZA -----</text><nl/>
+   <text> Wymagane Materialy:            30 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                15 </text><link ref="P_Spirit Restoration" title="Pot. of Spirit Rest."/><nl/>
+   <text>                                10 </text><link ref="Magic Essence" title="Magic Essences"/>
+   <nl/><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        6</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  36</text><nl/>
+   <text> Doswiadczenie w Miksturach:    500</text><nl/>
+   <text> Koszt Jedzenia:                60</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          10 EMU</text>
+   <nl/><nl/>
+   <text>                ------ RECEPTURA  DRUGA ------</text><nl/>
+   <text> Wymagane Materialy:            1 </text><link ref="Binding_Stone" title="Binding Stone"/><nl/>
+   <text>                                2 </text><link ref="P_Spirit Restoration" title="Pot. of Spirit Rest."/>
+   <nl/><nl/>
+   <text> Wymagany Magic Nexus:          4</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  36</text><nl/>
+   <text> Doswiadczenie w Miksturach:    500</text><nl/>
+   <text> Koszt Jedzenia:                30</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          10 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Extra_Life">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion of Great Healing</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Przywraca 50 punktow zdrowia.</text><nlkx/>
+   <text> Czasem powstawje w trakcie tworzenia eliksirow</text><nlkx/>
+   <text> Potion Of Minor Healing lub Potion of Body</text><nlkx/>
+   <text> Restoration.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Binding_Stone" title="Binding Stone"/><nl/>
+   <text>                                1 </text><link ref="P_Boty Restoration" title="Pot. of Body Rest."/>
+   <nl/><nl/>
+   <text> Wymagany Magic Nexus:          4</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  40</text><nl/>
+   <text> Doswiadczenie w Miksturach:    500</text><nl/>
+   <text> Koszt Jedzenia:                30</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Antidote">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Poison Antidote</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Antidotum na trucizne - leczy wszelkie jej objawy.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1  </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                3  </text><link ref="Rue" title="Rues"/><nl/>
+   <text>                                10 </text><link ref="Yarrow" title="Yarrows"/><nl/>
+   <text>                                4  </text><link ref="FD_Ale" title="Ale"/><nl/>
+   <text>                                3  </text><link ref="Poppies" title="Poppies"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Poison Antidote</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  40</text><nl/>
+   <text> Doswiadczenie w Miksturach:    125</text><nl/>
+   <text> Koszt Jedzenia:                25</text><nl/>
+   <text> Uklada sie w Stos:             Nie</text><nl/>
+   <text> Waga:                          5 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_TS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion of True Sight</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Pozwala na dostrzezenie niewidzialnych postaci.</text>
+   <nl/><nl/><nl/>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                9 </text><link ref="Wormood" title="Wormwoods"/><nl/>
+   <text>                                1 </text><link ref="Deer" title="Deer Antlers"/><nl/>
+   <text>                                7 </text><link ref="Red_Toadstool" title="Red Toadstools"/><nl/>
+   <text>                                2 </text><link ref="FD_Mead" title="Meads"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of True Sight</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  42</text><nl/>
+   <text> Doswiadczenie w Miksturach:    140</text><nl/>
+   <text> Koszt Jedzenia:                25</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          4 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Invis">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Potion of Invisibility</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Sprawia, ze stajesz sie niewidzilany (za wyjatkiem</text><nl/>
+   <text>       osob uzywajacych eliksiru badz zaklecia True</text><nl/>
+   <text>       Sight. uwazaj, przy korzystaniu z tej mikstury</text>
+   <text>       masz az 30% szans na to, ze zostaniesz otruty.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                7 </text><link ref="Wormwood" title="Wormwoods"/><nl/>
+   <text>                                2 </text><link ref="Snow_Leopard" title="Snow Leopard Furs"/><nl/>
+   <text>                                2 </text><link ref="FD_Ale" title="Ale"/><nl/>
+   <text>                                1 </text><link ref="Daffodils" title="Daffodils"/><nl/>
+   <text>                                6 </text><link ref="Mullein" title="Mulleins"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Invisibility</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  44</text><nl/>
+   <text> Doswiadczenie w Miksturach:    150</text><nl/>
+   <text> Koszt Jedzenia:                30</text><nl/>
+   <text> Uklada sie w Stos:             Nie</text><nl/>
+   <text> Waga:                          10 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Accuracy">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Potion of Accuracy</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Chwilowo zwieksza zdolnosc zadawania celnych ciosow</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1  </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                3  </text><link ref="Skunk" title="Skunk Furs"/><nl/>
+   <text>                                5  </text><link ref="Valerian" title="Valerians"/><nl/>
+   <text>                                1  </text><link ref="FD_Ale" title="Ale"/><nl/>
+   <text>                                15 </text><link ref="Dandelion" title="Dandelions"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Accuracy</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  46</text><nl/>
+   <text> Doswiadczenie w Miksturach:    160</text><nl/>
+   <text> Koszt Jedzenia:                32</text><nl/>
+   <text> Uklada sie w Stos:             Nie</text><nl/>
+   <text> Waga:                          5 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Evasion">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Potion of Evasion</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Chwilowo zwieksza zdolnosc unikania ciosow.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1  </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                10 </text><link ref="Mullein" title="Mulleins"/><nl/>
+   <text>                                10 </text><link ref="Yarrow" title="Yarows"/><nl/>
+   <text>                                1  </text><link ref="FD_Ale" title="Ale"/><nl/>
+   <text>                                4  </text><link ref="Racoon" title="Racoon Fur"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion fo Evasion</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  48</text><nl/>
+   <text> Doswiadczenie w Miksturach:    170</text><nl/>
+   <text> Koszt Jedzenia:                35</text><nl/>
+   <text> Uklada sie w Stos:             Nie</text><nl/>
+   <text> Waga:                          5 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Alchemy">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Potion of Alchemy</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Chwilowo zwieksza umiejetnosc Alchemia.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                3 </text><link ref="Feran" title="Feran Horns"/><nl/>
+   <text>                                3 </text><link ref="Mercury" title="Mercury"/><nl/>
+   <text>                                1 </text><link ref="FD_Wine" title="Wine"/><nl/>
+   <text>                                5 </text><link ref="Daffodils" title="Daffodils"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Alchemy</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  50</text><nl/>
+   <text> Doswiadczenie w Miksturach:    190</text><nl/>
+   <text> Koszt Jedzenia:                35</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Potion">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Potion of Potion</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Chwilowo zwieksza umiejetnosc Mikstury.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                5 </text><link ref="Rue" title="Rues"/><nl/>
+   <text>                                2 </text><link ref="Feran" title="Feran Horns"/><nl/>
+   <text>                                1 </text><link ref="FD_Wine" title="Wine"/><nl/>
+   <text>                                7 </text><link ref="Dandelions" title="Dandelions"/><nl/>
+   <text>                                4 </text><link ref="Nightshade" title="Nightshades"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Porion of Potion</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  52</text><nl/>
+   <text> Doswiadczenie w Miksturach:    210</text><nl/>
+   <text> Koszt Jedzenia:                35</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Eng">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Potion of Engineering</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Chwilowo zwieksza umiejetnosc Inzynieria.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                2 </text><link ref="Hawk" title="Hawk Feathers"/><nl/>
+   <text>                                2 </text><link ref="Falcon" title="Falcon Feathers"/><nl/>
+   <text>                                3 </text><link ref="FD_Mead" title="Meads"/><nl/>
+   <text>                                2 </text><link ref="BearP" title="Polar Bear Furs"/><nl/>
+   <text>                                5 </text><link ref="Wheat" title="Wheats"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Engineering</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  60</text><nl/>
+   <text> Doswiadczenie w Miksturach:    510</text><nl/>
+   <text> Koszt Jedzenia:                35</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Cold">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Potion of Cold Protection</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Chwilowo zwieksza odpornosc na zimno.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                5 </text><link ref="BearP" title="Polar Bear Furs"/><nl/>
+   <text>                                8 </text><link ref="FD_Wine" title="Wines"/><nl/>
+   <text>                                5 </text><link ref="Rubies" title="Rubies"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Cold Protection</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  56</text><nl/>
+   <text> Doswiadczenie w Miksturach:    210</text><nl/>
+   <text> Koszt Jedzenia:                35</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Heat">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Potion of Heat Protection</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Chwilowo zwieksza odpornosc na ogien.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                8 </text><link ref="Air Essence" title="Air Essences"/><nl/>
+   <text>                                8 </text><link ref="Water Essence" title="Water Essences"/><nl/>
+   <text>                                5 </text><link ref="Turquoise" title="Turquoises"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Heat Protection</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  56</text><nl/>
+   <text> Doswiadczenie w Miksturach:    230</text><nl/>
+   <text> Koszt Jedzenia:                35</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Rad">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>       Potion of Radiation Protection</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Chwilowo zwieksza odpornosc na promieniowanie.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                8 </text><link ref="Air Essence" title="Air Essences"/><nl/>
+   <text>                                8 </text><link ref="Energy Essence" title="Energy Essences"/><nl/>
+   <text>                                8 </text><link ref="Emeralds" title="Emeralds"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Radiation Prot.</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  62</text><nl/>
+   <text> Doswiadczenie w Miksturach:    250</text><nl/>
+   <text> Koszt Jedzenia:                35</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Speed">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Potion of Speed Hax</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Podwaja szybkosc az do chwili gdy Twoj poziom.</text>
+   <nlkx/>
+   <text> jedzenia spadnie do -29.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> W tej chwili ta mikstura nie ma uzycia.</text><nl/>
+   <nl/>
+   <text> Uwaga: produkcja przedmiotu wytwarza 12 mikstur na raz.</text><nl/>
+   <nl/>
+   <text> Wymagane Materialy:            12 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                1  </text><link ref="Mixture_POW" title="Mixture of Power"/><nl/>
+   <text>                                1  Leonard Fur</text><nl/>
+   <text>                                24 </text><link ref="Air Essence" title="Air Essences"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Speed Hax</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        6</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  70</text><nl/>
+   <text> Doswiadczenie w Miksturach:    550</text><nl/>
+   <text> Koszt Jedzenia:                35</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          5 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   	<text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="C_Food">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Creature Food</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Niezbedne do pozostania pod zmienionym ksztaltem.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Uwaga: produkcja wytwarza 60 sztuk na raz.</text><nl/>
+   <nl/>
+   <text> Wymagane Materialy:            1  </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                1  </text><link ref="Mixture_VEG" title="Refined Vegetal Mixture"/><nl/>
+   <text>                                15 Raw Meats</text>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Creature Food</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  64</text><nl/>
+   <text> Doswiadczenie w Miksturach:    450</text><nl/>
+   <text> Koszt Jedzenia:                35</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="Extract_YWT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>    Yarrow - Wormwood - Tulips Extract</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Mixture_VEG" title="Refined Vegetal Mixture"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1  </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                40 </text><link ref="Yarrow" title="Yarrows"/><nl/>
+   <text>                                40 </text><link ref="Wormwood" title="Wormwoods"/><nl/>
+   <text>                                40 </text><link ref="Tulips" title="Tulips"/><nl/>
+   <text>                                2  </text><link ref="Gypsum" title="Gypsum"/>
+   <nl/><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  35</text><nl/>
+   <text> Doswiadczenie w Miksturach:    450</text><nl/>
+   <text> Koszt Jedzenia:                25</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="Extract_NMD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text> Nightshade - Mullein - Dandelion Extract</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Mixture_VEG" title="Refined Vegetal Mixture"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1  </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                40 </text><link ref="Nightshade" title="Nightshades"/><nl/>
+   <text>                                40 </text><link ref="Mullein" title="Mulleins"/><nl/>
+   <text>                                40 </text><link ref="Dandelions" title="Dandelions"/><nl/>
+   <text>                                2  </text><link ref="Gypsum" title="Gypsum"/>
+   <nl/><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  37</text><nl/>
+   <text> Doswiadczenie w Miksturach:    470</text><nl/>
+   <text> Koszt Jedzenia:                25</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="Extract_PHP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>  Poison Ivy - Henbane - Poppies Extract</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do </text><link ref="Mixture_VEG" title="Refined Vegetal Mixture"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1  </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                40 </text><link ref="Poison_Ivy" title="Poison Ivys"/><nl/>
+   <text>                                40 </text><link ref="Henbane" title="Henbanes"/><nl/>
+   <text>                                40 </text><link ref="Poppies" title="Poppies"/><nl/>
+   <text>                                2  </text><link ref="Gypsum" title="Gypsum"/>
+   <nl/><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  39</text><nl/>
+   <text> Doswiadczenie w Miksturach:    550</text><nl/>
+   <text> Koszt Jedzenia:                25</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="Extract_RBR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text> Red Currants - Blue Berries - Rue Extract</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do </text><link ref="Mixture_VEG" title="Refined Vegetal Mixture"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1  </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                40 </text><link ref="Red_Currant" title="Red Currants"/><nl/>
+   <text>                                40 </text><link ref="Blueberry" title="Blue Berries"/><nl/>
+   <text>                                40 </text><link ref="Rue" title="Rues"/><nl/>
+   <text>                                2  </text><link ref="Gypsum" title="Gypsum"/>
+   <nl/><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  41</text><nl/>
+   <text> Doswiadczenie w Miksturach:    600</text><nl/>
+   <text> Koszt Jedzenia:                25</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="Extract_WOT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>       White Chanterelle - Ogre Toes -</text><nl/>
+   <text>            Tree Mushroom Extract</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do </text><link ref="Mixture_POW" title="Mixture of Power"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1  </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                40 </text><link ref="White_Chanterelle" title="White Chanterelles"/><nl/>
+   <text>                                40 </text><link ref="Ogre_Toe" title="Ogre Toes"/><nl/>
+   <text>                                40 </text><link ref="Tree_Mushroom" title="Tree Mushrooms"/><nl/>
+   <text>                                2  </text><link ref="Gypsum" title="Gypsum"/>
+   <nl/><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  43</text><nl/>
+   <text> Doswiadczenie w Miksturach:    620</text><nl/>
+   <text> Koszt Jedzenia:                25</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="Extract_WVM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>     Wheat - Valerian - Mugwort Extract</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Mixture_POW" title="Mixture of Power"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1  </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                40 </text><link ref="Wheat" title="Wheats"/><nl/>
+   <text>                                40 </text><link ref="Valerian" title="Valerians"/><nl/>
+   <text>                                40 </text><link ref="Mugwort" title="Mugworts"/><nl/>
+   <text>                                2  </text><link ref="Gypsum" title="Gypsum"/>
+   <nl/><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  45</text><nl/>
+   <text> Doswiadczenie w Miksturach:    640</text><nl/>
+   <text> Koszt Jedzenia:                25</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="Extract_WDF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>   Wheat - Daffodils - Feran Horn Extract</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Mixture_POW" title="Mixture of Power"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            1  </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                40 </text><link ref="Wheat" title="Wheats"/><nl/>
+   <text>                                40 </text><link ref="Daffodils" title="Daffodils"/><nl/>
+   <text>                                4  </text><link ref="Feran" title="Feran Horns"/><nl/>
+   <text>                                2  </text><link ref="Gypsum" title="Gypsum"/>
+   <nl/><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        5</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  47</text><nl/>
+   <text> Doswiadczenie w Miksturach:    660</text><nl/>
+   <text> Koszt Jedzenia:                25</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="Mixture_VEG">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Refined Vegetal Mixture</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Saving_Stone" title="Saving Stone"/><text> and </text><link ref="Invasionmeter" title="Invasionmeter"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            5 </text><link ref="Extract_YWT" title="YWT Extracts"/><nl/>
+   <text>                                5 </text><link ref="Extract_NMD" title="NMD Extracts"/><nl/>
+   <text>                                5 </text><link ref="Extract_PHP" title="PHP Extracts"/><nl/>
+   <text>                                5 </text><link ref="Extract_RBR" title="RBR_Extracts"/>
+   <nl/><nl/>
+   <text> Wymagany Vegetal Nexus:        6</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  51</text><nl/>
+   <text> Doswiadczenie w Miksturach:    1200</text><nl/>
+   <text> Koszt Jedzenia:                25</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="Mixture_POW">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Mixture of Power</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzywane do: </text><link ref="Saving_Stone" title="Saving Stone"/><text>.</text><nl/>
+   <text>       A takze do przywolywania </text><link ref="S_DragonR" title="Czerwonego Smoka"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:            5 </text><link ref="Extract_WOT" title="WOT Extracts"/><nl/>
+   <text>                                5 </text><link ref="Extract_WVM" title="WVM Extracts"/><nl/>
+   <text>                                5 </text><link ref="Extract_WDF" title="PHP Extracts"/>
+   <nl/><nl/>
+   <text> Wymagany Vegetal Nexus:        6</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  53</text><nl/>
+   <text> Doswiadczenie w Miksturach:    1200</text><nl/>
+   <text> Koszt Jedzenia:                25</text><nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          1 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Attack_Reduction">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Potion of Attack Reduction</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Obniza umiejetosc Ataku o ???.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Z podanych skladnikow, jednorazowo, powstaje 12 mikstur.</text><nl/>
+   <nl/>
+   <text> Wymagane Materialy:            12 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                1  Red Dragon Scale</text><nl/>
+   <text>                                12 </text><link ref="FD_Wine" title="Wines"/><nl/>
+   <text>                                12 </text><link ref="FD_Ale" title="Ales"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Attack Reduction</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        6</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  73</text><nl/>
+   <text> Doswiadczenie w Miksturach:    950</text><nl/>
+   <text> Koszt Jedzenia:                35</text><nl/>
+   <text> Uklada sie w Stos:             ???</text><nl/>
+   <text> Waga:                          ? EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Defense_Reduction">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Potion of Defense Reduction</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Obniza umiejetosc Obrony o ???.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Z podanych skladnikow, jednorazowo, powstaje 12 mikstur.</text><nl/>
+   <nl/>
+   <text> Wymagane Materialy:            12 </text><link ref="Empty_Vial" title="Empty Vial"/><nl/>
+   <text>                                1  Black Dragon Scale</text><nl/>
+   <text>                                12 </text><link ref="FD_Wine" title="Wines"/><nl/>
+   <text>                                12 </text><link ref="FD_Ale" title="Ales"/>
+   <nl/><nl/>
+   <text> Wymagana Wiedza:               Potion of Defense Reduction</text><nl/>
+   <text> Wymagane Narzedzia:            </text><link ref="Mortar_Pestle" title="Mortar &amp; Pestle"/><nl/>
+   <text> Wymagany Vegetal Nexus:        6</text><nl/>
+   <text> Zalecany Poziom w Miksturach:  76</text><nl/>
+   <text> Doswiadczenie w Miksturach:    950</text><nl/>
+   <text> Koszt Jedzenia:                35</text><nl/>
+   <text> Uklada sie w Stos:             ???</text><nl/>
+   <text> Waga:                          ? EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+<Page name="P_Archery_AP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                   MIKSTURY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Potion of Archery AP</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Na STALE zwieksza szanse przebicia pancerza przeciwnika</text>
+   <nlkx/>
+   <text> przy uzyciu strzal o 1%, maksymalnie do 60%.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Niestety, tej mikstury nie da sie produkowac.</text>
+   <nl/>
+   <nl/>
+   <nl/>
+   <text> Uklada sie w Stos:             Tak</text><nl/>
+   <text> Waga:                          5 EMU</text>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Potions" title="Wroc do Indeksu Mikstur"/>
+</Page>
+</Potions>

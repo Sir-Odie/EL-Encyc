@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Maps>
+<Page name="Maps_IP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Isla Prima (IP)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Este e o mapa onde se começa. É, também, onde se</text><nl/>
+   <text> aparece quando se digita #beam me ou quando se sai do</text><nl/>
+   <text> Underworld, a área perto da fogueira é chamada de beam.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/>
+   <nl/>
+   <text> PK: Não</text><nl/>
+   <nl/>
+   <text> Multi-combat: Não</text><nl/>
+   <nl/>
+   <text> Mapas em ligação:</text><text> White Stone (barco)</text><nlkx/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps_WS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              White Stone (WS)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Este mapa está no centro de Seridia. É o mapa onde</text><nl/>
+   <text> se chega quando se apanha o barco de Isla Prima, e</text><nl/>
+   <text> tem acesso com a maioria dos mapas de Seridia.</text><nl/>
+   <text> Tem gargoyles vagueando de noite (3:30-0:30).</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/>
+   <nl/>
+   <text> PK: Não, mas tem uma arena</text><nl/>
+   <nl/>
+   <text> Multi-combat: Não</text><nl/>
+   <nl/>
+   <text> Mapas em ligação:</text><text> Isla Prima (barco)</text><nlkx/>
+   <text> Desert Pines (barco)</text><nlkx/>
+   <text> Nordcarn</text><nlkx/>
+   <text> Portland</text><nlkx/>
+   <text> Morcraven Marsh</text><nlkx/>
+   <text> Grubani Peninsula</text><nlkx/>
+   <text> Ruins of Tirnym</text><nlkx/>
+   <text> Tarsengaard</text><nlkx/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps_DP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Desert Pines (DP)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> DP é um dos maiores mapas de mineração em Seridia.</text><nl/>
+   <text> Contem duas minas, um deserto e uma floresta.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> PK: Não, mas tem uma arena</text><nl/>
+   <nl/>
+   <text> Multi-combat: Não</text><nl/>
+   <nl/>
+   <text> Mapas em ligação:</text><text> White Stone (barco)</text><nlkx/>
+   <text> Valley of the Dwarves (barco)</text><nlkx/>
+   <text> Portland (barco)</text><nlkx/>
+   <text> Tahraji Desert</text><nlkx/>
+   <text> Portland</text><nlkx/>
+   <text> South Kilaran Field</text><nlkx/>
+   <text> Kilaran Field</text><nlkx/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps_VOTD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>        Valley of the Dwarves (VotD)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Este mapa é o centro de actividades. Tem um storage,</text><nl/>
+   <text> fácil acesso a vegetais, alguns spawns de animais</text><nl/>
+   <text> excelentes para treinar, esta perto de Kilaran Field</text><nl/>
+   <text> para os combatentes.</text><nl/>
+   <text> Os monstros não habitam as minas e o antigo templo.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/>
+   <nl/>
+   <text> PK: Não</text><nl/>
+   <nl/>
+   <text> Multi-combat: Não</text><nl/>
+   <nl/>
+   <text> Mapas em ligação:</text><text> Desert Pines (barco)</text><nlkx/>
+   <text> Kilaran Field</text><nlkx/>
+   <text> Nordcarn</text><nlkx/>
+   <text> Tarsengaard</text><nlkx/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps_PL">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Portland (PL)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Portland é um porto com uma cidade grande. Tem um</text><nl/>
+   <text> storage, e algumas minas nas redondezas. Entretanto</text><nl/>
+   <text> tem goblins que toma PL como sua casa, ele foi</text><nl/>
+   <text> chamado assim pelos habitantes da cidade.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/>
+   <nl/>
+   <text> PK: Não</text><nl/>
+   <nl/>
+   <text> Multi-combat: Sim</text><nl/>
+   <nl/>
+   <text> Mapas em ligação:</text><text> Desert Pines (barco)</text><nlkx/>
+   <text> Grubani Peninsula (barco)</text><nlkx/>
+   <text> Desert Pines</text><nlkx/>
+   <text> Tahraji Desert</text><nlkx/>
+   <text> Morcraven Marsh</text><nlkx/>
+   <text> White Stone</text><nlkx/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps_MM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>            Morcraven Marsh (MM)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Morcraven Marsh também tem storage, uma mina ou duas,</text><nl/>
+   <text> mesmo assim não e seguro para alguém sem experiência.</text><nl/>
+   <text> Tem todos os tipos de monstros até Armed Skeletons.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/>
+   <nl/>
+   <text> PK: Não</text><nl/>
+   <nl/>
+   <text> Multi-combat: Não</text><nl/>
+   <nl/>
+   <text> Mapas em ligação:</text><text> Portland</text><nlkx/>
+   <text> Naralik</text><nlkx/>
+   <text> White Stone</text><nlkx/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps_NK">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Naralik (NK)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Naralik tem um vendedor que vende livros para minar,</text><nl/>
+   <text> mas cuidado antes de viajar ateé lá se e novo. Há Goblins</text><nl/>
+   <text> neste mapa.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/>
+   <nl/>
+   <text> PK: Não</text><nl/>
+   <nl/>
+   <text> Multi-combat: Sim</text><nl/>
+   <nl/>
+   <text> Mapas em ligação:</text><text> Morcraven Marsh</text><nlkx/>
+   <text> Grubani Peninsula</text><nlkx/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps_GP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>           Grubani Peninsula (GP)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Este mapa é muito perigoso! Tem monstros de alto</text><nl/>
+   <text> nível incluindo o horrivel e bastante perigoso</text><nl/>
+   <text> Chimeran Wolf. Tem, também, um vendedor de livros</text><nl/>
+   <text> de luta e summoning, pede ajuda se precisa de lá ir.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/>
+   <nl/>
+   <text> PK: Não</text><nl/>
+   <nl/>
+   <text> Multi-combat: Sim</text><nl/>
+   <nl/>
+   <text> Mapas em ligação:</text><text> Portland (barco)</text><nlkx/>
+   <text> White Stone</text><nlkx/>
+   <text> Naralik</text><nlkx/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps_TG">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Tarsengaard (TG)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Este mapa tem uma grande, mas sossegada cidade.</text><nl/>
+   <text> É a casa para minas, e muitas outras coisas, mas cuidado</text><nl/>
+   <text> ao visitá-la. Não irás querer correr para os Armed Goblin</text><nl/>
+   <text> antes de estar pronto.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/>
+   <nl/>
+   <text> PK: Não, mas a cave com ligação a Nordcarn tem.</text><nl/>
+   <nl/>
+   <text> Multi-combat: Não</text><nl/>
+   <nl/>
+   <text> Mapas em ligação:</text><text> Valley of the Dwarves</text><nlkx/>
+   <text> Nordcarn (cave PK)</text><nlkx/>
+   <text> White Stone</text><nlkx/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps_NC">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Nordcarn (NC)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Nordcarn é uma cidade de dwarfs. É rodeada por minas</text><nl/>
+   <text> e construida em pedra. É segura, mas cuidado com</text><nl/>
+   <text> com as minas. Há rumores em que uma parte do</text><nl/>
+   <text> centro da mina se possa atacar jogadores.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/>
+   <nl/>
+   <text> PK: Não, mas tem uma arena.</text><nl/>
+   <text> A cave no nordeste também e PK..</text><nl/>
+   <nl/>
+   <text> Multi-combat: Não</text><nl/>
+   <nl/>
+   <text> Mapas em ligação:</text><text> Valley of the Dwarves</text><nlkx/>
+   <text> South Kilaran Field</text><nlkx/>
+   <text> White Stone</text><nlkx/>
+   <text> Tarsengaard (cave PK)</text><nlkx/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps_SK">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          South Kilaran Field (SK)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> South Kilaran tem sido excedida com muitos monstros</text><nl/>
+   <text> perigosos. Aventurares-te aqui é um problema teu.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/>
+   <nl/>
+   <text> PK: Não</text><nl/>
+   <nl/>
+   <text> Multi-combat: Sim</text><nl/>
+   <nl/>
+   <text> Mapas em ligação:</text><text> Kilaran Field</text><nlkx/>
+   <text> Desert Pines</text><nlkx/>
+   <text> White Stone</text><nlkx/>
+   <text> Nordcarn</text><nlkx/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps_KF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color>Red</color>
+   <text>             Kilaran Field (KF)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Kilaran Field é um mapa PK. Este mapa é o preferido</text><nl/>
+   <text> dos combatentes, cuidado ao entrar, combatentes</text><nl/>
+   <text> morrem pelas mãos de outros.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/>
+   <nl/>
+   <text> PK: Sim</text><nl/>
+   <nl/>
+   <text> Multi-combat: Sim</text><nl/>
+   <nl/>
+   <text> Mapas em ligação:</text><text> Desert Pines</text><nlkx/>
+   <text> South Kilaran Field</text><nlkx/>
+   <text> Valley of the Dwarves</text><nlkx/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps_TD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color>Red</color>
+   <text>            Tahraji Desert (TD)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Tahraji Desert é um mapa PK. Este mapa tem monstros</text><nl/>
+   <text> de alto nível, incluindo o terrivel Fluffy Rabbit.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/>
+   <nl/>
+   <text> PK: Sim</text><nl/>
+   <nl/>
+   <text> Multi-combat: Sim</text><nl/>
+   <nl/>
+   <text> Mapas em ligação:</text><text> Portland</text><nlkx/>
+   <text> Desert Pines</text><nlkx/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps_Tirnym">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color>Red</color>
+   <text>          Ruins of Tirnym (Tirnym)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> As Ruins of Tirnym são muito perigosas e só se deveriam</text><nl/>
+   <text> aventurar os mais experientes.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/>
+   <nl/>
+   <text> PK: Não</text><nl/>
+   <nl/>
+   <text> Multi-combat: Sim</text><nl/>
+   <nl/>
+   <text> Mapas em ligação:</text><text> White Stone</text><nlkx/><nl/>
+   <nl/><color>yellow</color>
+   <text>                       </text><link ref="Maps" title="Back To Maps Index"/>
+</Page>
+</Maps>

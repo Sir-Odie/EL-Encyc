@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EnchantedWeapons>
+<Page name="ISOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>             Iron Sword of Fire</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 7-8 damage, +1 Defense, +1 Accuracy,</text>
+   <nlkx/>
+   <text> +3 Fire damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Modable Iron Sword, 1 Enriched Fire Essence,</text>
+   <nl/>
+   <text> 1 Binding Stone, 2 Serpent Stones</text>
+   <nl/>
+   <text> Knowledge needed: Book of Iron Sword of Fire</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4, Magic 5</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 45</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 2000</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 7 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="IBSOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>         Iron Broad Sword of Fire</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 9-10 damage, +4 Fire damage.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Modable Iron Broad Sword, 1 Enriched Fire Essence,</text>
+   <nl/>
+   <text> 1 Binding Stone, 3 Serpent Stones</text>
+   <nl/>
+   <text> Knowledge needed: Book of Iron Broad Sword of Fire</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4, Magic 5</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 46</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 2500</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 7 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="IBSOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>          Iron Broad Sword of Ice</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 9-10 damage, +4 Cold damage.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Modable Iron Broad Sword, 1 Enriched Water Essence,</text>
+   <nl/>
+   <text> 1 Binding Stone, 3 Serpent Stones</text>
+   <nl/>
+   <text> Knowledge needed: Book of Iron Broad Sword of Ice</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4, Magic 5</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 47</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 2800</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 7 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="SLSOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>         Steel Long Sword of Fire</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 9-11 damage, +2 Defense, +2 Accuracy,</text>
+   <nlkx/>
+   <text> +1 Critical to hit, +5 Fire damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Modable Steel Long Sword, 1 Enriched Fire Essence,</text>
+   <nl/>
+   <text> 1 Binding Stone, 4 Serpent Stones</text>
+   <nl/>
+   <text> Knowledge needed: Book of Steel Long Sword of Fire</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 48</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 3000</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="SLSOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>          Steel Long Sword of Ice</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 9-11 damage, +2 Defense, +2 Accuracy,</text>
+   <nlkx/>
+   <text> +1 Critical to hit, +5 Cold damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Modable Steel Long Sword, 1 Enriched Water Essence,</text>
+   <nl/>
+   <text> 1 Binding Stone, 4 Serpent Stones</text>
+   <nl/>
+   <text> Knowledge needed: Book of Steel Long Sword of Ice</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 49</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 3200</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="SLSOM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>         Steel Long Sword of Magic</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 9-11 damage, +2 Defense, +2 Accuracy,</text>
+   <nlkx/>
+   <text> +1 Critical to hit, +5 Magic damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Modable Steel Long Sword, 1 Enriched Magic Essence,</text>
+   <nl/>
+   <text> 1 Binding Stone, 4 Serpent Stones</text>
+   <nl/>
+   <text> Knowledge needed: Book of Steel Long Sword of Magic</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 50</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 3400</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="STESOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>       Steel Two Edged Sword of Fire</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts +10-14 damage, +1 Defense, +3 Accuracy,</text>
+   <nlkx/>
+   <text> +1 Critical to hit, +2 Critical to damage,</text>
+   <nlkx/>
+   <text> +6 Fire damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 3</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Modable Steel Two Edged Sword, 1 Enriched Fire</text>
+   <nl/>
+   <text> Essence, 1 Binding Stone, 4 Serpent Stones</text>
+   <nl/>
+   <text> Knowledge needed: Book of Steel Two Edged Sword of Fire</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 51</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 3600</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 7 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="STESOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>       Steel Two Edged Sword of Ice</text><nl/><nl/>
+   <simage isize="256" tsize="51" size="100" tid="11" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts +10-14 damage, +1 Defense, +3 Accuracy,</text>
+   <nlkx/>
+   <text> +1 Critical to hit, +2 Critical to damage,</text>
+   <nlkx/>
+   <text> +6 Cold damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 3</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Modable Steel Two Edged Sword, 1 Enriched Water</text>
+   <nl/>
+   <text> Essence, 1 Binding Stone, 4 Serpent Stones</text>
+   <nl/>
+   <text> Knowledge needed: Book of Steel Two Edged Sword of Ice</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 51</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 3600</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 7 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="STESOM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>      Steel Two Edged Sword of Magic</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts +10-14 damage, +1 Defense, +3 Accuracy,</text>
+   <nlkx/>
+   <text> +1 Critical to hit, +2 Critical to damage,</text>
+   <nlkx/>
+   <text> +6 Magic damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 3</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Modable Steel Two Edged Sword, 1 Enriched Magic</text>
+   <nl/>
+   <text> Essence, 1 Binding Stone, 4 Serpent Stones</text>
+   <nl/>
+   <text> Knowledge needed: Book of Steel Two Edged Sword of Magic</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 52</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 3800</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 7 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="STESOT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>     Steel Two Edged Sword of Thermal</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts +10-14 damage, +1 Defense, +3 Accuracy,</text>
+   <nlkx/>
+   <text> +1 Critical to hit, +2 Critical to damage,</text>
+   <nlkx/>
+   <text> +6 Cold damage, +6 Fire damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 3</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Modable Steel Two Edged Sword, 1 Enriched Fire</text>
+   <nl/>
+   <text> Essence, 1 Enriched Water Essence, 1 Binding Stone,</text>
+   <nl/>
+   <text> 4 Serpent Stones</text>
+   <nl/>
+   <text> Knowledge needed: Book of Steel Two Edged Sword of Thermal</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 53</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 4000</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 7 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="TSSOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>       Titanium Short Sword of Fire</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 10-14 damage, +2 Defense, +3 Accuracy,</text>
+   <nlkx/>
+   <text> +1 Critical to hit, +3 Critical to damage,</text>
+   <nlkx/>
+   <text> +7 Fire damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> UNKNOWN</text>
+   <nl/>
+   <text> Knowledge needed: Book of Titanium Short Sword of Fire</text>
+   <nl/>
+   <text> Required Nexuses: UNKNOWN</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: UNKNOWN</text>
+   <nl/>
+   <text> Manufacturing Experience Given: UNKNOWN</text>
+   <nl/>
+   <text> Food subtracted: UNKNOWN</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="TSSOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>        Titanium Short Sword of Ice</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 10-14 damage, +2 Defense, +3 Accuracy,</text>
+   <nlkx/>
+   <text> +1 Critical to hit, +3 Critical to damage,</text>
+   <nlkx/>
+   <text> +7 Cold damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> UNKNOWN</text>
+   <nl/>
+   <text> Knowledge needed: Book of Titanium Short Sword of Ice</text>
+   <nl/>
+   <text> Required Nexuses: UNKNOWN</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: UNKNOWN</text>
+   <nl/>
+   <text> Manufacturing Experience Given: UNKNOWN</text>
+   <nl/>
+   <text> Food subtracted: UNKNOWN</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="TSSOM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>       Titanium Short Sword of Magic</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 10-14 damage, +2 Defense, +3 Accuracy,</text>
+   <nlkx/>
+   <text> +1 Critical to hit, +3 Critical to damage,</text>
+   <nlkx/>
+   <text> +7 Magic damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> UNKNOWN</text>
+   <nl/>
+   <text> Knowledge needed: Book of Titanium Short Sword of Magic</text>
+   <nl/>
+   <text> Required Nexuses: UNKNOWN</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: UNKNOWN</text>
+   <nl/>
+   <text> Manufacturing Experience Given: UNKNOWN</text>
+   <nl/>
+   <text> Food subtracted: UNKNOWN</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="TSSOT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>      Titanium Short Sword of Thermal</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 10-14 damage, +2 Defense, +3 Accuracy,</text>
+   <nlkx/>
+   <text> +1 Critical to hit, +3 Critical to damage,</text>
+   <nlkx/>
+   <text> +7 Fire damage, +7 Cold damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> UNKNOWN</text>
+   <nl/>
+   <text> Knowledge needed: Book of Titanium Short Sword of Thermal</text>
+   <nl/>
+   <text> Required Nexuses: UNKNOWN</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: UNKNOWN</text>
+   <nl/>
+   <text> Manufacturing Experience Given: UNKNOWN</text>
+   <nl/>
+   <text> Food subtracted: UNKNOWN</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="TLSOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>        Titanium Long Sword of Fire</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 12-20 damage, +3 Defense, +3 Accuracy,</text>
+   <nlkx/>
+   <text> +3 Critical to hit, +4 Critical to damage,</text>
+   <nlkx/>
+   <text> +9 Fire damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> UNKNOWN</text>
+   <nl/>
+   <text> Knowledge needed: Book of Titanium Long Sword of Fire</text>
+   <nl/>
+   <text> Required Nexuses: UNKNOWN</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: UNKNOWN</text>
+   <nl/>
+   <text> Manufacturing Experience Given: UNKNOWN</text>
+   <nl/>
+   <text> Food subtracted: UNKNOWN</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="TLSOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>        Titanium Long Sword of Ice</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 12-20 damage, +3 Defense, +3 Accuracy,</text>
+   <nlkx/>
+   <text> +3 Critical to hit, +4 Critical to damage,</text>
+   <nlkx/>
+   <text> +9 Cold damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> UNKNOWN</text>
+   <nl/>
+   <text> Knowledge needed: Book of Titanium Long Sword of Ice</text>
+   <nl/>
+   <text> Required Nexuses: UNKNOWN</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: UNKNOWN</text>
+   <nl/>
+   <text> Manufacturing Experience Given: UNKNOWN</text>
+   <nl/>
+   <text> Food subtracted: UNKNOWN</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="TLSOM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>       Titanium Long Sword of Magic</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 12-20 damage, +3 Defense, +3 Accuracy,</text>
+   <nlkx/>
+   <text> +3 Critical to hit, +4 Critical to damage,</text>
+   <nlkx/>
+   <text> +9 Magic damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> UNKNOWN</text>
+   <nl/>
+   <text> Knowledge needed: Book of Titanium Long Sword of Magic</text>
+   <nl/>
+   <text> Required Nexuses: UNKNOWN</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: UNKNOWN</text>
+   <nl/>
+   <text> Manufacturing Experience Given: UNKNOWN</text>
+   <nl/>
+   <text> Food subtracted: UNKNOWN</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="TLSOT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>      Titanium Long Sword of Thermal</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 12-20 damage, +3 Defense, +3 Accuracy,</text>
+   <nlkx/>
+   <text> +3 Critical to hit, +4 Critical to damage,</text>
+   <nlkx/>
+   <text> +9 Fire damage, +9 Cold damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> UNKNOWN</text>
+   <nl/>
+   <text> Knowledge needed: Book of Titanium Long Sword of Thermal</text>
+   <nl/>
+   <text> Required Nexuses: UNKNOWN</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: UNKNOWN</text>
+   <nl/>
+   <text> Manufacturing Experience Given: UNKNOWN</text>
+   <nl/>
+   <text> Food subtracted: UNKNOWN</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="SerpOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>      Titanium Serpent Sword of Fire</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 20-25 damage, +5 Defense, +5 Accuracy,</text>
+   <nlkx/>
+   <text> +5 Critical to hit, +6 Critical to damage,</text>
+   <nlkx/>
+   <text> +10 Fire damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> UNKNOWN</text>
+   <nl/>
+   <text> Knowledge needed: Book of Serpent Sword of Fire</text>
+   <nl/>
+   <text> Required Nexuses: UNKNOWN</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: UNKNOWN</text>
+   <nl/>
+   <text> Manufacturing Experience Given: UNKNOWN</text>
+   <nl/>
+   <text> Food subtracted: UNKNOWN</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="SerpOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>       Titanium Serpent Sword of Ice</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 20-25 damage, +5 Defense, +5 Accuracy,</text>
+   <nlkx/>
+   <text> +5 Critical to hit, +6 Critical to damage,</text>
+   <nlkx/>
+   <text> +10 Cold damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> UNKNOWN</text>
+   <nl/>
+   <text> Knowledge needed: Book of Serpent Sword of Ice</text>
+   <nl/>
+   <text> Required Nexuses: UNKNOWN</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: UNKNOWN</text>
+   <nl/>
+   <text> Manufacturing Experience Given: UNKNOWN</text>
+   <nl/>
+   <text> Food subtracted: UNKNOWN</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="SerpOM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>      Titanium Serpent Sword of Magic</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 20-25 damage, +5 Defense, +5 Accuracy,</text>
+   <nlkx/>
+   <text> +5 Critical to hit, +6 Critical to damage,</text>
+   <nlkx/>
+   <text> +10 Magic damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> UNKNOWN</text>
+   <nl/>
+   <text> Knowledge needed: Book of Serpent Sword of Magic</text>
+   <nl/>
+   <text> Required Nexuses: UNKNOWN</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: UNKNOWN</text>
+   <nl/>
+   <text> Manufacturing Experience Given: UNKNOWN</text>
+   <nl/>
+   <text> Food subtracted: UNKNOWN</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="SerpOT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>     Titanium Serpent Sword of Thermal</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 20-28 damage, +5 Defense, +5 Accuracy,</text>
+   <nlkx/>
+   <text> +5 Critical to hit, +6 Critical to damage,</text>
+   <nlkx/>
+   <text> +10 Fire damage, +10 Cold damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> UNKNOWN</text>
+   <nl/>
+   <text> Knowledge needed: Book of Serpent Sword of Thermal</text>
+   <nl/>
+   <text> Required Nexuses: UNKNOWN</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: UNKNOWN</text>
+   <nl/>
+   <text> Manufacturing Experience Given: UNKNOWN</text>
+   <nl/>
+   <text> Food subtracted: UNKNOWN</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="BOD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>              Bone of Death</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 20-30 damage, +3 Accuracy,</text>
+   <nlkx/>
+   <text> 6% chance to do 150 damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> This item cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="BROD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>           Branch of Destruction</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 10-20 damage, +5 Accuracy,</text>
+   <nlkx/>
+   <text> 5% chance to degrade an item.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> This item cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="Staff_Mage">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>             Staff of the Mage</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 15-20 damage, +5 Defense, +6 Accuracy,</text>
+   <nlkx/>
+   <text> +3 Critical to hit, +1 Critical to damage,</text>
+   <nlkx/>
+   <text> 5% chance to do mana drain and mana burn.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> This item cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="Staff_Protection">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>            Staff of Protection</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 10-21 damage, +7 Defense, +6 Accuracy,</text>
+   <nlkx/>
+   <text> +2 Armor, +3 Critical to hit, +2 Critical to damage,</text>
+   <nlkx/>
+   <text> +2 Heat, Cold, Radiation and Magic Protection,</text>
+   <nlkx/>
+   <text> +2 Magic Resistance, 20% Healing chance.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> This item cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+<Page name="Ice_Axe">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>             ENCHANTED WEAPONS</text><nl/>
+   <color>red</color>
+   <text>              Axe of Freezing</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 10-25 damage, +6 Critical to damage,</text>
+   <nlkx/>
+   <text> 7% chance to paralyze.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> This item cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 12 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Ench_Weapons" title="Back To Enchanted Weapons Index"/>
+</Page>
+</EnchantedWeapons>

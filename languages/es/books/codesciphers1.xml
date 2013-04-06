@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<book title="El uso de códigos y cifrados">
+	<page>
+		<title>El uso de códigos y cifrados</title>
+		<author>Dival Celebrindal (Archivista del lider)</author>
+	</page>
+	<page>
+		<title>Códigos por substitución - Parte I</title>
+		<text>Hace algunos meses tropecé con unos pergaminos, que vinieron a demostrarme que los habitantes de estas tierras usaban sistemas de codificación de la información mucho antes de lo que yo hubiera considerado factible. Durante la gran batalla de Grubani, los comandantes de los ejércitos usaron algunos códigos simples para enviar órdenes a sus capitanes. Incluso cambiaban sus códigos cada dia, por si alguno de los mensajeros era interceptado. El más sencillo de estos códigos era la escritura invertida, sencillo, pero aparentemente efectivo. Por ejemplo: "MUEVE A TUS HOMBRES AL NORTE AL FINAL DEL BOSQUE" se convierte en "EUQSOBLEDLANIFLAETRONLASERBMOHSUTAEVEUM". Una variante consiste en dividir la frase en grupos de tres letras e invertir cada grupo individualmente: "MUEVE A TUS HOMBRES AL NORTE AL FINAL DEL BOSQUE" se convertiría en "	EUM AEV SUT MOH ERB LAS RON AET IFL LAN LED SOB EUQ" ... [El libro contiene algunos ejemplos mas, pero decides que no necesitas seguir leyendo y cierras el libro]</text>
+	</page>
+  </book>

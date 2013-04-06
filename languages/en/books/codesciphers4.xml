@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<book title="The Use of Codes and Ciphers">
+<page>
+  <title>The Use of Codes and Ciphers</title>
+  <author>Dival Celebrindal (Chief Archivist)</author>
+  </page>
+<page>
+  <title>Substitution codes - Part IV</title>
+  <text>I found many references to what the Goblins were calling the Morcraven code. This is a relatively simple type of substitution cipher. It works by taking each letter of the message and replacing it with the letter 3* along from it (this included the numbers 0-9), so A becomes D, B becomes E and so on. Unless you know that someone is using this kind of cipher, it becomes very difficult to detect, and those using this type of substitution code can chose any number they want. I found that the kind of messages that utilize this code were fairly low level and pertained to equipment lists and troop movements, I just hope the Goblins have not learned to formulate much more complicated codes. *I was very fortunate the number was so low, or it might have taken me much more time to decipher the messages I found. Here is an example of the code in use. Text: "Formation 221 will move south and destroy all farms in the valley" Cypher: "jsvqexmsr 665 ampp qszi wsyxl erh hiwxvsc epp jevqw mr xli zeppic" ... the book continues with some more examples, but you quickly become bored, and close the book.</text>
+  </page>
+  </book>

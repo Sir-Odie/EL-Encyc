@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Clothes>
+<Page name="Fur_Gloves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   KLEIDUNG</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Warme Fellhandschuhe</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Beschuetzt dich vor Kaelte.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +1 Kaelteschutz, +1 Ruestung</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Erforderliches Fertigungslevel 0</text>
+   <nl/>
+   <text> Keine Nachforschung erforderlich</text>
+   <nl/>
+   <text> Gewicht: 1 EMU</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Nahrungskosten -1</text>
+   <nl/>
+   <text> Erhaltene Basiserfahrung: 5</text>
+   <nl/>
+   <text> Erforderliche Materialien</text>
+   <nl/>
+   <text> 3 Braune Hasenfelle</text>
+   <nl/>
+   <text> 2 Faeden</text>
+   <nl/>
+   <text> Werkzeuge: Nadel</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Fox_Scarf">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   KLEIDUNG</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Fuchsschal</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Schuetzt dich vor Kaelte.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> Kann noch nicht getragen werden.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Erforderliches Fertigungslevel 3</text>
+   <nl/>
+   <text> Keine Nachforschung erforderlich</text>
+   <nl/>
+   <text> Gewicht: 2 EMU</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Nahrungskosten -2</text>
+   <nl/>
+   <text> Erhaltene Basiserfahrung: 12</text>
+   <nl/>
+   <text> Erforderliche Materialien</text>
+   <nl/>
+   <text> 1 Fuchsfell</text>
+   <nl/>
+   <text> 1 Faden</text>
+   <nl/>
+   <text> Werkzeuge: Nadel</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Hat_Fur">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   KLEIDUNG</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Warme Fellmuetze</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Schuetzt dich vor Kaelte.</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +2 Kaelteschutz, -1 Hitzeschutz</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Erforderliches Fertigungslevel 5</text>
+   <nl/>
+   <text> Keine Nachforschung erforderlich</text>
+   <nl/>
+   <text> Gewicht: 2 EMU</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Nahrungskosten -3</text>
+   <nl/>
+   <text> Erhaltene Basiserfahrung: 25</text>
+   <nl/>
+   <text> Erforderliche Materialien</text>
+   <nl/>
+   <text> 3 Bieberfelle</text>
+   <nl/>
+   <text> 1 Weisses Hasenfell</text>
+   <nl/>
+   <text> 3 Faeden</text>
+   <nl/>
+   <text> Werkzeuge: Nadel</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Hat_Skunk">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   KLEIDUNG</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Stinktiermuetzte</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Schuetzt dich vor Kaelte</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +2 Kaelteschutz, -1 Hitzeschutz</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Erforderliches Fertigungslevel 6</text>
+   <nl/>
+   <text> Keine Nachforschung erforderlich</text>
+   <nl/>
+   <text> Gewicht: 2 EMU</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Nahrungskosten -3</text>
+   <nl/>
+   <text> Erhaltene Basiserfahrung: 31</text>
+   <nl/>
+   <text> Erforderliche Materialien</text>
+   <nl/>
+   <text> 2 Stinktierfelle</text>
+   <nl/>
+   <text> 4 Faeden</text>
+   <nl/>
+   <text> Werkzeuge: Nadel</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Hat_Racoon">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   KLEIDUNG</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Waschbaerenmuetze</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Schuetzt dich vor Kaelte</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +2 Kaelteschutz, -1 Hitzeschutz</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Erforderliches Fertigungslevel 7</text>
+   <nl/>
+   <text> Keine Nachforschung erforderlich</text>
+   <nl/>
+   <text> Gewicht: 2 EMU</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Nahrungskosten -3</text>
+   <nl/>
+   <text> Erhaltene Basiserfahrung: 34</text>
+   <nl/>
+   <text> Erforderliche Materialien</text>
+   <nl/>
+   <text> 2 Waschbaerenfelle</text>
+   <nl/>
+   <text> 5 Faeden</text>
+   <nl/>
+   <text> Werkzeuge: Nadel</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Fur_Boots">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   KLEIDUNG</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Fellstiefel</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Schuetzt dich vor Kaelte</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +3 Kaelteschutz, -1 Hitzeschutz</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Erforderliches Fertigungslevel 12</text>
+   <nl/>
+   <text> Keine Nachforschung erforderlich</text>
+   <nl/>
+   <text> Gewicht: 3 EMU</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Nahrungskosten -8</text>
+   <nl/>
+   <text> Erhaltene Basiserfahrung: 55</text>
+   <nl/>
+   <text> Erforderlicher Nexus: Kuenstlich 1</text>
+   <nl/>
+   <text> Erforderliche Materialien</text>
+   <nl/>
+   <text> 4 Rattenschwaenze</text><text>                </text>
+   <text> 5 Faeden</text>
+   <nl/>
+   <text> 2 Braune Hasenfelle</text><text>         </text>
+   <text> 1 Eisenbarren</text>
+   <nl/>
+   <text> 1 Wolfsfell</text><text>                 </text>
+   <text> 2 Leder</text>
+   <nl/><nl/>
+   <text> Werkzeuge: Nadel, Hammer</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Fur_Torso">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   KLEIDUNG</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Felltorso</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Schuetzt dich vor Kaelte</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +3 Kaelteschutz, -1 Hitzeschutz</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Erforderliches Fertigungslevel 22</text>
+   <nl/>
+   <text> Keine Nachforschung erforderlich</text>
+   <nl/>
+   <text> Gewicht: 3 EMU</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Nahrungskosten -26</text>
+   <nl/>
+   <text> Erhaltene Basiserfahrung: 140</text>
+   <nl/>
+   <text> Erforderlicher Nexus: Kuenstlich 2</text>
+   <nl/>
+   <text> Erforderliche Materialien</text>
+   <nl/>
+   <text> 1 Eisenbarren         10 Faeden </text>
+   <nl/>
+   <text> 7 Leder               3 Hirschfelle</text>
+   <nl/>
+   <text> 2 Wolfsfelle          4 Rattenschwaenze</text>
+   <nl/><nl/>
+   <text> Werkzeuge: Nadel, Hammer</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Fur_Pants">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   KLEIDUNG</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Fur Pants</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Schuetzt dich vor Kaelte</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +3 Kaelteschutz, -1 Hitzeschutz</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Erforderliches Fertigungslevel 20</text>
+   <nl/>
+   <text> Keine Nachforschung erforderlich</text>
+   <nl/>
+   <text> Gewicht: 3 EMU</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Nahrungskosten -20</text>
+   <nl/>
+   <text> Erhaltene Basiserfahrung: 110</text>
+   <nl/>
+   <text> Erforderlicher Nexus: Kuenstlich 2</text>
+   <nl/>
+   <text> Erforderliche Materialien</text>
+   <nl/>
+   <text> 6 Leder,           2 Hirschfelle</text>
+   <nl/>
+   <text> 2 Wolfsfell,          1 Bieberfell</text>
+   <nl/>
+   <text> 7 Faeden</text>
+   <nl/><nl/>
+   <text> Werkzeuge: Nadel</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Cloak_Fur">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   KLEIDUNG</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Fellmantel</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Schuetzt dich vor Kaelte</text>
+   <color r="1" g="1" b="1"/>
+   <nlkx/>
+   <text> +6 Kaelteschutz, -3 Hitzeschutz</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Erforderliches Fertigungslevel 6</text>
+   <nl/>
+   <text> Keine Nachforschung erforderlich</text>
+   <nl/>
+   <text> Gewicht: 4 EMU</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <text> Nahrungskosten -4</text>
+   <nl/>
+   <text> Erhaltene Basiserfahrung: 30</text>
+   <nl/>
+   <text> Erforderliche Materialien</text>
+   <nl/>
+   <text> 3 Wolfsfelle</text>
+   <nl/>
+   <text> 2 Fuchsfelle</text>
+   <nl/>
+   <text> 5 Faeden</text>
+   <nl/><nl/>
+   <text> Werkzeuge: Nadel</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Bandana">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>                  Bandanas</text><nl/><nl/>
+   <text x="95"> </text>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <nl/><nl/><nl/>
+   <size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+   <nl/><nl/><nl/>
+   <text> These items cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <text> Bandanas are available from </text><link ref="http://www.eternal-lands.com/page/shop.php" title="EL shop"/><text>.</text>
+   <nl/>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Back To Clothes Index"/>
+</Page>
+<Page name="Adv_Cap">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>              Adventurer's Caps</text><nl/><nl/>
+   <text x="95"> </text>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <nl/><nl/><nl/>
+   <size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+   <nl/><nl/><nl/>
+   <text> These items cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <text> Adventurer's Caps are available from </text><link ref="http://www.eternal-lands.com/page/shop.php" title="EL shop"/><text>.</text>
+   <nl/>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Back To Clothes Index"/>
+</Page>
+<Page name="Tiaras">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>                   Tiaras</text><nl/><nl/>
+   <text x="180"> </text>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <nl/><nl/><nl/>
+   <size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+   <nl/><nl/><nl/>
+   <text> These items cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <text> Tiaras are available from </text><link ref="http://www.eternal-lands.com/page/shop.php" title="EL shop"/><text>.</text>
+   <nl/>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Back To Clothes Index"/>
+</Page>
+<Page name="Crowns">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>                   Crowns</text><nl/><nl/>
+   <text x="180"> </text>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <text> </text>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <nl/><nl/><nl/>
+   <size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+   <nl/><nl/><nl/>
+   <text> These items cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <text> Crowns are available from </text><link ref="http://www.eternal-lands.com/page/shop.php" title="EL shop"/><text>.</text>
+   <nl/>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Back To Clothes Index"/>
+</Page>
+<Page name="Cloak_PS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   KLEIDUNG</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Energiesparumhang</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Dieser Umhang wird dir die Energiesparen Perk geben.</text>
+   <nlkx/>
+   <text> Mit diesem Umhang wird sich dein Nahrungslevel</text>
+   <nlkx/>
+   <text> nicht verringern, es sei denn du liest oder </text>
+   <nlkx/>
+   <text> regenerierst dich.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Du kannst diesen Umhang fuer 3800 gm in White Stone</text>
+   <nl/>
+   <text> City beim Umhangverkaeufer (Victor) kaufen.</text>
+   <nl/>
+   <text> Damit die Perk wirkt, musst du den Umhang tragen.</text>
+   <nl/><nl/>
+   <text> Gewicht: 3 EMU</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Cloak_EX">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   KLEIDUNG</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Ausgraeberumhang</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Dieser Umhang wird dir die Ausgraeber Perk geben.</text>
+   <nlkx/>
+   <text> Dieser Umhang verdoppelt die Menge der Resourcen,</text>
+   <nlkx/>
+   <text> die du erntest.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Du kannst diesen Umhang fuer 2900 gm in White Stone City</text>
+   <nl/>
+   <text> beim Umhangverkaeufer (Victor) kaufen.</text>
+   <nl/>
+   <text> Damit die Perk wirkt, musst du den Umhang tragen.</text>
+   <nl/><nl/>
+   <text> Gewicht: 3 EMU</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Cloak_CJ">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   KLEIDUNG</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Beschwoerumgsumhang</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Dieser Umhang wird dir die Beschwoerungs Perk geben.</text>
+   <nlkx/>
+   <text> Dieser Umhang halbiert die zum Beschwoeren</text>
+   <nlkx/>
+   <text> benoetitgte Mana.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Du kannst diesen Umhang fuer 4500 gm in White Stone City</text>
+   <nl/>
+   <text> beim Umhangverkaeufer (Victor) kaufen.</text>
+   <nl/>
+   <text> Damit die Perk wirkt, musst du den Umhang tragen.</text>
+   <nl/><nl/>
+   <text> Gewicht: 3 EMU</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Cloak_FR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   KLEIDUNG</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Regenerationsumhang</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Dieser Umhang wird dir die Regenerations Perk</text>
+   <nlkx/>
+   <text> geben. Regeneriert die Attribute Leben und Mana 3 Mal</text>
+   <nlkx/>
+   <text> Mana 3 Mal schneller.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Du kannst diesen Umhang fuer 3400 gm in White Stone City</text>
+   <nl/>
+   <text> beim Umhangverkaeufer (Victor) kaufen.</text>
+   <nl/>
+   <text> Damit die Perk wirkt, musst du den Umhang tragen.</text>
+   <nl/><nl/>
+   <text> Gewicht: 3 EMU</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Cloak_MM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   KLEIDUNG</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Monstermagnetismusumhang</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Dieser Umhang wird dir die Monstermagnetismus Perk</text>
+   <nlkx/>
+   <text> geben. Monster werden dich nicht angreifen, es </text>
+   <nlkx/>
+   <text> sei denn du greifst zuerst an.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Du kannst diesen Umhang nur von Spielern bekommen oder</text> 
+   <nl/>
+   <text> durch das Besiegen von Monstern.</text>
+   <nl/>
+   <text> Damit die Perk wirkt, musst du den Umhang tragen.</text>
+   <nl/><nl/>
+   <text> Gewicht: 3 EMU</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Cloak_MI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   KLEIDUNG</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Spiegelumhang</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Dieser Umhang wird dir die Spiegelhaut Perk</text>
+   <nlkx/>
+   <text> gegben. 10% Chance den Schaden auf deinen</text>
+   <nlkx/>
+   <text> Gegner zu reflektieren.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Du kannst diesen Umhang nur von Spielern bekommen oder</text>
+   <nl/>
+   <text> durch das Besiegen von Monstern.</text> 
+   <nl/>
+   <text> Damit die Perk wirkt, musst du den Umhang tragen.</text>
+   <nl/><nl/>
+   <text> Gewicht: 3 EMU</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Cloak_BP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopaedie</text>
+   <nl/>
+   <text>                   KLEIDUNG</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Durchstechungsumhang</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Dieser Umhang wird dir die Durchstechungs Perk geben.</text>
+   <nlkx/>
+   <text> Erhoeht die Chance die Ruestung deines Gegners</text>
+   <nlkx/>
+   <text> zu durchdringen um 10%.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Du kannst diesen Umhang nur von Spielern bekommen oder</text>
+   <nl/>
+   <text> durch das Besiegen von Monstern.</text> 
+   <nl/>
+   <text> Damit die Perk wirkt, musst du den Umhang tragen.</text>
+   <nl/><nl/>
+   <text> Gewicht: 3 EMU</text>
+   <nl/>
+   <text> Stapelbar: Nein</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Cloak_NMT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>             No More Tears Cloak</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> This cloak will give you the No More Tears perk.</text>
+   <nlkx/>
+   <text> The chance of items being damaged or breaking while</text>
+   <nlkx/>
+   <text> fighting is reduced to 1/4 of normal chance.</text>
+   <nlkx/>
+   <text> This cape will not degrade in combat.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> You can only get this cloak from other players or by</text>
+   <nl/>
+   <text> monster drops.</text>
+   <nl/>
+   <nl/>
+   <text> To have the perk effect you need to wear the cloak.</text>
+   <nl/>
+   <text> If you already have the perk, you can't wear the cape.</text>
+   <nl/>
+   <nl/><nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Cloak_UB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>          Cape of the Unbreakable</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> This cloak will give immunity to BroD, BoD, Rings</text>
+   <nlkx/>
+   <text> of Mana Destruction and Damage Rings.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> You can buy this cloak for 6500 gc in White Stone City</text>
+   <nl/>
+   <text> from the Cloak seller.</text>
+   <nl/><nl/>
+   <text> Weight: 20 EMU</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Cloak_WA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>               Warlock's Cloak</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> This cloak will give you high resistance to magic.</text>
+   <nlkx/>
+   <text> Increases your magic protection by 8 and provides</text>
+   <nlkx/>
+   <text> some camouflage.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> You can only get this cloak from other players or by</text>
+   <nl/>
+   <text> monster drops.</text>
+   <nl/><nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Cloak_CAM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>          Cape of Passive Camouflage</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> This cloak provides some camouflage, especially</text>
+   <nlkx/>
+   <text> at night or in dark dungeons and caves.</text>
+   <nlkx/>
+   <text> It gives -20 points to your Light Modifier.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> You can only get this cloak from other players or by</text>
+   <nl/>
+   <text> monster drops.</text>
+   <nl/><nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+<Page name="Cloak_ART">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Clothes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   CLOTHES</text><nl/>
+   <color>red</color>
+   <text>               Artificer Cape</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> This cloak increase your chance to create rare</text>
+   <nlkx/>
+   <text> items (modable weapons, enriched essences, etc...).</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 10</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> You can only get this cloak from other players or by</text>
+   <nl/>
+   <text> monster drops.</text>
+   <nl/><nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Clothes" title="Zuruck Zum Kleidung Index"/>
+</Page>
+</Clothes>

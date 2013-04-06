@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Attributes>
+<Page name="Physique">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>            Atrybuty Podstawowe</text><text>             Atrybuty Podstawowe</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Physique</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Budowa Ciala (Physique) jest podstawowym atrybutem, ktory</text><nl/>
+   <text> zwieksza twoja "Sile", "Materie" oraz "Wytrzymalosc".</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Sila: Jest atrybutem krzyzowym, ktory pozwala Ci</text><nl/>
+   <text>       przenosic wieksza calkowita wage.</text><nl/>
+   <text> Materia: Jest atrybutem krzyzowym, ktory zwieksza Twoje </text><nl/>
+   <text>       zdrowie.</text><nl/>
+   <text> Wytrzymalosc: Redukuje ilosc obrazen otrzymywanych</text><nl/>
+   <text>       podczas walki</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Coordination">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>            Atrybuty Podstawowe</text><text>             Atrybuty Podstawowe</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Coordination</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Koordynacja jest podstawowym atrybutem ktory</text><nl/>
+   <text> zwieksza twoja "Sile", "Reakcje" i "Zrecznosc".</text><nl/>
+   <color r="0" g="0.7" b="1"/>
+   <nlkx/>
+   <nl/>
+   <text> Sila: Jest atrybutem krzyzowym, ktory pozwala Ci</text><nl/>
+   <text>       przenosic wieksza calkowita wage.</text><nl/>
+   <text> Reakcja: Jest atrybutem krzyzowym, ktory pomaga Ci</text><nl/>
+   <text>       unikac ciosow podczas walki.</text><nl/>
+   <text> Zrecznosc: Jest atrybutem krzyzowym, ktory zwieksza szanse</text><nl/>
+   <text>       na zadanie ciosu.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Reasoning">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>            Atrybuty Podstawowe</text><text>             Atrybuty Podstawowe</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Reasoning</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Rozumowanie jest podstawowym atrybutem, ktory</text><nl/>
+   <text> zwieksza twoja "Zrecznosc", "Percepcje" i "Rozum".</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Zrecznosc: Jest atrybutem krzyzowym, ktory zwieksza szanse</text><nl/>
+   <text>       na zadanie ciosu.</text><nl/>
+   <text> Percepcja: Jest atrybutem krzyzowym ktory pomaga Ci lepiej</text><nl/>
+   <text>       widziec w nocy.</text><nl/>
+   <text> Rozum: Jest atrybutem krzyzowym ktory przyspiesza czytanie</text><nl/>
+   <text>       ksiazek, oraz zwieksza ilosc xp ktore otrzymujesz.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Will">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>            Atrybuty Podstawowe</text><text>             Atrybuty Podstawowe</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Will</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Wola jest podstawowym atrybutem, ktory</text><nl/>
+   <text> zwieksza twoja "Materie", "Rozum" i "Eterycznosc".</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Materia: Jest atrybutem krzyzowym, ktory zwieksza Twoje </text><nl/>
+   <text>       zdrowie.</text><nl/>
+   <text> Rozum: Jest atrybutem krzyzowym ktory przyspiesza czytanie</text><nl/>
+   <text>       ksiazek, oraz zwieksza ilosc xp ktore otrzymujesz.</text><nl/>
+   <text> Eterycznosc: Jest atrybutem krzyzowym, ktory zwieksza</text><nl/>
+   <text>       Twoja maksymalna liczbe punktow magii.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Instinct">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>            Atrybuty Podstawowe</text><text>             Atrybuty Podstawowe</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Instinct</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Instynkt jest podstawowym atrybutem, ktory</text><nl/>
+   <text> zwieksza twoja "Reakcje", "Percepcje" i "Urok".</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Reakcja: Jest atrybutem krzyzowym, ktory pomaga Ci</text><nl/>
+   <text>       unikac ciosow podczas walki.</text><nl/>
+   <text> Percepcja: Jest atrybutem krzyzowym ktory pomaga Ci lepiej</text><nl/>
+   <text>       widziec w nocy.</text><nl/>
+   <text> Urok: Jest atrybutem krzyzowym ktory sprawia, zwieksza</text><nl/>
+   <text>       moc przywolanych istot oraz sprawia, ze mozliwe</text><nl/>
+   <text>       jest przywolanie dwoch istot na raz.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Vitality">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>            Atrybuty Podstawowe</text><text>             Atrybuty Podstawowe</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Vitality</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Witalnosc jest podstawowym atrybutem, ktory</text><nl/>
+   <text> zwieksza twoja "Wytrzymalosc", "Eterycznosc" i "Urok".</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Wytrzymalosc: Redukuje ilosc obrazen otrzymywanych</text><nl/>
+   <text>       podczas walki</text><nl/>
+   <text> Eterycznosc: Jest atrybutem krzyzowym, ktory zwieksza</text><nl/>
+   <text>       Twoja maksymalna liczbe punktow magii.</text><nl/>
+   <text> Urok: Jest atrybutem krzyzowym ktory sprawia, zwieksza</text><nl/>
+   <text>       moc przywolanych istot oraz sprawia, ze mozliwe</text><nl/>
+   <text>       jest przywolanie dwoch istot na raz.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+
+<Page name="Might">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>              Atrybuty Krzyzowe</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Might</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Sila zwieksza maksymalna wage przedmiotow jakie mozesz</text><nl/>
+   <text> uniesc oraz ilosc obrazen jakie zadajesz w walce.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Sila jest zwiekszana przez "Budowe Ciala" i "Koordynacje".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Matter">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>              Atrybuty Krzyzowe</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Matter</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Materia zwieksza twoje maksymalne punkty zycia.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Materia jest zwiekszana przez "Budowe Ciala" i "Wole".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Toughness">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>              Atrybuty Krzyzowe</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Toughness</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Wytrzymalosc redukuje ilosc obrazen otrzymanych w walce.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Wytrzymalosc jest zwiekszana przez "Budowe Ciala" i "Witalnosc".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Charm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>              Atrybuty Krzyzowe</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Charm</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Charm sprawia iz istoty przez Ciebie przywolywane sa</text><nl/>
+   <text> silniejsze. Daje Ci takze szanse na przywolanie jednego,</text><nl/>
+   <text> dodatkowego potwora z tych samych, uzytych skladnikow.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Urok jest zwiekszany przez "Instynkt" i "Witalnosc".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Reaction">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>              Atrybuty Krzyzowe</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Reaction</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Reakcja pomaga ci uniknac zostania trafionym w walce.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Reakcja jest zwiekszana przez "Koordyncje" i "Instynkt".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Perception">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>              Atrybuty Krzyzowe</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Perception</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Percepcja pozwala Ci widziec lepiej przy kiepskim swietle.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Percepcja jest zwiekszana przez "Rozumowanie" i "Instynkt"</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Rationality">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>              Atrybuty Krzyzowe</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Rationality</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Rozum redukuje czas badan i zwieksza ilosc</text><nl/>
+   <text> doswiadczenie ktore otrzymujesz.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Rozum jest zwiekszany przez "Rozumowanie" i "Wole".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Dexterity">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>              Atrybuty Krzyzowe</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Dexternity</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Zrecznosc zwieksza szanse na zadanie ciosu.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Zrecznosc jest zwiekszana przez "Rozumowanie" i "Koordynacje"</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Ethereality">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>              Atrybuty Krzyzowe</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Ethereality</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Eterycznosc zwieksza maksymalna ilosc punktow many.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Eterycznosc jest zwiekszana przez "Wole" i "Witalnosc"</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Nx_Human">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Nexusy</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Human Nexus</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Human nexus ogranicza rodzaj wyposazenia jaki mozesz nosic</text><nl/>
+   <text> (zbroje, miecze, tarcze, itd. itd.)</text><nl/>
+   <text> Im wyzszy human nexus tym lepszego wyposazenia mozesz</text><nl/>
+   <text> uzywac.</text><nl/>
+   <nl/>
+   <nl/>
+   <text> Uwaga: kiedy przeznaczysz punkty na dowolny nexus u</text><nl/>
+   <text> Wraitha, bedziesz musial poczekac okolo minuty zanim</text><nl/>
+   <text> nexus 'wskoczy'. Twoj poziom jedzenia musi byc dodatni.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Nx_Animal">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Nexusy</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Animal Nexus</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Uzywany w przywolywaniu. Im wyzszy nexus, tym lepsze i</text><nl/>
+   <text> silniejsze zwierzeta mozesz przywolywac.</text><nl/>
+   <nl/><nl/>
+   <text> Uwaga: kiedy przeznaczysz punkty na dowolny nexus u</text><nl/>
+   <text> Wraitha, bedziesz musial poczekac okolo minuty zanim</text><nl/>
+   <text> nexus 'wskoczy'. Twoj poziom jedzenia musi byc dodatni.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Nx_Vegetal">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Nexusy</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Vegetal Nexus</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Uzywany w miksturach. Im wyzszy, tym lepsze i bardziej.</text><nl/>
+   <text> zaawansowane eliksiru mozesz tworzyc,</text>
+   <nl/><nl/>
+   <text> Uwaga: kiedy przeznaczysz punkty na dowolny nexus u</text><nl/>
+   <text> Wraitha, bedziesz musial poczekac okolo minuty zanim</text><nl/>
+   <text> nexus 'wskoczy'. Twoj poziom jedzenia musi byc dodatni.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Nx_Inorganic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Nexusy</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Inorganic Nexus</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Uzywany w gornictwie. Okresla jakie rudy metali i</text><nl/>
+   <text> mineraly mozesz zbierac.</text><nl/>
+   <nl/><nl/>
+   <text> Uwaga: kiedy przeznaczysz punkty na dowolny nexus u</text><nl/>
+   <text> Wraitha, bedziesz musial poczekac okolo minuty zanim</text><nl/>
+   <text> nexus 'wskoczy'. Twoj poziom jedzenia musi byc dodatni.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Nx_Artificial">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Nexusy</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Artificial Nexus</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Uzywany w rzemieslnictwie. Im wyzszy tym bardziej</text><nl/>
+   <text> zaawansowane przedmioty mozesz wytwarzac.</text><nl/>
+   <nl/><nl/>
+   <text> Uwaga: kiedy przeznaczysz punkty na dowolny nexus u</text><nl/>
+   <text> Wraitha, bedziesz musial poczekac okolo minuty zanim</text><nl/>
+   <text> nexus 'wskoczy'. Twoj poziom jedzenia musi byc dodatni.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Nx_Magic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                  Nexusy</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Magic Nexus</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Uzywany do tworzenia przedmiotow o wlasciwosciach</text><nl/>
+   <text> magicznych (mieczy, medalionow, pierscieni).</text>
+   <nl/><nl/>
+   <text> Uwaga: kiedy przeznaczysz punkty na dowolny nexus u</text><nl/>
+   <text> Wraitha, bedziesz musial poczekac okolo minuty zanim</text><nl/>
+   <text> nexus 'wskoczy'. Twoj poziom jedzenia musi byc dodatni.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Sk_Attack">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 Umiejetnosci</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Atak</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Atak okresla Twoje szanse na przebicie sie przez garde</text><nl/>
+   <text> przeciwnika i zadania mu celnego ciosu.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Sk_Defense">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 Umiejetnosci</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Obrona</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Obrona wplywa na Twoje szanse unikniecia ciosu. Im wyzsza</text><nl/>
+   <text> tym trudniej Cie trafic.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Sk_Harvesting">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 Umiejetnosci</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Zbieractwo</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Wspolczynnik Zbieractwa wplywa na Twoje szanse pomyslnego</text><nl/>
+   <text> pozyskiwania surowcow. Im wiekszy, tym mniej niepowodzen</text><nl/>
+   <text> spotyka Ci w czasie zbierania, a tym samym zbierasz szybciej </text>
+   <text> (az osiagniesz maksymalna predkosc zbierania danego surowca).</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Sk_Alchemy">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 Umiejetnosci</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Alchemia</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Wysoka Alchemia pozwala Ci bardziej sukcesywnie kreowac</text><nl/>
+   <text> esencje oraz sztabki metali. Im wyzsza, tym mniej</text><nl/>
+   <text> niepowodzen.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Sk_Magic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 Umiejetnosci</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Magia</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Magia jest uzywana do zaklec. Im wyzszy poziom</text><nl/>
+   <text> tym mocniejsze zaklecia mozesz rzucac. Kolejne poziomy</text><nl/>
+   <text> Magii odblokowuja tez nowe zaklecia.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Sk_Potion">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 Umiejetnosci</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Mikstury</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Wartosc umiejetnosci 'Mikstury' okresla Twoje szanse</text><nl/>
+   <text> na udane tworzenie mikstur i eliksirow.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Sk_Summoning">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 Umiejetnosci</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Przywolywanie</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Przywolywanie wplywa na szanse stworzenia okreslonych</text><nl/>
+   <text> istot. Im wyzsze, tym mocniejsze potwory i zwierzeta</text><nl/>
+   <text> mozna przywolywac.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Sk_Manufacture">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 Umiejetnosci</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Rzemieslnictwo</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Poziom Rzemieslnictwa wplywa na szanse tworzenia nowych</text><nl/>
+   <text> przedmiotow: broni i zbroi.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Sk_Crafting">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 Umiejetnosci</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Jubilerstwo</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Jubilerstwo okresla szanse na udane wytworzenie</text><nl/>
+   <text> bizuterii: medalionow, koron i pierscieni.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Sk_Engineering">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 Umiejetnosci</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Inzynieria</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Wartosc Inzynierii jest wykorzystana do obliczenia</text><nl/>
+   <text> szans na produkowanie min, gwodzi itp. przedmiotow.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Sk_Tailoring">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 Umiejetnosci</text><nl/>
+   <color>red</color>
+   <text>                  Krawiectwo</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Wielkosc umiejetnosci Krawiectwa okresla szanse</text><nl/>
+   <text> pozytywnego wytwarzania farbek, plotna i ubran.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Sk_Ranging">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 Umiejetnosci</text><nl/>
+   <color>red</color>
+   <text>                  Strzelectwo</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Wartosc Strzelectwa decyduje o szansach na trafienie</text><nl/>
+   <text> przeciwnika z luku lub kuszy.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+<Page name="Sk_Overall">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                 Umiejetnosci</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Overall</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Twoj poziom calkowity okresla Twoje punkty przydzialu.</text><nl/>
+   <text> Punkty przydzialu sa uzywane do zwiekszania atrybutow.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Attributes" title="Powrot Do Atrybutow"/>
+</Page>
+</Attributes>

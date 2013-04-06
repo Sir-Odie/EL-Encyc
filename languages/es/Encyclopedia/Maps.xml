@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Maps>
+<Page name="Maps_IP">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>    Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                     MAPAS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Isla Prima (IP)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> El mapa donde comienzas. Es también donde apareces al</text><nl/>
+   <text> usar el comando "#beam me" o salir del inframundo, por</text><nl/>
+   <text> eso, el area cerca del campamente se conoce como "beam".</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>Seguro: Si, there are no auto-attacking creatures here.</text><nl/>
+   <nl/>
+   <text>Almacén: No</text><nl/>
+   <nl/>
+   <text>PK: No</text><nl/>
+   <nl/>
+   <text>Multi-combate: No</text><nl/>
+   <nl/>
+   <text>Mapas conectados: White stone (barco)</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Maps" title="Índice de mapas"/>
+</Page>
+<Page name="Maps_WS">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>    Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                     MAPAS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               White Stone (WS)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Este mapa es el centro de Seridia. Es el mapa al que</text><nl/>
+   <text> llegas al coger el barco desde Isla Prima, y tiene acceso</text><nl/>
+   <text> a la mayoría de los mapas en Seridia.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>Seguro: Durante el día. Hay gárgolas por la noche</text><nl/>
+   <text>(3:30-0:30).</text><nl/>
+   <nl/>
+   <text>Almacén: Si</text><nl/>
+   <nl/>
+   <text>PK: No, pero hay una arena</text><nl/>
+   <nl/>
+   <text>Multi-combatee: No</text><nl/>
+   <nl/>
+   <text>Mapas conectados: Isla Prima (barco)</text><nl/>
+   <text>                  Desert Pines (barco)</text><nl/>
+   <text>                  Portland</text><nl/>
+   <text>                  Nordcarn</text><nl/>
+   <text>                  Tarsengaard</text><nl/>
+   <text>                  Morcraven Marsh</text><nl/>
+   <text>                  Grubani Penninsula</text><nl/>
+   <text>                  Ruins of Tirnym</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Maps" title="Índice de mapas"/>
+</Page>
+<Page name="Maps_DP">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>    Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                     MAPAS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Desert Pines (DP)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> DP es una de la mayores zonas de minería en Seridia, tiene</text><nl/>
+   <text> dos minas, un desiert y un bosque.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>Seguro: Si</text><nl/>
+   <nl/>
+   <text>Almacén: Si</text><nl/>
+   <nl/>
+   <text>PK: No, pero hay una arena</text><nl/>
+   <nl/>
+   <text>Multi-combate: No</text><nl/>
+   <nl/>
+   <text>Mapas conectados: White Stone (barco)</text><nl/>
+   <text>                  Valley of the Dwarves (barco)</text><nl/>
+   <text>                  Portland (barco)</text><nl/>
+   <text>                  Kilaran Field</text><nl/>
+   <text>                  South Kilaran Field</text><nl/>
+   <text>                  Portland</text><nl/>
+   <text>                  Tahraji Desert</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Maps" title="Índice de mapas"/>
+</Page>
+<Page name="Maps_VOTD">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>    Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                     MAPAS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>        Valley of the Dwarves (VotD)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Este mapa siempre bulle de actividad. Hay un almacén,</text><nl/>
+   <text> huertos de fácil acceso, muchos animales para entrenar,</text><nl/>
+   <text> y está cercano a Kilaran Field, para los guerreros.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>Seguro: Si</text><nl/>
+   <nl/>
+   <text>Almacén: Si</text><nl/>
+   <nl/>
+   <text>PK: No</text><nl/>
+   <nl/>
+   <text>Multi-combate: No</text><nl/>
+   <nl/>
+   <text>Mapas conectados: Desert Pines (barco)</text><nl/>
+   <text>                  Tarsengaard</text><nl/>
+   <text>                  Kilaran Field</text><nl/>
+   <text>                  Nordcarn</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Maps" title="Índice de mapas"/>
+</Page>
+<Page name="Maps_PL">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>    Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                     MAPAS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Portland (PL)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Portland es una ciudad portuaria. Tiene un almacén, y </text><nl/>
+   <text> algunas minas la rodean, hay tambien un goblin que se </text><nl/>
+   <text> asentó allí. Incluso tiene su propio nombre, que los </text><nl/>
+   <text> ciudadanos de Portland le otorgaron.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>Seguro: No</text><nl/>
+   <nl/>
+   <text>Almacén: Si</text><nl/>
+   <nl/>
+   <text>PK: No</text><nl/>
+   <nl/>
+   <text>Multi-combate: No</text><nl/>
+   <nl/>
+   <text>Mapas conectados: Desert Pines (barco)</text><nl/>
+   <text>                  Grubani Penninsula (barco)</text><nl/>
+   <text>                  Desert Pines</text><nl/>
+   <text>                  White Stone</text><nl/>
+   <text>                  Morcraven Marsh</text><nl/>
+   <text>                  Tahraji Desert</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Maps" title="Índice de mapas"/>
+</Page>
+<Page name="Maps_MM">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>    Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                     MAPAS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Morcraven Marsh (MM)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Morcraven Marsh tiene también un almacén, y una o dos</text><nl/>
+   <text> minas. No es un mapa seguro para los no experimentados.</text><nl/>
+   <text> Hay todo tipo de monstruos por allí, siendo los más</text><nl/>
+   <text> fuertes los guerreros fantasma.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>Seguro: No</text><nl/>
+   <nl/>
+   <text>Almacén: Si</text><nl/>
+   <nl/>
+   <text>PK: No</text><nl/>
+   <nl/>
+   <text>Multi-combate: No</text><nl/>
+   <nl/>
+   <text>Mapas conectados: Portland</text><nl/>
+   <text>                  White Stone</text><nl/>
+   <text>                  Naralik</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Maps" title="Índice de mapas"/>
+</Page>
+<Page name="Maps_NK">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>    Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                     MAPAS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Naralik</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> En Naralik hay un librero, que vende libros sobre minería,</text><nl/>
+   <text> pero ten cuidado al viajar allí si eres todavía un</text><nl/>
+   <text> aprendiz. El monstruo más fuerte el el guerrero fantasma.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>Seguro: No</text><nl/>
+   <nl/>
+   <text>Almacén: No</text><nl/>
+   <nl/>
+   <text>PK: No</text><nl/>
+   <nl/>
+   <text>Multi-combate: Si</text><nl/>
+   <nl/>
+   <text>Mapas conectados: Morcraven Marsh</text><nl/>
+   <text>                  Grubani Penninsula</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Maps" title="Índice de mapas"/>
+</Page>
+<Page name="Maps_GP">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>    Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                     MAPAS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>           Grubani Penninsula (GP)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Es un mapa muy peligroso! Hay varios monstruos de muy</text><nl/>
+   <text> alto nivel, inclueyndo al infernal Lobo Quimera de </text><nl/>
+   <text> Montaña. Tambien hay un librero, que tiene libros de </text><nl/>
+   <text> lucha e invocación, busca ayuda si tienes que visitarlo.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>Seguro: No, monstruos de alto nivel hasta Lobo Quimera.</text><nl/>
+   <nl/>
+   <text>Almacén: No</text><nl/>
+   <nl/>
+   <text>PK: No</text><nl/>
+   <nl/>
+   <text>Multi-combate: Si</text><nl/>
+   <nl/>
+   <text>Mapas conectados: Portland (barco)</text><nl/>
+   <text>                  White Stone</text><nl/>
+   <text>                  Naralik</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Maps" title="Índice de mapas"/>
+</Page>
+<Page name="Maps_TG">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>    Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                     MAPAS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Tarsengaard (TG)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Este mapa tiene una gran, pero tranquila, ciudad. Hay </text><nl/>
+   <text> minas y algunas otras cosas, pero ten cuidado al visitarlo</text><nl/>
+   <text> si no quieres enfrentarte a goblins armados sin estar</text><nl/>
+   <text> preparado.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>Seguro: No</text><nl/>
+   <nl/>
+   <text>Almacén: Si</text><nl/>
+   <nl/>
+   <text>PK: No</text><nl/>
+   <nl/>
+   <text>Multi-combate: No</text><nl/>
+   <nl/>
+   <text>Mapas conectados: Valley of the Dwarves</text><nl/>
+   <text>                  White Stone</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Maps" title="Índice de mapas"/>
+</Page>
+<Page name="Maps_NC">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>    Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                     MAPAS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Nordcarn (NC)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nordcarn es una ciudad enana. Rodeada por minas, y </text><nl/>
+   <text> esculpida en la roca. Es segura, pero no tanto sus </text><nl/>
+   <text> minas. Tambien hay una arena en el centro.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>Seguro: Fuera, si. Excepto la arena</text><nl/>
+   <text>        Las minas no son seguras, hay guerreros</text><nl/>
+   <text>        fantasma y otros monstruos</text><nl/>
+   <nl/>
+   <text>Almacén: Si</text><nl/>
+   <nl/>
+   <text>PK: No, excepto la arena en el centro</text><nl/>
+   <nl/>
+   <text>Multi-combate: No</text><nl/>
+   <nl/>
+   <text>Mapas conectados: Valley of the Dwarves</text><nl/>
+   <text>                  White Stone</text><nl/>
+   <text>                  South Kilaran Field</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Maps" title="Índice de mapas"/>
+</Page>
+<Page name="Maps_SK">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>    Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                     MAPAS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          South Kilaran Field (SK)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> South Kilaran ha sido invadido por monstruos peligrosos.</text><nl/>
+   <text> Aventúrate aqui solo bajo tu propio riesgo!</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>Seguro: No, monstruos de alto nivel hasta ogros.</text><nl/>
+   <nl/>
+   <text>Almacén: No</text><nl/>
+   <nl/>
+   <text>PK: No</text><nl/>
+   <nl/>
+   <text>Multi-combate: Si</text><nl/>
+   <nl/>
+   <text>Mapas conectados: Kilaran Field</text><nl/>
+   <text>                  Nordcarn</text><nl/>
+   <text>                  White Stone</text><nl/>
+   <text>                  Desert Pines</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Maps" title="Índice de mapas"/>
+</Page>
+<Page name="Maps_KF">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>    Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                     MAPAS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Kilaran Field (KF)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Kilaran Field es un mapa PK. El mapa favorito para los</text><nl/>
+   <text> guerrero, pero ten mucho cuidado, muchos guerrero mueren </text><nl/>
+   <text> aquí a manos de otros mas fuertes.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>Seguro: No, esqueletos y guerreros</text><nl/>
+   <nl/>
+   <text>Almacén: No</text><nl/>
+   <nl/>
+   <text>PK: Si</text><nl/>
+   <nl/>
+   <text>Multi-combate: Si</text><nl/>
+   <nl/>
+   <text>Mapas conectados: Valley of the Dwarves</text><nl/>
+   <text>                  South Kilaran Field</text><nl/>
+   <text>                  Desert Pines</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Maps" title="Índice de mapas"/>
+</Page>
+<Page name="Maps_TD">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>    Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                     MAPAS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Tahraji Desert (TD)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Tahraji Desert es un mapa PK. También tiene monstruos de</text><nl/>
+   <text> alto nivel, incluyendo al conejito pelusón.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>Seguro: No, monstruos de alto nivel hasta </text><nl/>
+   <text>        conejo pelusón</text><nl/>
+   <nl/>
+   <text>Almacén: No</text><nl/>
+   <nl/>
+   <text>PK: Si</text><nl/>
+   <nl/>
+   <text>Multi-combate: Si</text><nl/>
+   <nl/>
+   <text>Mapas conectados: Desert Pines</text><nl/>
+   <text>                 Portland</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Maps" title="Índice de mapas"/>
+</Page>
+<Page name="Maps_Tirnym">
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>    Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                     MAPAS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Ruins of Tirnym (Tirnym)</text><nl/><nl/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Ruins of Tirnym es un mapa muy peligroso, y solo para</text><nl/>
+   <text> los jugadores mas experimentados. En este mapa habita</text><nl/>
+   <text> un monstruo extremadamente peligros, conocido como</text><nl/>
+   <text> Lobo Quimera.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>Seguro: No, monstruos de alto nivel, incluyendo</text><nl/>
+   <text>        el Lobo Quimera de Montaña.</text><nl/>
+   <nl/>
+   <text>Almacén: No</text><nl/>
+   <nl/>
+   <text>PK: Si</text><nl/>
+   <nl/>
+   <text>Multi-combate: Si</text><nl/>
+   <nl/>
+   <text>Mapas conectados: White Stone</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Maps" title="Índice de mapas"/>
+</Page>
+</Maps>

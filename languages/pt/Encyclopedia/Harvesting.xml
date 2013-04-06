@@ -1,0 +1,2230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Harvesting>
+<Page name="Plants">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harvesting" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text>
+   <nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Aqui você irá encontrar informaçoes sobre plantas que você</text><nl/>
+   <text> pode colher por estas terras.</text>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text>Plants</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Blue_Star_Flower" title="Blue Star Flower"/><text>              </text>
+   <link ref="Valerian" title="Valerian"/>
+   <nl/>
+   <link ref="Impatiens" title="Impatiens"/><text>                     </text>
+   <link ref="Rue" title="Rue"/>
+   <nl/>
+   <link ref="Lilacs" title="Lilacs"/><text>                        </text>
+   <link ref="Poppies" title="Poppies"/>
+   <nl/>
+   <link ref="Red_Snapdragons" title="Red Snapdragons"/><text>               </text>
+   <link ref="Deelions" title="Deelions"/>
+   <nl/>
+   <link ref="Tiger_Lilly" title="Tiger Lilly"/><text>                   </text>
+   <link ref="Poison_Ivy" title="Poison Ivy"/>
+   <nl/>
+   <link ref="Blue_Lupine" title="Blue Lupine"/><text>                   </text>
+   <link ref="Red_Toadstool" title="Red Toadstool"/>
+   <nl/>
+   <link ref="Chrysanthemum" title="Chrysanthemum"/><text>                 </text>
+   <link ref="Tulips" title="Tulips"/>
+   <nl/>
+   <link ref="Cactus" title="Cactus"/><text>                        </text>
+   <link ref="Red_Currant" title="Red Currant"/>
+   <nl/>
+   <link ref="Yellow_Rose" title="Yellow Rose"/><text>                   </text>
+   <link ref="Blueberry" title="Blueberry"/>
+   <nl/>
+   <link ref="Red_Rose" title="Red Rose"/><text>                      </text>
+   <link ref="Henbane" title="Henbane"/>
+   <nl/>
+   <link ref="Black_Rose" title="Black Rose"/><text>                    </text>
+   <link ref="Mullein" title="Mullein"/>
+   <nl/>
+   <link ref="White_Asiatic_Lilly" title="White Asiatic Lilly"/><text>           </text>
+   <link ref="Nightshade" title="Nightshade"/>
+   <nl/>
+   <link ref="Swamp_Celes" title="Swamp Celes"/><text>                 </text>
+   <link ref="Yarrow" title="Yarrow"/>
+   <nl/>
+   <link ref="Sunflowers" title="Sunflowers"/><text>                    </text>
+   <link ref="Wormwood" title="Wormwood"/>
+   <nl/>
+   <link ref="Wheat" title="Wheat"/><text>                         </text>
+   <link ref="White_Chanterelle" title="White Chanterelle"/>
+   <nl/>
+   <link ref="Cotton" title="Cotton"/><text>                        </text>
+   <link ref="Ogre_Toes" title="Ogre Toes"/>
+   <nl/>
+   <link ref="Daffodils" title="Daffodils"/><text>                     </text>
+   <link ref="Tree_Mushroom" title="Tree Mushrooms"/>
+   <nl/>
+   <link ref="Mugwort" title="Mugwort"/><text>                       </text>
+   <text> </text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Harvesting" title="Back To the Harvesting Index"/>
+   <nl/>
+</Page>
+<Page name="Minerals">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harvesting" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text>
+   <nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Aqui você vai achar informaçoes sobre minerais e cristais</text><nl/>
+   <text> que você pode coletar por estas terras.</text>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text>Minerals e Crystals</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Sulphur" title="Sulphur"/><text>                        </text>
+   <link ref="Rubies" title="Rubies"/>
+   <nl/>
+   <link ref="Coal" title="Coal"/><text>                           </text>
+   <link ref="Diamonds" title="Diamonds"/>
+   <nl/>
+   <link ref="Quartz" title="Quartz"/><text>                         </text>
+   <link ref="Turquoise" title="Turquoise"/>
+   <nl/>
+   <link ref="Blue_Quartz" title="Blue Quartz"/><text>                    </text>
+   <nl/>
+   <link ref="Rose_Quartz" title="Rose Quartz"/><text>                    </text>
+   <link ref="Amber" title="Amber"/><text> *</text>
+   <nl/>
+   <link ref="Gypsum" title="Gypsum"/><text>                         </text>
+   <link ref="Obsidian" title="Obsidian"/><text> *</text>
+   <nl/>
+   <link ref="Emeralds" title="Emeralds"/><text>                       </text>
+   <text> </text>
+   <nl/>
+   <link ref="Sapphires" title="Sapphires"/><text>                      </text>
+   <text> </text>
+   <nl/>
+   <nl/>
+   <text> * indica minerais que foram descobertos, mas nós nao</text><nl/>
+   <text> temos certeza de como minerá-los ou como utilizá-los</text><nl/>
+   <text> ainda. Nossos cientistas estao trabalheo nisto.</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Harvesting" title="Back To the Harvesting Index"/>
+   <nl/>
+</Page>
+<Page name="Ores">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harvesting" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text>
+   <nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Aqui você irá encontrar informaçoes sobre pepita (ore) de</text><nl/>
+   <text> metais que você pode minerar nestas terras.</text>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text>Metal Ores</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Iron_Ore" title="Iron Ore"/><text>                       </text>
+   <link ref="Copper" title="Copper Ore"/>
+   <nl/>
+   <link ref="Silver_Ore" title="Silver Ore"/><text>                     </text>
+   <link ref="Seridium" title="Seridium Ore"/>
+   <nl/>
+   <link ref="Gold_Ore" title="Gold Ore"/><text>                       </text>
+   <link ref="Cinnabar" title="Cinnabar Ore"/>
+   <nl/>
+   <link ref="Titanium_Ore" title="Titanium Ore"/><text>                   </text>
+   <link ref="Dvarium" title="Dvarium"/><text> *</text>
+   <nl/>
+   <link ref="Hydrogenium" title="Hydrogenium Ore"/><text>                </text>
+   <link ref="Irilium" title="Irilium"/><text> *</text>
+   <nl/>
+   <link ref="Tin" title="Tin Ore"/><text>                        </text>
+   <text> </text>
+   <nl/>
+   <link ref="Wolfram" title="Wolframite Ore"/><text>                 </text>
+   <text> </text>
+   <nl/>
+   <nl/>
+   <text> * indica pepitas que foram descobertas, mas nós nao</text><nl/>
+   <text> temos certeza de como minerá-las ou como utilizá-las</text><nl/>
+   <text> ainda. Nossos cientistas estao trabalheo nisto.</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Harvesting" title="Back To the Harvesting Index"/>
+   <nl/>
+</Page>
+<Page name="Harv_Other">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harvesting" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text>
+   <nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Aqui você irá encontrar informaçoes sobre outros recursos</text><nl/>
+   <text> que você pode mineirar nestas terras.</text>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text>Other Harvestable</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Wood_Branches" title="Branches"/>
+   <nl/>
+   <link ref="Wood_Logs" title="Logs"/>
+   <nl/>
+   <link ref="Beehive" title="Beehive"/>
+   <nl/>
+   <link ref="Fruit" title="Fruit"/>
+   <nl/>
+   <link ref="Vegetables" title="Vegetables"/>
+   <nl/>
+   <link ref="Yew" title="Yew"/>
+   <nl/>
+   <link ref="Dung" title="Dung"/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Harvesting" title="Back To the Harvesting Index"/>
+   <nl/>
+</Page>
+<Page name="Stones">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harvesting" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text>
+   <nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Aqui você irá encontrar informaçoes sobre as pedras que </text><nl/>
+   <text> podem ser encontradas aleatóriamente enquanto se coleta </text><nl/>
+   <text> pepitas ou minerais</text>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text>Stones</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Serpent_Stone" title="Serpent Stone"/>
+   <nl/>
+   <link ref="Enrich_Stone" title="Enrichment Stone"/>
+   <nl/>
+   <link ref="Binding_Stone" title="Binding Stone"/>
+   <nl/>
+   <link ref="Rostogol_Stone" title="Rostogol Stone"/>
+   <nl/>
+   <link ref="PP_Removal_Stone" title="Pickpoint Removal Stones"/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Harvesting" title="Back To the Harvesting Index"/>
+   <nl/>
+</Page>
+<Page name="Wood_Logs">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Wood Logs</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Stocking campfires.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 0</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nao Necessita Usar Ferramentas</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 4</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>              </text><link ref="Harv_Other" title="Back To the Other Harvestables Index"/>
+</Page>
+<Page name="Wood_Branches">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>               Wood Branches</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Manter fogueiras acesas.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 0</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nao Necessita Usar Ferramentas</text><nl/>
+   <text> Peso: 2 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 4</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>              </text><link ref="Harv_Other" title="Back To the Other Harvestables Index"/>
+</Page>
+<Page name="Blue_Star_Flower">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>              Blue Star Flower</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="P_Spirit Restoration" title="Potion of Spirit Restoration"/><text> e </text><nl/>
+   <text>       </text><link ref="Water Essence" title="Water Essence"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 0</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nao Necessita Usar Ferramentas</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 4</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Impatiens">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Impatiens</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Magic Essence" title="Magic Essence"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 0</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nao Necessita Usar Ferramentas</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 4</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Lilacs">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                   Lilacs</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Magic Essence" title="Magic Essence"/><text> e </text><link ref="P_Harvesting" title="Potion of Harvesting"/><text>.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 0</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nao Necessita Usar Ferramentas</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 4</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Red_Snapdragons">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>              Red Snapdragons</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Fire Essence" title="Fire Essence"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 0</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nao Necessita Usar Ferramentas</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 4</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Tiger_Lilly">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                Tiger Lilly</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Energy Essence" title="Energy Essence"/><text> e </text><link ref="P_Attack" title="Potion of Attack"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 0</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nao Necessita Usar Ferramentas</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 4</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Blue_Lupine">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                Blue Lupine</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Water Essence" title="Water Essence"/><text> e </text><link ref="P_Mana" title="Potion of Mana"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 1</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nao Necessita Usar Ferramentas</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 4 or 5.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Chrysanthemum">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                Chrysanthemum</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="P_Manufacturing" title="Potion of Manufacturing"/><text> e </text><nl/>
+   <text>       </text><link ref="Health Essence" title="Health Essence"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 2</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nao Necessita Usar Ferramentas</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 5</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Red_Rose">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Red Rose</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Fire Essence" title="Fire Essence"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 6</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nao Necessita Usar Ferramentas</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 11</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Yellow_Rose">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                Yellow Rose</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="P_Will" title="Potion of Will"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 6</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nao Necessita Usar Ferramentas</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 10</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Black_Rose">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Black Rose</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="P_Magic" title="Potion of Magic"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 6</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nao Necessita Usar Ferramentas</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 12</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="White_Asiatic_Lilly">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>            White Asiatic Lilly</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Air Essence" title="Air Essence"/><text> e </text><link ref="P_Summoning" title="Potion of Summoning"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 8</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nao Necessita Usar Ferramentas</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 12</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Swamp_Celes">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>               Swamp Celes</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Earth Essence" title="Earth Essence"/><text> e </text><link ref="P_Defense" title="Potion of Defense"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 11</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nao Necessita Usar Ferramentas</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 15</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Sunflowers">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Sunflowers</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Life Essence" title="Life Essence"/><text>, Potions of </text><link ref="P_Healing" title="Minor Healing"/><nl/>
+   <text>       </text><link ref="P_Body Restoration" title="Body Restoration"/><text> e </text><link ref="P_Manufacturing" title="Manufacturing"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 12</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nao Necessita Usar Ferramentas</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 16</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Fruit">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                   Fruit</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Um banquete nutritivo para a maioria das pessoas de EL.</text><nl/>
+   <text>       Restaura 20 Pontos de Comida.</text><nl/>
+   <text>       Usado para: </text><link ref="P_Feasting" title="Potion of Feasting"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 18</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nao Necessita Usar Ferramentas</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 22</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>              </text><link ref="Harv_Other" title="Back To the Other Harvestables Index"/>
+</Page>
+<Page name="Vegetables">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Vegetables</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Um saudável complemento ou substituto para carne vermelha.</text><nl/>
+   <text>       Restaura 15 Pontos de Comida.</text><nl/>
+   <text>       Usado para: Poçoes de </text><link ref="P_Reasoning" title="Reasoning"/><text> e </text><link ref="P_Feasting" title="Feasting"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 20</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nao Necessita Usar Ferramentas</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 24</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>              </text><link ref="Harv_Other" title="Back To the Other Harvestables Index"/>
+</Page>
+<Page name="Cactus">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                   Cactus</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uma planta espinhosa geralmente encontrada em regioes áridas.</text><nl/>
+   <text>       Usado para: </text><link ref="Death Essence" title="Death Essence"/><text>, </text><link ref="P_Vitality" title="Potion of Vitality"/><nl/>
+   <text>       e </text><link ref="P_Coordination" title="Potion of Coordination"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 4</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Peso: 4 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 8</text><nl/>
+   <text> Ferramenta Necessária: Leather Gloves</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Sulphur">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Sulphur</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Esta substancia amarelada e inflamável pode ser vista </text><nl/>
+   <text>       geralmente próxima a depositos de Prata (silver).</text><nl/>
+   <text>       Usado para: </text><link ref="Fire Essence" title="Fire Essence"/><text> e </text><link ref="Earth Essence" title="Earth Essence"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 14</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Peso: 2 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 18</text><nl/>
+   <text> Ferramenta Necessária: Leather Gloves</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Back To Minerals Index"/>
+</Page>
+<Page name="Coal">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                    Coal</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Formado abaixo do solo por plantas fossilizadas, esta forma</text><nl/>
+   <text>       negra de compósito de carbono é utilizada principalmente.</text><nl/>
+   <text>       como combustível.</text><nl/>
+   <text>       Usado para: </text><link ref="Earth Essence" title="Earth Essence"/><text> e TODAS </text><link ref="Alchemy" title="Metal Bar"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 21</text><nl/>
+   <text> Peso: 2 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 25</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Back To Minerals Index"/>
+</Page>
+<Page name="Quartz">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                   Quartz</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Este duro mineral pode ser derretido para fazer vidros </text><nl/>
+   <text> de alta qualidade. Por um pequeno preço, Harvy pode </text><nl/>
+   <text> fazer potes vazios deles</text><nl/>
+   <text>       Usado para: </text><link ref="Empty_Vial" title="Empty Vial"/><text>, </text><link ref="Matter Essence" title="Matter Essence"/><text> e </text><nl/>
+   <text>       </text><link ref="Death Essence" title="Death Essence"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 16</text><nl/>
+   <text> Requer Pesquisar: Quartz Mining</text><nl/>
+   <text> Nexus Necessário: Inorganic 1</text><nl/>
+   <text> Peso: 2 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 20</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Back To Minerals Index"/>
+</Page>
+<Page name="Blue_Quartz">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                Blue Quartz</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Forma azulada do mineral Quartz.</text><nl/>
+   <text>       Usado para: </text><link ref="Matter Essence" title="Matter Essence"/><text>, </text><link ref="Water Essence" title="Water Essence"/><text>, </text><nl/>
+   <text>       </text><link ref="P_Spirit Restoration" title="Potion of Spirit Restoration"/><text> e </text><link ref="P_Craft" title="Potion of Crafting"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 17</text><nl/>
+   <text> Requer Pesquisar: Blue Quartz Mining</text><nl/>
+   <text> Nexus Necessário: Inorganic 1</text><nl/>
+   <text> Peso: 2 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 21</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Back To Minerals Index"/>
+</Page>
+<Page name="Rose_Quartz">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                Rose Quartz</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Variedade avermelhada do quartz.</text><nl/>
+   <text>       Usado para: </text><link ref="P_Body Restoration" title="Potion of Body Restoration"/><text> e </text><nl/>
+   <text>       </text><link ref="Matter Essence" title="Matter Essence"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 17</text><nl/>
+   <text> Requer Pesquisar: Rose Quartz Mining</text><nl/>
+   <text> Nexus Necessário: Inorganic 1</text><nl/>
+   <text> Peso: 2 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 21</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Back To Minerals Index"/>
+</Page>
+<Page name="Iron_Ore">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Iron Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Um metal forte encontrado em uma grande caverna no deserto</text><nl/>
+   <text> há boatos que pode ser encontrado em outras cavernas por aí.</text><nl/>
+   <text>       Usado para: </text><link ref="Iron Bar" title="Iron"/><text> e </text><link ref="Steel Bar" title="Steel"/><text> Bars, </text><link ref="Matter Essence" title="Matter Essence"/><text>, </text><nl/>
+   <text>       </text><link ref="Energy Essence" title="Energy Essence"/><text> e </text><link ref="P_Manufacturing" title="Potion of Manufacturing"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 23</text><nl/>
+   <text> Requer Pesquisar: Iron Mining</text><nl/>
+   <text> Nexus Necessário: Inorganic 2</text><nl/>
+   <text> Peso: 4 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 27</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Silver_Ore">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Silver Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Este metal subterrâneo tem uma grande variedade de usos.</text><nl/>
+   <text>       Usado para: </text><link ref="Silver Bar" title="Silver Bar"/><text>; Potions of </text><link ref="P_Defense" title="Defense"/><text>, </text><link ref="P_Will" title="Will"/><text> e </text><nl/>
+   <text>       </text><link ref="P_Manufacturing" title="Manufacturing"/><text>; </text><link ref="Air Essence" title="Air Essence"/><text>, </text><link ref="Energy Essence" title="Energy Essence"/><text>, </text><nl/>
+   <text>       </text><link ref="Life Essence" title="Life Essence"/><text> e </text><link ref="Health Essence" title="Health Essence"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 24</text><nl/>
+   <text> Requer Pesquisar: Silver Mining</text><nl/>
+   <text> Nexus Necessário: Inorganic 2</text><nl/>
+   <text> Peso: 2 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 28</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Gold_Ore">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Gold Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Este raro e precioso metal pode ser encontrado em cavernas</text><nl/>
+   <text>       próximas a pantanos.</text><nl/>
+   <text>       Usado para: </text><link ref="Gold Bar" title="Gold Bar"/><text>, </text><link ref="Spirit Essence" title="Spirit Essence"/><text> e </text><nl/>
+   <text>       </text><link ref="P_Attack" title="Potion of Attack"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 37</text><nl/>
+   <text> Requer Pesquisar: Gold Mining</text><nl/>
+   <text> Nexus Necessário: Inorganic 3</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 36</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Emeralds">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Emeralds</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Rara gema de um verde intenso encontrada nas profundezas </text><nl/>
+   <text>       das mais perigosas catacumbas</text><nl/>
+   <text>       Usado para: </text><link ref="P_Emer" title="Polished Emeralds"/><text> e </text><link ref="Magic Essence" title="Magic Essence"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 32</text><nl/>
+   <text> Requer Pesquisar: Emerald Mining</text><nl/>
+   <text> Nexus Necessário: Inorganic 4</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 36</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Back To Minerals Index"/>
+</Page>
+<Page name="Sapphires">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Sapphires</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uma fria gema azul encontrada nas regioes centrais</text><nl/>
+   <text>       de Seridia.</text><nl/>
+   <text>       Usado para: </text><link ref="P_Saph" title="Polished Sapphires"/><text> e </text><link ref="Water Essence" title="Water Essence"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 35</text><nl/>
+   <text> Requer Pesquisar: Sapphire Mining</text><nl/>
+   <text> Nexus Necessário: Inorganic 4</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 39</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Back To Minerals Index"/>
+</Page>
+<Page name="Rubies">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                   Rubies</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> É preciso alguém corajoso (ou bem equipado) para </text><nl/>
+   <text>       encontrar esta brilhante gema vermelha</text><nl/>
+   <text>       Usado para: </text><link ref="P_Ruby" title="Polished Rubies"/><text> e some </text><link ref="Jewelry" title="Irilion Rings"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 37</text><nl/>
+   <text> Requer Pesquisar: Ruby Mining</text><nl/>
+   <text> Nexus Necessário: Inorganic 4</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 41</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Back To Minerals Index"/>
+</Page>
+<Page name="Diamonds">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Diamonds</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Apenas especialistas esperam encontrar e mineirar com</text><nl/>
+   <text>       sucesso os Diamantes - a mais difícil das pedras</text><nl/>
+   <text>       preciosas.</text><nl/>
+   <text>       Usado para: </text><link ref="P_Diam" title="Polished Diamonds"/><text> e </text><link ref="Air Essence" title="Air Essence"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 40</text><nl/>
+   <text> Requer Pesquisar: Diamond Mining</text><nl/>
+   <text> Nexus Necessário: Inorganic 4</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 44</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Back To Minerals Index"/>
+</Page>
+<Page name="Titanium_Ore">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                Titanium Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Elemento metalico usado na fabricaçao de armas e armaduras</text><nl/>
+   <text>       fortes, e mesmo assim, muito leves.</text><nl/>
+   <text>       Usado para: </text><link ref="Titanium Bar" title="Titanium Bar"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 38</text><nl/>
+   <text> Requer Pesquisar: Titanium Mining</text><nl/>
+   <text> Nexus Necessário: Inorganic 5</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 42</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Blueberry">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Blueberry</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Extract_RBR" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 36</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 40</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="White_Chanterelle">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>             White Chanterelle</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Med_Heaven" title="Heaven Spawner Medallion"/><text> e</text><nl/>
+   <text>       </text><link ref="Extract_WOT" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 45</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 49</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Cotton">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                   Cotton</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Thread" title="Thread"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 14</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 18</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Red_Currant">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                Red Currant</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Extract_RBR" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 34</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 38</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Deelions">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Deelions</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="P_Accuracy" title="Potion of Accuracy"/><text>, </text><link ref="P_Potion" title="Potion of Potion"/><text> e</text><nl/>
+   <text>       </text><link ref="Extract_NMD" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 29</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 33</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Daffodils">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Daffodils</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Extract_WDF" title="Extracts"/><text>, </text><link ref="P_Invis" title="Potion of Invisibility"/><text> e </text><nl/>
+   <text>       </text><link ref="P_Alchemy" title="Potion of Alchemy"/><text>.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 22</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 28</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Henbane">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Henbane</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="P_TS" title="Potion of True Sight"/><text> e </text><link ref="Extract_PHP" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 39</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 43</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Mugwort">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Mugwort</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Extract_WVM" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 25</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 29</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Mullein">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Mullein</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Extract_NMD" title="Extracts"/><text>, </text><link ref="P_Invis" title="Potion of Invisibility"/><text> e </text><nl/>
+   <text>       </text><link ref="P_Evasion" title="Potion of Evasion"/><text>.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 41</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 45</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To the Plants Index"/>
+</Page>
+<Page name="Nightshade">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Nightshade</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="P_Potion" title="Potion of Potion"/><text> e </text><link ref="Extract_NMD" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 42</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 46</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To Plants Index"/>
+</Page>
+<Page name="Ogre_Toes">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Ogre Toes</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="P_Extra_Mana" title="Potion of Extra Mana"/><text> e </text><link ref="Extract_WOT" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 46</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 50</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To Plants Index"/>
+</Page>
+<Page name="Poison_Ivy">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Poison Ivy</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Extract_PHP" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 30</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 34</text><nl/>
+   <text> Ferramenta Necessária: Leather Gloves</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To Plants Index"/>
+</Page>
+<Page name="Poppies">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Poppies</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="P_Antidote" title="Poison Antidote"/><text> e </text><link ref="Extract_PHP" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 28</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 32</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To Plants Index"/>
+</Page>
+<Page name="Rue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                    Rue</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="P_Antidote" title="Poison Antidote"/><text>, </text><link ref="P_Potion" title="Potion of Potion"/><text> e</text><nl/>
+   <text>       </text><link ref="Extract_RBR" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 27</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 31</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To Plants Index"/>
+</Page>
+<Page name="Tree_Mushroom">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>               Tree Mushroom</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Extract_WOT" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 47</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 51</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To Plants Index"/>
+</Page>
+<Page name="Red_Toadstool">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>               Red Toadstool</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="P_TS" title="Potion of True Sight"/><text>, </text><link ref="Med_Harv" title="Harvester Medallion"/><text>.</text>
+   <nl/>
+   <text>       Restores 10 food points, no cooldown but 5% chance</text><nl/>
+   <text>       chance to get poisoned.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 31</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 2 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 35</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To Plants Index"/>
+</Page>
+<Page name="Tulips">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                   Tulips</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Extract_YWT" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 33</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 37</text><nl/>
+   <text> Ferramenta Necessária: Unknown</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To Plants Index"/>
+</Page>
+<Page name="Valerian">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Valerian</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="P_Accuracy" title="Potion of Accuracy"/><text> e </text><link ref="Extract_WVM" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 26</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 30</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To Plants Index"/>
+</Page>
+<Page name="Wormwood">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Wormwood</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Extract_YWT" title="Extracts"/><text>, </text><link ref="P_Invis" title="Potion of Invisibility"/><text> e </text><nl/>
+   <text>       </text><link ref="P_TS" title="Potion of True Sight"/><text>.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 44</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 48</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To Plants Index"/>
+</Page>
+<Page name="Yarrow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                   Yarrow</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="P_Antidote" title="Poison Antidote"/><text>, </text><link ref="P_Evasion" title="Potion of Evasion"/><text> e</text><nl/>
+   <text>       </text><link ref="Extract_YWT" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 43</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 47</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To Plants Index"/>
+</Page>
+<Page name="Wheat">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                   Wheat</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Potions" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 13</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Nada</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 17</text><nl/>
+   <text> Ferramenta Necessária: Nada</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To Plants Index"/>
+</Page>
+<Page name="Beehive">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Beehive</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><text>Nothing at this time.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 15</text><nl/>
+   <text> Nao Necessita Pesquisar</text><nl/>
+   <text> Nexus Necessário: Inorganic 2</text><nl/>
+   <text> Peso: 5 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 19</text><nl/>
+   <text> Ferramenta Necessária: Leather Gloves</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>              </text><link ref="Harv_Other" title="Back To the Other Harvestables Index"/>
+</Page>
+<Page name="Amber">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                   Amber</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Our scientists are still investigating this mineral.</text><nl/>
+   <text>       Usado para: </text><text> Unknown at this time.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: Unknown</text><nl/>
+   <text> Requer Pesquisar: Unknown</text><nl/>
+   <text> Nexus Necessário: Inorganic Unknown</text><nl/>
+   <text> Peso: Unknown EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: Unknown</text><nl/>
+   <text> Ferramenta Necessária: Unknown</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Back To Minerals Index"/>
+</Page>
+<Page name="Gypsum">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                   Gypsum</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Misc" title="Tools"/><text>, </text><link ref="Summoning" title="Summoning Stones"/><text> e </text>
+   <link ref="Potions" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 19</text><nl/>
+   <text> Requer Pesquisar: Gypsum Harvesting</text><nl/>
+   <text> Nexus Necessário: Inorganic 2</text><nl/>
+   <text> Peso: 10 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 23</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Back To Minerals Index"/>
+</Page>
+<Page name="Obsidian">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Obsidian</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Our scientists are still investigating this mineral.</text><nl/>
+   <text>       Usado para: </text><text> Unknown at this time.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: Unknown</text><nl/>
+   <text> Requer Pesquisar: Unknown</text><nl/>
+   <text> Nexus Necessário: Inorganic Unknown</text><nl/>
+   <text> Peso: Unknown EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: Unknown</text><nl/>
+   <text> Ferramenta Necessária: Unknown</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Back To Minerals Index"/>
+</Page>
+<Page name="Turquoise">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Turquoise</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: Nothing at this time.</text><nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 65</text><nl/>
+   <text> Requer Pesquisar: Nada</text><nl/>
+   <text> Nexus Necessário: Inorganic 4</text><nl/>
+   <text> Peso: 5 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 69</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Back To Minerals Index"/>
+</Page>
+<Page name="Cinnabar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Cinnabar</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Mercury" title="Mercury"/><text> can be extracted from this ore.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 75</text><nl/>
+   <text> Requer Pesquisar: Cinnabar Mining</text><nl/>
+   <text> Nexus Necessário: Inorganic 6</text><nl/>
+   <text> Peso: 2 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 79</text><nl/>
+   <text> Ferramenta Necessária: Leather Gloves</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Copper">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Copper Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Copper Bar" title="Copper Bar"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 62</text><nl/>
+   <text> Requer Pesquisar: Copper Mining</text><nl/>
+   <text> Nexus Necessário: Inorganic 6</text><nl/>
+   <text> Peso: 5 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 66</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <text> Nota: para mineirar esta pepita é preciso ter matter</text><nl/>
+   <text>       conglomerate no seu inventário.</text><nl/>
+   <text>       Cada pepita mineirada irá consumir 1 matter conglomerate.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Dvarium">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Dvarium</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Our scientists are still investigating this ore.</text><nl/>
+   <text>       Usado para: </text><text> Unknown at this time.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: Unknown</text><nl/>
+   <text> Requer Pesquisar: Unknown</text><nl/>
+   <text> Nexus Necessário: Inorganic Unknown</text><nl/>
+   <text> Peso: Unknown EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: Unknown</text><nl/>
+   <text> Ferramenta Necessária: Unknown</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Hydrogenium">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>              Hydrogenium Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> This rare ore's location is a closely guarded</text><nlkx/>
+   <text> secret.</text><nlkx/>
+   <text> Usado para: </text><link ref="Hydrogenium Bar" title="Hydrogenium Bar"/><text>.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 55</text><nl/>
+   <text> Requer Pesquisar: Hydrogenium Mining</text><nl/>
+   <text> Nexus Necessário: Inorganic 6</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 59</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <text> Nota: para mineirar esta pepita é preciso ter a espada</text><nl/>
+   <text>        steel 2edged no seu inventário.</text><nl/>
+   <text>       Cada pepita mineirada irá consumir 1 espada.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Seridium">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                Seridium Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Seridium Bar" title="Seridium Bar"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 67</text><nl/>
+   <text> Requer Pesquisar: Seridium Mining</text><nl/>
+   <text> Nexus Necessário: Inorganic 6</text><nl/>
+   <text> Peso: 5 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 71</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <text> Nota: para mineirar esta pepita é preciso ter matter</text><nl/>
+   <text>       conglomerate no seu inventário.</text><nl/>
+   <text>       Cada pepita mineirada irá consumir </text><nl/>
+   <text>       1 matter conglomerate.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Irilium">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Irilium</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Our scientists are still investigating this ore.</text><nl/>
+   <text>       Usado para: </text><text> Unknown at this time.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: Unknown</text><nl/>
+   <text> Requer Pesquisar: Unknown</text><nl/>
+   <text> Nexus Necessário: Inorganic Unknown</text><nl/>
+   <text> Peso: Unknown EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: Unknown</text><nl/>
+   <text> Ferramenta Necessária: Unknown</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Tin">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Tin Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Tin Bar" title="Tin Bar"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 58</text><nl/>
+   <text> Requer Pesquisar: Tin Mining</text><nl/>
+   <text> Nexus Necessário: Inorganic 6</text><nl/>
+   <text> Peso: 5 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 62</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <text> Nota: para mineirar esta pepita é preciso ter iron swords</text><nl/>
+   <text>       no seu inventário.</text><nl/>
+   <text>       Cada pepita mineirada irá consumir 1 sword.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Wolfram">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>               Wolframite Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> A very rare e heavy ore.</text>
+   <nlkx/>
+   <text> Usado para: </text><link ref="Wolfram Bar" title="Wolfram Bar"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nível Recomendado de Harvesting: 60</text><nl/>
+   <text> Requer Pesquisar: Wolframite Mining</text><nl/>
+   <text> Nexus Necessário: Inorganic 6</text><nl/>
+   <text> Peso: 10 EMU</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Experiencia em Harvesting Dada: 64</text><nl/>
+   <text> Ferramenta Necessária: Pickaxe (Picareta)</text><nl/>
+   <nl/>
+   <text> Nota: para mineirar esta pepita é preciso ter steel long</text><nl/>
+   <text>       swords no seu inventário.</text><nl/>
+   <text>       Cada pepita mineirada irá consumir 1 sword.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Yew">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                    Yew</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: </text><link ref="pk_arrow" title="PK Arrows"/><text>, </text><link ref="pk_bolt" title="PK Bolts"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Recommended Harvest Level: 80</text><nl/>
+   <text> No Research Required</text><nl/>
+   <text> Required Nexuses: Inorganic 6</text><nl/>
+   <text> Weight: 2 EMU</text><nl/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Harvesting Experience Given: 84</text><nl/>
+   <text> Tool Required: Saw</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>              </text><link ref="Harv_Other" title="Back To the Other Harvestables Index"/>
+</Page>
+<Page name="Dung">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                    Dung</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: </text><link ref="Saltpetre" title="Saltpetre"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Recommended Harvest Level: 100</text><nl/>
+   <text> No Research Required</text><nl/>
+   <text> Required Nexuses: Inorganic 6</text><nl/>
+   <text> Weight: 3 EMU</text><nl/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Harvesting Experience Given: 104</text><nl/>
+   <text> Tool Required: Leather Gloves</text><nl/>
+   <nl/>
+   <text> Note: this item can be stored only in the Hazardous Items</text><nl/>
+   <text> storage.</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>              </text><link ref="Harv_Other" title="Back To the Other Harvestables Index"/>
+</Page>
+<Page name="Serpent_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Stones" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>               Serpent Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para fazer itens de alto nivel como espadas mágicas.</text><nlkx/>
+   <text> Também utilizada em receitas de Alquimia e Summoning.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nota: esta pedra pode ser raramente obtida por 'drops'</text><nl/>
+   <text> de monstros.</text><nl/><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Stones" title="Back To the Stones Index"/>
+</Page>
+<Page name="Enrich_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Stones" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>              Enrichment Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Enriched Fire Essence" title="Enriched Fire Essence"/><text>,</text><nl/>
+   <text>       </text><link ref="Enriched Life Essence" title="Enriched Life Essence"/><text>, </text><link ref="Enriched Magic Essence" title="Enriched Magic Essence"/><text>.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Stones" title="Back To the Stones Index"/>
+</Page>
+<Page name="Binding_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Stones" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>               Binding Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para equipamentos de alto nível, como</text><nlkx/>
+   <text> as mais poderosas espadas, coroas, e outros itens.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Stones" title="Back To the Stones Index"/>
+</Page>
+<Page name="Rostogol_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Stones" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>               Rostogol Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Se você morrer com esta pedra no seu inventário, você nao vai</text><nlkx/>
+   <text> nao vai dropar nenhum item (mas a pedra vai sumir).</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nota: está pedra pode ser encontrada como drop de monstros muito fortes</text><nl/>
+   <text> Stackable: No</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Stones" title="Back To the Stones Index"/>
+</Page>
+<Page name="PP_Removal_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Stones" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Les Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>          Pickpoint Removal Stones</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> These rare stones allow you to remove a pickpoint</text><nlkx/>
+   <text> from an attribute or nexus e reallocate it.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nota: nao existem pedras chamadas "Pickpoint Removal Stone",</text><nl/>
+   <text> existem pedras especificas para cada atributo ou nexus</text><nl/>
+   <text> como "Instinct Removal Stone" ou "Inorganic</text><nl/>
+   <text> Nexus Removal Stone".</text><nl/><nl/>
+   <text> Diferentemente as demais pedras, Pickpoint Removal Stones</text><nl/>
+   <text> podem ser encontradas mineirando plantas.</text><nl/><nl/>
+   <text> Stackable: Nao</text><nl/>
+   <text> Peso: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Stones" title="Back To the Stones Index"/>
+</Page>
+</Harvesting>

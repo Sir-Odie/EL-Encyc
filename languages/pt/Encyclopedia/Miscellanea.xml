@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Miscellanea>
+<Page name="Mortar_Pestle">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   TOOLS</text><nl/>
+   <color>red</color>
+   <text>              Mortar &amp; Pestle</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Ferramenta usada para fabricar</text><link ref="Potions" title="Potions"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais Necessários:</text><nl/>
+   <text> 15 Gypsums, 10 Water Essences, 8 Fire Essences</text><nl/>
+   <text> Conhecimento necessário: Gypsum Molding</text><nl/>
+   <text> Nexus necessários: Artificial 1</text><nl/>
+   <text> Nivel de Manufacturing recomendado: 17</text><nl/>
+   <text> Experiência dada em Manufacturing: 80</text><nl/>
+   <text> Comida subtraída: 14</text><nl/>
+   <text> Stackable: Não</text><nl/>
+   <text> Peso: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Needle">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   TOOLS</text><nl/>
+   <color>red</color>
+   <text>                  Needle</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Ferramenta usada para fabricar</text><link ref="Clothes" title="Clothes"/><text> e</text><link ref="Armors" title="Armors"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/><nl/>
+   <text> Este objecto não pode ser feito.</text><nl/><nl/><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Hammer">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   TOOLS</text><nl/>
+   <color>red</color>
+   <text>                  Hammer</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Ferramenta usada para fabricar</text><link ref="Armors" title="Armors"/><text> e</text><link ref="Weapons" title="Weapons"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/><nl/>
+   <text> Este objecto não pode ser feito.</text><nl/><nl/><nl/>
+   <text> Stackable: Não</text><nl/>
+   <text> Peso: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Ring_Mold">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   TOOLS</text><nl/>
+   <color>red</color>
+   <text>                 Ring Mold</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Ferramenta usada para fabricar</text><link ref="Ring_Silver" title="Silver Ring"/><text> e</text><link ref="Ring_Gold" title="Gold Ring"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais Necessários:</text><nl/>
+   <text> 10 Gypsums, 5 Water Essences, 6 Fire Essences</text><nl/>
+   <text> Conhecimento necessário: Gypsum Molding</text><nl/>
+   <text> Nexus necessários: Artificial 1</text><nl/>
+   <text> Nivel de Manufacturing recomendado: 13</text><nl/>
+   <text> Experiência dada em Manufacturing: 65</text><nl/>
+   <text> Comida subtraída: 8</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Med_Mold">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   TOOLS</text><nl/>
+   <color>red</color>
+   <text>              Medallion Mold</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Ferramenta usada para fabricar</text><link ref="Med_Silver" title="Silver Medallion"/><text> e</text><nl/>
+   <text> </text><link ref="Med_Gold" title="Gold Medallion"/><text>.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais Necessários:</text><nl/>
+   <text> 12 Gypsums, 7 Water Essences, 8 Fire Essences</text><nl/>
+   <text> Conhecimento necessário: Gypsum Molding</text><nl/>
+   <text> Nexus necessários: Artificial 1</text><nl/>
+   <text> Nivel de Manufacturing recomendado: 15</text><nl/>
+   <text> Experiência dada em Manufacturing: 70</text><nl/>
+   <text> Comida subtraída: 10</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Hammer_Chisel">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   TOOLS</text><nl/>
+   <color>red</color>
+   <text>         Gemstone Hammer &amp; Chisel</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Ferramenta usada para fabricar</text><link ref="Jewelry" title="Polished Gems"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/><nl/>
+   <text> Este objecto não pode ser feito.</text><nl/><nl/><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="T_LGloves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   TOOLS</text><nl/>
+   <color>red</color>
+   <text>              Leather Gloves</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Ferramenta usada para minar.</text><link ref="Sulphur" title="Sulphur"/><text> e</text><link ref="Poison_Ivy" title="Poison Ivy"/><text>.</text><nl/>
+   <text> Também pode ser usada como</text><link ref="Armors" title="armor"/><text> e</text><link ref="Weapons" title="weapon"/><text>.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais Necessários:</text><nl/>
+   <text> 4 Leather, 4 Thread</text><nl/>
+   <text> Ferramentas necessárias: Needle</text><nl/>
+   <text> Nivel de Manufacturing recomendado: 8</text><nl/>
+   <text> Experiência dada Manufacturing: 40</text><nl/>
+   <text> Comida subtraída: 5</text><nl/>
+   <text> Stackable: Não</text><nl/>
+   <text> Peso: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="T_Pickaxe">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   TOOLS</text><nl/>
+   <color>red</color>
+   <text>                  Pickaxe</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Ferramenta usada para minar.</text><link ref="Minerals" title="minerals"/><text> e</text><link ref="Ores" title="ores"/><text>.</text><nl/>
+   <text> Também pode ser usada para</text><link ref="Weapons" title="weapon"/><text>.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/><nl/>
+   <text> Este objecto não pode ser feito.</text><nl/><nl/><nl/>
+   <text> Stackable: Não</text><nl/>
+   <text> Peso: 5 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Vial_Mold">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   TOOLS</text><nl/>
+   <color>red</color>
+   <text>                 Vial Mold</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Ferramenta usada para fabricar</text><link ref="Empty_Vial" title="Empty Vial"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais Necessários:</text><nl/>
+   <text> 1 Enriched Fire Essence, 5 Titanium Bars</text><nl/>
+   <text> Conhecimento necessário: Vial Mold Building</text><nl/>
+   <text> Nexus necessários: Artificial 3</text><nl/>
+   <text> Nivel de Manufacturing recomendado: 31</text><nl/>
+   <text> Experiência dada em Manufacturing: 1500</text><nl/>
+   <text> Comida subtraída: 16</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 30 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Head_Mold">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   TOOLS</text><nl/>
+   <color>red</color>
+   <text>           Arrow/Bolt Head Mold</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Tool used in making </text><link ref="ArrowBolt_Head" title="Arrow/Bolt Heads"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Wolfram Bar, 1 Enriched Fire Essence,</text><nl/>
+   <text> 1 Enriched Water Essence</text>
+   <nl/>
+   <text> Knowledge needed: Arrow/Bow Head Mold Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 7</text>
+   <nl/>
+   <text> Recommended Crafting Level: 70</text>
+   <nl/>
+   <text> Crafting Experience Given: 1200</text>
+   <nl/>
+   <text> Food subtracted: 40</text>
+   <nl/>
+   <text> Stackable: Yes</text> 
+   <nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Saw">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   TOOLS</text><nl/>
+   <color>red</color>
+   <text>                    Saw</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Tool used in harvesting </text><link ref="Yew" title="Yew"/><text>.</text>
+   <nl/><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> This item cannot be manufactured.</text>
+   <nl/><nl/><nl/>
+   <text> Stackable: No</text> 
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Knife">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   TOOLS</text><nl/>
+   <color>red</color>
+   <text>               Carving Knife</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Tool used in making </text><link ref="pk_arrow" title="PK Arrows"/><text> and </text><link ref="pk_bolt" title="PK Bolts"/><text>.</text>
+   <nl/><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> This item cannot be manufactured.</text>
+   <nl/><nl/><nl/>
+   <text> Stackable: Yes</text> 
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Alembic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   TOOLS</text><nl/>
+   <color>red</color>
+   <text>                  Alembic</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Ferramenta usada na extracção</text><link ref="Mercury" title="Mercury"/><text> de Cinnabar.</text><nl/><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais Necessários:</text><nl/>
+   <text> 1 Enriched Fire Essence, 4 Titanium Bars, 20 Quartz</text><nl/>
+   <text> Conhecimento necessário: Alembic Building</text><nl/>
+   <text> Nexus necessários: Artificial 3</text><nl/>
+   <text> Nivel de Manufacturing recomendado: 33</text><nl/>
+   <text> Experiência dada em Manufacturing: 1700</text><nl/>
+   <text> Comida subtraída: 16</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 30 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Bucket">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   TOOLS</text><nl/>
+   <color>red</color>
+   <text>                  Bucket</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Tool used in making </text><link ref="Saltpetre" title="Saltpetre"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> This item cannot be manufactured.</text>
+   <nl/><nl/>
+   <text> Note: this item can be stored only in the Hazardous Items</text><nl/>
+   <text> storage.</text>
+   <nl/><nl/><nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 10 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Scissors">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   TOOLS</text><nl/>
+   <color>red</color>
+   <text>                 Scissors</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Take care not to cut your fingers off.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> This item cannot be manufactured.</text>
+   <nl/><nl/><nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Bones Powder">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MISC</text><nl/>
+   <color>red</color>
+   <text>               Bone Powder</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Usado para:</text><link ref="Potions" title="Potions"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais Necessários:</text><nl/>
+   <text> 3 Bones</text><nl/><text> Ferramentas necessárias: Mortar &amp; Pestle</text><nl/>
+   <text> Nivel de Alchemy recomendado: 0</text><nl/>
+   <text> Experiência dada em Alchemy: 1</text><nl/>
+   <text> Comida subtraída: 0</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Thread">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MISC</text><nl/>
+   <color>red</color>
+   <text>                  Thread</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Usado para:</text><link ref="Clothes" title="Clothes"/><text> e</text><link ref="Armors" title="Armors"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais Necessários:</text><nl/>
+   <text> 5 Cotton</text><nl/><text> Nexus necessários: Artificial 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 1</text><nl/>
+   <text> Experiência dada em Crafting: 6</text><nl/>
+   <text> Comida subtraída: 1</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Leather">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MISC</text><nl/>
+   <color>red</color>
+   <text>                 Leather</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Usado para:</text><link ref="Armors" title="Armors"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/><nl/>
+   <text> Este objecto não pode ser feito.</text><nl/><nl/><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Sand_Paper">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                MISC</text><nl/>
+   <color>red</color>
+   <text>         Gem Sanding Paper</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Usado para:</text><link ref="Jewelry" title="Polished Gems"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/><nl/>
+   <text> Este objecto não pode ser feito.</text><nl/><nl/><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Loom">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MISC</text><nl/>
+   <color>red</color>
+   <text>                   Loom</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Tool used to make fabric.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> This item cannot be manufactured.</text>
+   <nl/><nl/><nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Wood_Handle">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MISC</text><nl/>
+   <color>red</color>
+   <text>               Wood Handle</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Usado para:</text><link ref="Weapons" title="Axes"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/><nl/>
+   <text> Este objecto não pode ser feito.</text><nl/><nl/><nl/>
+   <text> Stackable: Não</text><nl/>
+   <text> Peso: 5 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Empty_Vial">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MISC</text><nl/>
+   <color>red</color>
+   <text>                Empty Vial</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Usado para:</text><link ref="Potions" title="Potions"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais Necessários:</text><nl/>
+   <text> 1 Fire Essence, 2 Quartz</text><nl/>
+   <text> Ferramentas necessárias: Vial Mold</text><nl/>
+   <text> Nexus necessários: Artificial 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 14</text><nl/>
+   <text> Experiência dada em Crafting: 30</text><nl/>
+   <text> Comida subtraída: 5</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Skull_Key">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MISC</text><nl/>
+   <color>red</color>
+   <text>                Skull Key</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: criar hyperspace bag.</text><nlkx></nlkx><text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/><nl/>
+   <text> Para enviar o saco para o espaço, fica em cima do saco</text><nl/>
+   <text> e dá Use na Skull Key.</text><nl/>
+   <text> Uma hyperspace bag irá continuar lá (fechada e invisível)</text><nl/>
+   <text> até alguem usar a Skeleton Key.</text><nl/><nl/>
+   <text> Este objecto não pode ser feito.</text><nl/><nl/><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Skeleton_Key">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MISC</text><nl/>
+   <color>red</color>
+   <text>               Skeleton Key</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: receber a hyperspace bag.</text><nlkx></nlkx><text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/><nl/>
+   <text> Para receber o saco do espaço, fica no sítio exacto</text><nl/>
+   <text> (usando as coordenadas) onde a deixaste e dá</text><nl/>
+   <text> Use na Skeleton Key.</text><nl/>
+   <text> Irás perder a key (chave) se não houver hyperspace</text><nl/>
+   <text> bag no local onde a usaste.</text><nl/><nl/>
+   <text> Este objecto não pode ser feito.</text><nl/><nl/><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="FD_Fruit">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                FOOD &amp; DRINKS</text><nl/>
+   <color>red</color>
+   <text>                    Fruit</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Aumenta 20 pontos de food (comida)</text><nlkx></nlkx><text> Usado para:</text><link ref="P_Feasting" title="Potion of Feasting"/><text>.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/><nl/><nl/>
+   <text> Fruits podem ser</text><link ref="Harv_Other" title="harvested"/><text> ou comprados nas tavernas.</text><nl/><nl/><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="FD_Vegetables">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                FOOD &amp; DRINKS</text><nl/>
+   <color>red</color>
+   <text>                 Vegetables</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Aumenta 15 pontos de food (comida).</text><nlkx></nlkx><text> Usado para: Potions de</text><link ref="P_Reasoning" title="Reasoning"/><text> e</text><link ref="P_Feasting" title="Feasting"/><text>.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/><nl/><nl/>
+   <text> Vegetables podem ser</text><link ref="Harv_Other" title="harvested"/><text> ou comprados nas tavernas.</text><nl/><nl/><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="FD_Bread">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                FOOD &amp; DRINKS</text><nl/>
+   <color>red</color>
+   <text>                    Bread</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Aumenta 10 pontos de food (comida).</text><nlkx></nlkx><text> </text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/><nl/><nl/>
+   <text> Bread pode ser comprado nas tabernas;</text><nl/>
+   <text> Também se pode encontrar no chão de Isla Prima.</text><nl/><nl/><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="FD_Cooked_Meat">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                FOOD &amp; DRINKS</text><nl/>
+   <color>red</color>
+   <text>                   Cooked Meat</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Aumenta 25 pontos de food (comida).</text><nlkx></nlkx><text> </text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/><nl/><nl/>
+   <text> Pode ser comprado nas tavernas, pode-se usar assar</text><nl/>
+   <text> uma raw meat, que se consegue dos animais.</text><nl/><nl/><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="FD_Wine">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                FOOD &amp; DRINKS</text><nl/>
+   <color>red</color>
+   <text>                    Wine</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Usado para:</text><link ref="Potions" title="Potions"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/><nl/>
+   <text> Wine não pode ser feito, tem que se comprar.</text><nl/><nl/>
+   <text> Nota: não se pode beber wine.</text><nl/><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="FD_Mead">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                FOOD &amp; DRINKS</text><nl/>
+   <color>red</color>
+   <text>                    Mead</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Usado para:</text><link ref="Potions" title="Potions"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/><nl/>
+   <text> Mead não pode ser feito, tem que se comprar.</text><nl/><nl/>
+   <text> Nota: não se pode beber mead.</text><nl/><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="FD_Ale">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                FOOD &amp; DRINKS</text><nl/>
+   <color>red</color>
+   <text>                     Ale</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Usado para:</text><link ref="Potions" title="Potions"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/><nl/>
+   <text> Ale não pode ser feito, tem que se comprar.</text><nl/><nl/>
+   <text> Nota: não se pode beber ale.</text><nl/><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Conglo">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MISC</text><nl/>
+   <color>red</color>
+   <text>           Matter Conglomerate</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: mining</text><link ref="Copper" title="Copper"/><text> e</text><link ref="Seridium" title="Seridium"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais Necessários:</text><nl/>
+   <text> 80 Earth Essences, 25 Matter Essences</text><nl/>
+   <text> Nivel de Alchemy recomendado: 23</text><nl/>
+   <text> Experiência dada em Alchemy: 200</text><nl/>
+   <text> Comida subtraída: 11</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 30 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Mercury">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MISC</text><nl/>
+   <color>red</color>
+   <text>                  Mercury</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Usado para: </text><link ref="Spirit Essence" title="Spirit Essence"/><text>, </text><link ref="Death Essence" title="Death Essence"/><text>, </text><nl/>
+   <text>       </text><link ref="P_Craft" title="Potion of Crafting"/><text>, </text><link ref="P_Alchemy" title="Potion of Alchemy"/><text>.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nota: este metal não pode ser mineirado, mas pode ser </text><nl/>
+   <text> extraido de pepitas de cinnabar; o processo de </text><nl/>
+   <text> extraçao produz 2 mercury por vez.</text><nl/>
+   <nl/>
+   <text> Items necessários:</text><nl/>
+   <text> 2 Cinnabar Ores, 1 Energy Essence</text><nl/>
+   <text> Items que precisa ter: Alembic</text><nl/>
+   <text> Conhecimento Necessário: Mercury Extraction</text><nl/>
+   <text> Skill recomendado: Alchemy: 25</text><nl/>
+   <text> Experiência dada: Alchemy exp: 150</text><nl/>
+   <text> Comida Subtraída: 13</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+</Miscellanea>

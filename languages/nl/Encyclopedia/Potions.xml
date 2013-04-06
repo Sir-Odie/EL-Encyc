@@ -1,0 +1,1367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Potions>
+<Page name="P_Mana">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Drank van Mana</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="15" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Herstelt 5 etherische punten.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 1 Wijn, 1 Blauwe Lupine.</text><nl/>
+	<text> Geadviseerd Brouwen Level: 0</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 5</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Healing">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>          Drank van Kleine Genezing</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="16" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Herstelt 6 gezondheid punten.</text><nlkx/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 1 Wijn, 1 Zonnebloem.</text><nl/>
+	<text> Geadviseerd Brouwen Level: 2</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 9</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Reasoning">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Drank van Redeneren</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="6" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Redeneren tijdelijk.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 3 Bot Poeders, 1 Groente.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 1</text><nl/>
+	<text> Geadviseerd Brouwen Level: 4</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 15</text><nl/>
+	<text> Voedsel kosten: 1</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Physique">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Drank van Fysiek</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="17" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Fysiek tijdelijk.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 3 Bot Poeders, 3 Rauw Vlees, 1 Weide.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Fysiek</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 1</text><nl/>
+	<text> Geadviseerd Brouwen Level: 6</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 20</text><nl/>
+	<text> Voedsel kosten: 2</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Defense">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Drank van Verdedigen</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="13" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Verdedigen vaardigheid tijdelijk.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 2 Bever Bont, 2 Zilver Ertsen,</text><nl/>
+	<text> 4 Moeraskaarsen, 1 Bot Poeder.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 2</text><nl/>
+	<text> Geadviseerd Brouwen Level: 8</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 25</text><nl/>
+	<text> Voedsel kosten: 3</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Coordination">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>            Drank van Coordinatie</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="12" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Coordinatie tijdelijk.</text><nlkx/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Cactus, 1 Lege Fles, 1 Hert Bont.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Coordinatie</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 2</text><nl/>
+	<text> Geadviseerd Brouwen Level: 10</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 30</text><nl/>
+	<text> Voedsel kosten: 4</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Wildness">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Drank van Wildheid</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="10" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Instinct tijdelijk.</text><nlkx/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Bier, 1 Lege Fles, 1 Wolf Bont.</text><nl/>
+	<text> Kennis vereist: Drank van Wildheid</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 3</text><nl/>
+	<text> Geadviseerd Brouwen Level: 12</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 35</text><nl/>
+	<text> Voedsel kosten: 5</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Will">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Drank van Wil</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="18" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Wil tijdelijk.</text><nlkx/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 3 Bot Poeders, 2 Zilver Ertsen, 1 Gele Roos.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Wil</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 3</text><nl/>
+	<text> Geadviseerd Brouwen Level: 14</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 45</text><nl/>
+	<text> Voedsel kosten: 6</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Vitality">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Drank van Vitaliteit</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="19" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Vitaliteit tijdelijk.</text><nlkx/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Cactus, 1 Lege Fles, 1 Poema Bont.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Vitaliteit</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 3</text><nl/>
+	<text> Geadviseerd Brouwen Level: 16</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 50</text><nl/>
+	<text> Voedsel kosten: 7</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Attack">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Drank van Aanvallen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="14" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Aanvallen vaardigheid tijdelijk.</text><nlkx/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 1 Beer Bont, 1 Goud Erts, 1 Tijger Lelie.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 4</text><nl/>
+	<text> Geadviseerd Brouwen Level: 18</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 55</text><nl/>
+	<text> Voedsel kosten: 8</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Spirit Restoration">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>        Drank van Spirit Restoration</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="0" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Herstelt 20 etherische Punten.</text><nlkx/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 1 Wijn, 2 Blauwe Sterren, 1 Blauwe Kwarts.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 4</text><nl/>
+	<text> Geadviseerd Brouwen Level: 20</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 65</text><nl/>
+	<text> Voedsel kosten: 9</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Feasting">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Drank van Feasting</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="2" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Herstelt 50 voedsel punten.</text><nlkx/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 1 Wijn, 1 Rauw Vlees, 1 Groente, 1 Fruit.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Feasting</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 4</text><nl/>
+	<text> Geadviseerd Brouwen Level: 22</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 70</text><nl/>
+	<text> Voedsel kosten: 10</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Body Restoration">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>         Drank van Lichaamsherstel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="5" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Herstelt 20 gezondheid punten.</text><nlkx/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 1 Wijn, 2 Zonnebloemen, 1 Rode Kwarts.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Lichaamsherstel</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 4</text><nl/>
+	<text> Geadviseerd Brouwen Level: 24</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 75</text><nl/>
+	<text> Voedsel kosten: 11</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Harvesting">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Drank van Oogsten</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="11" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Oogsten vaardigheid tijdelijk.</text><nlkx/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 2 Witte Konijnen Bont, 3 Seringen.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 26</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 90</text><nl/>
+	<text> Voedsel kosten: 12</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Manufacturing">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Drank van Produceren</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="1" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Produceren vaardigheid tijdelijk.</text><nlkx/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 2 IJzer Ertsen, 1 Zilver Erts, 1 Zonnebloem,</text><nl/>
+	<text> 1 Chrysant.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Produceren</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 28</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 95</text><nl/>
+	<text> Voedsel kosten: 13</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Summoning">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Drank van Oproepen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="7" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Oproepen vaardigheid tijdelijk.</text><nlkx/>
+	<text> </text>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 1 Zilveren Baar, 1 Hert Gewei,</text><nl/>
+	<text> 4 Witte Aziatische Lelies.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Oproepen</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 30</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 105</text><nl/>
+	<text> Voedsel kosten: 14</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Craft">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Drank van Bewerken</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="18" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Bewerken vaardigheid tijdelijk.</text><nlkx/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 1 Titanium Baar, 2 Blauwe Kwarts,</text><nl/>
+	<text> 1 Weide, 1 Kwik.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Bewerken</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 32</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 112</text><nl/>
+	<text> Voedsel kosten: 20</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Magic">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Drank van Magie</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="17" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Magie vaardigheid tijdelijk.</text><nlkx/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 1 Gepolijste Robijn, 2 Zwarte Rozen,</text><nl/>
+	<text> 1 Bier, 1 Rattestaart.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Magie</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 34</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 118</text><nl/>
+	<text> Voedsel kosten: 30</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Extra_Mana">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>            Drank van Extra Mana</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="20" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Herstelt 50 etherische punten.</text><nlkx/>
+	<text> Het kan ook bij kans gemaakt worden bij het maken</text><nlkx/>
+	<text> van Dranken van Mana of Dranken van Geestherstel.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> EERSTE FORMULE:</text><nl/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 30 Ogre Tenen, 15 Dranken van Geestherstel,</text><nl/>
+	<text> 10 Magie Essenties.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 6</text><nl/>
+	<text> Geadviseerd Brouwen Level: 36</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 500</text><nl/>
+	<text> Voedsel kosten: 60</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 10 EMU</text><nl/>
+	<nl/>
+	<text> TWEEDE FORMULE:</text><nl/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Bind Steen, 2 Dranken van Geestherstel.</text><nl/>
+	<text> Vereiste Nexus: Magie 4</text><nl/>
+	<text> Geadviseerd Brouwen Level: 36</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 500</text><nl/>
+	<text> Voedsel kosten: 30</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 10 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Extra_Life">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Drank van Grote Genezing</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="19" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Herstelt 80 gezondheid punten.</text><nlkx/>
+	<text> Het kan ook bij kans gemaakt worden bij het maken</text><nlkx/>
+	<text> van Dranken van kleine Genezing of Lichaamsherstel.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Let op: de formule produceert 30 dranken per keer.</text><nl/>
+	<nl/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Bind Steen, 2 Dranken van Lichaamsherstel.</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 38</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 500</text><nl/>
+	<text> Voedsel kosten: 30</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Antidote">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Tegengif</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="18" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verwijderd al het vergif uit je lichaam.</text><nlkx/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 3 Wijnruit, 10 Duizendblad,</text><nl/>
+	<text> 3 Papavers, 4 Bier.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Tegengif</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 40</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 125</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_TS">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Drank van Waar Zicht</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="12" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Hiermee kun je onzichtbare spelers zien.</text><nlkx/>
+	<text> (30% kans om in plaats daarvan tijdelijk je</text><nlkx/>
+	<text> Aanvallen en Verdedigen te verlagen)</text><nlkx/>
+	<text> </text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 1 Hert gewei, 9 Absintalsem, 7 Paddestoelen,</text><nl/>
+	<text> 2 Weides.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Waar Zicht</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 42</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 140</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 4 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Invis">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>            Drank van Onzichtbaarheid</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="21" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Maakt je onzichtbaar, behalve voor diegenen met</text><nlkx/>
+	<text> Waar Zicht.</text><nlkx/>
+	<text> (30% kans om in plaats daarvan vergiftigt te worden)</text><nlkx/>
+	<text> </text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 2 Bier, 2 Sneeuw Luipaard Bont, 7 Absintalsem</text><nl/>
+	<text> 5 Narcissen, 6 Koningskaarsen.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Onzichtbaarheid</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 44</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 150</text><nl/>
+	<text> Voedsel kosten: 30</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 10 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Accuracy">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Drank van Nauwkeurigheid</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="14" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je vermogen om te mikken tijdelijk.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 3 Stinkdier Bont, 5 Valeriaan,</text><nl/>
+	<text> 15 Paardebloemen, 1 Bier.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Nauwkeurigheid</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 46</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 160</text><nl/>
+	<text> Voedsel kosten: 32</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Evasion">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Drank van Ontwijken</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="19" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je vermogen om aanvallen</text><nlkx/>
+	<text> te ontwijken tijdelijk.</text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 10 Koningskaarsen, 10 Duizendblad,</text><nl/>
+	<text> 4 Wasbeer Bont, 1 Bier.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Ontwijken</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 48</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 170</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Alchemy">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Drank van Alchemie</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="19" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Alchemie vaardigheid tijdelijk.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 3 Feran Hoornen, 3 Kwik, 1 Wijn,</text><nl/>
+	<text> 5 Narcissen.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Alchemie</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 50</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 190</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Potion">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Drank van Brouwen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="17" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Brouwen vaardigheid tijdelijk.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 2 Feran Hoornen, 1 Wijn, 5 Wijnruit,</text><nl/>
+	<text> 7 Paardebloemen, 4 Nachtschade.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Brouwen</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 52</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 210</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Eng">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>            Drank van Engineering</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="0" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Engineering vaardigheid tijdelijk.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 2 Havik Veren, 2 Valk Veren,</text><nl/>
+	<text> 2 IJsbeer Bont, 3 Weide, 5 Tarwe.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Engineering</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 60</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 510</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Cold">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>          Drank van Kou Bescherming</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="2" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Kou Bescherming tijdelijk.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 5 IJsbeer Bont, 8 Wijn, 5 Robijn.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Kou Bescherming</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 56</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 210</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Heat">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>         Drank van Hitte Bescherming</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="3" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Hitte Bescherming vaardigheid tijdelijk.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 8 Lucht Essenties, 8 Water Essenties,</text><nl/>
+	<text> 5 Turkoois.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Hitte Bescherming</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 56</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 230</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Rad">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>       Drank van Straling Bescherming</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="4" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Straling Bescherming tijdelijk.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 8 Energie Essenties, 8 Lucht Essenties,</text><nl/>
+	<text> 8 Smaragd.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Straling Bescherming</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 62</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 250</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Speed">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Drank van Snelheid Hax</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="8" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verdubbelt de loopsnelheid, verdwijnt als het</text><nlkx/>
+	<text> voedsel niveau -30 bereikt. Elke stap kan 1</text><nlkx/>
+	<text> voedsel punt verbruiken (de kans is afhankelijk van</text><nlkx/>
+	<text> de lading vergeleken met de draagcapaciteit).</text><nlkx/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Let op: de formule produceert 12 dranken per keer.</text><nl/>
+	<nl/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 12 Lege Fles, 1 Leonard Bont, 1 Mengsel van Kracht,</text><nl/>
+	<text> 24 Lucht Essenties.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Snelheid Hax</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 6</text><nl/>
+	<text> Geadviseerd Brouwen Level: 70</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 550</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Attack_Reduction">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>        Drank van Aanval Vermindering</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="6" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verminderd aanvalskracht met 5, stapelt op tot -30.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Let op: de formule produceert 12 dranken per keer.</text><nl/>
+	<nl/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 12 Lege Fles, 1 Rode Draak Schub, 12 Bier, 12 Wijn.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Aanval Vermindering</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 6</text><nl/>
+	<text> Geadviseerd Brouwen Level: 73</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 950</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Defense_Reduction">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>     Drank van Verdediging Vermindering</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="7" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Verminderd verdediging met 5, stapelt op tot -30.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Let op: de formule produceert 12 dranken per keer.</text><nl/>
+	<nl/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 12 Lege Fles, 1 Zwarte Draak Schub, 12 Bier, 12 Wijn</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Drank van Verdediging Vermindering</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 6</text><nl/>
+	<text> Geadviseerd Brouwen Level: 76</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 950</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="P_Archery_AP">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text> Drank van Boogschieten Harnas Doordringen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="8" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Verhoogd je Boogschieten Harnas Doordringen kans</text><nl/>
+	<text>       BLIJVEND met 1%, tot maximaal 60%.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Dit item kan niet geproduceerd worden.</text><nl/>
+	<nl/><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="C_Food">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Beest Voedsel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="9" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Benodigd wanneer je Shapeshifted bent.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Let op: de formule produceert 60 voedsel per keer.</text><nl/>
+	<nl/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 1 Geraffineerd Vegetatie Mengsel,</text><nl/>
+	<text> 15 Rauw Vlees</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Kennis vereist: Beest Voedsel</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 64</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 450</text><nl/>
+	<text> Voedsel kosten: 35</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="Extract_YWT">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>  Duizendblad - Absintalsem - Tulp Extract</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="3" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor </text><link ref="Mixture_VEG" title="Geraffineerd Vegetatie Mengsel"/><text>.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 40 Duizendblad, 40 Absintalsem, 40 Tulpen,</text><nl/>
+	<text> 2 Gips.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 35</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 450</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="Extract_NMD">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>        Nachtschade - Koningskaars - </text><nl/>
+	<text>             Paardebloem Extract</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="4" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor </text><link ref="Mixture_VEG" title="Geraffineerd Vegetatie Mengsel"/><text>.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 40 Nachtschade, 40 Koningskaarsen,</text><nl/>
+	<text> 40 Paardebloemen, 2 Gips.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 37</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 470</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="Extract_PHP">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>  Gifsumak - Bilzekruid - Papaver Extract</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="5" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor </text><link ref="Mixture_VEG" title="Geraffineerd Vegetatie Mengsel"/><text>.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 40 Gifsumak, 40 Bilzekruid, 40 Papaver,</text><nl/>
+	<text> 2 Gips.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 39</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 550</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="Extract_RBR">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>    Aalbes - Bosbes - Wijnruit Extract</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="6" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor </text><link ref="Mixture_VEG" title="Geraffineerd Vegetatie Mengsel"/><text>.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 40 Aalbessen, 40 Bosbessen, 40 Wijnruit,</text><nl/>
+	<text> 2 Gips.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 41</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 600</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="Extract_WOT">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>        Witte Cantharel - Ogre Teen -</text><nl/>
+	<text>           Boom Paddestoel Extract</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="7" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor </text><link ref="Mixture_POW" title="Mengsel van Kracht"/><text>.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 40 Witte Cantharellen, 40 Ogre Tenen,</text><nl/>
+	<text> 40 Boom Paddestoelen, 2 Gips.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 43</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 620</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="Extract_WVM">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>     Tarwe - Valeriaan - Bijvoet Extract</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="8" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor </text><link ref="Mixture_POW" title="Mengsel van Kracht"/><text>.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 40 Tarwe, 40 Valeriaan, 40 Bijvoet,</text><nl/>
+	<text> 2 Gips.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 45</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 640</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="Extract_WDF">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>   Tarwe - Narcis - Feran Hoorn Extract</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="9" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor </text><link ref="Mixture_POW" title="Mengsel van Kracht"/><text>.</text><nlkx/>
+	<text> </text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Lege Fles, 40 Tarwe, 40 Narcissen, 4 Feran Hoornen,</text><nl/>
+	<text> 2 Gips.</text><nl/>
+	<text> Items nodig in Inventaris: Vijzel &amp; Stamper</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 5</text><nl/>
+	<text> Geadviseerd Brouwen Level: 47</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 660</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="Mixture_VEG">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>        Geraffineerd Vegetatie Mengsel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="3" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><link ref="Saving_Stone" title="Bewaar Steen"/>
+	<text>, </text><link ref="Invasionmeter" title="Invasiemeter"/><text> en </text><nl/>
+	<text>       </text><link ref="C_Food" title="Beest Voedsel"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 5 Duizendblad - Absintalsem - Tulp Extracten,</text><nl/>
+	<text> 5 Nachtschade - Koningskaars - Paardebloem Extracten,</text><nl/>
+	<text> 5 Gifsumak - Bilzekruid - Papaver Extracten,</text><nl/>
+	<text> 5 Aalbes - Bosbes - Wijnruit Extracten.</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 6</text><nl/>
+	<text> Geadviseerd Brouwen Level: 51</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 1200</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+<Page name="Mixture_POW">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Potions" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   DRANKEN</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Mengsel van Kracht</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="1" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><link ref="Saving_Stone" title="Bewaar Steen"/><text>.</text><nl/>
+	<text>       Ook gebruikt om een </text><link ref="S_DragonR" title="Rode Draak"/><text> op te roepen.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 5 Witte Cantharel - Ogre Teen - Boom Paddestoel Extracten,</text><nl/>
+	<text> 5 Tarwe - Valeriaan - Bijvoet Extracten,</text><nl/>
+	<text> 5 Tarwe - Narcis - Feran Hoorn Extracten.</text><nl/>
+	<text> Vereiste Nexus: Vegetatie 6</text><nl/>
+	<text> Geadviseerd Brouwen Level: 53</text><nl/>
+	<text> Brouwen Ervaring Gegeven: 1200</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                </text><link ref="Potions" title="Terug Naar Dranken Index"/>
+</Page>
+</Potions>

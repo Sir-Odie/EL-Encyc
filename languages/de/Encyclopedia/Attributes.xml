@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Attribute>
+<Page name="Physique">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                Hauptattribute</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Konstitution</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Konstitution ist ein Hauptattribut, das deine "Macht",</text><nl/>
+   <text> "Substanz" und "Härte" erhöht.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <Color>blue</Color>
+   <text> Macht: ist ein Kreuzattribut, das dir erlaubt mehr</text><nl/>
+   <text> Gesamtgewicht zu tragen.</text><nl/>
+   <text> Substanz: ist ein Kreuzattribut, das deine Lebensenergie</text><nl/>
+   <text> erhöht.</text><nl/>
+   <text> Härte: reduziert den Schaden, den du in einen Kampf nehmen</text><nl/>
+   <text> kannst.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Coordination">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>              Hauptattribute</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Koordination</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Koordination ist ein Hauptattribut, das deine "Macht",</text><nl/>
+   <text> "Reaktion", und "Geschicklichkeit" erhöht.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <Color>blue</Color>
+   <text> Macht: ist ein Kreuzattribut, das dir erlaubt mehr</text><nl/>
+   <text> Gesamtgewicht zu tragen.</text><nl/>
+   <text> Reaktion: ist ein Kreuzattribut, das die Chancen im Kampf</text><nl/>
+   <text> getroffen zu werden, verringert.</text><nl/>
+   <text> Geschicklichkeit: ist ein Kreuzattribut, das die</text><nl/>
+   <text> Chancen einen Treffer zu landen erhöht.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Reasoning">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>             Hauptattribute</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Logik</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Logisches Denken ist ein Hauptattribut, das deine</text><nl/>
+   <text> "Geschicklichkeit", "Wahrnehmung", und "Vernunft" erhöht.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <Color>blue</Color>
+   <text> Geschicklichkeit: ist ein Kreuzattribut, das die Chance</text><nl/>
+   <text> erhöht, einen Treffer zu landen.</text><nl/>
+   <text> Perception: is a cross attribute that makes you see</text><nl/>
+   <text> better in low light conditions.</text><nl/>
+   <text> Vernunft: ist ein Kreuzattribut, das die Forschungszeit</text><nl/>
+   <text> verringert und die Menge an Erfahrungspunkten erhöht.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Will">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>              Hauptattribute</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Wille</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Wille ist ein Hauptattribute, das die "Substanz", "Vernunft"</text><nl/>
+   <text> und "Spiritualität" erhöht.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <Color>blue</Color>
+   <text> Substanz: ist ein Kreuzattribut, das deine Lebensenergie</text><nlkx/>
+   <text> erhöht.</text><nl/>
+   <text> Vernunft: ist ein Kreuzattribut, das die Forschungszeit</text><nlkx/>
+   <text> verringert und die Menge an Erfahrungspunkten erhöht.</text><nl/>
+   <text> Spiritualität: ist ein Kreuzattribut, das deine</text><nl/>
+   <text> Mana-Punkte erhöht.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Instinct">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                Hauptattribute</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Instinkt</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Wille ist ein Hauptattribute, das deine "Reaktion",</text><nlkx/>
+   <text> "Wahrnehmung"und "Charme" erhöht.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <Color>blue</Color>
+   <text> Reaktion: ist ein Kreuzattribut, das die Chancen im Kampf</text><nl/>
+   <text> getroffen zu werden, verringert.</text><nl/>
+   <text> Perception: is a cross attribute that makes you see</text><nl/>
+   <text> better in low light conditions.</text><nl/>
+   <text> Charm: is a cross attribute that makes your summoned</text><nl/>
+   <text> creatures more powerful and gives you a chance to</text><nl/>
+   <text> summon 2 creatures for the cost of one.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Vitality">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                Hauptattribute</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Vitalitaet</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Vitalität ist ein Hauptattribut, das deine "Härte",</text><nl/>
+   <text> "Spiritualität" und "Charme" erhöht.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <Color>blue</Color>
+   <text> Härte: reduziert den Schaden, den du in einen Kampf nehmen</text><nl/>
+   <text> kannst.</text><nl/>
+   <text> Spiritualität: ist ein Kreuzattribut, das deine Mana-Punkte</text><nl/>
+   <text> erhöht.</text><nl/>
+   <text> Charm: is a cross attribute that makes your summoned</text><nl/>
+   <text> creatures more powerful and gives you a chance to</text><nl/>
+   <text> summon 2 creatures for the cost of one.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Might">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>               Kreuzattribute</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Macht</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Macht: erhöht die Kapazität, die du tragen kannst.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Macht wird von "Konstitution" und "Koordination" erhöht.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Matter">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>               Kreuzattribute</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Substanz</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Substanz: erhöht die maximalen Lebensenergie-Punkte.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Substanz wird von "Konstitution" und "Wille" erhöht.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Toughness">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>               Kreuzattribute</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Härte</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Härte: reduziert den Schaden, den du in einen Kampf nehmen</text><nl/>
+   <text> kannst.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Härte wird von "Konstitution" und "Vitalität" erhöht.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Charm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>               Kreuzattribute</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Charme</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Charm makes your summoned creatures more powerful</text><nl/>
+   <text> and gives you a chance to summon 2 creatures for the</text><nl/>
+   <text> cost of one.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Charme wird erhöht von "Instinkt" und "Vitalität".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Reaction">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>               Kreuzattribute</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Reaktion</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Reaktion: verringert die Chance in einen Kampf getroffen</text><nl/>
+   <text> zu werden.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Reaktion wird erhöht von "Koordination" und "Instinkt".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Perception">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>               Kreuzattribute</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Wahrnehmung</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Perception makes you see better in low light conditions.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Wahrnehmung wird erhöht von "Logisches Denken"</text><nl/>
+   <text> und "Instinkt".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Rationality">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>               Kreuzattribute</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Vernunft</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Vernunft: verringert die Forschungszeit und erhöht</text><nl/>
+   <text> die Menge an Erfahrungspunkten.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Vernunft wird erhöht von "Logisches Denken" und "Wille".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Dexterity">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>               Kreuzattribute</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Geschicklichkeit</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Geschicklichkeit: erhöht die Chance in einen Kampf einen</text><nl/>
+   <text> Treffer zu landen.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Geschicklichkeit wird erhöht von "Logisches Denken" und</text><nl/>
+   <text> "Koordination".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Ethereality">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>               Kreuzattribute</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Spiritualität</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Spiritualität: erhöht die maximale Menge der Mana-Punkte.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Spiritualität wird erhöht von "Wille" und "Vitalität".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Nx_Human">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Menschlicher Nexus</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Der menschliche Nexus bestimmt die Art von Waffen,</text><nl/>
+   <text> die du tragen kannst (Rüstungen, Schwerter, Schilder, ect.).</text><nl/>
+   <text> Je höher der menschliche Nexus ist, umso bessere Ausrüstung</text><nl/>
+   <text> kannst du benutzen.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Nx_Animal">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Tierischer Nexus</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Wird für "Schöpfung" gebraucht. Je höher der tierische</text><nl/>
+   <text> Nexus ist, umso bessere Kreaturen kannst du erschaffen.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Nx_Vegetal">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Vegetativer Nexus</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Wird für Zaubertränke gebraucht. Je höher, umso besser.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Nx_Inorganic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Unorganischer Nexus</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Wird für Bergbau gebraucht.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Nx_Artificial">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Künstlicher Nexus</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Wird Für Fertigung gebraucht. Du brauchst einen hohen</text><nl/>
+   <text> künstlichen Nexus, um bessere Gegenstände zu machen.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Nx_Magic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Magischer Nexus</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Wird gebraucht, um einige Gegenstände zu</text><nl/>
+   <text> verändern/einzubetten.</text><nl/>
+   <nl/><nl/>
+   <text> Note: once you get a nexus spending a pickpoint at the</text><nl/>
+   <text> Wraith, it will need about 1 minute to charge (your food</text><nl/>
+   <text> level must be positive).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Sk_Attack">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                  Fertigkeiten</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Angriff</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Mit Angriff wird berechnet, wieviel Schaden du</text><nl/>
+   <text> anrichtest, wenn du einen Treffer landest.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Sk_Defense">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                  Fertigkeiten</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Abwehr</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Mit Abwehr wird berechnet, wieviel Schaden du</text><nl/>
+   <text> nimmst, wenn dich eine Kreatur trifft.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Sk_Harvesting">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                  Fertigkeiten</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Ernte</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Mit Ernte wird die Fehlerquote berechnet, </text><nl/>
+   <text> wenn du Materialien abbaust/erntest.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Sk_Alchemy">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                  Fertigkeiten</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Alchemie</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Mit Alchemie wird die Fehlerquote berechnet,</text><nl/>
+   <text> wenn du Essenzen und Metallbarren machst.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Sk_Magic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                  Fertigkeiten</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Magie</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Magie wird für Zaubersprüche gebraucht. Je höher der Level</text><nl/>
+   <text> ist, umso stärkere Zaubersprüche kannst du machen.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Sk_Potion">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                  Fertigkeiten</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Tränke</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Der Zaubertrank-Level bestimmt die Fehlerquote,</text><nl/>
+   <text> wenn du Zaubertränke machst.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Sk_Summoning">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                  Fertigkeiten</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Beschwoeren</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Mit Schöpfung wird die Fehlerquote berechnet, wenn du</text><nl/>
+   <text> Kreaturen erschaffst.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Sk_Manufacture">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                  Fertigkeiten</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Fertigung</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Mit Fertigung wird die Fehlerquote berechnet, wenn du</text><nl/>
+   <text> Waffen und Rüstungen herstellst.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Sk_Crafting">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                  Fertigkeiten</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Handwerk</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Mit Handwerk wird die Fehlerquote berechnet, wenn du</text><nl/>
+   <text> Juwelierarbeiten herstellst.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+<Page name="Sk_Engineering">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  Skills</text><nl/>
+   <color>red</color>
+   <text>                Engineering</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Engineering is used to calculate the failure rate when</text><nl/>
+   <text> you are making nails, landmines and other devices.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Attributes" title="Back To Attributes"/>
+</Page>
+<Page name="Sk_Overall">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Zuruck"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">Die Eternal Lands Enzyklopädie</text>
+   <nl/>
+   <text>                  Fertigkeiten</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Gesamt</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Dein Gesamt-Level gibt dir Sammelpunkte.</text><nl/>
+   <text> Sammelpunkte kannst du gegen Attribute eintauschen.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>               </text><link ref="Attribute" title="Zuruck zum Attribute Index"/>
+</Page>
+</Attribute>

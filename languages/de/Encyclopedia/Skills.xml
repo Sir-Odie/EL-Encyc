@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+<Page Name="newskills">
+   
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>             Eternal Lands Hilfe</text><nl/>
+   <text>                 Fähigkeiten</text><nl/>
+   
+   <nl/>
+   <color r="1" g="1" b="1"/>
+   <size>Big</size>
+   <text>          Grundlegende Fähigkeiten</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>        </text><link ref="fight" title="Kämpfen"/><text>          </text>
+   <link ref="manu" title="Herstellung"/>
+   <nl/><nl/>
+   <text>        </text><link ref="harv" title="Ernten"/><text>           </text>
+   <link ref="pots" title="Tränke"/>
+   <nl/><nl/>
+   <text>        </text><link ref="alch" title="Alchemie"/><text>         </text>
+   <link ref="summ" title="Beschwörung"/>
+   <nl/><nl/>
+   <text>        </text><link ref="magc" title="Magie"/><text>            </text>
+   <text> </text>
+   <nl/><nl/>
+   
+   <color r="1" g="1" b="1"/>
+   <size>Big</size>
+   <text>        Fortgeschrittene Fähigkeiten</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text>        </text><link ref="crft" title="Veredelung"/><text>       </text>
+   <link ref="tail" title="Schneiderei"/>
+   <nl/><nl/>
+   <text>        </text><link ref="engn" title="Konstruktion"/><text>     </text>
+   <link ref="rang" title="Bogenschießen"/>
+   <nl/>
+   
+</Page>
+
+<Page Name="fight">
+   <size>Small</size><color>yellow</color>
+   <link x="430" y="2" ref="newskills" title="Zurück"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Hilfe</text><nl/>
+   <text>                 Fähigkeiten</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Kämpfen:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> Die</text>
+   <color r="1" g="1" b="1"/>
+   <text> Fähigkeiten im Kampf sind Angriff und Verteidigung.</text><nl/>
+   <text> Um diese Fähigkeiten zu verbessern musst Du viel kämpfen.</text><nl/>
+   <text> Du kämpfst gegen Tiere, wie Hasen, Biber, Ratten oder</text><nl/>
+   <text> Hirsche und später gegen Monster, wie Goblins, Skelette</text><nl/>
+   <text> usw. Eine ander Möglichkeit wäre, auf speziellen "PK"</text><nl/>
+   <text> (player killing) Karten gegen andere Spieler anzutreten.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Anfänger</text>
+   <color r="1" g="1" b="1"/>
+   <text> sollten sich zuerst an schwächeren Kreaturen</text><nl/>
+   <text> versuchen, wie Hasen, Ratten und Biber.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Während</text>
+   <color r="1" g="1" b="1"/>
+   <text> des Kampfes kannst du verletzt oder auch getötet</text><nl/>
+   <text> werden. Um wieder an Lebenspunkte zu kommen, solltest du</text><nl/>
+   <text> dein Nahrungslevel (der gelbe Balken) über 0 halten. Dazu</text><nl/>
+   <text> musst du etwas essen, wie z.B. Brot, Früchte, Gemüse und</text><nl/>
+   <text> gebratenes Fleisch. Du kannst Dein Essen in einer Taverne</text><nl/>
+   <text> kaufen, in einem Beutel auf Isla Prima finden oder Gemüse</text><nl/>
+   <text> selbst ernten. Du isst indem du auf das Zeigefinger-Symbol</text><nl/>
+   <text> am unteren Rand und anschließend auf das Essen klickst.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Um</text>
+   <color r="1" g="1" b="1"/>
+   <text> dich während der ersten Level zu heilen, kannst du</text><nl/>
+   <text> nach Isla Prima zurückgehen und mit dem Tutorial NPC</text><nl/>
+   <text> reden.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Um</text>
+   <color r="1" g="1" b="1"/>
+   <text> dich noch schneller zu heilen, kannst du Heiltränke</text><nl/>
+   <text> kaufen oder herstellen und sie trinken. Möglich wäre</text><nl/>
+   <text> auch, einen Heilzauber auf dich anzuwenden.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wenn</text>
+   <color r="1" g="1" b="1"/>
+   <text> du stirbst, erscheinst du in der Nähe des Lagerfeuers</text><nl/>
+   <text> auf Isla Prima. Sind deine Level etwas höher, wirst du in</text><nl/>
+   <text> die Unterwelt geschickt. Um diese zu verlassen, musst Du</text><nl/>
+   <text> Richtung Norden gehen, bis du große Stufen mit Kerzen an</text><nl/>
+   <text> den Seiten erkennst, die zu einem rot leuchtenden Portal</text><nl/>
+   <text> führen. Gehe sie hoch und klicke auf den Torbogen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Du</text>
+   <color r="1" g="1" b="1"/>
+   <text> wirst einige Dinge verlieren, wenn du stirbst. Das ist</text><nl/>
+   <text> normal und passiert jedem! Sie fallen in einem kleinen</text><nl/>
+   <text> braunen Beutel auf den Boden an der Stelle, an der du</text><nl/>
+   <text> gestorben bist. Die meisten bekommen ihre Sachen nicht</text><nl/>
+   <text> zurück, was absolut legal und normal ist. Alles in einem</text><nl/>
+   <text> Beutel auf dem Boden ist frei für jeden, egal warum er</text><nl/>
+   <text> fallengelassen wurde.</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Zurück zum Hilfe Index"/>
+   <nl/>
+</Page>
+
+<Page Name="harv">
+   <size>Small</size><color>yellow</color>
+   <link x="430" y="2" ref="newskills" title="Zurück"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Hilfe</text><nl/>
+   <text>                 Fähigkeiten</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ernten:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> Das</text>
+   <color r="1" g="1" b="1"/>
+   <text> Ernten wird benötigt, um an Dinge wie Blumen, Erz,</text><nl/>
+   <text> Juwelen oder Nahrung zu gelangen. Um diese Fähigkeit zu</text><nl/>
+   <text> beginnen suchst du einfach eine Blume, klickst auf sie</text><nl/>
+   <text> und wartest. Du erhältst die Nachricht "Du beginnst xxx</text><nl/>
+   <text> zu ernten" wobei xxx für den Namen der Pflanze steht.</text><nl/>
+   <text> Öffne dein Inventar (Beutel-Symbol oder Strg + i) und du</text><nl/>
+   <text> siehst, dass du mehr und mehr Blumen bekommst.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Du</text>
+   <color r="1" g="1" b="1"/>
+   <text> erhältst maximal 120 mal Erfahrungspunkte pro</text><nl/>
+   <text> EL-Stunde (um die Zeit im Spiel abzufragen, klicke auf</text><nl/>
+   <text> die Uhr an der rechten Seite des Bildschirms). Eine rote</text><nl/>
+   <text> Mitteilung zeigt dir, wenn du dieses Limit erreicht hast.</text><nl/>
+   <text> Du kannst weiter ernten, aber erhältst bis zu nächsten</text><nl/>
+   <text> Stunde keine weiteren Erfahrungspunkte.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Während</text>
+   <color r="1" g="1" b="1"/>
+   <text> du verschiedene Pflanzen erntest, fällt dir</text><nl/>
+   <text> vielleicht auf, dass du unterschiedlich hohe</text><nl/>
+   <text> Erfahrungspunkte bekommst. Dinge die schwerer zu kriegen</text><nl/>
+   <text> sind bringen mehr Punkte als einfache. Für Anfänger wäre</text><nl/>
+   <text> das Gemüse. Es dauert länger als bei Blumen, aber Gemüse</text><nl/>
+   <text> bringt für dafür die meisten Punkte ein. Außerdem bekommst</text><nl/>
+   <text> du so auch gleich Nahrung, die du jetzt nicht mehr kaufen</text><nl/>
+   <text> musst. Gemüse ist auch eine Einnahmequelle, da du es in</text><nl/>
+   <text> Tavernen verkaufen kannst.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Es</text>
+   <color r="1" g="1" b="1"/>
+   <text> können beim ernten von Zeit zu Zeit Ereignisse</text><nl/>
+   <text> auftreten. Einige davon sind negativ, andere positiv.</text><nl/>
+   <text> So kannst du z.B. von einer Biene gestochen werden</text><nl/>
+   <text> (verlierst Gesundheit), Königin Natur segnet dich mit</text><nl/>
+   <text> extra Erfahrungspunkten oder du findest einen Beutel mit</text><nl/>
+   <text> Goldmünzen. Diese Ereignisse stoppen das Ernten. Du musst</text><nl/>
+   <text> erneut auf die Ressourcen klicken, um sie zu ernten.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Um</text>
+   <color r="1" g="1" b="1"/>
+   <text> mit dem Ernten aufzuhören, klickst du erneut auf die</text><nl/>
+   <text> Ressource oder gehst einfach weg.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Zurück zum Hilfe Index"/>
+   <nl/>
+</Page>
+
+<Page Name="manu">
+   <size>Small</size><color>yellow</color>
+   <link x="430" y="2" ref="newskills" title="Zurück"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Hilfe</text><nl/>
+   <text>                 Fähigkeiten</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Herstellung:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> Um</text>
+   <color r="1" g="1" b="1"/>
+   <text> damit zu beginnen Dinge herzustellen, benötigst du eine</text><nl/>
+   <text> Nadel, Garn und Felle. Behalte das Fell von erlegten</text><nl/>
+   <text> Hasen und verkauf nur das Fleisch. Dann geh in ein</text><nl/>
+   <text> Warenhaus, wie in Lakeside z.B. und besorg dir etwas Garn</text><nl/>
+   <text> und eine Nadel.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Lakeside</text>
+   <color r="1" g="1" b="1"/>
+   <text> ist das Dorf am Hafen von White Stone. Von Isla</text><nl/>
+   <text> Prima aus gehst du nach Süden zum Hafen und klickst auf</text><nl/>
+   <text> die Flagge am Schiff. Drücke TAB um die Karte zu sehen.</text><nl/>
+   <text> Das Warenhaus ist der grüne Punkt.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Stell</text>
+   <color r="1" g="1" b="1"/>
+   <text> sicher, dass du Essen im Inventar hast. Du kannst</text><nl/>
+   <text> nichts herstellen, wenn du hungrig bist (gelber Balken</text><nl/>
+   <text> unter 0). Halte also Deinen Nahrungslevel positiv.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Das</text>
+   <color r="1" g="1" b="1"/>
+   <text> erste das du machst sind warme Fellhandschuhe. Du</text><nl/>
+   <text> brauchst 3 braune Hasenfelle und 2 Garn. Schau dass du</text><nl/>
+   <text> eine Nadel im Inventar hast. Öffne das Herstellungsfenster</text><nl/>
+   <text> durch klicken des "Hammer und Ambos"-Symbols. Klicke 3mal</text><nl/>
+   <text> auf die Hasenfelle und 2mal auf das Garn, klicke dann auf</text><nl/>
+   <text> "Mixen" und warte. Wenn alles gut geht, hast Du deine</text><nl/>
+   <text> ersten Fellhandschuhe hergestellt.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> **Hinweis**:</text>
+   <color r="1" g="1" b="1"/>
+   <text> Ab und zu hast du einen Fehlversuch. Das ist</text><nl/>
+   <text> normal. Versuch es einfach nochmal. Jetzt stell soviel</text><nl/>
+   <text> Handschuhe her, wie du Felle hast, bis dein Level bei 4</text><nl/>
+   <text> oder 5 ist. Du kannst die Handschuhe im Warenhaus</text><nl/>
+   <text> verkaufen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zeit</text>
+   <color r="1" g="1" b="1"/>
+   <text> dir eine Pelzmütze zu machen. Geh nach White Stone</text><nl/>
+   <text> und versuche einen weißen Hasen zu erlegen. Tirnwood Vale</text><nl/>
+   <text> (siehe TAB) wäre ein guter Platz dafür. Außerdem brauchst</text><nl/>
+   <text> du 3 Biberfelle. Alles was du jetzt noch tun musst ist dir</text><nl/>
+   <text> 3 Garn zu besorgen und du hast die benötigten Dinge für</text><nl/>
+   <text> "die Mütze der Mützen".</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Um</text>
+   <color r="1" g="1" b="1"/>
+   <text> die Mütze herzustellen, brauchst du eine Nadel im</text><nl/>
+   <text> Inventar. Öffne das "Mixen" Fenster, klicke 3mal auf die</text><nl/>
+   <text> Biberfelle, 3mal auf Garn und einmal auf das weiße</text><nl/>
+   <text> Hasenfell. Klicke auf "Mixen", warte, und hoff dass du</text><nl/>
+   <text> eine Fellmütze hergestellt hast.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wenn</text>
+   <color r="1" g="1" b="1"/>
+   <text> Fellmützen kein Problem mehr darstellen, versuche an</text><nl/>
+   <text> Wolf-und Fuchsfelle zu kommen. Frag Spieler ob sie dir</text><nl/>
+   <text> einige Felle verkaufen wollen. Natürlich kannst du auch</text><nl/>
+   <text> versuchen selbst Wölfe und Füchse zu erlegen, aber sie</text><nl/>
+   <text> sind deutlich stärker als Hasen oder Ratten, also bevor</text><nl/>
+   <text> du Selbstmord begehst, frag lieber andere Spieler nach</text><nl/>
+   <text> den Fellen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Du</text>
+   <color r="1" g="1" b="1"/>
+   <text> benötigst 3 Wolffelle, 2 Fuchsfelle und 5 Garn um einen</text><nl/>
+   <text> Fellumhang zu machen. Vergess nicht die Nadel und Essen</text><nl/>
+   <text> im Inventar. Gehe genauso vor wie oben um den Umhang</text><nl/>
+   <text> herzustellen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Jetzt</text>
+   <color r="1" g="1" b="1"/>
+   <text> hast du ein Set an Fellkleidung: Handschuhe, Mütze</text><nl/>
+   <text> und Umhang. Jetzt kannst du sie tragen. Glückwunsch!</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Das</text>
+   <color r="1" g="1" b="1"/>
+   <text> nächste nützliche wären Lederhandschuhe. Du brauchst</text><nl/>
+   <text> 4 Leder und 4 Garn. Leder kann man im Warenhaus kaufen.</text><nl/>
+   <text> Nadel im Inventar nicht vergessen und etwas essen, dann</text><nl/>
+   <text> das Herstellungsfenster öffnen, 4mal auf Leder und Garn</text><nl/>
+   <text> klicken und anschließend auf "Mixen". Stell dich auf</text><nl/>
+   <text> einen Fehlversuch ein und darauf, die Dinge zu verlieren.</text><nl/>
+   <text> Nach einigen Versuchen solltest du Lederhandschuhe</text><nl/>
+   <text> besitzen, die sehr nützlich sind. Du brauhst sie unter</text><nl/>
+   <text> anderem, um Schwefel oder Kakteen zu ernten und Du kannst</text><nl/>
+   <text> sie auch als Waffe verwenden!</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Zurück zum Hilfe Index"/>
+   <nl/>
+</Page>
+
+<Page Name="alch">
+   <size>Small</size><color>yellow</color>
+   <link x="430" y="2" ref="newskills" title="Zurück"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Hilfe</text><nl/>
+   <text>                 Fähigkeiten</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Alchemie:</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Alchemie</text>
+   <color r="1" g="1" b="1"/>
+   <text> ist die Kunst, Essenzen und Metallbarren</text><nl/>
+   <text> herzustellen. Also fangen wir mit den Feueressenzen an,</text><nl/>
+   <text> da sie einfach zu machen sind und man sie im Magierladen</text><nl/>
+   <text> oder an Spieler verkaufen kann um Geld zu verdienen. Man</text><nl/>
+   <text> benötigt sie ausserdem, um Metall zu schmelzen, Barren</text><nl/>
+   <text> oder andere metallische Dinge herzustellen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Du</text>
+   <color r="1" g="1" b="1"/>
+   <text> brauchst Schwefel, rote Rosen und "Red Snapdragons" um</text><nl/>
+   <text> eine Feueressenz herzustellen. Beide Blumen findest du in</text><nl/>
+   <text> Valley of the Dwarves, an der westlichen Seite des Flusses</text><nl/>
+   <text> im Wald (etwas Suche ist nötig). Um nach Valley of the</text><nl/>
+   <text> Dwarves von Isla Prima aus zu kommen, gehe zum Hafen,</text><nl/>
+   <text> klicke auf die Flagge am Schiff und du bist in Lakeside.</text><nl/>
+   <text> Geh zum zweiten Schiff, klicke auf die Flagge (ein Hirsch</text><nl/>
+   <text> darauf) und du bist in Desert Pines. Das zweite Schiff</text><nl/>
+   <text> (ein Bär auf der Flagge) bringt dich nach Valley of the</text><nl/>
+   <text> Dwarves. Ernte die Blumen und bring sie zu Molgor, dem</text><nl/>
+   <text> Depot der Stadt.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Schwefel</text>
+   <color r="1" g="1" b="1"/>
+   <text> findest du in den Kristallhöhlen (crystal caves)</text><nl/>
+   <text> im Zentrum von Desert Pines. Nimm das Schiff in Valley of</text><nl/>
+   <text> the Dwarves zurück nach Desert Pines. Die Höhle befindet</text><nl/>
+   <text> sich in der Mitte der Karte in den Bergen. Um Schwefel zu</text><nl/>
+   <text> ernten, musst du Lederhandschuhe tragen. Du kannst sie</text><nl/>
+   <text> selbst herstellen, beim Schmied in White Stone City kaufen</text><nl/>
+   <text> (violetter Punkt) oder bei anderen Spielern. Wenn du</text><nl/>
+   <text> Schefel gefunden und geerntet hast, kannst du es im Depot</text><nl/>
+   <text> auf Desert Pines beim NPC Grim lagern.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Sobald</text>
+   <color r="1" g="1" b="1"/>
+   <text> du die Blumen und Schwefel gesammelt hast, besorgst</text><nl/>
+   <text> du dir etwas Nahrung, gehst zu Grim und entnimmst je 10</text><nl/>
+   <text> rote Rosen, Red Snapdragons und Schwefel. Denk daran ein</text><nl/>
+   <text> positives Nahrungslevel zu haben, sonst kannst du keine</text><nl/>
+   <text> Essenzen herstellen. Öffne das Herstellungsfenster</text><nl/>
+   <text> (Hammer und Ambos Symbol) und klicke je einmal auf eine</text><nl/>
+   <text> Rose, Red Snapdragon und Schwefel. Klicke anschließend</text><nl/>
+   <text> auf Mixen und warte. Du hast jetzt hoffentlich deine erste</text><nl/>
+   <text> Feueressenz hergestellt. Fehlversuche sind möglich,</text><nl/>
+   <text> versuch es einfach erneut.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Stell</text>
+   <color r="1" g="1" b="1"/>
+   <text> jetzt mehr Feueressenzen her. Begib dich dann auf</text><nl/>
+   <text> die suche nach den Magierläden in Grahm's Village</text><nl/>
+   <text> (westlich der Taverne) oder in White Stone City. Verkauf</text><nl/>
+   <text> sie dort und du weißt ab sofort, wie man schnell an Geld</text><nl/>
+   <text> kommt.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Du</text>
+   <color r="1" g="1" b="1"/>
+   <text> solltest jetzt unzählige Essenzen herstellen. Schau</text><nl/>
+   <text> genau in dein Inventar. Wenn plötzlich ein zweites Fenster</text><nl/>
+   <text> mit Essenzen auftaucht, bedeutet das nicht, dass das erste</text><nl/>
+   <text> voll ist. Klicke mit dem Auge Symbol auf beide Fenster und</text><nl/>
+   <text> du erkennst, dass eines davon eine "angereicherte"</text><nl/>
+   <text> Feueressenz enthält, die du für viel Geld an Spieler</text><nl/>
+   <text> verkaufen kannst. Es besteht nur eine kleine Chance so</text><nl/>
+   <text> eine Essenz herzustellen,wenn du also eine bekommst, hast</text><nl/>
+   <text> du wirklich Glück gehabt.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Zurück zum Hilfe Index"/>
+   <nl/>
+</Page>
+
+<Page Name="magc">
+   <size>Small</size><color>yellow</color>
+   <link x="430" y="2" ref="newskills" title="Zurück"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Hilfe</text><nl/>
+   <text>                 Fähigkeiten</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magie:</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Magie</text>
+   <color r="1" g="1" b="1"/>
+   <text> ist die Kunst, Zauber zu sprechen. Dafür benötigst</text><nl/>
+   <text> du Sigils und Essenzen. Sigils kaufst du in den</text><nl/>
+   <text> Magierläden auf der White Stone Karte. Einmal gekauft</text><nl/>
+   <text> werden sie im "Magie" Fenster (Zauberstab-Symbol)</text><nl/>
+   <text> angezeigt, nicht im Inventar, und bleiben dort für immer.</text><nl/>
+   <text> Essenzen kannst du ebenfalls im Magierladen kaufen. Du</text><nl/>
+   <text> kannst auch deine eigenen Essenzen herstellen oder sie</text><nl/>
+   <text> von anderen Spielern kaufen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zu</text>
+   <color r="1" g="1" b="1"/>
+   <text> Beginn gehst du zum Magierladen nach Grahm's Village</text><nl/>
+   <text> und kaufst ein "Health-Sigil". Geh dann nach White Stone</text><nl/>
+   <text> City und besorg dir das "Increase-Sigil". Kauf dort auch</text><nl/>
+   <text> gleich einige "Health-Essenzen". Jetzt bist du bereit um</text><nl/>
+   <text> Heilungszauber zu sprechen. Kämpfe mit einigen Tieren</text><nl/>
+   <text> und heil dich,wenn du verwundet bist.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dazu</text>
+   <color r="1" g="1" b="1"/>
+   <text> öffnest du das "Magie" Fenster (Zauberstab-Symbol)</text><nl/>
+   <text> und findest dort 2 Sigil. Klicke zuerst auf "Increase"</text><nl/>
+   <text> und dann auf "Health". Stell sicher, dass du Health</text><nl/>
+   <text> Essenzen im Inventar hast und klicke auf "Cast" (Zauber</text><nl/>
+   <text> ausführen). Wenn du keinen Fehlversuch hattest, solltest</text><nl/>
+   <text> du 10 Lebenspunkte (roter Balken) erhalten haben und</text><nl/>
+   <text> 5 Manapunkte verloren haben (blauer Balken). Jeder Zauber</text><nl/>
+   <text> benötigt eine gewisse Menge an Mana. Wenn der Wert unter</text><nl/>
+   <text> 5 liegt, kannst du keine Heilungszauber ausführen und</text><nl/>
+   <text> musst warten, bis du wieder einige dazu bekommen hast.</text><nl/>
+   <text> Dazu muss dein Nahrungslevel ebenfalls über 0 sein.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Du</text>
+   <color r="1" g="1" b="1"/>
+   <text> kannst auch Manatränke oder "Spirit Restoration" Tränke</text><nl/>
+   <text> benutzen, um das Mana aufzufüllen. Mira, der NPC auf dem</text><nl/>
+   <text> White Stone City Marktplatz verkauft sie oder du kannst</text><nl/>
+   <text> sie von anderen Spielern kaufen. Indem du die Zauber</text><nl/>
+   <text> sprichst und Tränke trinkst, kannst du schnell dein</text><nl/>
+   <text> Magielevel erhöhen. Behalte aber die leeren Gefäße, du</text><nl/>
+   <text> wirst sie später vielleicht noch brauchen!</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Zurück zum Hilfe Index"/>
+   <nl/>
+</Page>
+
+<Page Name="pots">
+   <size>Small</size><color>yellow</color>
+   <link x="430" y="2" ref="newskills" title="Zurück"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Hilfe</text><nl/>
+   <text>                 Fähigkeiten</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Tränke:</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Fangen</text>
+   <color r="1" g="1" b="1"/>
+   <text> wir mit Heiltränken an. Wenn du sie trinkst,</text><nl/>
+   <text> erhältst du 5 Lebenspunkte (roter Balken), kannst sie</text><nl/>
+   <text> also verwenden während du kämpfst.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Um</text>
+   <color r="1" g="1" b="1"/>
+   <text> sämtliche Tränke herzustellen,benötigst du Philolen.</text><nl/>
+   <text> Der einfachste Weg an diese zu kommen ist, sie bei Harvy</text><nl/>
+   <text> zu kaufen, der sich im Süden von Kamara Desert befindet.</text><nl/>
+   <text> Sie kosten 3 gc und 5 Quartz.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Dann</text>
+   <color r="1" g="1" b="1"/>
+   <text> gehst du zurück nach Grahm's Village zum westlichsten</text><nl/>
+   <text> Haus mit der Gemüsestelle im Garten. In der Nähe befinden</text><nl/>
+   <text> sich Sonnenblumen, nimm einige und auch etwas Gemüse.</text><nl/>
+   <text> Danach kaufst du etwas Wein in der Taverne und du bist</text><nl/>
+   <text> bereit, deine eigenen Tränke herzustellen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Stell</text>
+   <color r="1" g="1" b="1"/>
+   <text> sicher, dass dein Nahrungslevel positiv ist und</text><nl/>
+   <text> öffne das Herstellungsfenster (Hammer und Ambos Symbol).</text><nl/>
+   <text> Klicke je einmal auf eine Phiole, Wein und Sonnenblume.</text><nl/>
+   <text> Klicke auf "Mixen" und warte. Wenn du keinen Fehlversuch</text><nl/>
+   <text> hast, besitzt du nun deinen ersten selbstgemachten</text><nl/>
+   <text> Heiltrank.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Zurück zum Hilfe Index"/>
+   <nl/>
+</Page>
+
+<Page Name="summ">
+   <size>Small</size><color>yellow</color>
+   <link x="430" y="2" ref="newskills" title="Zurück"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Hilfe</text><nl/>
+   <text>                 Fähigkeiten</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Beschwörung</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Eine</text>
+   <color r="1" g="1" b="1"/>
+   <text> Beschwörung ermöglicht dir eine Kreatur für eine</text><nl/>
+   <text> begrenzte Zeit auferstehen zu lassen. Sie werden dir</text><nl/>
+   <text> überall auf der Karte folgen bis sie sterben.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Zuerst</text>
+   <color r="1" g="1" b="1"/>
+   <text> brauchst du ein braunes Hasenfell, einen Knochen</text><nl/>
+   <text> und ein Stück Fleisch. Kauf dir eine Lebensessenz im</text><nl/>
+   <text> Magieladen und achte darauf, dass dein Mana über 0 ist</text><nl/>
+   <text> (blauer Balken). Jetzt such dir eine ruhige Stelle.</text><nl/>
+   <text> Beschwöre nie an Plätzen, wo viel los ist, wie an Depots</text><nl/>
+   <text> oder "Beam/Wraith".</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Öffne</text>
+   <color r="1" g="1" b="1"/>
+   <text> das Herstellungsfenster (Hammer und Ambos Symbol)</text><nl/>
+   <text> und klicke je einmal auf ein braunes Hasenfell, Fleisch</text><nl/>
+   <text> Knochen und Lebensessenz. Klicke auf "Mixen" und warte.</text><nl/>
+   <text> Wenn du keinen Fehlversuch hast, hüpft jetzt ein Hase</text><nl/>
+   <text> neben dir. Wenn du jetzt weg gehst, wird er dir folgen.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Zurück zum Hilfe Index"/>
+   <nl/>
+</Page>
+
+<Page Name="crft">
+   <size>Small</size><color>yellow</color>
+   <link x="430" y="2" ref="newskills" title="Zurück"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Hilfe</text><nl/>
+   <text>                 Fähigkeiten</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Veredelung</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Veredelung</text>
+   <color r="1" g="1" b="1"/>
+   <text> ist schon eine etwas anspruchsvollere</text><nl/>
+   <text> Fähigkeit, mit der erst begonnen werden sollte, wenn</text><nl/>
+   <text> schon einige Erfahrung in anderen Fähigkeiten besteht.</text><nl/>
+   <text> Du bist vor allem auf gute Fähigkeiten in Alchemie und</text><nl/>
+   <text> Ernte angewiesen und musst eine Menge geforscht haben,</text><nl/>
+   <text> dazu wird auch noch viel Gold benötigt. Veredelung ist</text><nl/>
+   <text> die Kunst, magische Juwelen wie Medallions und Ringe für</text><nl/>
+   <text> den Kampf und Teleportationsringe herzustellen. Die</text><nl/>
+   <text> Fähigkeit ist zeitverschlingend, teuer und benötigt viel</text><nl/>
+   <text> Forschungg. </text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Um</text>
+   <color r="1" g="1" b="1"/>
+   <text> die ersten Level in Veredelung zu meistern, brauchst du</text><nl/>
+   <text> einen "Artificial" (Künstlich) Nexus (siehe Wraith). Geh</text><nl/>
+   <text> nach Desert Pines und such nach etwas Baumwolle in Corren</text><nl/>
+   <text> Village und ernte es.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wenn</text>
+   <color r="1" g="1" b="1"/>
+   <text> du etwa 30 Stück hast, öffne das Herstellungsfenster</text><nl/>
+   <text> (Hammer und Ambos Symbol). Klicke 5 mal auf Baumwolle,</text><nl/>
+   <text> anschließend auf "Mixen" und warte. Wenn du keinen</text><nl/>
+   <text> Fehlversuch hast, erhältst du 1 Garn; wenn du etwas zu</text><nl/>
+   <text> Essen brauchst, es wachsen Gemüse in der Nähe. Mach so</text><nl/>
+   <text> weiter bis du deine ersten Level erreicht hast und</text><nl/>
+   <text> behalte das Garn, wenn du später etwas herstellen willst.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Um</text>
+   <color r="1" g="1" b="1"/>
+   <text> Edelsteine zu veredeln, benötigst du einiges an Wissen.</text><nl/>
+   <text> Das bedeutet, du musst viele Bücher lesen um anzufangen.</text><nl/>
+   <text> Geh nach Tarsengaard und betritt die Zauberschule.</text><nl/>
+   <text> Achtung: Bewaffnete Goblins auf der Karte Tarsengaard</text><nl/>
+   <text> erreichst du entweder über Valley of the Dwarves oder</text><nl/>
+   <text> White Stone. Suche Itilli im Sekretariat auf der linken</text><nl/>
+   <text> Seite der Eingangshalle. Von ihr kaufst du die Bücher</text><nl/>
+   <text> "Generic Rings" (allgemeine Ringe) und "Gold Rings" und</text><nl/>
+   <text> liest sie. Jawohl, du fängst mit simplen Goldringen an.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Während</text>
+   <color r="1" g="1" b="1"/>
+   <text> du liest, stell sicher, dass du Künstlichen Nexus</text><nl/>
+   <text> 1 hast. Stell einige Goldbarren her (Alchemie) oder kauf</text><nl/>
+   <text> sie von anderen Spielern. Du brauchst auch Feueressenzen</text><nl/>
+   <text> die du ebenfalls selbst herstellst oder kaufst. Als</text><nl/>
+   <text> letztes brauchst du noch eine Ringgussform.</text><nl/>
+   <text> Der Magie-laden in Portland (gelber Punkt auf Karte)</text><nl/>
+   <text> verkauft sie. Dort erhältst du auch andere benötigte Dinge</text><nl/>
+   <text> wie Schleif-papier oder "gem cutter".</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wenn</text>
+   <color r="1" g="1" b="1"/>
+   <text> du die Bücher gelesen, die Goldbarren, Feuer-</text><nl/>
+   <text>essenzen und die Ringgussform im Inventar hast, bist du</text><nl/>
+   <text> bereit. Vergess nicht das Essen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Jetzt</text>
+   <color r="1" g="1" b="1"/>
+   <text> öffne das Herstellungsfenster, klicke 2mal auf</text><nl/>
+   <text> Goldbarren, 3mal auf Feueressenz und anschließend auf</text><nl/>
+   <text> "Mixen" und warte. Hoffentlich hast du deinen ersten</text><nl/>
+   <text> Goldring gemacht. Um Silberringe herzustellen gehst du zu</text><nl/>
+   <text> Itilli und kaufst dir das "Silber Ring" Buch. Die Gold-</text><nl/>
+   <text> und Silberringe sind Bestandteile um Zauberringe</text><nl/>
+   <text> herzustellen, wie Teleportringe, Schadensringe und</text><nl/>
+   <text> "Disengagement Rings" (ermöglichen das Fliehen aus einem</text><nl/>
+   <text> Kampf).</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wie</text>
+   <color r="1" g="1" b="1"/>
+   <text> du jetzt herausgefunden hast, ist die Veredelung eine</text><nl/>
+   <text> teure und zeitintensive Fähigkeit, die normalerweise von</text><nl/>
+   <text> erfahrenen Spielern erlernt wird.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Zurück zum Hilfe Index"/>
+   <nl/>
+</Page>
+
+<Page Name="engn">
+   <size>Small</size><color>yellow</color>
+   <link x="430" y="2" ref="newskills" title="Zurück"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Hilfe</text><nl/>
+   <text>                 Fähigkeiten</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Konstruktion</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Konstruktion</text>
+   <color r="1" g="1" b="1"/>
+   <text> ist eine fortgeschrittene Fähigkeit, mit der</text><nl/>
+   <text> man verschiedene Dinge wie Landminen, Sichtgeräte oder</text><nl/>
+   <text> gefährliche Substanzen herstellt. Wenn du neu im Spiel</text><nl/>
+   <text> bist, ist es ratsam zuerst andere Fähigkeiten zu erlernen,</text><nl/>
+   <text> bevor du diese beginnst. Für die meisten Gegenstände</text><nl/>
+   <text> brauchst du die Unterstützung der anderen gut</text><nl/>
+   <text> ausgebildeten Fähigkeiten und du musst an gefährliche</text><nl/>
+   <text> Orte gehn um die teuren Bücher zu kaufen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Beginn</text>
+   <color r="1" g="1" b="1"/>
+   <text> indem du etwas Asche machst. Dazu brauchst du Äste</text><nl/>
+   <text> und Feueressenzen. Du findest Äste auf dem Boden in</text><nl/>
+   <text> Wäldern, z.B. auf Isla Prima oder in den Evergreen Woods</text><nl/>
+   <text> in Desert Pines; Feuer- essenzen stellst du selbst her</text><nl/>
+   <text> oder kaufst sie von anderen Spielern oder im Magieladen.</text><nl/>
+   <text> Öffne das Herstellungsfenster (Hammer und Ambos Symbol)</text><nl/>
+   <text> und klicke 3mal auf auf Äste und einmal auf Feueressenz.</text><nl/>
+   <text> Klicke auf "Mixen", warte und hoffentlich hast du etwas</text><nl/>
+   <text> Asche hergestellt.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Stell</text>
+   <color r="1" g="1" b="1"/>
+   <text> weiter Asche her bist du die ersten Level</text><nl/>
+   <text> gemeistert hast und lager sie im Depot, weil du sie später</text><nl/>
+   <text> für andere Dinge brauchst.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wenn</text>
+   <color r="1" g="1" b="1"/>
+   <text> du etwas anderes als Asche machen willst, musst du</text><nl/>
+   <text> Bücher lesen. Der Buchverkäufer befindet sich in North</text><nl/>
+   <text> Redmoon und heißt Neculce. North Redmoon ist eine Karte</text><nl/>
+   <text> auf dem Kontinent Irilion und dort befinden sich starke</text><nl/>
+   <text> Monster. Die Bücher die du brauchst sind "Book of Nails"</text><nl/>
+   <text> und "Book of Rope", welche dich insgesamt 8k gc kosten</text><nl/>
+   <text> werden.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nachdem</text>
+   <color r="1" g="1" b="1"/>
+   <text> du die Bücher gelesen hast, kannst du Seile und</text><nl/>
+   <text> Nägel herstellen. Du benätigst Garn für die Seile und</text><nl/>
+   <text> Eisenbarren für die Nägel. Garn stellst du selbst her</text><nl/>
+   <text> (Veredelung) oder kaufst es. Öffne das</text><nl/>
+   <text> Herstellungsfenster, klicke 5mal auf Garn und klicke auf</text><nl/>
+   <text> "Mixen" um das erste Seil herzustellen. Seile können auch</text><nl/>
+   <text> im "General Store" verkauft werden.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Um</text>
+   <color r="1" g="1" b="1"/>
+   <text> Nägel herzustellen benötigst du Eisenbarren und einen</text><nl/>
+   <text> Hammer. Die Barren stellst du selbst her oder kaufst sie,</text><nl/>
+   <text> den Hammer bekommst du beim Schmied in White Stone City.</text><nl/>
+   <text> Öffne das Herstellungsfenster, klicke 2mal auf Eisenbarren</text><nl/>
+   <text> und anschließend auf "Mixen" um Nägel herzustellen.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Zurück zum Hilfe Index"/>
+   <nl/>
+</Page>
+
+<Page Name="tail">
+   <size>Small</size><color>yellow</color>
+   <link x="430" y="2" ref="newskills" title="Zurück"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Hilfe</text><nl/>
+   <text>                 Fähigkeiten</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Schneiderei</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Schneiderei</text>
+   <color r="1" g="1" b="1"/>
+   <text> ist eine noch weiter fortgeschrittene</text><nl/>
+   <text> Fähigkeit, die nur nach ereichen eines gewissen</text><nl/>
+   <text> Erfahrungslevels in anderen Fähigkeiten begonnen werde</text><nl/>
+   <text> sollte. Sie benötigt eine Menge an Gold und eine gewisse</text><nl/>
+   <text> Kenntnis von Irillion (Dem 2. Kontinent - c2).</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Das</text>
+   <color r="1" g="1" b="1"/>
+   <text> Erste, was Du lernen musst, ist wie man weißen Stoff</text><nl/>
+   <text> herstellt. Dazu wirst Du eine Reise zu dem Buchhändler in</text><nl/>
+   <text> Emerald Valley auf Irillion unternehmen müssen, wo Du das</text><nl/>
+   <text> Buch 'White Fabric Weaving' für 5000 gc erwirbst. Während</text><nl/>
+   <text> Du es liest, solltest Du Dir einen netten Platz zum ernten</text><nl/>
+   <text> von Baumwolle (cotton) suchen und zumindest 10 Garn</text><nl/>
+   <text> herstellen. Denke wie immer daran, Dein Nahrungslevel im</text><nl/>
+   <text> positiven Bereich zu halten, solange Du das Buch liest.</text><nl/>
+   <text> Du kannst natürlich auch alternativ Garn im Warenhaus</text><nl/>
+   <text> erwerben. Wie Du es selbst herstellen kannst, findest</text><nl/>
+   <text> Du im 'Veredelungs' Tutorial.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nachdem</text>
+   <color r="1" g="1" b="1"/>
+   <text> Du mit dem Buch fertig bist und Dir einen guten</text><nl/>
+   <text> Vorrat an Garn zugelegt hast, machst Du Dich auf den Weg</text><nl/>
+   <text> zu einem Schneidereiladen, entweder in Tarsengaard oder</text><nl/>
+   <text> Irinveron, wo Du Webstühle zum weben des Stoffes erwerben</text><nl/>
+   <text> kannst. Versichere Dich, dass Du genug Gold dabei hast,</text><nl/>
+   <text> denn jeder Webstuhl kostet Dich 50 gc und kann nur einmal</text><nl/>
+   <text> verwendet werden.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nun,</text>
+   <color r="1" g="1" b="1"/>
+   <text> nachdem Du das Buch gelesen hast und Webstühle und</text><nl/>
+   <text> Garn erworben hast kannst Du fortfahren und 10 Garn mit</text><nl/>
+   <text> einem Webstuhl mixen, um Deinen ersten weißen Stoff</text><nl/>
+   <text> herzustellen.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Zurück zum Hilfe Index"/>
+   <nl/>
+</Page>
+
+<Page Name="rang">
+   <size>Small</size><color>yellow</color>
+   <link x="430" y="2" ref="newskills" title="Zurück"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Hilfe</text><nl/>
+   <text>                 Fähigkeiten</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Bogenschießen</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Bogenschießen</text>
+   <color r="1" g="1" b="1"/>
+   <text> ist eine einfach zu erlernende, schwierig</text><nl/>
+   <text> zu meisternde und Geld verschlingende Fähigkeit.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Um</text>
+   <color r="1" g="1" b="1"/>
+   <text> damit zu beginnen, brauchst Du zuerst einen Bogen und</text><nl/>
+   <text> einige Pfeile, beides kann beim Schmied in Morcraven Marsh</text><nl/>
+   <text> erworben werden. Wenn Du recht neu im Spiel bist, dann</text><nl/>
+   <text> kann das ein gefährliches Unterfangen sein, da Morcraven</text><nl/>
+   <text> Marsh die Heimat von einigen Gemeinheiten, wie z. B.</text><nl/>
+   <text> Skeletten, ist, die mit freuden aus einem neuen Spieler</text><nl/>
+   <text> einen Haufen nutzlosen Brei machen würden. Ein Monster</text><nl/>
+   <text> Magnetism Umhang oder der gleichnamige perk kann Dich</text><nl/>
+   <text> schützen, ansonsten kannst Du auch in Erwägung ziehen,</text><nl/>
+   <text> einen Freund dorthin zu schicken oder die Dinge über den</text><nl/>
+   <text> Marktkanal (ch 3) zu erwerben.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Der</text>
+   <color r="1" g="1" b="1"/>
+   <text> billigste Bogen, ein Kurzbogen, wird Dich 2000 gc</text><nl/>
+   <text> kosten und jeder Trainingspfeil noch einmal 10 gc.</text><nl/>
+   <text> Glücklicherweise kannst Du diese Pfeile auch in jedem</text><nl/>
+   <text> Warenhaus der Eternal Lands erwerben.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Sobald</text>
+   <color r="1" g="1" b="1"/>
+   <text> Du Deinen Bogen und genügend Pfeile besitzt um Dein</text><nl/>
+   <text> Training zu beginnen, musst Du die Ausrüstungsplätze an</text><nl/>
+   <text> der rechten Seite Deines Inventars damit bestücken. Wenn</text><nl/>
+   <text> alles richtig gemacht wurde, wirst Du sehen, dass Dein</text><nl/>
+   <text> Char den Bogen in der Hand hält und einen Köcher mit</text><nl/>
+   <text> Pfeilen über den Rücken geschwungen hat.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Du</text>
+   <color r="1" g="1" b="1"/>
+   <text> bist jetzt bereit, Dein Bogenschieß Training zu</text><nl/>
+   <text> beginnen. Für Anfänger wäre es eine gute Idee, sich dazu</text><nl/>
+   <text> eine schwächere Kreatur zu suchen, die Du einfach und</text><nl/>
+   <text> schnell töten kannst. Sollte es dieser nämlich gelingen,</text><nl/>
+   <text> Dich in ein Handgemenge zu verwickeln, riskierst Du, dass</text><nl/>
+   <text> Dein Bogen zerbricht. Bögen sind nämlich für den Fernkampf</text><nl/>
+   <text> gedacht und für den direkten Kampf ungefähr so nützlich,</text><nl/>
+   <text> wie ein Plastiklöffel gegen einen Drachen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wenn</text>
+   <color r="1" g="1" b="1"/>
+   <text> Du Deine Beute gefunden hast (Ein Kaninchen oder</text><nl/>
+   <text> etwas ähnliches wäre ein guter Anfang), hältst Du die</text><nl/>
+   <text> 'Alt' Taste gedrückt um Deine Figur fest zu verankern.</text><nl/>
+   <text> Dies verhindert, dass Du kopflos herumrennst, wenn Du</text><nl/>
+   <text> einmal aus versehen neben Dein Ziel klickst.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nun</text>
+   <color r="1" g="1" b="1"/>
+   <text> feuerst Du so lange einen Pfeil nach dem anderen ab,</text><nl/>
+   <text> bis Dein Ziel erlegt ist. Sobald Du Dein erstes Opfer tot</text><nl/>
+   <text> ist, kannst Du Dich den zu den EL Bogenschützen zählen.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Zurück zum Hilfe Index"/>
+   <nl/>
+</Page>
+</skills>

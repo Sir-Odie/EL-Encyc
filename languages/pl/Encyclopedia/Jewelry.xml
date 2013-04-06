@@ -1,0 +1,2058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Jewelry>
+<Page name="Ring_Gold">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Gold Ring</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Zloty Pierscien)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwykly, zloty pierscionek bedacy podstawa do</text>
+   <nlkx/>
+   <text> wytwarzania innych, magicznych pierscieni.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Gold Bars, 3 Fire Essences.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Ring Mold</text>
+   <nl/>
+   <text> Wymagana Wiedza: Gold Rings Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 1</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 10</text>
+   <nl/>
+   <text> Koszt Jedzenia: 1</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Silver">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Silver Ring</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Srebrny Pierscien)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Prosty srebrny pierscionek bedacy podstawa do</text>
+   <nlkx/>
+   <text> wytwarzania innych pierscieni.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Silver Bars, 3 Fire Essences.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Ring Mold</text>
+   <nl/>
+   <text> Wymagana Wiedza: Silver Rings Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 3</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 15</text>
+   <nl/>
+   <text> Koszt Jedzenia: 1</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Med_Silver">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Silver Medallion</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Srebrny Medalion)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwykly, srebrny medalion uzywany jako podstawa do</text>
+   <nlkx/>
+   <text> wytwarzania innych medalionow.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 3 Silver Bars, 3 Fire Essences.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Medallion Mold</text>
+   <nl/>
+   <text> Wymagana Wiedza: Silver Medallions Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 5</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 25</text>
+   <nl/>
+   <text> Koszt Jedzenia: 4</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Med_Gold">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Gold Medallion</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Zloty Medalion)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Medalion z czystego zlota uzywany jako podstawa do</text>
+   <nlkx/>
+   <text> wytwarzania innych medalionow.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 3 Gold Bars, 3 Fire Essences.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Medallion Mold</text>
+   <nl/>
+   <text> Wymagana Wiedza: Gold Medallions Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 7</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 35</text>
+   <nl/>
+   <text> Koszt Jedzenia: 6</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="P_Ruby">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Polished Ruby</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Oszlifowany Rubin)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Wyszlifowany rubin, gotowy do oprawienia w</text>
+   <nlkx/>
+   <text> magicznych przedmiotach.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Ruby, 2 Water Essences, 1 Gem Sanding Paper.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Gemstone Hammer and Chisel</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ruby Processing</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 2</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 9</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 40</text>
+   <nl/>
+   <text> Koszt Jedzenia: 8</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="P_Emer">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Polished Emerald</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Oszlifowany Szmaragd)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Oszlifowany szmaragd, gotowy do oprawienia w</text>
+   <nlkx/>
+   <text> magicznych przedmiotach.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Emerald, 2 Water Essences, 1 Gem Sanding Paper.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Gemstone Hammer and Chisel</text>
+   <nl/>
+   <text> Wymagana Wiedza: Emerald Processing</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 2</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 12</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 50</text>
+   <nl/>
+   <text> Koszt Jedzenia: 10</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="P_Saph">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Polished Sapphire</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Oszlifowany Szafir)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Oszlifowany szafir, gotowy do oprawienia w</text>
+   <nlkx/>
+   <text> magicznych przedmiotach.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Sapphire, 2 Water Essences, 1 Gem Sanding Paper.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Gemstone Hammer and Chisel</text>
+   <nl/>
+   <text> Wymagana Wiedza: Sapphire Processing</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 2</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 14</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 60</text>
+   <nl/>
+   <text> Koszt Jedzenia: 12</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="P_Diam">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Polished Diamond</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Szlifowany Diament)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Oszlifowany diament, gotowy do oprawienia w</text>
+   <nlkx/>
+   <text> magicznych przedmiotach.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Diamond, 2 Water Essences, 3 Gem Sanding Paper.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Gemstone Hammer and Chisel</text>
+   <nl/>
+   <text> Wymagana Wiedza: Diamond Processing</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 3</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 16</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 65</text>
+   <nl/>
+   <text> Koszt Jedzenia: 14</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Isla">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Ring of Isla Prima</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Pierscien Isla Prima)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu teleportuje Cie na Isla Prima.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Silver Ring, 1 Polished Emerald, 1 Fire Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Isla Prima Ring Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 3, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 17</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 70</text>
+   <nl/>
+   <text> Koszt Jedzenia: 16</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Votd">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>        Ring of Valley of the Dwarves</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Pierscien VOTD)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu teleportuje Cie do VOTD.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Silver Ring, 1 Polished Diamond, 1 Fire Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Valley of the Dwarves Ring Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 3, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 18</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 75</text>
+   <nl/>
+   <text> Koszt Jedzenia: 18</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Naralik">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Ring of Naralik</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Pierscien Naralik)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przeniosi Cie do Naralik.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Silver Ring, 1 Polished Diamond, 2 Fire Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Naralik Ring Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 3, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 19</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 80</text>
+   <nl/>
+   <text> Koszt Jedzenia: 20</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_WSC">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Ring of White Stone</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Pierscien White Stone)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przeteleportuje Cie do White Stone.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Gold Ring, 1 Polished Emerald, 1 Fire Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: White Stone Ring Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 3, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 20</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 82</text>
+   <nl/>
+   <text> Koszt Jedzenia: 22</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Port">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Ring of Portland</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Pierscien Portland)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do Portland.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Gold Ring, 1 Polished Ruby, 1 Fire Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Portland Ring Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 3, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 21</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 85</text>
+   <nl/>
+   <text> Koszt Jedzenia: 24</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Dp">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Ring of Desert Pines</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                  (Pierscien Desert Pines)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do Desert Pines.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Gold Ring, 1 Polished Sapphire, 1 Fire Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Desert Pines Ring Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 3, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 22</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 90</text>
+   <nl/>
+   <text> Koszt Jedzenia: 26</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Anitora">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Ring of Anitora</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Pierscien Anitora)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do portu Anitora.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Silver Ring, 2 Polished Rubies, 1 Polished Sapphire,</text><nl/>
+   <text> 15 Magic Essences, 14 Energy Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Anitora Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 30</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 130</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Bethel">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Ring of Bethel</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Pierscien Bethel)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do Bethel.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Silver Ring, 1 Polished Ruby, 1 Polished Sapphire,</text><nl/>
+   <text> 15 Magic Essences, 14 Energy Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Bethel Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 34</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 150</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Egratia">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Ring of Egratia</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Pierscien Ergatia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do Egratia Point.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Silver Ring, 3 Polished Emeralds, 25 Magic Essences,</text><nl/>
+   <text> 8 Energy Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Egratia Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 42</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 190</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Emerald_Valley">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Ring of Emerald Valley</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                 (Pierscien Emerald Valley)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do Emerald Valley.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Silver Ring, 4 Polished Emeralds, 5 Energy Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Emerald Valley Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 60</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 290</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Glacmor">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Ring of Glacmor</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Pierscien Glacmor)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do Glacmor.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Silver Ring, 2 Polished Sapphires, 3 Rubies,</text><nl/>
+   <text> 5 Energy Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Glacmor Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 58</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 280</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Hulda">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Ring of Hulda</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Pierscien Hulda)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do Hulda.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Silver Ring, 3 Polished Emeralds, 3 Rubies,</text><nl/>
+   <text> 20 Magic Essences, 6 Energy Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Hulda Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 48</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 220</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Hurquin">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Ring of Hurquin</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Pierscien Hurquin)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do Hurquin.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Silver Ring, 2 Polished Sapphires, 2 Polished Emeralds,</text><nl/>
+   <text> 2 Rubies, 5 Energy Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Hurquin Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 56</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 270</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Idaloran">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Ring of Idaloran</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Pierscien Idaloran)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do Idaloran.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Gold Ring, 2 Polished Diamonds, 12 Magic Essences,</text><nl/>
+   <text> 14 Energy Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Idaloran Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 32</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 140</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Imbroglio_Islands">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Ring of Imbroglio Islands</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                 (Pierscien Imbroglio Islands)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do Imbroglio Islands.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Gold Ring, 3 Rubies, 20 Magic Essences,</text><nl/>
+   <text> 5 Energy Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Imbroglio Islands Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 54</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 250</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Irinveron">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Ring of Irinveron</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Pierscien Irinveron)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do Irinveron.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Gold Ring, 3 Polished Sapphires, 3 Rubies,</text><nl/>
+   <text> 20 Magic Essences, 7 Energy Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Irinveron Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 46</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 210</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Iscalrith">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Ring of Iscalrith</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Pierscien Iscalrith)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do Iscalrith.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Gold Ring, 3 Polished Sapphires, 3 Rubies,</text><nl/>
+   <text> 22 Magic Essences, 7 Energy Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Iscalrith Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 44</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 200</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Isle_Forgotten">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>        Ring of Isle of the Forgotten</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Pierscien IotF)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do Isle of the</text>
+   <nlkx/>
+   <text> Forgotten.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Silver Ring, 2 Polished Sapphires, 2 Rubies,</text><nl/>
+   <text> 20 Magic Essences, 5 Energy Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Isle of the Forgotten Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 52</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 240</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Kusamura">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Ring of Kusamura</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Pierscien Kusamura)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do Kusamura.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Gold Ring, 1 Silver Bar, 25 Magic Essences</text><nl/>
+   <text> 9 Energy Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Kusamura Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 40</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 180</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Palon_Vertas">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Ring of Palon Vertas</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Pierscien Palon Vertas)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do Palon Vertas.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Silver Ring, 1 Gold Bar, 30 Magic Essences,</text><nl/>
+   <text> 8 Energy Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Palon Vertas Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 38</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 170</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Sedicolis">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Ring of Sedicolis</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Pierscien Sedicolis)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do Sedicolis.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Gold Ring, 1 Polished Sapphire, 15 Magic Essences</text><nl/>
+   <text> 12 Energy Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Sedicolis Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 36</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 160</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Trassian">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Ring of Trassian</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Pierscien Trassian)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po uzyciu przenosi Cie do Trassian.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Gold Ring, 3 Polished Sapphires, 3 Rubies,</text><nl/>
+   <text> 19 Magic Essences, 7 Energy Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Trassian Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 50</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 230</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Damage">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Ring of Damage</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Pierscien Obrazen)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Gdy ten pierscien zostanie uzyty w czasie walki</text>
+   <nlkx/>
+   <text> zada Twojemu przeciwnikowi 20 punktow obrazen, bez</text>
+   <nlkx/>
+   <text> bez wzgledu na jego poziom obrony i rodzaj zbroi.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Silver Ring, 4 Polished Ruby, 8 Fire Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Damage Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 3, Magic 3</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 26</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 110</text>
+   <nl/>
+   <text> Koszt Jedzenia: 34</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Disengagement">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Ring of Disengagement</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Pierscien Ucieczki)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Gdy ten pierscien zostanie uzyty w czasie walki</text>
+   <nlkx/>
+   <text> natychmiast ja przerwie, dajac Ci mozliwosc</text>
+   <nlkx/>
+   <text> ucieczki.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Silver Ring, 1 Polished Sapphire, 2 Fire Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Disengagement Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 3, Magic 3</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 27</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 115</text>
+   <nl/>
+   <text> Koszt Jedzenia: 36</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_Power">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Ring of Power</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Pierscien Mocy)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Gdy ten pierscien zostanie uzyty w czasie walki</text>
+   <nlkx/>
+   <text> zada 50 obrazen Twojemu przeciwnikowi, bez wzgledu</text>
+   <nlkx/>
+   <text> na jego poziom obrony.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Binding Stone, 10 Rings of Damage, 50 Death Essences.</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 5</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 40</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 500</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_MDestr">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Ring of Mana Destruction</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                 (Pierscien Zniszczenia Many)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzyty w czasie walki odbierze Twojemu przeciwnikowi</text>
+   <nlkx/>
+   <text> 20 punktow many.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Polished Emerald, 1 Silver Ring, 1 Gold Ring,</text>
+   <nl/>
+   <text> 6 Magic Essences, 6 Energy Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Mana Destruction</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 3</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 49</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 225</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Ring_MMDestr">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>     Ring of Massive Mana Destruction</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>          (Pierscien Masywnego Zniszczenia Many)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Uzyty w czasie walki odbierze Twojemu przeciwnikowi</text>
+   <nlkx/>
+   <text> 50 punktow many.</text>
+   <nlkx/>
+   <text> Jednorazowego uzytku.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 10 Silver Rings, 50 Magic Essences, 50 Energy Essences,</text>
+   <nl/>
+   <text> 10 Death Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ring of Massive Mana Destruction</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 57</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 300</text>
+   <nl/>
+   <text> Koszt Jedzenia: 65</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Med_Unicorn">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Unicorn Medallion</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Medalion Jednorozca)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Gdy go nosisz, Twoja umiejetnosc Obrony zwiekszona</text>
+   <nlkx/>
+   <text> jest o 4 punkty.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Silver Bar, 1 Silver Medallion, 2 Fire Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Unicorn Medallion Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 3, Magic 2</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 23</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 95</text>
+   <nl/>
+   <text> Koszt Jedzenia: 28</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Med_Sun">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Sun Medallion</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Medalion Slonca)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Gdy go nosisz, zwieksza Twoja Celnosc o 4.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Gold Bar, 1 Gold Medallion, 2 Fire Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Sun Medallion Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 3, Magic 2</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 23</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 95</text>
+   <nl/>
+   <text> Koszt Jedzenia: 28</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Med_Moon">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Moon Medallion</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Medalion Ksiezyca)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po zalozeniu spowoduje wzrost Celnosci oraz</text>
+   <nlkx/>
+   <text> Zbroi o +4 punkty.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Polished Sapphire, 1 Silver Medallion, 2 Fire Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Moon Medallion Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 3, Magic 2</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 24</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 100</text>
+   <nl/>
+   <text> Koszt Jedzenia: 30</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Med_Stars">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Stars Medallion</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Medalion Gwiazd)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Po zalozeniu powieszy ilosc zadawanych przez</text>
+   <nlkx/>
+   <text> Ciebie obrazen o +4 punkty.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Polished Ruby, 1 Silver Medallion, 2 Fire Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Stars Medallion Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 3, Magic 2</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 25</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 105</text>
+   <nl/>
+   <text> Koszt Jedzenia: 32</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Crown_Mana">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Crown of Mana</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Korona Many)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Gdy ja nosisz zwieksza o 150 Twoja maksymalna</text>
+   <nlkx/>
+   <text> ilosc punktow many.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Binding Stones, 2 Enriched Magic Essences, 1 Wolfram Bar,</text>
+   <nl/>
+   <text> 1 Hydrogenium Bar, 50 Silver Bars.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Crown of Mana</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 60</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 1000</text>
+   <nl/>
+   <text> Koszt Jedzenia: 60</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Crown_Life">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Crown of Life</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Korona Zycia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Gdy ja zalozysz, Twoja maksymalna liczba punktow</text>
+   <nlkx/>
+   <text> zdrowia zostanie powiekszona o 150.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 2 Binding Stones, 6 Enriched Life Essences, 1 Wolfram Bar,</text>
+   <nl/>
+   <text> 1 Hydrogenium Bar, 50 Gold Bars.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Crown of Life</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 61</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 1050</text>
+   <nl/>
+   <text> Koszt Jedzenia: 60</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Med_Harv">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Harvester Medallion</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Medalion Zbieracza)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Specjalny medalion, ktory dziala jedynie w czasie</text><nlkx/>
+   <text> zbierania roslin i mineralow. Zmniejsza szanse</text><nlkx/>
+   <text> na polamanie narzedzi (o 2 punkty), zwieksza</text><nlkx/>
+   <text> doswiadczenie i monety otrzymywane z przypadkowych</text><nlkx/>
+   <text> zdarzen. Dodaje szanse (33%) na kontynuowanie</text><nl/>
+   <text> zbierania po zaliczeniu mini-zdarzenia.</text>
+   <text> Moze zostac zniszczony przez przypadkowe wydarzenie.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Seridium Bar, 2 Gold Bars, 20 Red Toadstools,</text>
+   <nl/>
+   <text> 10 Fire Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Harvester Medallion Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 2</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 43</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 400</text>
+   <nl/>
+   <text> Koszt Jedzenia: 28</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Med_Heaven">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Heaven Spawner Medallion</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                  (Medalion Niebios)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Jezeli posiadasz perk 'Hellspawn' i nosisz ten</text>
+   <nlkx/>
+   <text> medalion, zamiast trafic do piekla - utracisz go.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Seridium Bar, 2 Silver Bars, 20 White Chanterelles,</text>
+   <nl/>
+   <text> 10 Fire Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Heavenspawn Medallion Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 2</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 47</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 450</text>
+   <nl/>
+   <text> Koszt Jedzenia: 28</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Med_Life">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Medallion of Life</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Medalion Zycia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Zwieksza maksymalna liczbe punktow zycia o 30.</text>
+   <nlkx/>
+   <text> Dodaje +2 do Zbroi i Celnosci, 5% szans na</text>
+   <nlkx/>
+   <text> przywrocenie 25 punktow zdrowia po otrzymaniu</text>
+   <nlkx/>
+   <text> ciosu.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Seridium Bar, 2 Enriched Life Essences,</text>
+   <nl/>
+   <text> 10 Fire Essences, 30 White Chanterelles.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Medallion of Life Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 2</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 51</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 1000</text>
+   <nl/>
+   <text> Koszt Jedzenia: 28</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Med_Gather">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Gatherer Medallion</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> W czasie noszenia zwieksza zbroje oraz</text>
+   <nlkx/>
+   <text> Celnosc o 4. Jesli zabiles przeciwnika, zadajac</text>
+   <nlkx/>
+   <text> najwiecej obrazen, upuszczone przez niego przedmioty</text>
+   <nlkx/>
+   <text> przechodza od razu do twojego plecaka.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane materialy:</text>
+   <nl/>
+   <text> 10 Moon Medallions, 1 Seridium Bar, 10 Fire Essences,</text><nl/>
+   <text> 30 Henbanes.</text>
+   <nl/>
+   <text> Wymagana wiedza: Gatherer Medallion Building</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 2</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 68</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 1200</text>
+   <nl/>
+   <text> Koszt Jedzenia: 28</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="Saving_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Saving Stone</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Kamien Ocalenia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Jezeli wytwarzasz jakies przedmioty i posiadasz</text>
+   <nlkx/>
+   <text> w tym czasie jeden z tych kamieni w swoim plecaku,</text>
+   <nlkx/>
+   <text> to uchroni on Twoje skladniki przed ich utrata</text><nlkx/>
+   <text> w skutek fatalnego niepowodzenia (tzw. lost).</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Refined Vegetal Mixture, 1 Mixture of Power,</text>
+   <nl/>
+   <text> 2 Enriched Magic Essences.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Saving Stone</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 7, Magic 5</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 65</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 1000</text>
+   <nl/>
+   <text> Koszt Jedzenia: 60</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="En_Iron_Plate">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Enhanced Iron Pate Mail</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>               (Ulepszony Zelazny Napiersnik)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 8-10 Zbroja, -1 Obrona, -1 Celnosc,</text>
+   <nlkx/>
+   <text> -2 Ochrona przed Zimnem i Cieplem,</text>
+   <nlkx/>
+   <text> -1 Uderzenie Krytyczne, +1 Ochrona przed Radiacja.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzywania: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane materialy:</text>
+   <nl/>
+   <text> 1 Iron Plate Mail, 2 Serpent Stones, 8 Titanium Bars.</text>
+   <nl/>
+   <text> Wymagana wiedza: Enhanced Armor</text>
+   <nl/>
+   <text> Wymagane nexusy: Artificial 4, Magic 3</text>
+   <nl/>
+   <text> Zalecany poziom Jubilerstwa: 53</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 1000</text>
+   <nl/>
+   <text> Koszt jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w stos: Nie</text>
+   <nl/>
+   <text> Waga: 25 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="En_Iron_Cuisses">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Enhanced Iron Cuisses</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>               (Ulepszone Zelazne Nogawice)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +5 Zbroja, -1 Ochrona przez Zimnem i Cieplem,</text>
+   <nlkx/>
+   <text> +1 Ochrona przed Radiacja.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzywania: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Iron Cuisses, 1 Serpent Stone, 4 Titanium Bars.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Enhanced Armor</text>
+   <nl/>
+   <text> Wymagane Nexusy: Artificial 4, Magic 3</text>
+   <nl/>
+   <text> Zalecany poziom Jubilerstwa: 45</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 600</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w stos: Nie</text>
+   <nl/>
+   <text> Waga: 16 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+<Page name="En_Iron_Greaves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                JUBILERSTWO</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Enhanced Iron Greaves</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>             (Ulepszone Zelazne Nagolenniki)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 4 Zbroja, -1 Ochrona przed Zimenm i Cieplem,</text>
+   <nlkx/>
+   <text> +2 Ochrona przed Radiacja.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzywania: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Iron Greaves, 1 Serpent Stone, 4 Titanium Bars.</text>
+   <nl/>
+   <text> Wymagana Wiedza: Enhanced Armor</text>
+   <nl/>
+   <text> Wymagane Nexusy: Artificial 4, Magic 3</text>
+   <nl/>
+   <text> Zalecany Poziom Jubilerstwa: 41</text>
+   <nl/>
+   <text> Doswiadczenie w Jubilerstwie: 500</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w stos: Nie</text>
+   <nl/>
+   <text> Waga: 8 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Jewelry" title="Wroc do Indeksu Jubilerstwa"/>
+</Page>
+</Jewelry>

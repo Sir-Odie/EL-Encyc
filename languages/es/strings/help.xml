@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<afk>
+		<going>Modo AFK</going>
+		<not>Saliendo del modo AFK</not>
+		<back>Tienes %d mensajes nuevos de las siguientes personas: </back>
+		<names>Nombres</names>
+		<messages>Mensajes</messages>
+		<help>Para ver los mensajes escribe '#msg &lt;número&gt;' o '#msg all' para verlos todos.</help>
+	</afk>
+	<misc>
+		<values>valores</values>
+		<close>[Cerrar]</close>
+		<low>Indice de cuadros por segundo muy bajo, desactivando nubes y sombras</low>
+		<size>Tamaño de ventana ajustado a %s</size>
+		<trade>No puedes abrir esta ventana mientras comercias</trade>
+		<user>Usuario:</user>
+		<pass>Contraseña:</pass>
+		<login_rules>Si entras en este juego, aceptas las reglas de Eternal Lands. Pulsa F5 para leerlas.</login_rules>
+		<getall>Coger Todo</getall>
+		<completed>COMPLETADO</completed>
+		<research>Estudiando</research>
+		<nothing>Nada</nothing>
+		<read_book>Leer libro</read_book>
+		<mix>Mix</mix>
+		<clear>Nuevo</clear>
+		<cast>Castear</cast>
+		<connect>Conectando al servidor...</connect>
+		<reconnect>Pulsa cualquier tecla para intentar de nuevo</reconnect>
+		<license>3r3s 6u3n0 c0m0 p4r4 l33r 3l 4rch1v0 license.txt?
+			En cualquier caso, el archivo 'license.txt', está ahí por una razón.</license>
+		<quantity>Cantidad</quantity>
+		<carryload>Capacidad de carga</carryload>
+		<abort>Abortar</abort>
+		<sigils>Este hechizo requiere al menos 2 susurros</sigils>
+		<switch>Cambio al modo de video %s</switch>
+		<cache>Tamaño de caché</cache>
+		<appropr_name>Usa un nombre apropiado:
+			Por favor, no crees un nombre que sea obsceno, ofensivo, con más de dos dígitos numéricos o sin sentido (por ejemplo djrtq47fa), o que esté diseñado para suplantar a otro jugador.
+			Considera que el nombre que escojas afectará a la atmósfera del juego. Los nombres inapropiados pueden ser y serán bloqueados.</appropr_name>
+		<edit_quantity>Click derecho en la cantidad que desees editar</edit_quantity>
+		<you>Tú</you>
+		<accept>Aceptar</accept>
+		<x_quit>Presiona Alt-x para cerrar el juego</x_quit>
+		<dropall>Soltar Todo</dropall>
+		<cmd_markpos>Uso: #markpos &lt;x-coord&gt;,&lt;y-coord&gt; &lt;nombre&gt;</cmd_markpos>
+		<location_info>Localización %d,%d marcada como "%s"</location_info>
+		<marked>Marcado el punto "%s"</marked>
+		<unmarked>Punto "%s" borrado</unmarked>
+		<equip_here>Pon un objeto en estos cuadros para equiparlo</equip_here>
+		<equipment>Equipo</equipment>
+		<items>Objetos</items>
+		<channel_help>Clica en un canal para participar. Puedes estar hasta en 3 canales a la vez.
+			Para hablar en un canal, escribe @ antes de tu mensaje. No tienes que escribir @ para hablar en Local.</channel_help>
+	</misc>	
+	<new>
+		<skin>Piel</skin>
+		<hair>Pelo</hair>
+		<shirt>Camisa</shirt>
+		<pants>Pantalón</pants>
+		<boots>Botas</boots>
+		<head>Cabeza</head>
+		<gender>Género</gender>
+		<male>Hombre</male>
+		<female>Mujer</female>
+		<race>Raza</race>
+		<human>Humano</human>
+		<elf>Elfo</elf>
+		<dwarf>Enano</dwarf>
+		<gnome>Gnomo</gnome>
+		<orchan>Orchan</orchan>
+		<draegoni>Draegoni</draegoni>
+		<confirm>Confirmar:</confirm>
+		<userlen>El nombre debe tener al menos 3 caracteres</userlen>
+		<passlen>La clave debe tener al menos 4 caracteres</passlen>
+		<passnomatch>Las dos claves no coinciden</passnomatch>
+		<passmatch>Ambas claves coinciden</passmatch>
+		<appearance>Recuerda ajustar la apariencia de tu personaje antes de confirmar</appearance>
+		<max_digits>Máximo de 2 dígitos en el nombre</max_digits>
+		<max_length>Nombres y claves pueden tener una longitud máxima de 15 caracteres</max_length>
+		<illegal_char>Has escrito un carácter ilegal!</illegal_char>
+		<p2p_race>Requerido pago previo para crear un personaje con esta raza</p2p_race>
+		<char_help>Para personalizar este personaje y asignarle un nombre y un password usa los botones de abajo</char_help>
+		<confirmcreate>Haz click en "Hecho" otra vez para confirmar la creación del personaje con este nombre y apariencia</confirmcreate>
+		<wrongpass>Clave inválida</wrongpass>
+		<showpass>Mostrar clave</showpass>
+		<hidepass>Ocultar clave</hidepass>
+		<done>Hecho</done>
+		<back>Atrás</back>
+		<a_human>Sobre los Humanos</a_human>
+		<a_elf>Sobre los Elfos</a_elf>
+		<a_dwarf>Sobre los Enanos</a_dwarf>
+		<a_gnome>Sobre los Gnomos</a_gnome>
+		<a_orchan>Sobre los Orchan</a_orchan>
+		<a_draegoni>Sobre los Draegoni</a_draegoni>
+		<zoom_in_out>Para hacer zoom (acercar/alejar): usa la rueda central del ratón o [AvPág]/[RePág]</zoom_in_out>
+		<rotate_camera>Para rotar la cámara, clica y arrastra con el botón central, o las flechas derecha/izquierda del teclado.</rotate_camera>
+		<appearance_box>Apariencia</appearance_box>
+	</new>
+	<tooltips>
+		<walk>Andar</walk>
+		<sit>Sentarse</sit>
+		<stand>De pie</stand>
+		<look>Mirar a</look>
+		<use>Usar</use>
+		<use_witem>Usar con</use_witem>
+		<trade>Comerciar</trade>
+		<attack>Atacar</attack>
+		<invent>Inventario</invent>
+		<spell>Ventana de Hechizos</spell>
+		<manu>Manufactura</manu>
+		<stats>Estatus</stats>
+		<know>Conocimiento</know>
+		<ency>Enciclopedia</ency>
+		<quest>Diario</quest>
+		<map>Mapa</map>
+		<console>Consola</console>
+		<buddy>Lista de contactos</buddy>
+		<opts>Opciones</opts>
+		<help>Ayuda</help>
+		<customize>Personaliza tu personaje</customize>
+		<name_pass>Escoge nombre y clave</name_pass>
+	</tooltips>
+	<buddy>
+		<name>Nombre:</name>
+		<name_desc>Nombre de tu contacto</name_desc>
+		<color>Color:</color>
+		<color_desc>El color en el que quieres que el contacto aparezca en tu lista</color_desc>
+		<add>Agregar</add>
+		<change>Cambiar contacto</change>
+		<accept>Aceptar contacto</accept>
+		<yes>Si</yes>
+		<no>No</no>
+		<delete>Borrar contacto</delete>
+		<delete_desc>Marca para borrar el contacto de la lista</delete_desc>
+		<request_dialog>%s quiere añadirte a su lista de contactos. Quieres permitirlo?</request_dialog>
+		<add_to_list>Añadir a mi lista de contactos</add_to_list>
+		<logon>%.*s se materializó</logon>
+		<logoff>%.*s se desintegró</logoff>
+		<white>Blanco</white>
+		<red>Rojo</red>
+		<green>Verde</green>
+		<blue>Azul</blue>
+		<yellow>Amarillo</yellow>
+		<request>Petición</request>
+	</buddy>
+</root>

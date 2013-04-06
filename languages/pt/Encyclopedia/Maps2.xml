@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Maps2>
+<Page name="Maps2_PA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Port Anitora (PA)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Este é o mapa onde os barcos de Seridia chegam;</text><nl/>
+   <text> Há alguns comerciantes e um barco trazendo viajantes</text><nl/>
+   <text> para Idaloran.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/><nl/>
+   <text> PK: Não</text><nl/><nl/>
+   <text> Multi-combat: Não</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Idaloran (barco)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_Ida">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Idaloran (Ida)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Idaloran City é a capital do Imperio Idal.</text><nl/>
+   <text> É um dos maiores mapas de Irilion.</text><nl/>
+   <text> Quando se sai do underworld irá aparecer</text><nl/>
+   <text> no Cemiterio.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/><nl/>
+   <text> PK: Não</text><nl/><nl/>
+   <text> Multi-combat: Sim</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Port Anitora (barco)</text><nlkx/>
+   <text> Irinveron (barco)</text><nlkx/>
+   <text> Melinis (barco)</text><nlkx/>
+   <text> North Redmoon (barco)</text><nlkx/>
+   <text> Irsis</text><nlkx/><text> Emerald Valley Trade Route</text><nlkx/>
+   <text> Kusamura Jungle</text><nlkx/>
+   <text> Palon Vertas</text><nlkx/>
+   <text> Bethel</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_BE">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                   Bethel</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Um lugar muito perigoso, a cidade está em</text><nl/>
+   <text> destruição e monstros como Desert Chimeran</text><nl/>
+   <text> Wolf  vagueiam o deserto.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/><nl/>
+   <text> PK: Não</text><nl/><nl/>
+   <text> Multi-combat: Sim</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Idaloran</text><nlkx/>
+   <text> Palon Vertas</text><nlkx/>
+   <text> Sedicolis</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_Sed">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Sedicolis</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Este mapa tem uma cidade e uma pequena selva no norte.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/><nl/>
+   <text> PK: Não</text><nl/><nl/>
+   <text> Multi-combat: Sim</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Bethel</text><nlkx/>
+   <text> Palon Vertas</text><nlkx/>
+   <text> Melinis</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_ME">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Melinis</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uma cidade portuaria rodeada por um deserto.</text><nl/>
+   <text> O quartz é bastante abundante no deserto, enquanto</text><nl/>
+   <text> que não há nada de plantas e agua.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/><nl/>
+   <text> PK: Não, mas tem uma arena.</text><nl/><nl/>
+   <text> Multi-combat: Sim</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Idaloran (barco)</text><nlkx/>
+   <text> Hurquin (barco)</text><nlkx/>
+   <text> Sedicolis</text><nlkx/><text> Thelinor (cave)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_PV">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Palon Vertas (PV)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> A cidade de Salingen é conhecida pelas flores que</text><nl/>
+   <text> crescem aqui. Há também um sistema subterraneo de</text><nl/>
+   <text> tuneis ligando vários lugares.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/><nl/>
+   <text> PK: Não</text><nl/><nl/>
+   <text> Multi-combat: Não</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Sedicolis</text><nlkx/>
+   <text> Bethel</text><nlkx/><text> Idaloran</text><nlkx/>
+   <text> Kusamura Jungle</text><nlkx/>
+   <text> Zirakinbar</text><nlkx/><text> Thelinor</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_EVTR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>      Emerald Valley Trade Route (EVTR)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Esta terra teve este nome através das minas de esmeraldas</text><nl/>
+   <text> que foram o foco de interesse dos mercadores desta area.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/><nl/>
+   <text> PK: Não</text><nl/><nl/>
+   <text> Multi-combat: Não</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Idaloran</text><nlkx/>
+   <text> Irsis</text><nlkx/><text> Willowvine Forest</text><nlkx/>
+   <text> Kusamura Jungle</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_Kus">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Kusamura Jungle</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uma luxuosa selva tropical.</text><nl/>
+   <text> A vegetação invadiu as aldeias abandonadas, e os</text><nl/>
+   <text> monstros tal como Forest Chimeran Wolf podem ser</text><nl/>
+   <text> encontrados neste mapa.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/><nl/>
+   <text> PK: Não</text><nl/><nl/>
+   <text> Multi-combat: Sim</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Idaloran</text><nlkx/>
+   <text> Emerald Valley Trade Route</text><nlkx/>
+   <text> Aeth Aelfan</text><nlkx/>
+   <text> Zirakinbar</text><nlkx/><text> Willowvine Forest (cave)</text><nlkx/>
+   <text> Palon Vertas</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_Zir">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Zirakinbar</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Aqui fica uma cidade fortalecida dos dwarves, e</text><nl/>
+   <text> diversas forjas podem ser encontradas aqui.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/><nl/>
+   <text> PK: Na Cripta</text><nl/><nl/>
+   <text> Multi-combat: Não</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Palon Vertas</text><nlkx/>
+   <text> Kusamura Jungle</text><nlkx/>
+   <text> Egratia Point</text><nlkx/>
+   <text> Thelinor</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_AA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Aeth Aelfan (AA)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> A casa dos elves.</text><nl/>
+   <text> Giants, uma das mais perigosas criaturas, nas áreas</text><nl/>
+   <text> do norte. Um forte guarda a área sul, uma cidade</text><nl/>
+   <text> e um porto seguro para os viajantes.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/><nl/>
+   <text> PK: Area do noroeste</text><nl/><nl/>
+   <text> Multi-combat: Sim</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Glacmor (barco)</text><nlkx/>
+   <text> Kusamura Jungle</text><nlkx/>
+   <text> Willowvine Forest</text><nlkx/>
+   <text> Egratia Point</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_EP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Egratia Point (EP)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Ferans e Cyclops vivem aqui; também existe uma escola</text><nl/>
+   <text> de magia.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/><nl/>
+   <text> PK: Não, mas tem uma arena.</text><nl/><nl/>
+   <text> Multi-combat: Sim</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Iscalrith (barco)</text><nlkx/>
+   <text> Aeth Aelfan</text><nlkx/>
+   <text> Zirakinbar</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_AR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                   Arius</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Arius é uma ilha gnomish, com uma cidade, algumas minas</text><nl/>
+   <text> e uma escola de magia.</text><nl/>
+   <text> Barcos são a única ligação para outras terras.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/><nl/>
+   <text> PK: Não</text><nl/><nl/>
+   <text> Multi-combat: Não</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Irinveron (barco)</text><nlkx/>
+   <text> Irsis (barco)</text><nlkx/>
+   <text> Willowvine Forest (barco voador)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_SRM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>            South Redmoon (SRM)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Tempo quente com chuvas frequentes são típicas desta area,</text><nl/>
+   <text> as minas são a fonte de muita actividade.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/><nl/>
+   <text> PK: Não</text><nl/><nl/>
+   <text> Multi-combat: Sim</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Hurquin (barco)</text><nlkx/>
+   <text> North Redmoon</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_HUR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Hurquin</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uma ilha gnomish, onde a vila é o único ponto de</text><nl/>
+   <text> interesse para os viajantes.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Safe: Outside</text><nl/><nl/>
+   <text> Storage: Não</text><nl/><nl/>
+   <text> PK: Não</text><nl/><nl/>
+   <text> Multi-combat: Não</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Melinis (barco)</text><nlkx/>
+   <text> South Redmoon (barco)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_TR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Trassian</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uma cidade draegoni pode ser encontrada aqui, construída</text><nl/>
+   <text> para ligar muitas caves diferentes.</text><nl/>
+   <text> Até mesmo o acesso a cidade é escondido.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/><nl/>
+   <text> PK: Nas caves.</text><nl/><nl/>
+   <text> Multi-combat: Sim</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Glacmor</text><nlkx/>
+   <text> Iscalrith (cave)</text><nlkx/>
+   <text> Hulda</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_HU">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text><nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Hulda</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Alguns dos mais fortes e violentos monstros vivem aqui.</text><nl/>
+   <text> Arctic Chimeran Wolves e Yetis vagueiam nas ilhas</text><nl/>
+   <text> geladas de Hulda.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/><nl/>
+   <text> PK: Sim</text><nl/><nl/>
+   <text> Multi-combat: Sim</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Iscalrith</text><nlkx/>
+   <text> Trassian</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_IOTF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>       Isles of the Forgotten (IotF)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Ilhas pacificas cobertas de neve. Sem caminhos ou</text><nl/>
+   <text> portos para trazer aqui os visitantes.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/><nl/>
+   <text> PK: Não</text><nl/><nl/>
+   <text> Multi-combat: Não</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Iscalrith (teleportal)</text><nlkx/>
+   <text> Imbroglio Islands (teleportal)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_II">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text><nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Imbroglio Islands</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Só os mais corajosos devem viajar nestas ilhas.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/><nl/>
+   <text> PK: Sim</text><nl/><nl/>
+   <text> Multi-combat: Sim</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Iscalrith (boat)</text><nlkx/>
+   <text> Isles of the Forgotten (teleportal)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_IR">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Irinveron</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Um mapa grande e cheio de neve, com storage, vila</text><nl/>
+   <text> e muitas caves.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/><nl/>
+   <text> PK: Nas caves.</text><nl/><nl/>
+   <text> Multi-combat: Sim</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Idaloran (barco)</text><nlkx/>
+   <text> Iscalrith (barco)</text><nlkx/>
+   <text> Arius (barco)</text><nlkx/>
+   <text> Glacmor</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_IS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Iscalrith</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Uma vila no norte, e uma cidade no sul são os</text><nl/>
+   <text> lugares mais interessantes.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/><nl/>
+   <text> PK: Não</text><nl/><nl/>
+   <text> Multi-combat: Não</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Egratia Point (barco)</text><nlkx/>
+   <text> Irinveron (barco)</text><nlkx/>
+   <text> Imbroglio Islands (barco)</text><nlkx/>
+   <text> Glacmor</text><nlkx/><text> Trassian (cave)</text><nlkx/>
+   <text> Hulda</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_GLA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Glacmor</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> A cidade foi construída nas caves do sudeste, enquanto</text><nl/>
+   <text> que as caves do nordeste são usadas para minar.</text><nl/>
+   <text> A Academia recebe estudantes de terras distantes.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/><nl/>
+   <text> PK: Não</text><nl/><nl/>
+   <text> Multi-combat: Não</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Aeth Aelfan (barco)</text><nlkx/>
+   <text> Irinveron</text><nlkx/><text> Trassian</text><nlkx/>
+   <text> Iscalrith</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_IRS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                   Irsis</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Os nossos estudantes ainda andam a perseguir o</text><nl/>
+   <text> conhecimento deste mapa.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/><nl/>
+   <text> PK: Não</text><nl/><nl/>
+   <text> Multi-combat: Sim</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Idaloran</text><nlkx/>
+   <text> Emerald Valley Trade Route</text><nlkx/>
+   <text> Arius (barco)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_NRM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             North Redmoon (NRM)</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Os nossos estudantes ainda andam a perseguir o</text><nl/>
+   <text> conhecimento deste mapa.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Não</text><nl/><nl/>
+   <text> PK: Não</text><nl/><nl/>
+   <text> Multi-combat: Sim</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Idaloran (barco)</text><nlkx/>
+   <text> Thelinor (barco)</text><nlkx/>
+   <text> South Redmoon</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_The">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Thelinor</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Os nossos estudantes ainda andam a perseguir o</text><nl/>
+   <text> conhecimento deste mapa.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/><nl/>
+   <text> PK: Sim</text><nl/><nl/>
+   <text> Multi-combat: Sim</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> North Redmoon (barco)</text><nlkx/>
+   <text> Palon Vertas</text><nlkx/>
+   <text> Zirakinbar</text><nlkx/><text> Melinis (cave)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+<Page name="Maps2_WF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps_C2" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MAPS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Willowvine Forest</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Os nossos estudantes ainda andam a perseguir o</text><nl/>
+   <text> conhecimento deste mapa.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Storage: Sim</text><nl/><nl/>
+   <text> PK: Não</text><nl/><nl/>
+   <text> Multi-combat: Sim</text><nl/><nl/>
+   <text> Mapas em ligação:</text><text> Arius (Barco voador)</text><nlkx/>
+   <text> Emerald Valley Trade Route</text><nlkx/>
+   <text> Aeth Aelfan</text><nlkx/>
+   <text> Kusamura Jungle (cave)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                       </text><link ref="Maps_C2" title="Back To Maps Index"/>
+</Page>
+</Maps2>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<book title="The Use of Codes and Ciphers">
+<page>
+  <title>The Use of Codes and Ciphers</title>
+  <author>Dival Celebrindal (Chief Archivist)</author>
+  </page>
+<page>
+  <title>Substitution codes - Part I</title>
+  <text>I stumbled across some old parchments many months ago, and found that the inhabitants of these lands were using codes long before I thought possible. During the great battle of Grubani, the commanders of the forces used some very simple codes to send orders to their captains. They would use a different code each day, just in case any runners were intercepted. The most simple of these codes just had whole sentences written backwards; it is a crude, but apparently effective code. Here is an example: "Move your men to the north end of the woods" would become - "SDOOW EHT OF DNE HTRON EHT OT NEM ROUY EVOM" A different variation of code is where the sentence is split into groups of three letters then each group is written backwards - like this. "Move your men to the north end of the woods" would become - VOM OYE MRU TNE HTO ONE HTR DNE TFO WEH DOO S ... the book continues with some more examples, but you decide you don't need to read further and close the book.</text>
+  </page>
+  </book>

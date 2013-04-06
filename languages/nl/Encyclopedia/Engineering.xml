@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Engineering>
+<Page name="Ashes">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                     As</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="20" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><link ref="Saltpetre" title="Salpeter"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Vuur Essentie, 3 Takken.</text><nl/>
+	<text> Geadviseerd Engineering Level: 1</text><nl/>
+	<text> Engineering Ervaring Gegeven: 1</text><nl/>
+	<text> Voedsel kosten: 2</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug Naar Engineering Index"/>
+</Page>
+<Page name="Ropes">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                    Touw</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="19" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text>
+	<link ref="Snare" title="Strikken"/><text> en </text>
+	<link ref="Engineering" title="Astrologie Indicators"/><text>.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 5 Garen.</text><nl/>
+	<text> Kennis vereist: Touw Maken</text><nl/>
+	<text> Geadviseerd Engineering Level: 4</text><nl/>
+	<text> Engineering Ervaring Gegeven: 4</text><nl/>
+	<text> Voedsel kosten: 4</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug Naar Engineering Index"/>
+</Page>
+<Page name="Nails">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Spijkers</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="10" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><link ref="Engineering" title="Landmijnen"/><text>.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 2 IJzeren Baren.</text><nl/>
+	<text> Gereedschappen: Hamer</text><nl/>
+	<text> Kennis vereist: Spijkers Maken</text><nl/>
+	<text> Geadviseerd Engineering Level: 7</text><nl/>
+	<text> Engineering Ervaring Gegeven: 7</text><nl/>
+	<text> Voedsel kosten: 4</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug Naar Engineering Index"/>
+</Page>
+<Page name="Saltpetre">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Salpeter</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="21" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><link ref="Blackpowder" title="Buskruit"/><text> en Kleurstof.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 5 Mest, 2 As.</text><nl/>
+	<text> Gereedschappen: Emmer</text><nl/>
+	<text> Kennis vereist: Salpeter Constructie</text><nl/>
+	<text> Nexus vereist: Kunstmatig 1</text><nl/>
+	<text> Geadviseerd Engineering Level: 10</text><nl/>
+	<text> Engineering Ervaring Gegeven: 25</text><nl/>
+	<text> Voedsel kosten: 10</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug Naar Engineering Index"/>
+</Page>
+<Page name="Blackpowder">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Buskruit</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="14" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><link ref="Engineering" title="Landmijnen"/><text>.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 5 Salpeter, 2 Kolen, 1 Zwavel.</text><nl/>
+	<text> Kennis vereist: Buskruit Maken</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 1</text><nl/>
+	<text> Geadviseerd Engineering Level: 14</text><nl/>
+	<text> Engineering Ervaring Gegeven: 40</text><nl/>
+	<text> Voedsel kosten: 12</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<text> Let op: dit item kan alleen opgeslagen worden in de</text><nl/>
+	<text> Gevaarlijke Items Voorraad.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug Naar Engineering Index"/>
+</Page>
+<Page name="Snare">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                    Strik</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="18" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Zet een speler voor 2 seconden vast,</text><nl/>
+	<text> Automatische scherpstelling.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 IJzeren Baar, 4 Touwen, 6 Magie Essenties.</text><nl/>
+	<text> Kennis Vereist: Strik Maken</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 1</text><nl/>
+	<text> Geadviseerd Engineering Level: 20</text><nl/>
+	<text> Engineering Ervaring Gegeven: 85</text><nl/>
+	<text> Voedsel kosten: 28</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 10 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug Naar Engineering Index"/>
+</Page>
+<Page name="Caltrops">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Kraaienpoot</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="16" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Automatische scherpstelling. Doet 15 schade plus 1</text><nlkx/>
+	<text> schade voor elke 5 engineering levels (van de</text><nlkx/>
+	<text> persoon die de Kraaienpoot plaatst).</text><nlkx/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 3 IJzeren Baren, 2 Vuur Essenties, 4 Dood Essenties.</text><nl/>
+	<text> Kennis Vereist: Kraaienpoot Maken</text><nl/>
+	<text> Nexus Vereist: Artificial 1</text><nl/>
+	<text> Geadviseerd Engineering Level: 16</text><nl/>
+	<text> Engineering Ervaring Gegeven: 50</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 10 EMU</text><nl/>
+	<nl/>
+	<text> Let op: dit item kan alleen opgeslagen worden in de</text><nl/>
+	<text> Gevaarlijke Items Voorraad.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug Naar Engineering Index"/>
+</Page>
+<Page name="P_Caltrops">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Vergiftigde Kraaienpoot</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="17" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Automatische scherpstelling. Vergiftigt. Doet 15</text><nlkx/>
+	<text> schade plus 1 schade voor elke 5 engineering levels</text><nlkx/>
+	<text> (van de persoon die de Vergiftigde Kraaienpoot</text><nlkx/>
+	<text> plaatst).</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 3 IJzeren Baren, 2 Vuur Essenties, 3 Dood Essenties,</text><nl/>
+	<text> 8 Gifsumak.</text><nl/>
+	<text> Kennis Vereist: Vergiftigde Kraaienpoot Maken</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 1</text><nl/>
+	<text> Geadviseerd Engineering Level: 18</text><nl/>
+	<text> Engineering Ervaring Gegeven: 65</text><nl/>
+	<text> Voedsel kosten: 28</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 10 EMU</text><nl/>
+	<nl/>
+	<text> Let op: dit item kan alleen opgeslagen worden in de</text><nl/>
+	<text> Gevaarlijke Items Voorraad.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug Naar Engineering Index"/>
+</Page>
+<Page name="Lightmeter">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Lichtmeter</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="14" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Laat zien hoe zichtbaar je 's-nachts bent op een</text><nlkx/>
+	<text> locatie; kans dat het breekt is 1 op 1000 per keer.</text><nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Verrijkte Vuur Essentie, 10 Turkoois.</text><nl/>
+	<text> 10 Gepolijste Saffieren</text><nl/>
+	<text> Kennis Vereist: Lichtmeter Maken</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 3</text><nl/>
+	<text> Geadviseerd Engineering Level: 32</text><nl/>
+	<text> Engineering Ervaring Gegeven: 1500</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug Naar Engineering Index"/>
+</Page>
+<Page name="S_Landmine">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Kleine Landmijn</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="20" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Automatische scherpstelling. Doet 45 schade plus 1</text><nlkx/>
+	<text> schade voor elke 5 engineering levels (van de</text><nlkx/>
+	<text> persoon die de mijn plaatst).</text><nlkx/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 2 Buskruit, 6 Spijkers, 2 IJzeren Baren,</text><nl/>
+	<text> 5 Dood Essenties, 5 Magie Essenties.</text><nl/>
+	<text> Kennis Vereist: Kleine Landmijn Maken</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 4</text><nl/>
+	<text> Geadviseerd Engineering Level: 34</text><nl/>
+	<text> Engineering Ervaring Gegeven: 170</text><nl/>
+	<text> Voedsel Kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 3 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="M_Landmine">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Medium Landmijn</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="21" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Automatische scherpstelling. Doet 75 schade plus 1</text><nlkx/>
+	<text> schade voor elke 5 engineering levels (van de</text><nlkx/>
+	<text> persoon die de mijn plaatst).</text><nlkx/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 3 Buskruit, 10 Spijkers, 3 IJzeren Baren,</text><nl/>
+	<text> 5 Dood Essenties, 5 Magie Essenties.</text><nl/>
+	<text> Kennis Vereist: Medium Landmijn Maken</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 4</text><nl/>
+	<text> Geadviseerd Engineering Level: 36</text><nl/>
+	<text> Engineering Ervaring Gegeven: 185</text><nl/>
+	<text> Voedsel Kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 5 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="L_Landmine">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Grote Landmijn</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="22" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Automatische scherpstelling. Doet 125 schade plus 1</text><nlkx/>
+	<text> schade voor elke 5 engineering levels (van de</text><nlkx/>
+	<text> persoon die de mijn plaatst).</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 5 Buskruit, 10 Spijkers, 4 IJzeren Baren,</text><nl/>
+	<text> 5 Dood Essenties, 5 Magie Essenties.</text><nl/>
+	<text> Kennis Vereist: Grote Landmijn Maken</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 4</text><nl/>
+	<text> Geadviseerd Engineering Level: 42</text><nl/>
+	<text> Engineering Ervaring Gegeven: 220</text><nl/>
+	<text> Voedsel Kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 10 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="RC_Landmine">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>          Afstand Bedienbare Landmijn</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="23" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Handmatige scherpstelling. Doet 75 schade plus 1</text><nlkx/>
+	<text> schade voor elke 5 engineering levels (van de</text><nlkx/>
+	<text> persoon die de mijn plaatst).</text><nlkx/>
+	<text> Blijft ongeveer 5 minuten.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 3 Buskruit, 4 Spijkers, 2 IJzeren Baren, 5 Dood Essenties,</text><nl/>
+	<text> 8 Magie Essenties.</text><nl/>
+	<text> Kennis Vereist: Afstand Bedienbare Landmijn Maken</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 4</text><nl/>
+	<text> Geadviseerd Engineering Level: 44</text><nl/>
+	<text> Engineering Ervaring Gegeven: 240</text><nl/>
+	<text> Voedsel Kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 6 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="RC_Detonator">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Landmijn Ontsteker</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="24" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Ontsteekt je Afstand Bedienbare Landmijnen.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nlkx/>
+	<nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Let op: de formule produceert 10 ontstekers per keer.</text><nl/>
+	<nl/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Verrijkte Magie Essentie, 24 Energie Essenties,</text><nl/>
+	<text> 10 Materie Essenties.</text><nl/>
+	<text> Kennis Vereist: Landmijn Ontsteker Maken</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 5</text><nl/>
+	<text> Geadviseerd Engineering Level: 52</text><nl/>
+	<text> Engineering Ervaring Gegeven: 3000</text><nl/>
+	<text> Voedsel Kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="Barricade">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Barricade</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="9" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: Momenteel nergens voor.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> Onbekend.</text><nl/>
+	<text> Kennis Vereist: Barricade Maken</text><nl/>
+	<text> Nexus Vereist: Onbekend</text><nl/>
+	<text> Geadviseerd Engineering Level: Onbekend</text><nl/>
+	<text> Engineering Ervaring Gegeven: Onbekend</text><nl/>
+	<text> Voedsel kosten: Onbekend</text><nl/>
+	<text> Stapelbaar: Onbekend</text><nl/>
+	<text> Gewicht: Onbekend</text><nl/>
+	<nl/>
+	<text> Let op: dit item kan alleen opgeslagen worden in de</text><nl/>
+	<text> Gevaarlijke Items Voorraad.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="EN_Cloak_CAM">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>         Passieve Camouflage Mantel</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="1" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Deze mantel geeft wat camouflage, speciaal</text><nlkx/>
+	<text> 's-nachts en in donkere grotten.</text><nlkx/>
+	<text> Licht Aanpassing: -20 punten.</text><nlkx/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> Onbekend.</text><nl/>
+	<text> Kennis vereist: Camouflage Mantel Maken</text><nl/>
+	<text> Nexus Vereist: Onbekend</text><nl/>
+	<text> Geadviseerd Engineering Level: Onbekend</text><nl/>
+	<text> Engineering Ervaring Gegeven: Onbekend</text><nl/>
+	<text> Voedsel kosten: Onbekend</text><nl/>
+	<text> Stapelbaar: Onbekend</text><nl/>
+	<text> Gewicht: 4 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="Night_Visor">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Nacht Vizier</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="2" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Converteert de IR-fotonen op magische wijze naar</text><nlkx/>
+	<text> zichtbaar licht, waardoor de drager beter kan zien</text><nlkx/>
+	<text> in de nacht.</text><nl/>
+	<text> Perceptie bonus: +30.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Bronzen Baar, 2 Seridium Baren, 2 Bind Stenen,</text><nl/>
+	<text> 3 Verrijkte Magie Essenties.</text><nl/>
+	<text> Kennis Vereist: Nacht Vizier Maken</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 7</text><nl/>
+	<text> Geadviseerd Engineering Level: 50</text><nl/>
+	<text> Engineering Ervaring Gegeven: 3000</text><nl/>
+	<text> Voedsel kosten: 28</text><nl/>
+	<text> Stapelbaar: Nee</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="Ind_AD">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>        Aanvallen/Verdedigen Indicator</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Toont het effect van astrologie op Aanvallen/Verdedigen.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Touw, 4 Turkoois, 3 Botten.</text><nl/>
+	<text> Kennis Vereist: Aanvallen/Verdedigen Indicator Maken</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 2</text><nl/>
+	<text> Geadviseerd Engineering Level: 22</text><nl/>
+	<text> Engineering Ervaring Gegeven: 90</text><nl/>
+	<text> Voedsel kosten: 20</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="Ind_Crit">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Kritiek Indicator</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Toone het effect van astrologie op Kritieken.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Touw, 3 Turkoois, 3 Botten.</text><nl/>
+	<text> Kennis Vereist: Kritiek Indicator Maken</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 2</text><nl/>
+	<text> Geadviseerd Engineering Level: 24</text><nl/>
+	<text> Engineering Ervaring Gegeven: 100</text><nl/>
+	<text> Voedsel kosten: 20</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="Ind_AccMag">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>       Nauwkeurigheid/Magie Indicator</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Toont het effect van astrologie op Nauwkeurigheid/Magie.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Touw, 3 Turkoois, 4 Botten.</text><nl/>
+	<text> Kennis Vereist: Nauwkeurigheid/Magie Indicator Maken</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 2</text><nl/>
+	<text> Geadviseerd Engineering Level: 26</text><nl/>
+	<text> Engineering Ervaring Gegeven: 115</text><nl/>
+	<text> Voedsel kosten: 20</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="Ind_HarvDegr">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>           Oogsten/Verval Indicator</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Toont het effect van astrologie op Oogsten/Verval.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Touw, 5 Turkoois, 4 Botten.</text><nl/>
+	<text> Kennis Vereist: Oogsten/Verval Indicator Maken</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 2</text><nl/>
+	<text> Geadviseerd Engineering Level: 28</text><nl/>
+	<text> Engineering Ervaring Gegeven: 130</text><nl/>
+	<text> Voedsel kosten: 20</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="Ind_RareFail">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text>
+	<nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>        Maak Zeldzaam/Falen Indicator</text><nl/><nl/>
+	<simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Toont het effect van astrologie op Maak Zeldzaam/Falen.</text><nl/>
+	<nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Touw, 4 Turkoois, 2 Gepolijste Saffieren, 3 Botten.</text><nl/>
+	<text> Kennis Vereist: Maak Zeldzaam/Falen Indicator Maken</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 2</text><nl/>
+	<text> Geadviseerd Engineering Level: 30</text><nl/>
+	<text> Engineering Ervaring Gegeven: 150</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="Predictor">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Voorspel Stenen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="19" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Voorspelt de astrologie invloed.</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Voorspelt de invloed die astrologie op je heeft over 20,</text><nl/>
+	<text> 40 en 60 minuten. Er is een steen voor elk van de 10</text><nl/>
+	<text> astrologie gebieden.</text><nl/>
+	<nl/>
+	<text> Dit item kan niet geproduceerd worden.</text><nl/>
+	<nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="ArrowBolt_Head">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Pijlpunt</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="5" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Gebruikt voor: </text><link ref="Archery" title="Pijlen"/><text> en </text><link ref="Archery" title="Kruisboog Pijlen"/><text>.</text>
+	<nl/><nl/><nl/><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Let op: de formule produceert 2 pijlpunten per keer.</text><nl/>
+	<nl/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 IJzeren Baar, 1 Vuur Essentie, 1 Water Essentie.</text><nl/>
+	<text> Items nodig in Inventaris: Pijlpunt Vorm</text><nl/>
+	<text> Kennis Vereist: Pijlpunt Maken</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 3</text><nl/>
+	<text> Geadviseerd Engineering Level: 25</text><nl/>
+	<text> Engineering Ervaring Gegeven: 105</text><nl/>
+	<text> Voedsel kosten: 20</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="Invasionmeter">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Invasiemeter</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="13" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Toont hoeveel invasiemonsters er in de map zijn, en</text><nl/>
+	<text> hoe sterk ze zijn; kans van 1 op 10 dat de meter</text><nl/>
+	<text> breekt per gebruik.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Verrijkte Magie Essentie, 1 Gips,</text><nl/>
+	<text> 1 Geraffineerd Vegetatie Mengsel.</text><nl/>
+	<text> Kennis Vereist: Invasiemeter Maken</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 4</text><nl/>
+	<text> Geadviseerd Engineering Level: 38</text><nl/>
+	<text> Engineering Ervaring Gegeven: 220</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 2 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="Mana_Drain_Ward">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Verminder Mana Ward</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="5" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Verwijderd per stap en binnen bereik van de Ward 3</text><nlkx/>
+	<text> mana plus 1 extra mana voor elke 8 engineering</text><nlkx/>
+	<text> levels (van de persoon die de Ward plaatst).</text><nlkx/>
+	<text> Blijft ongeveer 5 minuten staan.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 35 Energie Essenties, 35 Lucht Essenties,</text><nl/>
+	<text> 35 Dood Essenties, 10 Taxus, 10 Turkoois.</text><nl/>
+	<text> Kennis Vereist: Verminder Mana Ward</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 4</text><nl/>
+	<text> Geadviseerd Engineering Level: 46</text><nl/>
+	<text> Engineering Ervaring Gegeven: 260</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 6 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="Mana_Burn_Ward">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Mana Verbranden Ward</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="6" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Verbrand per stap en binnen bereik van de Ward 3</text><nlkx/>
+	<text> mana plus 1 extra mana voor elke 10 engineering</text><nlkx/>
+	<text> levels (van de persoon die de Ward plaatst).</text><nlkx/>
+	<text> Blijft ongeveer 3 minuten staan.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 40 Energie Essenties, 40 Lucht Essenties,</text><nl/>
+	<text> 40 Dood Essenties, 20 Taxus, 30 Gepolijste Robijnen.</text><nl/>
+	<text> Kennis Vereist: Mana Verbranden Ward</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 4</text><nl/>
+	<text> Geadviseerd Engineering Level: 48</text><nl/>
+	<text> Engineering Ervaring Gegeven: 290</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 6 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="Inv_Remove_Ward">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>      Onzichtbaarheid Verwijderen Ward</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="7" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> 20% kans per stap en binnen bereik van de Ward om</text><nlkx/>
+	<text> onzichtbaarheid te verliezen, plus 1% extra kans</text><nlkx/>
+	<text> voor elke 4 engineering levels (van de persoon die</text><nlkx/>
+	<text> de Ward plaatst). Blijft ongeveer 3 minuten staan.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 45 Energie Essenties, 45 Magie Essenties,</text><nl/>
+	<text> 45 Dood Essenties, 20 Taxus, 30 Gepolijste Smaragden.</text><nl/>
+	<text> Kennis Vereist: Onzichtbaarheid Verwijderen Ward</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 4</text><nl/>
+	<text> Geadviseerd Engineering Level: 54</text><nl/>
+	<text> Engineering Ervaring Gegeven: 320</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 6 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="MI_Remove_Ward">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>      Magie Immuniteit Verwijderen Ward</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="8" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> 10% kans per stap en binnen bereik van de Ward om</text><nlkx/>
+	<text> magie immuniteit te verliezen, plus 1% extra kans</text><nlkx/>
+	<text> voor elke 4 engineering levels (van de persoon die</text><nlkx/>
+	<text> de Ward plaatst). Blijft ongeveer 3 minuten staan.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 30 Energie Essenties, 90 Magie Essenties,</text><nl/>
+	<text> 10 Dood Essenties, 20 Taxus, 10 Gouden Baren.</text><nl/>
+	<text> Kennis Vereist: Magie Immuniteit Verwijderen Ward</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 4</text><nl/>
+	<text> Geadviseerd Engineering Level: 56</text><nl/>
+	<text> Engineering Ervaring Gegeven: 340</text><nl/>
+	<text> Voedsel kosten: 25</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 6 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+<Page name="Point_Defense">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Engineering" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Pijlen Verdediging</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="50" size="100" tid="10" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Verminderd de schade van (kruisboog) pijlen met</text><nlkx/>
+	<text> een willekeurig aantal tussen 0% en 100%.</text><nlkx/>
+	<text> Voor eenmalig gebruik.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste materialen:</text><nl/>
+	<text> 1 Energie Essentie, 1 Bot Poeder.</text><nl/>
+	<text> Nexus Vereist: Kunstmatig 4</text><nl/>
+	<text> Geadviseerd Engineering Level: 58</text><nl/>
+	<text> Engineering Ervaring Gegeven: 50</text><nl/>
+	<text> Voedsel kosten: 10</text><nl/>
+	<text> Stapelbaar: Ja</text><nl/>
+	<text> Gewicht: 1 EMU</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                  </text><link ref="Engineering" title="Terug naar Engineering Index"/>
+</Page>
+</Engineering>

@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Archery>
+<Page name="Short_Bow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <color>red</color>
+   <text>                  Short Bow</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                         (Luk Krotki)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 5-8 obrazen, +4 do Celnosci Strzalu (Missle</text><nlkx/>
+    <text> Accuracy).</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy: </text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Umiejetnosci: ???</text>
+   <nl/>
+   <text> Doswiadczenie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 7 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Archery" title="Wroc do Indeksu Strzelectwa"/>
+</Page>
+<Page name="Long_Bow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <color>red</color>
+   <text>                  Long Bow</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                         (Luk Dlugi)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 5-8 obrazen, +2 do Celnosci Strzalu.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Umiejetnosci: ???</text>
+   <nl/>
+   <text> Doswiadczenie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 7 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Archery" title="Wroc do Indeksu Strzelectwa"/>
+</Page>
+<Page name="Recurve_Bow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <color>red</color>
+   <text>                 Recurve Bow</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                       (Luk Refleksyjny)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 5-8 obrazen, +6 do Celnosci Strzalu.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Umiejetnosci: ???</text>
+   <nl/>
+   <text> Doswiadczenie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 7 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Archery" title="Wroc do Indeksu Strzelectwa"/>
+</Page>
+<Page name="Elven_Bow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <color>red</color>
+   <text>                  Elven Bow</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                          (Luk Elfi)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 5-8 obrazen, +10 do Celnosci Strzalu.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Umiejetnosci: ???</text>
+   <nl/>
+   <text> Doswiadczenie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 7 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Archery" title="Wroc do Indeksu Strzelectwa"/>
+</Page>
+<Page name="Crossbow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <color>red</color>
+   <text>                  Crossbow</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                           (Kusza)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 5-8 obrazen, +8 do Celnosci Strzalu.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Umiejetnosci: ???</text>
+   <nl/>
+   <text> Doswiadczenie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 7 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Archery" title="Wroc do Indeksu Strzelectwa"/>
+</Page>
+<Page name="Arrows">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <color>red</color>
+   <text>               Training Arrows</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Strzaly Treningowe)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Strzaly treningowe. Niezbyt dobre na PK!</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Archery" title="Wroc do Indeksu Strzelectwa"/>
+</Page>
+<Page name="pk_arrow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <color>red</color>
+   <text>                  PK Arrows</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+    <text>                         (Strzaly PK)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +10 do Celnosci Strzalu.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Arrow/Bolt Head, 1 Yew, 1 Air Essence, 1 Hawk Feather.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Carving Knife</text>
+   <nl/>
+   <text> Wymagana Wiedza: PK Arrows</text>
+   <nl/>
+   <text> Wymagane Nexusy: Artificial 2</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 27</text>
+   <nl/>
+   <text> Doswiadczenie: 115</text>
+   <nl/>
+   <text> Koszt Jedzenia: 20</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Archery" title="Wroc do Indeksu Strzelectwa"/>
+</Page>
+<Page name="Magic_Arrows">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <color>red</color>
+   <text>                Magic Arrows</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+    <text>                     (Magiczne Strzaly)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 15 do obrazen, 15 do obrazen od magii, -25 do</text><nlkx/>
+   <text> Celnosci, +15 do Celnosci Strzalu, -15 do</text><nlkx/>
+   <text> Krytycznego Trafienia. Bardzo szybkie naciaganie.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Uwaga: wytworzenie strzal wyprodukuje 75 sztuk na raz.</text><nl/>
+   <nl/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Enriched Magic Essence, 50 Arrow/Bolt Heads, 50 Yews,</text><nl/>
+   <text> 50 Hawk Feathers.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Carving Knife</text>
+   <nl/>
+   <text> Wymagana Wiedza: Magic arrows</text>
+   <nl/>
+   <text> Wymagane Nexusy: Artificial 2</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 31</text>
+   <nl/>
+   <text> Doswiadczenie: 2000</text>
+   <nl/>
+   <text> Koszt Jedzenia: 20</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Archery" title="Wroc do Indeksu Strzelectwa"/>
+</Page>
+<Page name="Fire_Arrows">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <color>red</color>
+   <text>              Fire Arrows</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+    <text>                      (Strzaly Ogniste)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 15 do obrazen, 35 do obrazen od ognia, -25 do</text><nlkx/>
+   <text> Celnosci, -10 do Celnosci Strzalu, -15 do</text><nlkx/>
+   <text> Krytycznego Trafienia.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Uwaga: wytworzenie strzial wyprodukuje 80 sztuk na raz.</text><nl/>
+   <nl/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Enriched Fire Essence, 50 Arrow/Bolt Heads, 50 Yews,</text><nl/>
+   <text> 50 Hawk Feathers.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Carving Knife</text>
+   <nl/>
+   <text> Wymagana Wiedza: Fire arrows</text>
+   <nl/>
+   <text> Wymagane Nexusy: Artificial 2</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 35</text>
+   <nl/>
+   <text> Doswiadczenie: 2300</text>
+   <nl/>
+   <text> Koszt Jedzenia: 20</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Archery" title="Wroc do Indeksu Strzelectwa"/>
+</Page>
+<Page name="Ice_Arrows">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <color>red</color>
+   <text>                  Ice Arrows</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+    <text>                        (Strzaly Zimna)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 40 do obrazen od zimna, -25 do Celnosci, -15 do </text><nlkx/>
+   <text> Celnosci Strzalu, -15 do Krytycznego Trafienia</text><nlkx/>
+   <text> Bardzo powolne naciaganie.</text>
+    <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Uwaga: wytworzenie strzal wyprodukuje 50 sztuk na raz.</text><nl/>
+   <nl/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Enriched Water Essence, 50 Arrow/Bolt Heads, 50 Yews,</text><nl/>
+   <text> 50 Hawk Feathers.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Carving Knife</text>
+   <nl/>
+   <text> Wymagana Wiedza: Ice arrows</text>
+   <nl/>
+   <text> Wymagane Nexusy: Artificial 2</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 33</text>
+   <nl/>
+   <text> Doswiadczenie: 2100</text>
+   <nl/>
+   <text> Koszt Jedzenia: 20</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Archery" title="Wroc do Indeksu Strzelectwa"/>
+</Page>
+<Page name="Explosive_Arrows">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <color>red</color>
+   <text>              Explosive Arrows</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+    <text>                     (Strzaly Wybuchowe)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> ???</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: ???</text>
+   <nl/>
+   <text> Wymagane Nexusy: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Umiejetnosci: ???</text>
+   <nl/>
+   <text> Doswiadczenie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Archery" title="Wroc do Indeksu Strzelectwa"/>
+</Page>
+<Page name="Bolts">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <color>red</color>
+   <text>               Training Bolts</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+    <text>                     (Belty Treningowe)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Belty do kuszy, niezbyt dobre na PK!</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/><nl/><nl/>
+   <text> Uklada sie w Stos: Tak</text> 
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Archery" title="Wroc do Indeksu Strzelectwa"/>
+</Page>
+<Page name="pk_bolt">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <color>red</color>
+   <text>                  PK Bolts</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+    <text>                         (Belty PK)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +15 do Celnosci Strzalu.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Arrow/Bolt Head, 1 Yew, 1 Air Essence, 1 Falcon Feather.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Carving Knife</text>
+   <nl/>
+   <text> Wymagana Wiedza: PK Bolts</text>
+   <nl/>
+   <text> Wymagane Nexusy: Artificial 2</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 29</text>
+   <nl/>
+   <text> Doswiadczenie: 120</text>
+   <nl/>
+   <text> Koszt Jedzenia: 20</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Archery" title="Wroc do Indeksu Strzelectwa"/>
+</Page>
+<Page name="Magic_Bolts">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <color>red</color>
+   <text>                 Magic Bolts</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+    <text>                       (Magiczne Belty)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 10 do obrazen, 10 do obrazen od magii, -15 do</text><nlkx/>
+   <text> Celnosci, +15 do Celnosci Strzalu, -15 do</text><nlkx/>
+   <text> Krytycznego Strzalu, 7% na oproznienie many,</text><nlkx/>
+   <text> szybkie przeladowanie.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Uwaga: Wytworzenie strzal wyprodukuje 60 sztuk na raz.</text><nl/>
+   <nl/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Enriched Magic Essence, 60 Arrow/Bolt Heads, 60 Yews,</text><nl/>
+   <text> 60 Falcon Feathers.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Carving Knife</text>
+   <nl/>
+   <text> Wymagana Wiedza: Magic Bolts</text>
+   <nl/>
+   <text> Wymagane Nexusy: Artificial 3</text>
+   <nl/>
+   <text> Zalecany Poziom Inzynierii: 40</text>
+   <nl/>
+   <text> Doswiadczenie: 2600</text>
+   <nl/>
+   <text> Koszt Jedzenia: 20</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Archery" title="Wroc do Indeksu Strzelectwa"/>
+</Page>
+<Page name="Fire_Bolts">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <color>red</color>
+   <text>                 Fire Bolts</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 10 do obrazen, 10 do obrazen od ognia, -15 do</text><nlkx/>
+   <text> Celnosci, -10 do Celnosci Strzalu, -15 do,</text><nlkx/>
+   <text> Krytycznego Trafienia, 15% na wyssanie many.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Uwaga: Wytworzenie strzal wyprodukuje 65 sztuk na raz.</text><nl/>
+   <nl/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Enriched Fire Essence, 65 Arrow/Bolt Heads, 65 Yews,</text><nl/>
+   <text> 65 Falcon Feathers.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: Carving Knife</text>
+   <nl/>
+   <text> Wymagana Wiedza: Fire Bolts</text>
+   <nl/>
+   <text> Wymagane Nexusy: Artificial 3</text>
+   <nl/>
+   <text> Zalecany Poziom Engineering: 43</text>
+   <nl/>
+   <text> Doswiadczenie: 2800</text>
+   <nl/>
+   <text> Koszt Jedzenia: 20</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Archery" title="Wroc do Indeksu Strzelectwa"/>
+</Page>
+<Page name="Ice_Bolts">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <color>red</color>
+   <text>                  Ice Bolts</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+    <text>                        (Belty Lodu)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 10 do obrazen, 10 do obrazen od zimna, -15 do,</text><nlkx/>
+   <text> Celnosci, -15 do Celnosci Strzalu, -15 do,</text><nlkx/>
+   <text> Krytycznego Trafienia, 10% szans na cooldown,</text><nlkx/>
+   <text> bardzo dlugie przeladowanie.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: ???</text>
+   <nl/>
+   <text> Wymagane Nexusy: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Umiejetnosci: ???</text>
+   <nl/>
+   <text> Doswiadczenie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Archery" title="Wroc do Indeksu Strzelectwa"/>
+</Page>
+<Page name="Explosive_Bolts">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Archery" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                STRZELECTWO</text><nl/>
+   <color>red</color>
+   <text>                   Explosive Bolts</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+    <text>                   (Wybuchowe Belty)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> ???</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???.</text>
+   <nl/>
+   <text> Wymagane Narzedzia: ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: ???</text>
+   <nl/>
+   <text> Wymagane Nexusy: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Umiejetnosci: ???</text>
+   <nl/>
+   <text> Doswiadczenie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Tak</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Archery" title="Wroc do Indeksu Strzelectwa"/>
+</Page>
+</Archery>

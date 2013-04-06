@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+<Page Name="newskills">
+   
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text>             Eternal Lands Súgó</text><nl/>
+   <text>                   Képességek</text><nl/>
+   
+   <nl/>
+   <size>Medium</size>
+   <color r="1" g="1" b="1"/>
+   <size>Big</size>
+   <text>      Hogyan kezdjek neki egy képesség</text><nl/>
+   <text>                fejlesztésének?</text><nl/>
+   <nl/>
+   
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text>                    </text><link ref="fight" title="Harc (Fighting)"/><nl/>
+   <size>Small</size>
+   <nl/>
+   <size>Medium</size>
+   <text>                    </text><link ref="harv" title="Betakarítás (Harvesting)"/><nl/>
+   <size>Small</size>
+   <nl/>
+   <size>Medium</size>
+   <text>                    </text><link ref="manu" title="Kézmüvesség (Manufacturing)"/><nl/>
+   <size>Small</size>
+   <nl/>
+   <size>Medium</size>
+   <text>                    </text><link ref="alch" title="Alkímia (Alchemy)"/><nl/>
+   <size>Small</size>
+   <nl/>
+   <size>Medium</size>
+   <text>                    </text><link ref="magc" title="Mágia (Magic)"/><nl/>
+   <size>Small</size>
+   <nl/>
+   <size>Medium</size>
+   <text>                    </text><link ref="pots" title="Italkeverés (Potioning)"/><nl/>
+   <size>Small</size>
+   <nl/>
+   <size>Medium</size>
+   <text>                    </text><link ref="summ" title="Szellemidézés (Summoning)"/><nl/>
+   <size>Small</size>
+   <nl/>
+   <size>Medium</size>
+   <text>                    </text><link ref="crft" title="Ékszerészet (Crafting)"/><nl/>
+   <size>Small</size>
+   <nl/>
+   <size>Medium</size>
+   <text>                    </text><link ref="engn" title="Engineering"/><nl/>
+   <size>Small</size>
+   
+</Page>
+
+<Page Name="fight">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Vissza"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text>                   Képességek</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Harc:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> A</text>
+   <color r="1" g="1" b="1"/>
+   <text> harci képesség a támadás és védekezés. A képesség</text><nl/>
+   <text> fejlesztéséhez sokat kell harcolni. Harcolni lehet</text><nl/>
+   <text> állatokkal (nyulakkal, hódokkal, patkányokkal, szarvassal és hasonlók),</text><nl/>
+   <text> majd késöbb szörnyekkel (goblinokkal, csontvázakkal, stb.). Ezen felül</text><nl/>
+   <text> léteznek még speciális pályák (PK - Player Killing) pályák, ahol más játékosokkal</text><nl/>
+   <text> lehet küzdeni. Vigyázat! Ezeken a pályákon más játékosok meg is ölhetnek!</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Kezdöként</text>
+   <color r="1" g="1" b="1"/>
+   <text> elöször a gyengébb teremtményekkel próbálj harcolni,</text><nl/>
+   <text> ilyenek a nyulak (rabbit), patkányok (rat) és a hódok (beaver).</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Amíg</text>
+   <color r="1" g="1" b="1"/>
+   <text> harcolsz, sérülhetsz és akár meg is halhatsz.</text><nl/>
+   <text> A gyógyulni csak akkor fogsz ha nem éhezel. azaz a jóllakottság szintje</text><nl/>
+   <text> (sárga csík) pozitív. Ehhez enned kell. Ehetsz</text><nl/>
+   <text> kenyeret (bread), gyümölcsöket (fruits) és zöldségeket (veggies), valamint sült húst (cooked meat).</text><nl/>
+   <text> Az élelmet akár a fogadókban is megveheted, vagy Isla Primán csomagokban is találhatsz a földön,</text><nl/>
+   <text> illetve magadnak szedheted a gyümölcsöket és zöldségeket. Ezeket úgy eheted meg</text><nl/>
+   <text> hogy a mutatóujj ikonnak kattintasz a nálad lévö étel képén.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Gyógyuláshoz</text>
+   <color r="1" g="1" b="1"/>
+   <text> az elsö szinteknél visszamehetsz Isla Primára</text><nl/>
+   <text> és ott beszélj a Tutorial NPC-vel.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Gyorsabb gyógyuláshoz</text>
+   <color r="1" g="1" b="1"/>
+   <text> készíthetsz gyógyitalokat amiket meg kell innod.</text><nl/>
+   <text> Másik lehetöség a gyógyító mágia használata.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ha meghalsz</text>
+   <color r="1" g="1" b="1"/>
+   <text> újból Isla Primára kerülsz, a tábortüz közelébe.</text><nl/>
+   <text> Amikor viszont elértél egy bizonyos szintet, a pokolra jutsz halál esetén.</text><nl/>
+   <text> A pokol elhagyásához menj mindig északra, a kijárat ott lesz középen,</text><nl/>
+   <text> egy nagy lépcsösor gyertyákkal a két oldalán, ami egy vörösen izzó portálhoz vezet.</text><nl/>
+   <text> Menj közel hozzá és kattints a kijáratra hogy kijuss Isla Primára.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Vissza az Indexhez"/>
+   <nl/>
+</Page>
+
+<Page Name="harv">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Vissza"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text>                   Képességek</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Betakarítás:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> Betakarítani</text>
+   <color r="1" g="1" b="1"/>
+   <text> az olyan dolgokat lehet mint virágok, ércek, ásványok, </text><nl/>
+   <text> étel és hasonlók. A képesség fejlesztéséhez egyszerüen keress</text><nl/>
+   <text> egy virágot, kattints rá és várj. A betakarítás kezdetét üzenetben is</text><nl/>
+   <text> látni fogod, valamint azt is mit szedsz éppen.</text><nl/>
+   <text> A batyu ikonra kattintva vagy a CTRL+i billentyük lenyomására</text><nl/>
+   <text> láthatod hogy egyre több növény kerül a zsákodba.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Minden a játékban töltött óra elején</text>
+   <color r="1" g="1" b="1"/>
+   <text> pontot kapsz az elsö 120 betakarított dologért.</text><nl/>
+   <text> (a játékbeli órákat a jobb oldalon lévö órán láthatod, ha kattintasz rá</text><nl/>
+   <text> ki is írja a pontos idöt). Egy piros üzenet jelzi</text><nl/>
+   <text> ha elérted a limitet. Ezután természetesen még folytathatod a betakarítást,</text><nl/>
+   <text> azonban pontot nem kapsz.</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Amíg szüretelsz</text>
+   <color r="1" g="1" b="1"/>
+   <text> láthatod hogy a különféle betakarított dolgokért</text><nl/>
+   <text> más és más xp jár. Azokért, amiket nehezebb szedni</text><nl/>
+   <text> természetesen több xp jár, de sokkal lassabb is a szedésük.</text><nl/>
+   <text> A kezdök számára a zöldségszedés a legjobb. Ez kicsit hosszabb ideig</text><nl/>
+   <text> tart ugyan mint a virágok szedése, de a zöldségek szedése adja a</text><nl/>
+   <text> legmagasabb pontot kezdetben. Azért is jó ezt szedni, mert egyben</text><nl/>
+   <text> táplálék is és többé nem kell venned. A zöldségek egyébként</text><nl/>
+   <text> pénzszerzésre is alkalmasak, mivel eladhatod a fogadókban.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> A betakarítás során</text>
+   <color r="1" g="1" b="1"/>
+   <text> különféle események is történhetnek.</text><nl/>
+   <text> Ezeknek egy része negatív, néhányuk viszont pozitív.</text><nl/>
+   <text> Például megcsíphet egy méh (ezáltal az életpontjaid csökkennek),</text><nl/>
+   <text> vagy a Természet Királynöje megáldhat extra xp pontokkal,</text><nl/>
+   <text> esetleg találhatsz egy csomagot néhány aranyérmével.</text><nl/>
+   <text> Ezek az események megállítják a betakarítás egyébként</text><nl/>
+   <text> automatikus folyamatát, ahhoz hogy újból szedj, újból kell</text><nl/>
+   <text> kattintani.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> A szedés megállításához</text>
+   <color r="1" g="1" b="1"/>
+   <text> kattints újból az épp szedett dolgokra, vagy egyszerüen csak</text><nl/>
+   <text> sétálj odébb.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Vissza az Indexhez"/>
+   <nl/>
+</Page>
+
+<Page Name="manu">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Vissza"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text>                   Képességek</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Kézmüvesség:</text><nl/>
+   <nl/>
+   
+   <size>Small</size>
+   <text> Az elsö ruhák</text>
+   <color r="1" g="1" b="1"/>
+   <text> készítéséhez szükséged lesz türe (needle), cérnára (thread) és</text><nl/>
+   <text> bundákra (furs). Mikor nyulakra vadászol, tartsd meg a bundájukat és</text><nl/>
+   <text> csak a húst add el. Ezután menj a boltba (General Store, pl. Lakeside-ben találhatsz egyet)</text><nl/>
+   <text> és vegyél egy tüt és pár cérnát.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Lakeside</text>
+   <color r="1" g="1" b="1"/>
+   <text> egy falu, közel a dokkhoz White Stone térképen.</text><nl/>
+   <text> Isla Primáról úgy juthatsz el ide, hogy délre mész a dokkhoz és </text><nl/>
+   <text> a hajón lévö zászlóra kattintasz. A térkép megtekintéséhez </text><nl/>
+   <text> használd a TAB billentyüt (visszaváltani is ezzek kell). A boltat zöld pont jelzi a térképen.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Legyen mindig</text>
+   <color r="1" g="1" b="1"/>
+   <text> étel a zsákodban. Nem tudsz készíteni addig semmit míg éhes vagy </text><nl/>
+   <text> (a sárga csík 0 alatt van), egyszóval tartsd az éhség szinted mindig</text><nl/>
+   <text> pozitív számon.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> A legelsö dolog</text>
+   <color r="1" g="1" b="1"/>
+   <text> amit érdemes csinálni, az bundakesztyü (warm fur gloves). Ehhez 3</text><nl/>
+   <text> barna nyúlbunda (brown rabbit furs) és 2 cérna kell. A zsákodban kell lennie</text><nl/>
+   <text> még egy tünek is. A mixablak kinyitásához kattints az üllöt és kalapácsot tartalmazó </text><nl/>
+   <text> ikonra. A mixablakban pedig kattints háromszor a nyúlbundára és kétszer a</text><nl/>
+   <text> cérnára. Most kattints a "Mix" gombra és várj.</text><nl/>
+   <text> Ha szerencsés vagy, el is készült az elsö pár kesztyüd.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> **Megjegyzés**:</text>
+   <color r="1" g="1" b="1"/>
+   <text> A mixelésnél a "&gt;" (Mix) gomb egyetlen dolgot készít el a megadott recept</text><nl/>
+   <text> alapján. Ha a "&gt;&gt;" (Mix all) gombra kattintasz, akkor addig mixeled a dolgokat</text><nl/>
+   <text> míg egynél nem hibázol vagy az éhség szinted le nem csökken 0 alá.</text><nl/>
+   <nl/>
+   <text> Elöfordul hogy néha nem sikerül a mixelés. Ez teljesen normális.</text><nl/>
+   <text> Ilyenkor próbálkozz újból. Ezután csinálj annyi kesztyüt amitöl a</text><nl/>
+   <text> kézmüves képességed szintje 4 vagy 5 nem lesz. A kesztyüket eladhatod a</text><nl/>
+   <text> boltban, így lesz némi pénzed is miközben fejlödsz.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Itt az idö, </text>
+   <color r="1" g="1" b="1"/>
+   <text> hogy elkészítsd az elsö szörmesapkát. Menj át White Stone-ba és próbálj</text><nl/>
+   <text> megölni egy fehér nyulat. Erre Tirnwood</text><nl/>
+   <text> Vale a legjobb hely (nézd meg a térképen hol találhatod)</text><nl/>
+   <text> Ezen felül szükséged van még 3 hódbundára (beaver furs), ezeket </text><nl/>
+   <text> Isla Primán vadászhatod össze. Ezután még szerezned kell 3 cérnát és </text><nl/>
+   <text> az összes összetevövel rendelkezni fogsz az elsö sapka legyártásához.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> A szörmesapka elkészítéséhez</text>
+   <color r="1" g="1" b="1"/>
+   <text> egy tünek is lennie kell a zsákodban. Nyisd meg az elöbb már megismert</text><nl/>
+   <text> mixablakot (üllö és kalapács ikon), kattints 3-szor a hódbundán, 3-szor a cérnán</text><nl/>
+   <text> és 1-szer a fehér nyúlbundán. Ezután kattints a "Mix" gombra, várj és közben</text><nl/>
+   <text> imádkozz hogy sikerüljön. Ha sikerül, egy új sapka boldog birtokosa lettél.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Amikor már</text>
+   <color r="1" g="1" b="1"/>
+   <text> a szörmesapkákat könnyedén tudod gyártani, próbálj szerezni néhány farkas (wolf)</text><nl/>
+   <text> és róka (fox) bundát. Ezeket olyan játékosoktól is megveheted akik már képesek megölni</text><nl/>
+   <text> a rókákat és a farkasokat. Természetesen te is megpróbálkozhatsz velük,</text><nl/>
+   <text> de csak már mikor erösebb leszel, mert sokkal nehezebb megölni öket, mint</text><nl/>
+   <text> a nyulakat és patkányokat. Szóval a gyors öngyilkosság helyett alacsonyabb</text><nl/>
+   <text> szinten egyszerübb megkérdezni a többi játékost bundavásárlási szándékkal.</text><nl/>
+   <text> Ezt az üzlettel foglalkozó csevegö csatornán is megteheted.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Szörmeköpenyhez</text>
+   <color r="1" g="1" b="1"/>
+   <text> 3 farkasbunda, 2 rókabunda és 5 szál cérna kell. Természetesen most se</text><nl/>
+   <text> feledkezz meg a türöl és az élelmiszerröl. Kövesd a fent megismert</text><nl/>
+   <text> leírást a köpeny elkészítéséhez.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Most már</text>
+   <color r="1" g="1" b="1"/>
+   <text> egy teljes szörmeruha birtokosa lettél: kesztyü, sapka és köpeny.</text><nl/>
+   <text> Ezeket akár hordhatod is. Gratulálunk!</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> A következö</text>
+   <color r="1" g="1" b="1"/>
+   <text> hasznos dolog a börkesztyü. Ehhez szükséged van 4 kikészített börre</text><nl/>
+   <text> és 4 cérnára. A bört a boltokban lehet beszerezni.</text><nl/>
+   <text> Legyen tü a zsákodban és elegendö élelmiszer, nyisd meg a mixablakot,</text><nl/>
+   <text> kattints 4-szer a börre és 4-szer a cérnára, majd nyomd meg a "Mix" gombot.</text><nl/>
+   <text> Hacsak nem rontod el, pár próbálkozás után elkészítheted elsö börkesztyüdet.</text><nl/>
+   <text> Ez nagyon hasznos, mivel a ként bányászni illetve kaktuszt szedni csak</text><nl/>
+   <text> ebben lehet. Ezen kívül fegyverként is használható!</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Vissza az Indexhez"/>
+   <nl/>
+</Page>
+
+<Page Name="alch">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Vissza"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text>                   Képességek</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Alkímia:</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Az alkímia</text>
+   <color r="1" g="1" b="1"/>
+   <text> az esszenciák és fémtömbök készítésének müvészete.</text><nl/>
+   <text> Kezdetnek csináljunk tüzesszenciát (Fire Essence), mert ezt egyszerü elkészíteni és</text><nl/>
+   <text> el lehet adni a varázsboltokban illetve más játékosoknak.</text><nl/>
+   <text> A tüzesszencia fémtömbök öntésénél illetve azok megmunkálásánál</text><nl/>
+   <text> használható.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ehhez</text>
+   <color r="1" g="1" b="1"/>
+   <text> kénre (sulfur), vörös rózsára (red rose) és vörös sárkányfüre (red snapdragon)</text><nl/>
+   <text> van szükség. Mindegyik növény többek között Valley of the Dwarves (VotD) térképen található</text><nl/>
+   <text> a nyugati oldal közepe táján, ahol a farkasok is felbukkannak.</text><nl/>
+   <text> Isla Primáról úgy juthatsz el VotD-be, hogy lemész a dokkhoz és a</text><nl/>
+   <text> hajón található zászlóra kattintasz. Most a Lakeside (White Stone) melletti dokkba jutottál.</text><nl/>
+   <text> Innét a következö hajón lévö zászlóra kattintva (amin egy szarvas van)</text><nl/>
+   <text> Desert Pinesbe (DP) juthatsz. A második hajó itt (aminek a zászlóján egy medve van)</text><nl/>
+   <text> máris VotD-be visz. Szedj elegendö növényt, a tároláshoz használd Molgor-t</text><nl/>
+   <text> aki a VotD raktárat vezetö NPC. Egy raktár tartalmához a többiben is hozzáférhetsz.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ként</text>
+   <color r="1" g="1" b="1"/>
+   <text> a Desert Pinesben (DP) található Crystal Caves (CC) bányában tudsz szedni</text><nl/>
+   <text> VotD-böl a hajóval juthatsz vissza ide, a szarvast ábrázoló zászlóra</text><nl/>
+   <text> kattintva. A bánya bejárata a hegyekben található a térkép közepén</text><nl/>
+   <text> (a barlangnak két helyen is van bejárata)</text><nl/>
+   <text> Kénbányászathoz börkesztyüt kell viselned. A kézmüvességröl szóló </text><nl/>
+   <text> részben elolvashatod hogyan gyárthatsz ilyet, illetve megvásárolhatod a </text><nl/>
+   <text> kovácstól White Stone Cityben (WSC) - a térképen rózsaszín pont jelzi.</text><nl/>
+   <text> Természetesen a többi játékostól is vehetsz. Ha megtaláltad a kénlelöhelyet</text><nl/>
+   <text> a barlangban, a szedett mennyiséget Desert Pines raktárában odaadhatod</text><nl/>
+   <text> Grimnek, aki megörzi számodra.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Most</text>
+   <color r="1" g="1" b="1"/>
+   <text> hogy már elraktál számos virágot és ként, szedj kis élelmiszert is.</text><nl/>
+   <text> Menj vissza Grimhez, vegyél ki 10 rózsát, 10 sárkányfüvet és 10 ként</text><nl/>
+   <text> a raktárból. Egyél, hogy ne legyél éhes. Nyisd meg a mixablakot,</text><nl/>
+   <text> (üllö és kalapács ikon alul) és kattints egyszer a rózsára, a sárkányfüre és a kénre</text><nl/>
+   <text> Ezután kattints a "Mix" gombra és várj. Remélhetöleg sikeresen legyártottad</text><nl/>
+   <text> elsö tüzesszenciádat. Ha mégse sikerülne, bátran próbálkozz újból.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Ezután</text>
+   <color r="1" g="1" b="1"/>
+   <text> csinálj annyi tüzesszenciát amennyit csak tudsz. Amikor készen vagy,</text><nl/>
+   <text> keresd meg a varázsboltot Grahms Village-ben (White Stone délnyugati részén)</text><nl/>
+   <text> Az esszenciákat természetesen nemcsak itt, hanem más játékosoknak is</text><nl/>
+   <text> eladhatod a könnyü pénzkereset reményében.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Most elkezdhetsz</text>
+   <color r="1" g="1" b="1"/>
+   <text> tonnákat gyártani a tüzesszenciából. Figyeld türelmesen a zsákodat,</text><nl/>
+   <text> mert ha egy második rekeszében jelenik meg a következö tüzesszencia,</text><nl/>
+   <text> az nem azt jelenti hogy az elsö megtelt volna. Nézd meg a "szem" ikonnal</text><nl/>
+   <text> a rekesz tartalmát és láthatod hogy mit is tartalmaz. Az egyik rekeszben</text><nl/>
+   <text> egy extra tüzesszencia jelent meg (Enriched Fire Essence).</text><nl/>
+   <text> Ezt gondosan örizd meg, mert értékesebb fajta mint a normál, a</text><nl/>
+   <text> játékban komoly pénzeket fizetnek érte. Sok mix után jön össze és bár</text><nl/>
+   <text> kicsi az esélye hogy megjelenjen, de azért érdemes bátran próbára tenni</text><nl/>
+   <text> a szerencsédet! </text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Vissza az Indexhez"/>
+   <nl/>
+</Page>
+
+<Page Name="magc">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Vissza"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text>                   Képességek</text><nl/>
+   
+   <nl/>
+   <size>Big</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Mágia:</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> A mágia a</text>
+   <color r="1" g="1" b="1"/>
+   <text> varázsigék müvészete. Ahhoz hogy varázsolhass, szükséged lesz a</text><nl/>
+   <text> varázsigéhez szükséges szimbólumokra és esszenciákra. Szimbólumokat</text><nl/>
+   <text> például White Stone térképen a varázsboltban vehetsz. Ha már egyszer megvettél egy</text><nl/>
+   <text> szimbólumot, az megjelenik a mágia ablakban (az ablak megjelenítéséhez</text><nl/>
+   <text> kattints a varázspálcás ikonra) és örökre megmarad.</text><nl/>
+   <text> Esszenciákat szintén vehetsz a varázsboltban is, de akár mixelhetsz is </text><nl/>
+   <text> az alkímia segítségével, vagy megveheted öket más játékosoktó. Minden egyes varázsige</text><nl/>
+   <text> kimondásakor a felhasznált esszenciák eltünnek.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> A varázslás</text>
+   <color r="1" g="1" b="1"/>
+   <text> megkezdéséhez menj Ghrahms Village varázsboltjába és vásárold meg az</text><nl/>
+   <text> "Egészség" (Health) szimbólumot. Ezután keresd meg a másik varázsboltot White </text><nl/>
+   <text> Stone Cityben és vedd meg a "Növelés" (Increase) szimbólumot.</text><nl/>
+   <text> Itt vegyél pár egészség esszenciát is (health essence). Most már</text><nl/>
+   <text> készen állsz a legelsö gyógyító varázsigék kimondására. Szóval küzdj meg pár</text><nl/>
+   <text> állattal, hogy megsérülj és gyógyításra szorulj!</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Most</text>
+   <color r="1" g="1" b="1"/>
+   <text> kattints a varázspálcát ábrázoló ikonra és a megjelenö ablakban látnod kell</text><nl/>
+   <text> az imént megvásárolt szimbólumokat. Elöször kattints a "Növelés" szimbólumra,</text><nl/>
+   <text> azután az "Egészség" szimbólumra. Legyen a zsákodban pár egészség esszencia is.</text><nl/>
+   <text> Ezután kattints a "Varázslat" gombra. Ha nem hibázol, 10 életerö pontot kapsz,</text><nl/>
+   <text> (vörös csík) elhasználsz 5 mana pontot (kék csík). Minden varázslat </text><nl/>
+   <text> változó mennyiségü manát használ el. Amikor a manád 5 alá csökken, nem mondhatod ki a</text><nl/>
+   <text> gyógyító varázsigét, várnod kell, míg regenerálódik hogy több pontod legyen.</text><nl/>
+   <text> Ez szintén csak akkor történik meg, ha az éhség szinted pozitív.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Gyorsabb azonban</text>
+   <color r="1" g="1" b="1"/>
+   <text> ha mana italokat (mana potions) vagy szellem frissítö italokat (spirit restoration)</text><nl/>
+   <text> iszol. Mira az italárus White Stone City piacterén található, </text><nl/>
+   <text> akár nála, akár más játékosoktól vehetsz ilyen italokat, de </text><nl/>
+   <text> a késöbbiekben az italkeveréssel te magad is elöállíthatod.</text><nl/>
+   <text> A mágia gyakorlásához elöször csak olcsó italokat használj, ez</text><nl/>
+   <text> biztos útja a varázslat tanulásának. Az üres üvegcséket is tartsd meg,</text><nl/>
+   <text> késöbb még szükséged lesz rá!</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Vissza az Indexhez"/>
+   <nl/>
+</Page>
+
+<Page Name="pots">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Vissza"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text>                   Képességek</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Potions</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Lets</text>
+   <color r="1" g="1" b="1"/>
+   <text> start with making healing potions. When you drink</text><nl/>
+   <text> them, you regain 5 material points (red bar), so you can</text><nl/>
+   <text> use then when fighting creatures.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> To</text>
+   <color r="1" g="1" b="1"/>
+   <text> make all potions, you need empty vials. The easiest</text><nl/>
+   <text> way to get some, is to buy them from Harvy, who is</text><nl/>
+   <text> located in the south of the Kamara Desert. They cost</text><nl/>
+   <text> 3 gold coins and 5 quartz.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Then</text>
+   <color r="1" g="1" b="1"/>
+   <text> go back to Grahm's Village, to the western most</text><nl/>
+   <text> house with the vegetable patch in the garden. Near the</text><nl/>
+   <text> house are sunflowers, pick a few and pick some vegetables</text><nl/>
+   <text> as well. After that, buy some wine from the Tavern and</text><nl/>
+   <text> you are ready to make your own potions.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Make</text>
+   <color r="1" g="1" b="1"/>
+   <text> sure that your food level is positive, then open the</text><nl/>
+   <text> manufacturing window by clicking on the hammer and anvil</text><nl/>
+   <text> icon at the bottom. Click once on a vial, wine and</text><nl/>
+   <text> sunflower. Click the "Mix" button and wait. If you don't</text><nl/>
+   <text> fail, you will have your first self-made healing potion.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Vissza az Indexhez"/>
+   <nl/>
+</Page>
+
+<Page Name="summ">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Vissza"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text>                   Képességek</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Summoning</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <text> Summoning</text>
+   <color r="1" g="1" b="1"/>
+   <text> lets you bring creatures to life in this world</text><nl/>
+   <text> for a limited time. They will follow you wherever you go</text><nl/>
+   <text> on the actual map until they die.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> First,</text>
+   <color r="1" g="1" b="1"/>
+   <text> you need a dead rabbit. Just go and kill one. You</text><nl/>
+   <text> need 1 brown rabbit fur, 1 bone and 1 meat. Buy a life</text><nl/>
+   <text> essence in one of the magic shops, make sure that your</text><nl/>
+   <text> ethereal points are not 0 (blue bar) and that's it. Now</text><nl/>
+   <text> find a quiet place. Never summon at crowded places like</text><nl/>
+   <text> storages and beam/wraith.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Open</text>
+   <color r="1" g="1" b="1"/>
+   <text> the manufacture window by clicking on the hammer and</text><nl/>
+   <text> anvil icon at the bottom. Click once on the brown rabbit</text><nl/>
+   <text> fur, the meat, the bone and the life essence. Now click</text><nl/>
+   <text> the "Mix" button and wait. If you dont fail, there is now</text><nl/>
+   <text> a rabbit hopping near you. Now walk away and it will</text><nl/>
+   <text> follow you.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Vissza az Indexhez"/>
+   <nl/>
+</Page>
+
+<Page Name="crft">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Vissza"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text>                   Képességek</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Crafting</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> To</text>
+   <color r="1" g="1" b="1"/>
+   <text> start getting the first levels in crafting all you</text><nl/>
+   <text> need is an artificial nexus 1 (see Wraith). Go to Desert</text><nl/>
+   <text> Pines and look for some cotton in the Corren Village</text><nl/>
+   <text> area and harvest it.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Once</text>
+   <color r="1" g="1" b="1"/>
+   <text> you have about 30 cotton open the manufacture</text><nl/>
+   <text> window by clicking on the hammer and anvil icon at</text><nl/>
+   <text> the bottom. Click 5 times on the cotton and then</text><nl/>
+   <text> click the "Mix" button and wait.</text><nl/>
+   <text> If you dont fail, you'll make 1 thread; if you need food</text><nl/>
+   <text> there are usually vegetables growing near the cotton.</text><nl/>
+   <text> Go on making thread to gain your first crafting levels,</text><nl/>
+   <text> and keep the thread for when you train manufacturing.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> To</text>
+   <color r="1" g="1" b="1"/>
+   <text> start crafting jewels, you need a lot of knowledge.</text><nl/>
+   <text> Meaning you must read books first before you can start.</text><nl/>
+   <text> Go to Tarsengaard and enter the magic school. But beware</text><nl/>
+   <text> of the armored goblins on that map! You can enter</text><nl/>
+   <text> Tarsengaard both from The Valley of the Dwarves or from</text><nl/>
+   <text> the White Stone maps. Find Itilli in the registry room,</text><nl/>
+   <text> that's on the left hand side just after entering the</text><nl/>
+   <text> entrance hall. Buy from her the Generic Rings and Gold</text><nl/>
+   <text> Rings books and read them. Yes, you will start with</text><nl/>
+   <text> making simple gold rings.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> While</text>
+   <color r="1" g="1" b="1"/>
+   <text> reading, make sure, that your artificial nexus is 1</text><nl/>
+   <text> (see Wraith). Then go and get some gold bars, make them</text><nl/>
+   <text> (alchemy) or buy them from other players. You will also</text><nl/>
+   <text> need some fire essences. Make them (alchemy) or buy them</text><nl/>
+   <text> from other players or magic shops on the White Stone map.</text><nl/>
+   <text> And last you need a ring mold. The magic shop in Portland</text><nl/>
+   <text> (yellow dot on map) sells it. There you can get some</text><nl/>
+   <text> other items needed for crafting too like gem sanders, gem</text><nl/>
+   <text> cutters and such.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> When</text>
+   <color r="1" g="1" b="1"/>
+   <text> you are done reading both books, have the gold bars,</text><nl/>
+   <text> fire essences, and ring mold in your inventory, you are</text><nl/>
+   <text> ready to start. Don't forget to grab some food.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Now</text>
+   <color r="1" g="1" b="1"/>
+   <text> open the manufacture window (the icon with the hammer</text><nl/>
+   <text> and anvil at the bottom), click 2 times on a gold bar, 3</text><nl/>
+   <text> times on a fire essence, and then click the "Mix"</text><nl/>
+   <text> button. Wait, and hopefully you will have made your first</text><nl/>
+   <text> gold ring. To make silver rings, go to Itilli and buy</text><nl/>
+   <text> the Silver Rings book and read it. And so forth. The gold</text><nl/>
+   <text> and silver rings you make now are ingredients in making</text><nl/>
+   <text> the magic rings we use such as teleport rings, damage</text><nl/>
+   <text> rings, and disengagement rings.</text><nl/>
+   <nl/>
+   <text> As</text>
+   <color r="1" g="1" b="1"/>
+   <text> you now have found out, crafting is a very expensive</text><nl/>
+   <text> and time consuming skill normally started by the more</text><nl/>
+   <text> advanced players.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Vissza az Indexhez"/>
+   <nl/>
+</Page>
+
+<Page name="engn">
+   <size>Small</size><color>yellow</color>
+   <link x="445" y="2" ref="newskills" title="Back"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text>                   Skills</text><nl/>
+   
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Big</size>
+   <text> Engineering</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Engineering</text>
+   <color r="1" g="1" b="1"/>
+   <text> is an advanced skill, used to create several</text><nl/>
+   <text> devices like landmines and visors or making dangerous</text><nl/>
+   <text> substances.</text><nl/>
+   <text> If you are new to the game, it is advised that you level</text><nl/>
+   <text> up in other skills before you start this one. For most</text><nl/>
+   <text> of the items you'll need the support of quite high</text><nl/>
+   <text> skills and you'll also have to travel to a distant and</text><nl/>
+   <text> dangerous place in order to buy the expensive books</text><nl/>
+   <text> you'll need.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Start</text>
+   <color r="1" g="1" b="1"/>
+   <text> engineering by making some ashes. All you need for</text><nl/>
+   <text> this are branches and fire essences.</text><nl/>
+   <text> You can find branches on the ground in the woods, for</text><nl/>
+   <text> example on Isla Prima or in the Evergreen Woods in Desert</text><nl/>
+   <text> Pines; fire essences can be made (alchemy) or you could</text><nl/>
+   <text> buy them from other players or magic shops on the White</text><nl/>
+   <text> Stone map. Once you have the branches and the essences,</text><nl/>
+   <text> you can start making ashes: open the manufacturing window</text><nl/>
+   <text> by clicking on the hammer and anvil icon, then to add the</text><nl/>
+   <text> ingredients click 3 times on the branches, once on a fire</text><nl/>
+   <text> essence, and then click the "Mix" button.</text><nl/>
+   <text> Wait, and hopefully you will have made ashes!</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Continue</text>
+   <color r="1" g="1" b="1"/>
+   <text> making ashes to gain your first engineering</text><nl/>
+   <text> levels, and save them in your storage as they can be used</text><nl/>
+   <text> later on for making some more advanced items.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> If</text>
+   <color r="1" g="1" b="1"/>
+   <text> you want to start making something else after ashes,</text><nl/>
+   <text> you'll need to read books. The bookseller you'll need to</text><nl/>
+   <text> find is Neculce, located in North Redmoon. North Redmoon</text><nl/>
+   <text> is a map on the continent of Irilion and deadly monsters</text><nl/>
+   <text> live there. The books you need to start off with are</text><nl/>
+   <text> "Book of Nails" and "Book of Rope" which will both cost</text><nl/>
+   <text> a total of 8k gold coins.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> After</text>
+   <color r="1" g="1" b="1"/>
+   <text> reading the books, The next 2 items you can try to</text><nl/>
+   <text> make are ropes and nails. You'll need some thread for the</text><nl/>
+   <text> ropes and iron bars for the nails. You can make thread</text><nl/>
+   <text> (crafting), or buy it from players or general stores.</text><nl/>
+   <text> When you have the thread, open the manufacture window,</text><nl/>
+   <text> click 5 times on the thread and then click the "Mix"</text><nl/>
+   <text> button to make your first rope. Ropes can also be sold</text><nl/>
+   <text> to the general stores.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> For</text>
+   <color r="1" g="1" b="1"/>
+   <text> making nails you need iron bars and a hammer. You can</text><nl/>
+   <text> make the bars yourself or buy them from players, and the</text><nl/>
+   <text> hammer is sold by the blacksmith in White Stone City.</text><nl/>
+   <text> Once you have the bars and the hammer (and some food)</text><nl/>
+   <text> open the manufacturing window, click 2 times on the iron</text><nl/>
+   <text> bars and then click the "Mix" button to make some nails.</text><nl/>
+   <nl/>
+   <nl/>
+   
+   <color>yellow</color>
+   <text>                    </text>
+   <link ref="newskills" title="Back To Help Index"/>
+   <nl/>
+</Page>
+</skills>

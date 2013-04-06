@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Attributes>
+<Page name="Physique">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>              Atributos Basicos</text><nl/>
+   <color>red</color>
+   <text>                 Physique (Fisico)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Physique e o atributo basico que e usado para</text><nl/>
+   <text> aumentar a tua "Might", "Matter", e "Toughness".</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Might: e o atributo cruzado que te permite carregar</text><nl/>
+   <text> mais peso e fazer mais dano em combate.</text><nl/>
+   <text> Matter: e o atributo cruzado que aumenta a tua saude.</text><nl/>
+   <text> Toughness: diminui a quantidade de dano sofrido numa luta.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Coordination">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>              Atributos Basicos</text><nl/>
+   <color>red</color>
+   <text>                Coordination (Coordenacao)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Coordenacao e o atributo basico que e usado para</text><nl/>
+   <text> aumentar a tua "Might", "Reaction", e "Dexterity".</text><nl/>
+   <color r="0" g="0.7" b="1"/>
+   <nlkx/>
+   <nl/>
+   <text> Might: e o atributo cruzado que te permite carregar</text><nl/>
+   <text> mais peso e fazer mais dano em combate.</text><nl/>
+   <text> Reaction: e o atributo cruzado que te ajuda a evitar</text><nl/>
+   <text> ser atingido em combate.</text><nl/>
+   <text> Dexterity: e o atributo cruzado que aumenta a</text><nl/>
+   <text> hipotese de um golpe atingir.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Reasoning">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>              Atributos Basicos</text><nl/>
+   <color>red</color>
+   <text>                Reasoning (Raciocinio)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Raciocinio e o atributo basico que e usado para aumentar</text><nl/>
+   <text> a tua "Dexterity", "Perception", e "Rationality".</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Dexterity: e o atributo cruzado que aumenta a</text><nl/>
+   <text> hipotese de um golpe atingir.</text><nl/>
+   <text> Perception: e o atributo cruzado que te faz ver</text><nl/>
+   <text> melhor em condicoes de baixa visibilidade.</text><nl/>
+   <text> Rationality: e o atributo cruzado que reduz o tempo</text><nl/>
+   <text> de pesquisa e aumenta a quantidade de experiencia que recebes.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Will">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>              Atributos Basicos</text><nl/>
+   <color>red</color>
+   <text>                   Will (Vontade)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Vontade e o atributo basico que e usado para aumentar</text><nl/>
+   <text> a tua "Matter", "Rationality", e "Ethereality".</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Matter: e o atributo cruzado que aumenta a tua health.</text><nl/>
+   <text> Rationality: e o atributo cruzado que reduz o tempo</text><nl/>
+   <text> de pesquisa e aumenta a quantidade de experiencia que recebes.</text><nl/>
+   <text> Ethereality: e o atributo cruzado que aumenta os teus</text><nl/>
+   <text> Ethereal Points (Mana).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Instinct">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>              Atributos Basicos</text><nl/>
+   <color>red</color>
+   <text>                    Instinct (Instinto)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Instinto e o atributo basico que e usado para</text><nl/>
+   <text> aumentar a tua "Reaction", "Perception", e "Charm".</text><nl/>
+   <nlkx/> Faz as tuas creaturas conjuradas mais poderosas e por vezes conjurar duas pelo custo de uma
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Reaction: e o atributo cruzado que ajuda a evitar</text><nl/>
+   <text> ser atingido em combate.</text><nl/>
+   <text> Perception: e p atributo cruzado que te faz ver</text><nl/>
+   <text> melhor em condicoes de baixa visibilidade.</text><nl/>
+   <text> Charm: e o atributo cruzado que faz as tuas criaturas</text><nl/>
+   <text> conjuradas mais poderosas e da uma pequena hipotese de</text><nl/>
+   <text> conjurar 2 creaturas pelo custo de uma.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Vitality">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>              Atributos Basicos</text><nl/>
+   <color>red</color>
+   <text>                    Vitality (Vitalidade)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Vitalidade e o atributo basico que e usado para</text><nl/>
+   <text> aumentar a tua "Toughness", "Ethereality", e "Charm".</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Toughness: reduz a quantidade de dano sofrido numa luta.</text><nl/>
+   <text> Ethereality: e o atributo cruzado que aumenta os teus</text><nl/>
+   <text> Ethereal Points (Mana).</text><nl/>
+   <text> Charm: e o atributo cruzado que faz as tuas creaturas</text><nl/>
+   <text> conjuradas mais poderosas e da uma hipotese de</text><nl/>
+   <text> conjurar 2 creaturas pelo custo de uma.</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Might">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>              Atributos Cruzados</text><nl/>
+   <color>red</color>
+   <text>                    Might (Poder)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Poder aumenta a quantidade total que podes transportar, assim</text><nl/>
+   <text> como afecra a quantidade de dano que fazes em combate.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Poder e aumentado por "Physique" e "Coordination".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Matter">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>              Atributos Cruzados</text><nl/>
+   <color>red</color>
+   <text>                    Matter</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Matter aumenta o teu maximo de Pontos Materiais(saude).</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Matter e aumentado por "Physique" e "Will".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Toughness">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>              Atributos Cruzados</text><nl/>
+   <color>red</color>
+   <text>                   Toughness (Dureza)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Dureza reduz a quantidade de dano sofrido em combate.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Dureza e aumentado pelo "Physique" e "Vitality".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Charm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>              Atributos Cruzados</text><nl/>
+   <color>red</color>
+   <text>                   Charm (Charme)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Charme faz as tuas creaturas conjuradas mais poderosas</text><nl/>
+   <text> e da-te uma hipotese de conjurares 2 creaturas pelo</text><nl/>
+   <text> custo de uma.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Charme e aumentado por "Instinct" e Vitality".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Reaction">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>              Atributos Cruzados</text><nl/>
+   <color>red</color>
+   <text>                   Reaction (Reaccao)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Reaccao ajuda a evitar seres atingidido em combate.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Reaccao e aumentado por "Coordination" e "Instinct".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Perception">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>              Atributos Cruzados</text><nl/>
+   <color>red</color>
+   <text>                   Perception (Percepcao)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Percepcao faz-te ver melhor em condicoes de visibilidade reduzidas.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Percepcao e aumentado por "Reasoning" e "Instinct".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Rationality">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>              Atributos Cruzados</text><nl/>
+   <color>red</color>
+   <text>                   Rationality (Razao)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Razao reduz o tempo de pesquisa e aumenta a</text><nl/>
+   <text> quantidade de experiencia que recebes.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Razao e aumentada por "Reasoning" e "Will".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Dexterity">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>              Atributos Cruzados</text><nl/>
+   <color>red</color>
+   <text>                   Dexterity (Destreza)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Destreza aumenta a hipotese de um golpe atingir.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Destreza e aumentada por "Reasoning" e "Coordination".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Ethereality">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>              Atributos Cruzados</text><nl/>
+   <color>red</color>
+   <text>                   Ethereality</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Ethereality aumenta o maximo dos teus Pontos de Ethereal (Mana).</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/>
+   <text> Ethereality e aumentado por "Will" e "Vitality".</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Nx_Human">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color>red</color>
+   <text>                Human Nexus (Nexus Humano)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> O Nexus Humano limita o tipo de equipamente que podes</text><nl/>
+   <text> vestir (armaduras, espada, escudos, etc.).</text><nl/>
+   <text> Quanto maior o Nexus Humano, melhor equipamento</text><nl/>
+   <text> podes usar.</text><nl/>
+   <nl/><nl/>
+   <text> Nota: assim que adquirires um nexus gastando um pickpoint no</text><nl/>
+   <text> Wraith, ele requer cerca de 1 minuto para carregar (o teu nivel</text><nl/>
+   <text> de comida deve ser positivo).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Nx_Animal">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color>red</color>
+   <text>               Animal Nexus (Nexus Animal)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> O Nexus Animal limita o tipo de creaturas que podes</text><nl/>
+   <text> conjurar.</text><nl/>
+   <text> Quanto maior o nexus, melhor as creaturas que</text><nl/>
+   <text> podes conjurar.</text><nl/>
+   <nl/><nl/>
+   <text> Nota: assim que adquirires um nexus gastando um pickpoint no</text><nl/>
+   <text> Wraith, ele requer cerca de 1 minuto para carregar(o teu nivel</text><nl/>
+   <text> de comida deve ser positivo).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Nx_Vegetal">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color>red</color>
+   <text>               Vegetal Nexus (Nexus Vegetal)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> O Nexus Vegetal limita o tipo de pocoes que podes fazer.</text><nl/>
+   <text> Quanto maior o nexus, melhor as pocoes que podes fazer.</text><nl/>
+   <nl/><nl/>
+   <text> Nota: assim que adquirires um nexus gastando um pickpoint no</text><nl/>
+   <text> Wraith, ele requer cerca de 1 minuto para carregar(o teu nivel</text><nl/>
+   <text> de comida deve ser positivo).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Nx_Inorganic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color>red</color>
+   <text>               Inorganic Nexus (Nexus Inorganico)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> O Nexus Inorganico limita o tipo de minerais e minerio</text><nl/>
+   <text> que pode minar.</text><nl/>
+   <text> Quanto maior o nexus, melhor os recursos que podes</text><nl/>
+   <text> minar.</text><nl/>
+   <nl/><nl/>
+   <text> Nota: assim que adquirires um nexus gastando um pickpoint no</text><nl/>
+   <text> Wraith, ele requer cerca de 1 minuto para carregar (o teu nivel</text><nl/>
+   <text> de comida deve ser positivo).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Nx_Artificial">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color>red</color>
+   <text>               Artificial Nexus (Nexus Artificial)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> O Nexus Artificial limita o tipo de armadura e armas</text><nl/>
+   <text> que podes fazer.</text><nl/>
+   <text> Quanto maior o nexus, melhor o equipamento que podes</text><nl/>
+   <text> fazer.</text><nl/>
+   <nl/><nl/>
+   <text> Nota: assim que adquirires um nexus gastando um pickpoint no</text><nl/>
+   <text> Wraith, ele requer cerca de 1 minuto para carregar (o teu nivel</text><nl/>
+   <text> de comida deve ser positivo).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Nx_Magic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                  Nexuses</text><nl/>
+   <color>red</color>
+   <text>                Magic Nexus (Nexus Magico)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> O Nexus Magico limita o tipo de itens magicos (aneis,</text><nl/>
+   <text> medalhoes, etc.) que podes fazer.</text><nl/>
+   <text> Quanto maior o nexus, melhores itens pode fazer.</text><nl/>
+   <nl/><nl/>
+   <text> Nota: assim que adquirires um nexus gastando um pickpoint no</text><nl/>
+   <text> Wraith, ele requer cerca de 1 minuto para carregar (o teu nivel</text><nl/>
+   <text> comida deve ser positivo).</text><nl/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Sk_Attack">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                  Skills (Habilidades)</text><nl/>
+   <color>red</color>
+   <text>                  Attack (Ataque)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Ataque e usado para calcular a hipotese de atingir os teus</text><nl/>
+   <text> oponentes em combate.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Sk_Defense">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                  Skills (Habilidades)</text><nl/>
+   <color>red</color>
+   <text>                  Defense (Defesa)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Defesa e usado para calcular a hipotese evitar</text><nl/>
+   <text> golpes dos teus oponentes em combate.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Sk_Harvest">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                  Skills (Habilidades)</text><nl/>
+   <color>red</color>
+   <text>                Harvesting (Colheita)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Colheita e usado para calcular o indice de falhas quando</text><nl/>
+   <text> estas a colher ou minar.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Sk_Alchemy">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                  Skills (Habilidades)</text><nl/>
+   <color>red</color>
+   <text>                  Alchemy (Alquimia)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Alquimia e usado para calcurar o indice de falhas quando</text><nl/>
+   <text> estas a fazer essencias e barras.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Sk_Magic">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                  Skills (Habilidades)</text><nl/>
+   <color>red</color>
+   <text>                  Magic (Magia)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Magia e usado para feiticos. Quanto maior for o nivel,</text><nl/>
+   <text> melhores serao os feiticos que podes lancar.</text><nl/>
+   <nl/><nl/>
+   <text> Nota: Magia e a unica habilidade com niveis necessarios.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Sk_Potion">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                  Skills (Habilidades)</text><nl/>
+   <color>red</color>
+   <text>                  Potions (Pocoes)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Pocoes e usado para calcular o indice de falhas quando</text><nl/>
+   <text> estas a fazer pocoes.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Sk_Summoning">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                  Skills (Habilidades)</text><nl/>
+   <color>red</color>
+   <text>                Summoning (Conjuracao)</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Conjuracao e usado para calcular o indice de falhas quando</text><nl/>
+   <text> estas a conjurar creaturas.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Sk_Manufacture">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                  Skills (Habilidades)</text><nl/>
+   <color>red</color>
+   <text>              Manufacturing</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Manufacturing e usado para calcular o indice de falhas quando</text><nl/>
+   <text> fazes armas e armaduras.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Sk_Crafting">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                  Skills (habilidades)</text><nl/>
+   <color>red</color>
+   <text>                 Crafting</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Crafting  e usado para calcular o indice de falhas quando</text><nl/>
+   <text> estas a fazer joalharia.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+<Page name="Sk_Engineering">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  Skills</text><nl/>
+   <color>red</color>
+   <text>                Engineering</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> Engineering is used to calculate the failure rate when</text><nl/>
+   <text> you are making nails, landmines and other devices.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Attributes" title="Back To Attributes"/>
+</Page>
+<Page name="Sk_Overall">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Attributes" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">A Enciclopedia Do Eternal Lands</text>
+   <nl/>
+   <text>                  Skills (Habilidades)</text><nl/>
+   <color>red</color>
+   <text>                 Overall</text><nl/><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <size>Medium</size>
+   <text> O teu nivel de overall e uma combinacao da experiencia</text><nl/>
+   <text> de todas as tuas habilidades.</text><nl/>
+   <color>red</color><text> Overall nao e por si uma skill.</text><nl/><color r="0.9" g="0.9" b="0.9"/>
+   <text> E usado para dar pickpoints, que sao usados para</text><nl/>
+   <text> ganhar atributos, nexus e perks.</text><nl/>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Attributes" title="Voltar aos Atributos"/>
+</Page>
+</Attributes>

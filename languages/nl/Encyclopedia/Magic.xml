@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Magic>
+<Page name="Heal">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                  Genezen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="3" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Herstelt 10 HP</text><nl/>
+	<nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="23" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Vermeerder, Gezondheid</text><nlkx/>
+	<text> Reagens: 1 Gezondheid Essentie</text><nlkx/>
+	<text> Vereiste Magie Level: 0</text><nlkx/>
+	<text> Magie Ervaring Ontvangen: 5</text><nlkx/>
+	<text> Mana Kosten: 5</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="R_Heal">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Genezen op Afstand</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="9" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Herstelt wat HP bij het gekozen doelwit (zelf, vriend</text><nlkx/>
+	<text> of vijand). Effect verbeterd met je Magie level.</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="3" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Globaal, Vermeerder, Gezondheid</text><nlkx/>
+	<text> Reagens: 2 Gezondheid Essentie, 1 Magie Essentie</text><nlkx/>
+	<text> Vereiste Magie Level: 4</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="23" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Magie Ervaring Ontvangen: 15</text><nlkx/>
+	<text> Mana Kosten: 8</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="M_Prot">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Magie Bescherming</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Vermeerderd je Magie weerstand met 8.</text><nl/>
+	<nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="17" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Creëer, Magie, Bescherming</text><nlkx/>
+	<text> Reagens: 1 Magie Essentie, 1 Energie Essentie</text><nlkx/>
+	<text> Vereiste Magie Level: 6</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Magie Ervaring Ontvangen: 30</text><nlkx/>
+	<text> Mana Kosten: 10</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="Shield">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                   Schild</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Vermeerderd je harnas met 3.</text><nl/>
+	<nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="15" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Creëer, Materie, Bescherming</text><nlkx/>
+	<text> Reagens: 1 Materie Essentie</text><nlkx/>
+	<text> Vereiste Magie Level: 9</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Magie Ervaring Ontvangen: 40</text><nlkx/>
+	<text> Mana Kosten: 11</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="Poison">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Vergiftigen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="5" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Vergiftigd je doelwit.</text><nlkx/>
+	<text> Effect verbeterd met je Magie level.</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="4" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Tijdelijk, Verminder, Leven</text><nlkx/>
+	<text> Reagens: 2 Dood Essenties</text><nlkx/>
+	<text> Vereiste Magie Level: 12</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="24" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Magie Ervaring Ontvangen: 50</text><nlkx/>
+	<text> Mana Kosten: 14</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="Tp_to_range">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>          Teleporteer naar Bereik</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="7" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je naar een locatie in de buurt.</text><nl/>
+	<nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Verplaats, Verander, Lokaal, Ruimte</text><nlkx/>
+	<text> Reagens: 1 Materie Essentie, 1 Energie Essentie,</text><nlkx/>
+	<text>          1 Geest Essentie</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="8" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Magie Level: 15</text><nlkx/>
+	<text> Magie Ervaring Ontvangen: 65</text><nlkx/>
+	<text> Mana Kosten: 15</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="2" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="Harm">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Verwonden</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="22" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Verwond je doelwit met magie schade.</text><nlkx/>
+	<text> Effect verbeterd met je Magie level.</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="23" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Verwijder, Gezondheid</text><nlkx/>
+	<text> Reagens: 5 Gezondheid Essenties, 3 Dood Essenties</text><nlkx/>
+	<text> Vereiste Magie Level: 20</text><nlkx/>
+	<text> Magie Ervaring Ontvangen: 80</text><nlkx/>
+	<text> Mana Kosten: 25</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="Restoration">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Herstellen</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="1" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Hersteld een deel van je gezondheid (het aantal</text><nlkx/>
+	<text> punten is afhankelijk van je Magie level en de hoogte</text><nlkx/>
+	<text> van je Rationaliteit attribuut).</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="24" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Herstel, Leven</text><nlkx/>
+	<text> Reagens: 4 Gezondheid Essenties</text><nlkx/>
+	<text> Vereiste Magie Level: 21</text><nlkx/>
+	<text> Magie Ervaring Ontvangen: 95</text><nlkx/>
+	<text> Mana Kosten: 25</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="Bones_to_gold">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Botten Naar Goud</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="6" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Veranderd alle botten in je inventaris in gouden</text><nlkx/>
+	<text> munten. (Gebaseerd op je Magie level en een</text><nlkx/>
+	<text> willekeurige waarde)</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Permanent, Verander, Materie</text><nlkx/>
+	<text> Reagens: 2 Materie Essenties, 1 Energie Essentie</text><nlkx/>
+	<text> Vereiste Magie Level: 23</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="15" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<text> Vereiste Alchemie Level: 20</text><nlkx/>
+	<text> Magie Ervaring Ontvangen: 100</text><nlkx/>
+	<text> Alchemie Ervaring Ontvangen: 50</text><nlkx/>
+	<text> Mana Kosten: 30</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="Tp_to_Port_Room">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>       Teleporteer Naar Portaal Kamer</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="7" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je naar een kamer waar je toegang</text><nlkx/>
+	<text> hebt tot alle hoofdkaarten.</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Verplaats, Verander, Globaal, Ruimte</text><nlkx/>
+	<text> Reagens: 1 Materie Essentie, 5 Energie Essenties,</text><nlkx/>
+	<text>          1 Geest Essentie</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="9" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Magie Level: 24</text><nlkx/>
+	<text> Magie Ervaring Ontvangen: 105</text><nlkx/>
+	<text> Mana Kosten: 20</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="2" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="Life_drain">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Verminder Leven</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="7" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Doet schade aan je doelwit en geeft je een deel van</text><nlkx/>
+	<text> je gezondheid terug.</text><nlkx/>
+	<text> Effect verbeterd met je Magie level.</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> </text><nlkx/>
+	<text> Sigils: Verplaats, Verander, Leven</text><nlkx/>
+	<text> Reagens: 3 Life Essentie</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="24" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Magie Level: 27</text><nlkx/>
+	<text> Magie Ervaring Ontvangen: 120</text><nlkx/>
+	<text> Mana Kosten: 20</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="Magic_Immun">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Magie Immuniteit</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Maakt je tijdelijk immuun voor negatieve spreuken.</text><nl/>
+	<nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="3" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Creëer, Vermeerder, Magie, Bescherming</text><nlkx/>
+	<text> Reagens: 2 Magie Essenties, 1 Energie Essentie</text><nlkx/>
+	<text> Vereiste Magie Level: 30</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="17" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Magie Ervaring Ontvangen: 140</text><nlkx/>
+	<text> Mana Kosten: 30</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="Heal_Sum">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>             Genees Opgeroepene</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="8" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Herstelt gezondheid bij al je opgeroepen beesten,</text><nlkx/>
+	<text> in een vierkant van 16x16 om je heen.</text><nlkx/>
+	<text> Effect verbeterd met je Magie level.</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="2" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> </text><nlkx/>
+	<text> Sigils: Lokaal, Ruimte, Gezondheid, Geest</text><nlkx/>
+	<text> Reagens: 2 Geest Essenties, 2 Leven Essenties,</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="23" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<text>          2 Gezondheid Essenties</text><nlkx/>
+	<text> Vereiste Magie Level: 33</text><nlkx/>
+	<text> Magie Ervaring Ontvangen: 110</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="14" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<text> Mana Kosten: 25</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="Smite_Sum">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Neerslaan Opgeroepene</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="8" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Doet schade aan alle opgeroepen beesten (behalve die</text><nlkx/>
+	<text> van jou) in een vierkant van 16x16 om je heen. De</text><nlkx/>
+	<text> kracht van de spreuk is afhankelijk van jouw Oproepen</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="2" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<text> level en die van de eigenaar van de beesten.</text><nlkx/>
+	<text> Effect verbeterd met je Magie level.</text><nlkx/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> </text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="22" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<text> Sigils: Lokaal, Ruimte, Verwijder, Leven</text><nlkx/>
+	<text> Reagens: 2 Geest Essenties, 3 Dood Essenties,</text><nlkx/>
+	<text>          2 Materie Essenties</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="24" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<text> Vereiste Magie Level: 36</text><nlkx/>
+	<text> Magie Ervaring Ontvangen: 120</text><nlkx/>
+	<text> Mana Kosten: 30</text><nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="Drain_Mana">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>               Verminder Mana</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="7" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Verwijderd een willekeurige hoeveelheid mana van je</text><nlkx/>
+	<text> doelwit en geeft het aan jou. Gebruikt geen mana</text><nlkx/>
+	<text> als het succesvol gebruikt is op andere spelers.</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<text> Effect verbeterd met je Magie level.</text><nlkx/>
+	<text> Heeft geen effect op beesten en de meeste monsters.</text><nlkx/>
+	<text> </text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="17" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Verplaats, Verander, Magie</text><nlkx/>
+	<text> Reagens: 6 Lucht Essenties</text><nlkx/>
+	<text> Vereiste Magie Level: 40</text><nlkx/>
+	<text> Magie Ervaring Ontvangen: 200</text><nlkx/>
+	<text> Mana Kosten: 20</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="Invisibility">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Onzichtbaarheid</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="22" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Maakt je tijdelijk onzichtbaar voor anderen, behalve</text><nlkx/>
+	<text> diegenen die Waar Zicht hebben.</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="15" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Verwijder, Materie, Kennis</text><nlkx/>
+	<text> Reagens: 10 Lucht Essenties, 10 Energie Essenties,</text><nlkx/>
+	<text>          10 Materie Essenties.</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="20" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<text> Vereiste Magie Level: 50</text><nlkx/>
+	<text> Magie Ervaring Ontvangen: 400</text><nlkx/>
+	<text> Mana Kosten: 30</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="True_Sight">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                 Waar Zicht</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Hiermee kun je onzichtbare spelers zien.</text><nl/>
+	<nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="15" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Creëer, Materie, Kennis</text><nlkx/>
+	<text> Reagens: 4 Energie Essenties, 4 Magie Essenties,</text><nlkx/>
+	<text>          4 Geest Essenties.</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="20" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<text> Vereiste Magie Level: 45</text><nlkx/>
+	<text> Magie Ervaring Ontvangen: 300</text><nlkx/>
+	<text> Mana Kosten: 20</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="Heat_Shield">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Hitte Schild</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Beschermt je tegen hitte schade.</text><nl/>
+	<nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="10" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Creëer, Vuur, Bescherming</text><nlkx/>
+	<text> Reagens: 3 Energie Essenties, 3 Materie Essenties,</text><nlkx/>
+	<text>          4 Water Essenties.</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<text> Vereiste Magie Level: 37</text><nlkx/>
+	<text> Magie Ervaring Ontvangen: 200</text><nlkx/>
+	<text> Mana Kosten: 25</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="Cold_Shield">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>                Koude Schild</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Beschermt je tegen koude schade.</text><nl/>
+	<nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="11" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Creëer, Water, Bescherming</text><nlkx/>
+	<text> Reagens: 3 Energie Essenties, 3 Materie Essenties,</text><nlkx/>
+	<text>          4 Vuur Essenties.</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<text> Vereiste Magie Level: 38</text><nlkx/>
+	<text> Magie Ervaring Ontvangen: 230</text><nlkx/>
+	<text> Mana Kosten: 27</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="Radiation_Shield">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>              Radiatie Schild</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="19" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Beschermt je tegen radiatie schade.</text><nl/>
+	<nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="15" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Creëer, Materie, Energie, Bescherming</text><nlkx/>
+	<text> Reagens: 3 Energie Essenties, 4 Magie Essenties,</text><nlkx/>
+	<text>          3 Materie Essenties.</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="16" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<text> Vereiste Magie Level: 39</text><nlkx/>
+	<text> Magie Ervaring Ontvangen: 260</text><nlkx/>
+	<text> Mana Kosten: 30</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="21" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+<Page name="Itc_Tp_to_Port_Room">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Magic" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<color r="1" g="1" b="1"/>
+	<text>       Intercontinentale Teleporteer</text><nl/>
+	<text>             naar Portaal Kamer</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="0" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.5" g="0.9" b="1"/>
+	<text> Teleporteert je naar het andere continent, in de</text><nlkx/>
+	<text> Portaal Kamer.</text><nl/>
+	<nl/>
+	<simage isize="256" tsize="32" size="100" tid="9" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Sigils: Verander, Globaal, Ruimte</text><nlkx/>
+	<text> Reagens: 4 Materie Essenties, 10 Energie Essenties,</text><nlkx/>
+	<text>          12 Geest Essenties</text><nl/>
+	<simage isize="256" tsize="32" size="100" tid="2" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+	<size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
+	<text> Vereiste Magie Level: 50</text><nlkx/>
+	<text> Magie Ervaring Ontvangen: 220</text><nlkx/>
+	<text> Mana Kosten: 40</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                    </text><link ref="Magic" title="Terug Naar Magie Index"/>
+</Page>
+</Magic>

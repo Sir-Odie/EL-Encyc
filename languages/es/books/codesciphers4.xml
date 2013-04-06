@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<book title="El uso de códigos y cifrados">
+	<page>
+		<title>El uso de códigos y cifrados</title>
+		<author>Dival Celebrindal (Archivista del lider)</author>  </page>
+	<page>
+		<title>Códigos por substitución - Parte IV</title>
+		<text>He encontrado referencias a lo que los Goblins llaman el código Moncraven. Es un método relativamente simple de susbstitucion. Toma cada letra y la substituye por la letra que está tres posiciones más adelante en el alfabeto. y lo mismo para los números. Así, A es D, B es E, etc. Si no sabes que alguien está usando este tipo de código, es muy dificil detectarlo, y los que lo usan pueden escoger cualquier número que deseen. Los mensajes que usan este tipo de código que yo he descifrado, eran mayormente listados de equipamiento y movimientos de tropas. Espero que los Goblins no hayan aprendido a formular códigos mucho más complicados. Soy afortunado de que el número fuera bajo, o habría tardado mucho más en descifrar los mensajes que han caído en mis manos. Un ejemplo de este tipo de código es éste: "FORMACION 221 SE MOVERÁ AL SUR Y DESTRUIRÁ LAS GRANJAS EN EL VALLE" sería "JSVQEGMSR 665 WH PRYHUD DO VXU B GHVWUXLUD ODV JUDQMDV HQ HO YDOOH" ...[El libro continúa con algunos ejemplos más pero te aburres rápidamente y lo cierras]</text>
+	</page>
+  </book>

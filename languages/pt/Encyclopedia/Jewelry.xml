@@ -1,0 +1,1314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Jewelry>
+<Page name="Ring_Gold">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Gold Ring</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Um anel de ouro plano, usado como base para outros.</text><nlkx/>
+   <text> aneis.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 2 Gold Bars, 3 Fire Essences.</text><nl/>
+   <text> Ferramentas necessárias: Ring Mold</text><nl/>
+   <text> Conhecimento necessário: Gold Rings Building</text><nl/>
+   <text> Nexus necessários: Artificial 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 1</text><nl/>
+   <text> Experiência dada em Crafting: 10</text><nl/>
+   <text> Comida subtraída: 1</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Silver">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Silver Ring</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Um anel de prata plano, usado como base para outros</text><nlkx/>
+   <text> aneis.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 2 Silver Bars, 3 Fire Essences.</text><nl/>
+   <text> Ferramentas necessárias: Ring Mold</text><nl/>
+   <text> Conhecimento necessário: Silver Rings Building</text><nl/>
+   <text> Nexus necessários: Artificial 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 3</text><nl/>
+   <text> Experiência dada em Crafting: 15</text><nl/>
+   <text> Comida subtraída: 2</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Med_Silver">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Silver Medallion</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Um medalhão de prata plano, usado como base</text><nlkx/>
+   <text> para outros medalhões.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 3 Silver Bars, 3 Fire Essences.</text><nl/>
+   <text> Ferramentas necessárias: Medallion Mold</text><nl/>
+   <text> Conhecimento necessário: Silver Medallions Building</text>
+   <nl/>
+   <text> Nexus necessários: Artificial 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 5</text><nl/>
+   <text> Experiência dada em Crafting: 25</text><nl/>
+   <text> Comida subtraída: 4</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Med_Gold">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Gold Medallion</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Um medalhão de ouro plano, usado como base</text><nlkx/>
+   <text> para outros medalhões.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 3 Gold Bars, 3 Fire Essences.</text><nl/>
+   <text> Ferramentas necessárias: Medallion Mold</text><nl/>
+   <text> Conhecimento necessário: Gold Medallions Building</text><nl/>
+   <text> Nexus necessários: Artificial 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 7</text><nl/>
+   <text> Experiência dada em Crafting: 35</text><nl/>
+   <text> Comida subtraída: 6</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="P_Ruby">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Polished Ruby</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Um Rubi polido, embutido em Rings e Medallions</text><nlkx/>
+   <text> para fabricar objectos mágicos.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Ruby, 2 Water Essences, 1 Gem Sanding Paper.</text><nl/>
+   <text> Ferramentas necessárias: Gemstone Hammer and Chisel</text><nl/>
+   <text> Conhecimento necessário: Ruby Processing</text><nl/>
+   <text> Nexus necessários: Artificial 2</text><nl/>
+   <text> Nivel de Crafting recomendado: 9</text><nl/>
+   <text> Experiência dada em Crafting: 40</text><nl/>
+   <text> Comida subtraída: 8</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="P_Emer">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Polished Emerald</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Uma Esmeralda polida, embutida em Rings e</text><nlkx/>
+   <text> Medallions para fabricar objectos mágicos.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Emerald, 2 Water Essences, 1 Gem Sanding Paper.</text><nl/>
+   <text> Ferramentas necessárias: Gemstone Hammer and Chisel</text><nl/>
+   <text> Conhecimento necessário: Emerald Processing</text><nl/>
+   <text> Nexus necessários: Artificial 2</text><nl/>
+   <text> Nivel de Crafting recomendado: 12</text><nl/>
+   <text> Experiência dada em Crafting: 50</text><nl/>
+   <text> Comida subtraída: 10</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="P_Saph">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Polished Sapphire</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Uma Safira polida, embutida em Rings e</text><nlkx/>
+   <text> Medallions para fabricar objectos mágicos.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Sapphire, 2 Water Essences, 1 Gem Sanding Paper.</text><nl/>
+   <text> Ferramentas necessárias: Gemstone Hammer and Chisel</text><nl/>
+   <text> Conhecimento necessário: Sapphire Processing</text><nl/>
+   <text> Nexus necessários: Artificial 2</text><nl/>
+   <text> Nivel de Crafting recomendado: 14</text><nl/>
+   <text> Experiência dada em Crafting: 60</text><nl/>
+   <text> Comida subtraída: 12</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="P_Diam">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Polished Diamond</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Um Diamante polido, embutido em Rings e</text><nlkx/>
+   <text> Medallions para fabricar objectos mágicos.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Diamond, 2 Water Essences, 3 Gem Sanding Paper.</text><nl/>
+   <text> Ferramentas necessárias: Gemstone Hammer and Chisel</text><nl/>
+   <text> Conhecimento necessário: Diamond Processing</text><nl/>
+   <text> Nexus necessários: Artificial 3</text><nl/>
+   <text> Nivel de Crafting recomendado: 16</text><nl/>
+   <text> Experiência dada em Crafting: 65</text><nl/>
+   <text> Comida subtraída: 14</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Isla">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Ring of Isla Prima</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Isla Prima.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Silver Ring, 1 Polished Emerald, 1 Fire Essences.</text><nl/>
+   <text> Conhecimento necessário: Isla Prima Ring Building</text><nl/>
+   <text> Nexus necessários: Artificial 3, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 17</text><nl/>
+   <text> Experiência dada em Crafting: 70</text><nl/>
+   <text> Comida subtraída: 16</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Votd">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>       Ring of Valley of the Dwarves</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Valley of the Dwarves.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Silver Ring, 1 Polished Diamond, 1 Fire Essences.</text><nl/>
+   <text> Conhecimento necessário: Valley of the Dwarves Ring Building</text><nl/>
+   <text> Nexus necessários: Artificial 3, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 18</text><nl/>
+   <text> Experiência dada em Crafting: 75</text><nl/>
+   <text> Comida subtraída: 18</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Naralik">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Ring of Naralik</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Naralik.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Silver Ring, 1 Polished Diamond, 2 Fire Essences.</text><nl/>
+   <text> Conhecimento necessário: Naralik Ring Building</text><nl/>
+   <text> Nexus necessários: Artificial 3, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 19</text><nl/>
+   <text> Experiência dada em Crafting: 80</text><nl/>
+   <text> Comida subtraída: 20</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_WSC">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Ring of White Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para White Stone.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Gold Ring, 1 Polished Emerald, 1 Fire Essences.</text><nl/>
+   <text> Conhecimento necessário: White Stone Ring Building</text><nl/>
+   <text> Nexus necessários: Artificial 3, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 20</text><nl/>
+   <text> Experiência dada em Crafting: 82</text><nl/>
+   <text> Comida subtraída: 22</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Port">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Ring of Portland</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Portland.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Gold Ring, 1 Polished Ruby, 1 Fire Essences.</text><nl/>
+   <text> Conhecimento necessário: Portland Ring Building</text><nl/>
+   <text> Nexus necessários: Artificial 3, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 21</text><nl/>
+   <text> Experiência dada em Crafting: 85</text><nl/>
+   <text> Comida subtraída: 24</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Dp">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Ring of Desert Pines</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Desert Pines.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Gold Ring, 1 Polished Sapphire, 1 Fire Essences.</text><nl/>
+   <text> Conhecimento necessário: Desert Pines Ring Building</text><nl/>
+   <text> Nexus necessários: Artificial 3, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 22</text><nl/>
+   <text> Experiência dada em Crafting: 90</text><nl/>
+   <text> Comida subtraída: 26</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Anitora">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Ring of Anitora</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Anitora.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Silver Ring, 2 Polished Rubies, 1 Polished Sapphire,</text><nl/>
+   <text> 15 Magic Essences, 14 Energy Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Anitora Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 30</text><nl/>
+   <text> Experiência dada em Crafting: 130</text><nl/>
+   <text> Comida subtraída: 30</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Bethel">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Ring of Bethel</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Bethel.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Silver Ring, 1 Polished Ruby, 1 Polished Sapphire,</text><nl/>
+   <text> 15 Magic Essences, 14 Energy Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Bethel Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 34</text><nl/>
+   <text> Experiência dada em Crafting: 150</text><nl/>
+   <text> Comida subtraída: 30</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Egratia">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Ring of Egratia</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Egratia.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Silver Ring, 3 Polished Emeralds, 25 Magic Essences,</text><nl/>
+   <text> 8 Energy Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Egratia Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 42</text><nl/>
+   <text> Experiência dada em Crafting: 190</text><nl/>
+   <text> Comida subtraída: 35</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Emerald_Valley">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Ring of Emerald Valley</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Emerald Valley.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Silver Ring, 4 Polished Emeralds, 5 Energy Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Emerald Valley Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 60</text><nl/>
+   <text> Experiência dada em Crafting: 290</text><nl/>
+   <text> Comida subtraída: 35</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Glacmor">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Ring of Glacmor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Glacmor.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Silver Ring, 2 Polished Sapphires, 3 Rubies,</text><nl/>
+   <text> 5 Energy Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Glacmor Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 58</text><nl/>
+   <text> Experiência dada em Crafting: 280</text><nl/>
+   <text> Comida subtraída: 35</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Hulda">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Ring of Hulda</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Hulda.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Silver Ring, 3 Polished Emeralds, 3 Rubies,</text><nl/>
+   <text> 20 Magic Essences, 6 Energy Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Hulda Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 48</text><nl/>
+   <text> Experiência dada em Crafting: 220</text><nl/>
+   <text> Comida subtraída: 35</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Hurquin">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Ring of Hurquin</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Hurquin.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Silver Ring, 2 Polished Sapphires, 2 Polished Emeralds,</text><nl/>
+   <text> 2 Rubies, 5 Energy Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Hurquin Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 56</text><nl/>
+   <text> Experiência dada em Crafting: 270</text><nl/>
+   <text> Comida subtraída: 35</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Idaloran">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Ring of Idaloran</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Idaloran.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Gold Ring, 2 Polished Diamonds, 12 Magic Essences,</text><nl/>
+   <text> 14 Energy Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Idaloran Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 32</text><nl/>
+   <text> Experiência dada em Crafting: 140</text><nl/>
+   <text> Comida subtraída: 30</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Imbroglio_Islands">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Ring of Imbroglio Islands</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Imbroglio Islands.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Gold Ring, 3 Rubies, 20 Magic Essences,</text><nl/>
+   <text> 5 Energy Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Imbroglio Islands Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 54</text><nl/>
+   <text> Experiência dada em Crafting: 250</text><nl/>
+   <text> Comida subtraída: 35</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Irinveron">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Ring of Irinveron</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Irinveron.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Gold Ring, 3 Polished Sapphires, 3 Rubies,</text><nl/>
+   <text> 20 Magic Essences, 7 Energy Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Irinveron Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 46</text><nl/>
+   <text> Experiência dada em Crafting: 210</text><nl/>
+   <text> Comida subtraída: 35</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Iscalrith">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Ring of Iscalrith</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Iscalrith.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Gold Ring, 3 Polished Sapphires, 3 Rubies,</text><nl/>
+   <text> 22 Magic Essences, 7 Energy Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Iscalrith Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 44</text><nl/>
+   <text> Experiência dada em Crafting: 200</text><nl/>
+   <text> Comida subtraída: 35</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Isle_Forgotten">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>       Ring of Isle of the Forgotten</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para the Isle of the</text><nlkx/>
+   <text> Forgotten.</text><nlkx/><text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Silver Ring, 2 Polished Sapphires, 2 Rubies,</text><nl/>
+   <text> 20 Magic Essences, 5 Energy Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Isle of the Forgotten Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 52</text><nl/>
+   <text> Experiência dada em Crafting: 240</text><nl/>
+   <text> Comida subtraída: 35</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Kusamura">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Ring of Kusamura</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Kusamura.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Gold Ring, 1 Silver Bar, 25 Magic Essences</text><nl/>
+   <text> 9 Energy Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Kusamura Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 40</text><nl/>
+   <text> Experiência dada em Crafting: 180</text><nl/>
+   <text> Comida subtraída: 35</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Palon_Vertas">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Ring of Palon Vertas</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Palon Vertas.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Silver Ring, 1 Gold Bar, 30 Magic Essences,</text><nl/>
+   <text> 8 Energy Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Palon Vertas Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 38</text><nl/>
+   <text> Experiência dada em Crafting: 170</text><nl/>
+   <text> Comida subtraída: 35</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Sedicolis">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Ring of Sedicolis</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Sedicolis.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Gold Ring, 1 Polished Sapphire, 15 Magic Essences</text><nl/>
+   <text> 12 Energy Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Sedicolis Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 36</text><nl/>
+   <text> Experiência dada em Crafting: 160</text><nl/>
+   <text> Comida subtraída: 30</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Trassian">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Ring of Trassian</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, transporta-te para Trassian.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Gold Ring, 3 Polished Sapphires, 3 Rubies,</text><nl/>
+   <text> 19 Magic Essences, 7 Energy Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Trassian Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 1</text><nl/>
+   <text> Nivel de Crafting recomendado: 50</text><nl/>
+   <text> Experiência dada em Crafting: 230</text><nl/>
+   <text> Comida subtraída: 35</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Damage">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Ring of Damage</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado em combate, inflinge 20 pontos de</text><nlkx/>
+   <text> dano no adversário. Apesar da Defesa.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Silver Ring, 4 Polished Ruby, 8 Fire Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Damage Building</text><nl/>
+   <text> Nexus necessários: Artificial 3, Magic 3</text><nl/>
+   <text> Nivel de Crafting recomendado: 26</text><nl/>
+   <text> Experiência dada em Crafting: 110</text><nl/>
+   <text> Comida subtraída: 34</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Disengagement">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>           Ring of Disengagement</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Se usado no combate, permite-te fugir.</text><nlkx/>
+   <text> (Não tem falhas)</text><nlkx/><text> Válido uma única vez.</text><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Silver Ring, 1 Polished Sapphire, 2 Fire Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Disengagement Building</text><nl/>
+   <text> Nexus necessários: Artificial 3, Magic 3</text><nl/>
+   <text> Nivel de Crafting recomendado: 27</text><nl/>
+   <text> Experiência dada em Crafting: 115</text><nl/>
+   <text> Comida subtraída: 36</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_Power">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Ring of Power</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado em combate, inflinge 50 pontos de</text><nlkx/>
+   <text> dano no adversário. Apesar da Defesa.</text><nlkx/>
+   <text> Válido uma única vez.</text><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Binding Stone, 10 Rings of Damage, 50 Death Essences.</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 5</text><nl/>
+   <text> Nivel de Crafting recomendado: 40</text><nl/>
+   <text> Experiência dada em Crafting: 500</text><nl/>
+   <text> Comida subtraída: 30</text><nl/>
+   <text> Stackable: Sim</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_MDestr">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Ring of Mana Destruction</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado no combate, remove 20 pontos de</text><nlkx/>
+   <text> mana do adversário.</text><nlkx/><text> Válido uma única vez.</text><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Polished Emerald, 1 Silver Ring, 1 Gold Ring,</text><nl/>
+   <text> 6 Magic Essences, 6 Energy Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Mana Destruction</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 3</text><nl/>
+   <text> Nivel de Crafting recomendado: 49</text><nl/>
+   <text> Experiência dada em Crafting: 225</text><nl/>
+   <text> Comida subtraída: 35</text><nl/>
+   <text> Stackable: Não</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Ring_MMDestr">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>     Ring of Massive Mana Destruction</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado no combate, remove 20 pontos de</text><nlkx/>
+   <text> mana do adversário.</text><nlkx/><text> Válido uma única vez.</text><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 10 Silver Rings, 50 Magic Essences, 50 Energy Essences,</text><nl/>
+   <text> 10 Death Essences.</text><nl/>
+   <text> Conhecimento necessário: Ring of Massive Mana Destruction</text><nl/>
+   <text> Nexus necessários: Artificial 5, Magic 5</text><nl/>
+   <text> Nivel de Crafting recomendado: 57</text><nl/>
+   <text> Experiência dada em Crafting: 300</text><nl/>
+   <text> Comida subtraída: 65</text><nl/>
+   <text> Stackable: Não</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Med_Unicorn">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Unicorn Medallion</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, aumenta 4 a defense.</text><nlkx/>
+   <text> </text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Silver Bar, 1 Silver Medallion, 2 Fire Essences.</text><nl/>
+   <text> Conhecimento necessário: Unicorn Medallion Building</text><nl/>
+   <text> Nexus necessários: Artificial 3, Magic 2</text><nl/>
+   <text> Nivel de Crafting recomendado: 23</text><nl/>
+   <text> Experiência dada em Crafting: 95</text><nl/>
+   <text> Comida subtraída: 28</text><nl/>
+   <text> Stackable: Não</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Med_Sun">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Sun Medallion</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, aumenta 4 a accuracy.</text><nlkx/>
+   <text> </text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Gold Bar, 1 Gold Medallion, 2 Fire Essences.</text><nl/>
+   <text> Conhecimento necessário: Sun Medallion Building</text><nl/>
+   <text> Nexus necessários: Artificial 3, Magic 2</text><nl/>
+   <text> Nivel de Crafting recomendado: 23</text><nl/>
+   <text> Experiência dada em Crafting: 95</text><nl/>
+   <text> Comida subtraída: 28</text><nl/>
+   <text> Stackable: Não</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Med_Moon">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Moon Medallion</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, aumenta 4 a armadura</text><nlkx/>
+   <text> e 4 a accuracy.</text><nlkx/><text> </text><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Polished Sapphire, 1 Silver Medallion, 2 Fire Essences.</text><nl/>
+   <text> Conhecimento necessário: Moon Medallion Building</text><nl/>
+   <text> Nexus necessários: Artificial 3, Magic 2</text><nl/>
+   <text> Nivel de Crafting recomendado: 24</text><nl/>
+   <text> Experiência dada em Crafting: 100</text><nl/>
+   <text> Comida subtraída: 30</text><nl/>
+   <text> Stackable: Não</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Med_Stars">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Stars Medallion</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, aumenta 4 o dano infligido</text><nlkx/>
+   <text> e 4 a armadura.</text><nlkx/><text> </text><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Polished Ruby, 1 Silver Medallion, 2 Fire Essences.</text><nl/>
+   <text> Conhecimento necessário: Stars Medallion Building</text><nl/>
+   <text> Nexus necessários: Artificial 3, Magic 2</text><nl/>
+   <text> Nivel de Crafting recomendado: 25</text><nl/>
+   <text> Experiência dada em Crafting: 105</text><nl/>
+   <text> Comida subtraída: 32</text><nl/>
+   <text> Stackable: Não</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Crown_Mana">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Crown of Mana</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, aumenta o máximo de 150 os pontos de</text><nlkx/>
+   <text> maximum ethereal</text><nlkx/><text> Nexus necessários para o usar: Human 5</text><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 2 Binding Stones, 2 Enriched Magic Essences, 1 Wolfram Bar,</text><nl/>
+   <text> 1 Hydrogenium Bar, 50 Silver Bars.</text><nl/>
+   <text> Conhecimento necessário: Crown of Mana</text><nl/>
+   <text> Nexus necessários: Artificial 5, Magic 5</text><nl/>
+   <text> Nivel de Crafting recomendado: 60</text><nl/>
+   <text> Experiência dada em Crafting: 1000</text><nl/>
+   <text> Comida subtraída: 60</text><nl/>
+   <text> Stackable: Não</text><nl/>
+   <text> Peso: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Crown_Life">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Crown of Life</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, aumenta 150 os pontos de</text><nlkx/>
+   <text> maximum material</text><nlkx/><text> Nexus necessários para o usar: Human 5</text><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 2 Binding Stones, 6 Enriched Life Essences, 1 Wolfram Bar,</text><nl/>
+   <text> 1 Hydrogenium Bar, 50 Gold Bars.</text><nl/>
+   <text> Conhecimento necessário: Crown of Life</text><nl/>
+   <text> Nexus necessários: Artificial 5, Magic 5</text><nl/>
+   <text> Nivel de Crafting recomendado: 61</text><nl/>
+   <text> Experiência dada em Crafting: 1050</text><nl/>
+   <text> Comida subtraída: 60</text><nl/>
+   <text> Stackable: Não</text><nl/>
+   <text> Peso: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Med_Harv">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            Harvester Medallion</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado durante a mineração, diminui 2 a chance</text><nlkx/>
+   <text> de partir a ferramenta, aumenta a experiência e</text><nlkx/>
+   <text> o dinheiro dos eventos aleatórios por 10 vezes.</text><nlkx/>
+   <text> Eventos aleatórios podem-no destruir.</text><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Seridium Bar, 2 Gold Bars, 20 Red Toadstools,</text><nl/>
+   <text> 10 Fire Essences.</text><nl/>
+   <text> Conhecimento necessário: Harvester Medallion Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 2</text><nl/>
+   <text> Nivel de Crafting recomendado: 43</text><nl/>
+   <text> Experiência dada em Crafting: 400</text><nl/>
+   <text> Comida subtraída: 28</text><nl/>
+   <text> Stackable: Não</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Med_Heaven">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>         Heaven Spawner Medallion</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Quando usado, se tiver o perk hellspawn, em vez de</text><nlkx/>
+   <text> ir para o inferno, perde-se o medalhão.</text><nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Seridium Bar, 2 Silver Bars, 20 White Chanterelles,</text><nl/>
+   <text> 10 Fire Essences.</text><nl/>
+   <text> Conhecimento necessário: Heavenspawn Medallion Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 2</text><nl/>
+   <text> Nivel de Crafting recomendado: 47</text><nl/>
+   <text> Experiência dada em Crafting: 450</text><nl/>
+   <text> Comida subtraída: 28</text><nl/>
+   <text> Stackable: Não</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Med_Life">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Medallion of Life</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Aumenta 30 os pontos de maximum material.</text><nlkx/>
+   <text> +2 Armor, +2 Accuracy, 5% chance de curar 25 hp</text><nlkx/>
+   <text> Quando atingido.</text><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Materiais necessários:</text><nl/>
+   <text> 1 Seridium Bar, 2 Enriched Life Essences,</text><nl/>
+   <text> 10 Fire Essences, 30 White Chanterelles.</text><nl/>
+   <text> Conhecimento necessário: Medallion of Life Building</text><nl/>
+   <text> Nexus necessários: Artificial 4, Magic 2</text><nl/>
+   <text> Nivel de Crafting recomendado: 51</text><nl/>
+   <text> Experiência dada em Crafting: 1000</text><nl/>
+   <text> Comida subtraída: 28</text><nl/>
+   <text> Stackable: Não</text><nl/>
+   <text> Peso: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+<Page name="Saving_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  JEWELRY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Saving Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> If you have this stone in inventory while mixing,</text>
+   <nlkx/>
+   <text> in case of critical failure you'll lose the stone</text>
+   <nlkx/>
+   <text> instead of the materials.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Refined Vegetal Mixture, 1 Mixture of Power,</text>
+   <nl/>
+   <text> 2 Enriched Magic Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Saving Stone</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 7, Magic 5</text>
+   <nl/>
+   <text> Recommended Crafting Level: 65</text>
+   <nl/>
+   <text> Crafting Experience Given: 1000</text>
+   <nl/>
+   <text> Food subtracted: 60</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Jewelry Index"/>
+</Page>
+</Jewelry>

@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Engineering>
+<Page name="Ashes">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                    Ashes</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: </text><link ref="Saltpetre" title="Saltpetre"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Fire Essence, 3 Branches.</text>
+   <nl/>
+   <text> Recommended Engineering Level: 1</text>
+   <nl/>
+   <text> Engineering Experience Given: 1</text>
+   <nl/>
+   <text> Food subtracted: 2</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Ropes">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                    Ropes</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: </text><link ref="Snare" title="Snares"/><text> and </text><link ref="Engineering" title="Astrology Indicators"/><text>.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Threads.</text>
+   <nl/>
+   <text> Knowledge needed: Rope Building</text>
+   <nl/>
+   <text> Recommended Engineering Level: 4</text>
+   <nl/>
+   <text> Engineering Experience Given: 4</text>
+   <nl/>
+   <text> Food subtracted: 4</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Nails">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                    Nails</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: </text><link ref="Engineering" title="Landmines"/><text>.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Iron Bars.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Nails Building</text>
+   <nl/>
+   <text> Recommended Engineering Level: 7</text>
+   <nl/>
+   <text> Engineering Experience Given: 7</text>
+   <nl/>
+   <text> Food subtracted: 4</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Saltpetre">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Saltpetre</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: </text><link ref="Blackpowder" title="Blackpowder"/><text> and Dyes.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Dung, 2 Ashes.</text>
+   <nl/>
+   <text> Tools required to have: Bucket</text>
+   <nl/>
+   <text> Knowledge needed: Saltpetre Manufacturing</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 1</text>
+   <nl/>
+   <text> Recommended Engineering Level: 10</text>
+   <nl/>
+   <text> Engineering Experience Given: 25</text>
+   <nl/>
+   <text> Food subtracted: 10</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Blackpowder">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Blackpowder</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: </text><link ref="Engineering" title="Landmines"/><text>.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Saltpetres, 2 Coals, 1 Sulphur.</text>
+   <nl/>
+   <text> Knowledge needed: Blackpowder Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 1</text>
+   <nl/>
+   <text> Recommended Engineering Level: 14</text>
+   <nl/>
+   <text> Engineering Experience Given: 40</text>
+   <nl/>
+   <text> Food subtracted: 12</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <text> Note: this item can be stored only in the Hazardous Items</text><nl/>
+   <text> storage.</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Snare">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                    Snare</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Traps a player for 2 seconds, self priming.</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Iron Bar, 4 Ropes, 6 Magic Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Snare Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 1</text>
+   <nl/>
+   <text> Recommended Engineering Level: 20</text>
+   <nl/>
+   <text> Engineering Experience Given: 85</text>
+   <nl/>
+   <text> Food subtracted: 28</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 10 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Caltrops">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Caltrops</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Self priming; does 15 base damage plus 1 additional</text><nlkx/>
+   <text> damage every 5 engineering levels (of the person</text><nlkx/>
+   <text> placing it).</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Iron Bars, 2 Fire Essences, 4 Death Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Caltrops Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 1</text>
+   <nl/>
+   <text> Recommended Engineering Level: 16</text>
+   <nl/>
+   <text> Engineering Experience Given: 50</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 10 EMU</text>
+   <nl/><nl/>
+   <text> Note: this item can be stored only in the Hazardous Items</text><nl/>
+   <text> storage.</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="P_Caltrops">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Poisoned Caltrops</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Self priming; poison; does 15 base damage plus 1</text><nlkx/>
+   <text> additional damage every 5 engineering levels (of</text><nlkx/>
+   <text> the person placing it).</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Iron Bars, 2 Fire Essences, 3 Death Essences,</text>
+   <nl/>
+   <text> 8 Poison Ivys.</text>
+   <nl/>
+   <text> Knowledge needed: Poisoned Caltrops Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 1</text>
+   <nl/>
+   <text> Recommended Engineering Level: 18</text>
+   <nl/>
+   <text> Engineering Experience Given: 65</text>
+   <nl/>
+   <text> Food subtracted: 28</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 10 EMU</text>
+   <nl/><nl/>
+   <text> Note: this item can be stored only in the Hazardous Items</text><nl/>
+   <text> storage.</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Lightmeter">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Lightmeter</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows how visible you are at night in a particular</text><nlkx/>
+   <text> location; chance of breaking 1/1000 for each use.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Enriched Fire Essence, 10 Turquoises,</text><nl/>
+   <text> 10 Polished Sapphires.</text>
+   <nl/>
+   <text> Knowledge needed: Lightmeter Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 3</text>
+   <nl/>
+   <text> Recommended Engineering Level: 32</text>
+   <nl/>
+   <text> Engineering Experience Given: 1500</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="S_Landmine">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Small Landmine</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Self priming; does 45 base damage plus 1 additional</text><nlkx/>
+   <text> damage every 5 engineering levels (of the person</text><nlkx/>
+   <text> placing it).</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Blackpowders, 6 Nails, 2 Iron Bars, 5 Death Essences,</text><nl/>
+   <text> 5 Magic Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Small Landmine Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4</text>
+   <nl/>
+   <text> Recommended Engineering Level: 34</text>
+   <nl/>
+   <text> Engineering Experience Given: 170</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="M_Landmine">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Medium Landmine</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Self priming; does 75 base damage plus 1 additional</text><nlkx/>
+   <text> damage every 5 engineering levels (of the person</text><nlkx/>
+   <text> placing it).</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Blackpowders, 10 Nails, 3 Iron Bars, 5 Death Essences,</text><nl/>
+   <text> 5 Magic Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Medium Landmine Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4</text>
+   <nl/>
+   <text> Recommended Engineering Level: 36</text>
+   <nl/>
+   <text> Engineering Experience Given: 185</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 5 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="L_Landmine">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Large Landmine</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Self priming; does 125 base damage plus 1 additional</text><nlkx/>
+   <text> damage every 5 engineering levels (of the person</text><nlkx/>
+   <text> placing it).</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Blackpowders, 10 Nails, 4 Iron Bars, 5 Death Essences,</text><nl/>
+   <text> 5 Magic Essences.</text>
+   <nl/>
+   <text> Knowledge needed: Large Landmine Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4</text>
+   <nl/>
+   <text> Recommended Engineering Level: 42</text>
+   <nl/>
+   <text> Engineering Experience Given: 220</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 10 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="RC_Landmine">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 RC Landmine</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Not self priming; does 75 base damage plus 1</text><nlkx/>
+   <text> additional damage every 5 engineering levels (of</text><nlkx/>
+   <text> the person placing it).</text><nlkx/>
+   <text> Will last approximatively 5 minutes.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Blackpowders, 4 Nails, 2 Iron Bars, 5 Death Essences,</text><nl/>
+   <text> 8 Magic Essences.</text>
+   <nl/>
+   <text> Knowledge needed: RC Landmine Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4</text>
+   <nl/>
+   <text> Recommended Engineering Level: 44</text>
+   <nl/>
+   <text> Engineering Experience Given: 240</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="RC_Detonator">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              RC Mine Detonator</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Detonates your RC mines.</text><nlkx/>
+   <text> Good for one use only.</text><nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: the process produces 10 detonators at a time.</text><nl/>
+   <nl/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Enriched Magic Essence, 24 Energy Essences,</text><nl/>
+   <text> 10 Matter Essences.</text>
+   <nl/>
+   <text> Knowledge needed: RC Detonator Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5</text>
+   <nl/>
+   <text> Recommended Engineering Level: 52</text>
+   <nl/>
+   <text> Engineering Experience Given: 3000</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Barricade">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Barricade</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> ???</text><nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> UNKNOWN.</text>
+   <nl/>
+   <text> Knowledge needed: Barricades Building</text>
+   <nl/>
+   <text> Required Nexuses: UNKNOWN</text>
+   <nl/>
+   <text> Recommended Engineering Level: UNKNOWN</text>
+   <nl/>
+   <text> Engineering Experience Given: UNKNOWN</text>
+   <nl/>
+   <text> Food subtracted: UNKNOWN</text>
+   <nl/>
+   <text> Stackable: UNKNOWN</text>
+   <nl/>
+   <text> Weight: UNKNOWN</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="EN_Cloak_CAM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>         Cape of Passive Camouflage</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> This cloak provides some camouflage, especially</text>
+   <nlkx/>
+   <text> at night or in dark dungeons and caves.</text>
+   <nlkx/>
+   <text> It gives -20 points to your Light Modifier.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> UNKNOWN.</text>
+   <nl/>
+   <text> Tools required to have: UNKNOWN</text>
+   <nl/>
+   <text> Knowledge needed: Camouflage Cape Building</text>
+   <nl/>
+   <text> Required Nexuses: UNKNOWN</text>
+   <nl/>
+   <text> Recommended Engineering Level: UNKNOWN</text>
+   <nl/>
+   <text> Engineering Experience Given: UNKNOWN</text>
+   <nl/>
+   <text> Food subtracted: UNKNOWN</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Night_Visor">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Night Visor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Magically converts the IR photons into visible</text>
+   <nlkx/>
+   <text> light, allowing the wearer to see better at night.</text>
+   <nlkx/>
+   <text> Perception bonus: +30.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Bronze Bar, 2 Seridium Bars, 3 Enriched Magic Essences,</text>
+   <nl/>
+   <text> 2 Binding Stones.</text>
+   <nl/>
+   <text> Tools required to have: UNKNOWN</text>
+   <nl/>
+   <text> Knowledge needed: Night Visor Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 7</text>
+   <nl/>
+   <text> Recommended Engineering Level: 50</text>
+   <nl/>
+   <text> Engineering Experience Given: 3000</text>
+   <nl/>
+   <text> Food subtracted: 28</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Ind_AD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          Attack/Defense Indicator</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Attack/Defense.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Rope, 4 Turquoises, 3 Bones.</text>
+   <nl/>
+   <text> Knowledge needed: Attack/Defense Indicator Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 22</text>
+   <nl/>
+   <text> Engineering Experience Given: 90</text>
+   <nl/>
+   <text> Food subtracted: 20</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Ind_Crit">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Criticals Indicator</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Criticals.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Rope, 3 Turquoises, 1 Polished Ruby, 3 Bones.</text>
+   <nl/>
+   <text> Knowledge needed: Criticals Indicator Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 24</text>
+   <nl/>
+   <text> Engineering Experience Given: 100</text>
+   <nl/>
+   <text> Food subtracted: 20</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Ind_AccMag">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          Accuracy/Magic Indicator</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Accuracy/Magic.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Rope, 3 Turquoises, 1 Polished Emerald, 4 Bones.</text>
+   <nl/>
+   <text> Knowledge needed: Accuracy/Magic Indicator Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 26</text>
+   <nl/>
+   <text> Engineering Experience Given: 115</text>
+   <nl/>
+   <text> Food subtracted: 20</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Ind_HarvDegr">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          Harvest/Degrade Indicator</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Harvest/Degrade.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Rope, 5 Turquoises, 4 Bones.</text>
+   <nl/>
+   <text> Knowledge needed: Harvest/Degrade Indicator Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 28</text>
+   <nl/>
+   <text> Engineering Experience Given: 130</text>
+   <nl/>
+   <text> Food subtracted: 20</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Ind_RareFail">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          Make Rare/Fail Indicator</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Make Rare/Fail.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Rope, 4 Turquoises, 2 Polished Sapphires, 3 Bones.</text>
+   <nl/>
+   <text> Knowledge needed: Make Rare/Fail Indicator Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 30</text>
+   <nl/>
+   <text> Engineering Experience Given: 150</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Predictor">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Predictor Stones</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Predict the astrology modifiers.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> When used, they predict the astrology modifier that</text><nl/>
+   <text> you'll have in 20, 40 and 60 minutes. There are 10 of</text><nl/>
+   <text> these stones, one for each kind of modifier.</text>
+   <nl/><nl/>
+   <text> These items cannnot be manufactured.</text>
+   <nl/><nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="ArrowBolt_Head">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Arrow/Bolt Head</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: </text><link ref="Archery" title="Arrows"/><text> and </text><link ref="Archery" title="Bolts"/><text>.</text>
+   <nl/><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: the molding process produces 2 heads at a time.</text><nl/>
+   <nl/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Iron Bar, 1 Fire Essence, 1 Water Essence.</text>
+   <nl/>
+   <text> Tools required to have: Arrow/Bolt Head Mold</text>
+   <nl/>
+   <text> Knowledge needed: Arrow/Bolt Head</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 3</text>
+   <nl/>
+   <text> Recommended Engineering Level: 25</text>
+   <nl/>
+   <text> Engineering Experience Given: 105</text>
+   <nl/>
+   <text> Food subtracted: 20</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Invasionmeter">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Invasionmeter</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows how many invaded monsters are in the map, and</text><nlkx/>
+   <text> how strong they are;</text><nlkx/>
+   <text> chance of breaking 1/10 for each use.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Enriched Magic Essence, 1 Refined Vegetal Mixture,</text><nl/>
+   <text> 1 Gypsum.</text>
+   <nl/>
+   <text> Knowledge needed: Invasionmeter Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4</text>
+   <nl/>
+   <text> Recommended Engineering Level: 38</text>
+   <nl/>
+   <text> Engineering Experience Given: 220</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Mana_Drain_Ward">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Mana Drain Ward</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> For every step while in range of the ward, removes</text><nlkx/>
+   <text> 3 mana plus 1 additional mana every 8 engineering</text><nlkx/>
+   <text> levels of the person placing it.</text><nlkx/>
+   <text> Will last approximatively 5 minutes.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 35 Energy Essences, 35 Air Essences, 35 Death Essences,</text><nl/>
+   <text> 10 Yews, 10 Turquoises.</text>
+   <nl/>
+   <text> Knowledge needed: Mana Drain Ward</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4</text>
+   <nl/>
+   <text> Recommended Engineering Level: 46</text>
+   <nl/>
+   <text> Engineering Experience Given: 260</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Mana_Burn_Ward">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Mana Burn Ward</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> For every step while in range of the ward, burns</text><nlkx/>
+   <text> 3 mana plus 1 additional mana every 10 engineering</text><nlkx/>
+   <text> levels of the person placing it.</text><nlkx/>
+   <text> Will last approximatively 3 minutes.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 40 Energy Essences, 40 Air Essences, 40 Death Essences,</text><nl/>
+   <text> 20 Yews, 30 Polished Rubies.</text>
+   <nl/>
+   <text> Knowledge needed: Mana Burn Ward</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4</text>
+   <nl/>
+   <text> Recommended Engineering Level: 48</text>
+   <nl/>
+   <text> Engineering Experience Given: 290</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Inv_Remove_Ward">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          Invisibility Removal Ward</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> For every step while in range of the ward,</text><nlkx/>
+   <text> 20% chance to lose invisibility plus an additional</text><nlkx/>
+   <text> 1% chance per every 4 engineering levels of the</text><nlkx/>
+   <text> person placing it.</text><nlkx/>
+   <text> Will last approximatively 3 minutes.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 45 Energy Essences, 45 Magic Essences, 45 Death Essences,</text><nl/>
+   <text> 20 Yews, 30 Polished Emeralds.</text>
+   <nl/>
+   <text> Knowledge needed: Invisibility Removal Ward</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4</text>
+   <nl/>
+   <text> Recommended Engineering Level: 54</text>
+   <nl/>
+   <text> Engineering Experience Given: 320</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="MI_Remove_Ward">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>         Magic Immunity Removal Ward</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items23.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> For every step while in range of the ward,</text><nlkx/>
+   <text> 10% chance to lose magic immunity plus an</text><nlkx/>
+   <text> additional 1% chance per every 4 engineering</text><nlkx/>
+   <text> levels of the person placing it.</text><nlkx/>
+   <text> Will last approximatively 3 minutes.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 30 Energy Essences, 90 Magic Essences, 10 Death Essences,</text><nl/>
+   <text> 20 Yews, 10 Gold Bars.</text>
+   <nl/>
+   <text> Knowledge needed: Magic Immunity Removal Ward</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4</text>
+   <nl/>
+   <text> Recommended Engineering Level: 56</text>
+   <nl/>
+   <text> Engineering Experience Given: 340</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Point_Defense">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Point Defense</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Protects against the arrows and bolts, reducing</text><nlkx/>
+   <text> the damage by a random chance between 0 and 100%.</text><nlkx/>
+   <text> Dissapears after every use.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Energy Essence, 1 Bones Powder.</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4</text>
+   <nl/>
+   <text> Recommended Engineering Level: 58</text>
+   <nl/>
+   <text> Engineering Experience Given: 50</text>
+   <nl/>
+   <text> Food subtracted: 10</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+</Engineering>

@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Maps>
+<Page name="Maps_IP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Isla Prima (IP)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="0" name="3dobjects/structures/banners1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> To jest mapa na ktorej stawiasz swoje pierwsze</text><nlkx/>
+   <text> kroki. To tu pojawiasz sie za kazdym razem kiedy</text><nlkx/>
+   <text> wpiszesz #beam me lub wydostaniesz sie z Piekla</text><nlkx/>
+   <text> Obszar wokol ogniska okresla sie nazwa 'beam'.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nl/>
+   <nl/>
+   <text> PK: Nie</text><nl/>
+   <nl/>
+   <text> Multi-Combat: Nie</text><nl/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>White Stone (lodz)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Maps" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps_WS">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               White Stone (WS)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="2" name="3dobjects/structures/banners1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> White Stone znajduje sie w samym srodku Seridii.</text><nlkx/>
+   <text> Stad mozna sie latwo przedostac do innych krain,</text><nlkx/>
+   <text> jest to swietne miejsce do rozpoczecia okrywania</text><nlkx/>
+   <text> calego kontynentu. Warto tu zwiedzic Palac, plac</text><nl/>
+   <text> targowy oraz swiatynie bogow.</text><nl/>
+   <nl/>
+   <text> W nocy, miedzy 3:30 a 0:30 kreca sie tu Gargulce.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nl/>
+   <nl/>
+   <text> PK: Nie, ale jest tam arena</text><nl/>
+   <nl/>
+   <text> Multi-Combat: Nie</text><nl/>
+   <nl/>
+   <text> Rasy: Elfy osadzily sie w lesie Tirnwood Vale, ludzie</text><nlkx/>
+   <text>       zas osiedlili sie w calej pozostalej czesci mapy.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Isla Prima (lodz)</text><nlkx/>
+   <text>Desert Pines (lodz)</text><nlkx/>
+   <text>Nordcarn</text><nlkx/>
+   <text>Portland</text><nlkx/>
+   <text>Morcraven Marsh</text><nlkx/>
+   <text>Grubani Peninsula</text><nlkx/>
+   <text>Ruins of Tirnym</text><nlkx/>
+   <text>Tarsengaard</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Maps" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps_DP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Desert Pines (DP)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="1" name="3dobjects/structures/banners1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> DP jest waznym osrodkiem wydobywczym Seridii.</text><nlkx/>
+   <text> Krajobraz ksztaltuja tu nagie pustynie oraz spore,</text><nlkx/>
+   <text> zielone obszary bogate w flore. Polnocny las</text><nlkx/>
+   <text> jest tez pelen zwierzat, a stojaca w nim swiatynia</text><nl/>
+   <text> jest idealnym miejscem do refleksji i odpoczynku.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> PK: Nie, ale jest tam arena</text><nl/>
+   <nl/>
+   <text> Multi-Combat: Nie</text><nl/>
+   <nl/>
+   <text> Rasy: Odnaleziono jedynie ludzkie osady.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>White Stone (lodz)</text><nlkx/>
+   <text>Valley of the Dwarves (lodz)</text><nlkx/>
+   <text>Portland (lodz)</text><nlkx/>
+   <text>Tahraji Desert</text><nlkx/>
+   <text>Portland</text><nlkx/>
+   <text>South Kilaran Field</text><nlkx/>
+   <text>Kilaran Field</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Maps" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps_VOTD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>        Valley of the Dwarves (VotD)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="3" name="3dobjects/structures/banners1.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Kraina Votd (zwana takze Myandar) jest centralnym</text><nlkx/>
+   <text> punktem laczacym kilka waznych szlakow. Ma swoj,</text><nlkx/>
+   <text> magazyn, kawalek pola z warzywami, sporo zwierzat</text><nlkx/>
+   <text> do upolowania i lezy zaraz obok popularnej wsrod</text><nl/>
+   <text> wojownikow krainy Kilaran Field. Kilka potworow mieszka</text><nl/>
+   <text> w opuszczonej swiatyni oraz w kopalni.</text><nl/>
+   <nl/>
+   <text> Mimo iz miasto jest do polowy zrujnowane, radzi sobie</text><nl/>
+   <text> z naporem podroznych.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nl/>
+   <nl/>
+   <text> PK: Nie</text><nl/>
+   <nl/>
+   <text> Multi-Combat: Nie</text><nl/>
+   <nl/>
+   <text> Rasy: Toz to oczywiste, tu osadzily sie Krasnoludy!</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Desert Pines (lodz)</text><nlkx/>
+   <text>Kilaran Field</text><nlkx/>
+   <text>Nordcarn</text><nlkx/>
+   <text>Tarsengaard</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Maps" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps_PL">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Portland (PL)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="0" name="3dobjects/structures/banners2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Portland to port morski ze sporym miastem,</text><nlkx/>
+   <text> magazynem i kilkoma kopalniami w okolicy. Biega po</text><nlkx/>
+   <text> niej jeden, samotny goblin ochrzczony przez</text><nlkx/>
+   <text> mieszkancow miasta imieniem Bob.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nl/>
+   <nl/>
+   <text> PK: Nie</text><nl/>
+   <nl/>
+   <text> Multi-Combat: Tak</text><nl/>
+   <nl/>
+   <text> Rasy: Dostrzezono ludzkie osady.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Desert Pines (lodz)</text><nlkx/>
+   <text>Grubani Peninsula (lodz)</text><nlkx/>
+   <text>Desert Pines</text><nlkx/>
+   <text>Tahraji Desert</text><nlkx/>
+   <text>Morcraven Marsh</text><nlkx/>
+   <text>White Stone</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Maps" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps_MM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Morcraven Marsh (MM)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="3" name="3dobjects/structures/banners2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Morcraven Marsh posiada jedna, moze dwie kopalnie,</text><nlkx/>
+   <text> lecz niestety nie jest specjalnie bezpieczna. Przez</text><nlkx/>
+   <text> caly czas patroluja ja Uzbrojone Szkielety (Armed.</text><nlkx/>
+   <text> Skeleton). Wystepuje tu spora ilosc aren, stad tez</text><nl/>
+   <text> jest to swietne miejsce dla tych, ktorzy chca rozwijac</text><nl/>
+   <text> umiejetnosci Ataku i Obrony</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nl/>
+   <nl/>
+   <text> PK: Nie</text><nl/>
+   <nl/>
+   <text> Multi-Combat: Tak</text><nl/>
+   <nl/>
+   <text> Rasy: Kilka ludzkich osad.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Portland</text><nlkx/>
+   <text>Naralik</text><nlkx/>
+   <text>White Stone</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Maps" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps_NK">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Naralik (NK)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="0" name="3dobjects/structures/banners4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Naralik posiada sprzedawce ksiazek z dziedzin</text><nlkx/>
+   <text> wydobycia rud metali i mieneralow. Nie jest on</text><nlkx/>
+   <text> jednak osamotniony. Pare Goblinow dotrzymuje mu</text><nlkx/>
+   <text> towarzystwa.</text><nl/>
+   <nl/>
+   <text> Poprzez katakumby mozna dostac sie do swiatyni Boga Ataku.</text><nl/>
+   <text> Z tym ze, jak nalezalo sie spodziewac, Bog Ataku otacza</text><nl/>
+   <text> sie obstawa, ktora zywego ducha nie przepusci.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nl/>
+   <nl/>
+   <text> PK: Nie</text><nl/>
+   <nl/>
+   <text> Multi-Combat: Tak</text><nl/>
+   <nl/>
+   <text> Rasy: Nie odnotowano.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Morcraven Marsh</text><nlkx/>
+   <text>Grubani Peninsula</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Maps" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps_GP">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>           Grubani Peninsula (GP)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="0" name="3dobjects/structures/banners3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Diabelnie niebezpieczna mapa, kreci sie tam masa</text><nlkx/>
+   <text> wrednych stworzen, a Chimera (Chimeran Wolf) to</text><nlkx/>
+   <text> jedno z gorszych! Jakims cudem jednak osiadl tam</text><nlkx/>
+   <text> sprzedawca ksiazek od walki i przywolywania</text><nl/>
+   <text> (Summoning) nie latwo go jednak odwiedzic.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Brak</text><nlkx/>
+   <nl/>
+   <text> PK: Nie</text><nl/>
+   <nl/>
+   <text> Multi-Combat: Tak</text><nl/>
+   <nl/>
+   <text> Rasy: Nie odnotowano.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Portland (lodz)</text><nlkx/>
+   <text>White Stone</text><nlkx/>
+   <text>Naralik</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Maps" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps_TG">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Tarsengaard (TG)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="1" name="3dobjects/structures/banners4.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> W srodku mapy umiejscowione jest duze, ale ciche</text><nlkx/>
+   <text> miasto. Wokol niego znajduje sie kilka jaskin - jak</text><nlkx/>
+   <text> to zwykle bywa - zamieszkalych przez stwory o</text><nlkx/>
+   <text> nieciekawej reputacji. Uwazaj tez zebys nie wpadl</text><nl/>
+   <text> przypadkiem na Uzbrojonego Goblina (Armed Goblin),</text><nl/>
+   <text> przynajmniej dopoki nie jestes w stanie odpowiednio</text><nl/>
+   <text> mu przylozyc.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nl/>
+   <nl/>
+   <text> PK: Nie, ale jaskinia do Nordcarn jest PK.</text><nl/>
+   <nl/>
+   <text> Multi-Combat: Nie</text><nl/>
+   <nl/>
+   <text> Rasy: Duza liczba ludzkich domostw.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Valley of the Dwarves</text><nlkx/>
+   <text>Nordcarn (PK cave)</text><nlkx/>
+   <text>White Stone</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Maps" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps_NC">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Nordcarn (NC)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="1" name="3dobjects/structures/banners3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Nordcarn jest krasnoludzkim miastem, otoczonym</text><nlkx/>
+   <text> przez wysokie mury, ktore czynia je bezpiecznym.</text><nlkx/>
+   <text> Uwazaj jednak na pobliskie kopalnie i zamieszkujace</text><nlkx/>
+   <text> je potwory. Plotka glosi, ze jest tam miejsce gdzie</text><nl/>
+   <text> gracze atakuja sie nawzajem.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Tak</text><nl/>
+   <nl/>
+   <text> PK: Nie, ale jest tam arena.</text><nl/>
+   <text>     Polnocna jaskinia takze jest PK.</text><nl/>
+   <nl/>
+   <text> Multi-Combat: Nie</text><nl/>
+   <nl/>
+   <text> Rasy: Krasnoludzkie osady.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Valley of the Dwarves</text><nlkx/>
+   <text>South Kilaran Field</text><nlkx/>
+   <text>White Stone</text><nlkx/>
+   <text>Tarsengaard (PK cave)</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Maps" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps_SK">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          South Kilaran Field (SK)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="2" name="3dobjects/structures/banners3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> South Kilaran obfituje w bardzo niebezpieczne</text><nlkx/>
+   <text> potwory. Zajely one cala mape jak i stara,</text><nlkx/>
+   <text> opuszczona rezydencje. Na mapie znajdziesz</text><nlkx/>
+   <text> sporych rozmiarow arene do przywolywania.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nl/>
+   <nl/>
+   <text> PK: Nie</text><nl/>
+   <nl/>
+   <text> Multi-Combat: Tak</text><nl/>
+   <nl/>
+   <text> Rasy: Nie odnotowano.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Kilaran Field</text><nlkx/>
+   <text>Desert Pines</text><nlkx/>
+   <text>White Stone</text><nlkx/>
+   <text>Nordcarn</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Maps" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps_KF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Kilaran Field (KF)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="3" name="3dobjects/structures/banners3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Kilaran Field jest mapa PK. Jest to jedna z map</text><nlkx/>
+   <text> najczesciej odwiedzanych przez wojownikow. </text><nlkx/>
+   <text> Wielu juz tam zginelo, ginie i ginac bedzie.</text><nlkx/>
+   <text> Glownie z mala pomoca innych.</text><nl/>
+   <nl/>
+   <text> Mowi sie, ze na KF mozna zbierac rtec... choc nikt nie ma</text><nl/>
+   <text> pojecia skad ona sie tam bierze. Moze to dar od Bogow?</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nl/>
+   <nl/>
+   <text> PK: Tak</text><nl/>
+   <nl/>
+   <text> Multi-Combat: Tak</text><nl/>
+   <nl/>
+   <text> Rasy: Nie odnotowano.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Desert Pines</text><nlkx/>
+   <text>South Kilaran Field</text><nlkx/>
+   <text>Valley of the Dwarves</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Maps" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps_TD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Tahraji Desert (TD)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="2" name="3dobjects/structures/banners2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Tahraji Desert jest mapa PK. Znajdzie sie tam tez</text><nlkx/>
+   <text> kilka niebezpiecznych potworow (ot chociazby Fluffy</text><nlkx/>
+   <text> Rabbit). Cooldown jest tu mniejszy niz gdziekolwiek</text><nlkx/>
+   <text> indziej. Magia tez dziala tu inaczej - nie bedziesz</text><nl/>
+   <text> niczym chroniony kiedy zginiesz!</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nl/>
+   <nl/>
+   <text> PK: Tak</text><nl/>
+   <nl/>
+   <text> Multi-Combat: Tak</text><nl/>
+   <nl/>
+   <text> Rasy: Nie odnotowano.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>Portland</text><nlkx/>
+   <text>Desert Pines</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Maps" title="Wroc do Indeksu Map"/>
+</Page>
+<Page name="Maps_Tirnym">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Maps" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>                    MAPY</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>          Ruins of Tirnym (Tirnym)</text><nl/><nl/>
+   <text> </text><simage isize="256" tsize="128" size="40" tid="1" name="3dobjects/structures/banners2.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Ruiny Tirnym sa bardzo niebezpiecznym regionem,</text><nlkx/>
+   <text> ktory powinni odwiedzac jedynie doswiadczeni gracze.</text><nlkx/>
+   <text> Ludzie znikaja tu w tajemniczy sposob... Adepci ze</text><nlkx/>
+   <text> szkol magicznych ciagle probuja sie dowiedzec</text><nl/>
+   <text> czemu tak sie dzieje i co (badz kto) za tym stoi.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Magazyn: Nie</text><nl/>
+   <nl/>
+   <text> PK: Nie</text><nl/>
+   <nl/>
+   <text> Multi-Combat: Tak</text><nl/>
+   <nl/>
+   <text> Rasy: Niegdys istnialo tu sporo elfich chat.</text><nlkx/>
+   <nl/>
+   <text> Polaczona z mapami: </text><text>White Stone</text><nlkx/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Maps" title="Wroc do Indeksu Map"/>
+</Page>
+</Maps>

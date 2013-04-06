@@ -1,0 +1,1149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EnchantedWeapons>
+<Page name="ISOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>             Iron Sword of Fire</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                   (Zelazny Miecz Ognia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 7-8 obrazen, +1 Obrona, +1 Celnosc,</text>
+   <nlkx/>
+   <text> +3 obrazen od Ognia.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Modable Iron Sword, 1 Enriched Fire Essence,</text>
+   <nl/>
+   <text> 1 Binding Stone, 2 Serpent Stones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Iron Sword of Fire</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 5</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 45</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 2000</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 7 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="IBSOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>         Iron Broad Sword of Fire</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>               (Szeroki Zelazny Miecz Ognia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 9-10 obrazen, +4 obrazen od Ognia.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Modable Iron Broad Sword, 1 Enriched Fire Essence,</text>
+   <nl/>
+   <text> 1 Binding Stone, 3 Serpent Stones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Iron Broad Sword of Fire</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 5</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 46</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 2500</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 7 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="IBSOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>          Iron Broad Sword of Ice</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>               (Szeroki Zelazny Miecz Lodu)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 9-10 obrazen, +4 obrazen od Zimna.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Modable Iron Broad Sword, 1 Enriched Water Essence,</text>
+   <nl/>
+   <text> 1 Binding Stone, 3 Serpent Stones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Iron Broad Sword of Ice</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 4, Magic 5</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 47</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 2800</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 7 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="SLSOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>         Steel Long Sword of Fire</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                (Dlugi Stalowy Miecz Ognia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 9-11 obrazen, +2 Obrona, +2 Celnosc,</text>
+   <nlkx/>
+   <text> +1 Cios Krytyczny, +5 obrazen od Ognia.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Modable Steel Long Sword, 1 Enriched Fire Essence,</text>
+   <nl/>
+   <text> 1 Binding Stone, 4 Serpent Stones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Steel Long Sword of Fire</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 48</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 3000</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="SLSOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>          Steel Long Sword of Ice</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                (Dlugi Stalowy Miecz Lodu)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 9-11 obrazen, +2 Obrona, +2 Celnosc,</text>
+   <nlkx/>
+   <text> +1 Cios Krytyczny, +5 obrazen od Zimna.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Modable Steel Long Sword, 1 Enriched Water Essence,</text>
+   <nl/>
+   <text> 1 Binding Stone, 4 Serpent Stones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Steel Long Sword of Ice</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 49</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 3200</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="SLSOM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>         Steel Long Sword of Magic</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                (Dlugi Stalowy Miecz Magii)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 9-11 obrazen, +2 Obrona, +2 Celnosc,</text>
+   <nlkx/>
+   <text> +1 Cios Krytyczny, +5 obrazen od Magii.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 2</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Modable Steel Long Sword, 1 Enriched Magic Essence,</text>
+   <nl/>
+   <text> 1 Binding Stone, 4 Serpent Stones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Steel Long Sword of Magic</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 50</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 3400</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="STESOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>       Steel Two Edged Sword of Fire</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>              (Dwustronny Stalowy Miecz Ognia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje +10-14 obrazen, +1 Obrona, +3 Celnosc,</text>
+   <nlkx/>
+   <text> +1 Cios Krytyczny, +2 obrazen od Ciosu Krytycznego,</text>
+   <nlkx/>
+   <text> +6 obrazen od Ognia.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 3</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Modable Steel Two Edged Sword, 1 Enriched Fire</text>
+   <nl/>
+   <text> Essence, 1 Binding Stone, 4 Serpent Stones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Steel Two Edged Sword of Fire</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 51</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 3600</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 7 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="STESOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>       Steel Two Edged Sword of Ice</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>              (Dwustronny Stalowy Miecz Lodu)</text><nl/><nl/>
+   <simage isize="256" tsize="51" size="100" tid="11" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje +10-14 obrazen, +1 Obrona, +3 Celnosc,</text>
+   <nlkx/>
+   <text> +1 Cios Krytyczny, +2 obrazen od Ciosu Krytycznego,</text>
+   <nlkx/>
+   <text> +6 obrazen od Zimna.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 3</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Modable Steel Two Edged Sword, 1 Enriched Water</text>
+   <nl/>
+   <text> Essence, 1 Binding Stone, 4 Serpent Stones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Steel Two Edged Sword of Ice</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 51</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 3600</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 7 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="STESOM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>      Steel Two Edged Sword of Magic</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>              (Dwustronny Stalowy Miecz Magii)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje +10-14 obrazen, +1 Obrona, +3 Celnosc,</text>
+   <nlkx/>
+   <text> +1 Cios Krytyczny, +2 obrazen od Ciosu Krytycznego,</text>
+   <nlkx/>
+   <text> +6 obrazen od Magii.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 3</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Modable Steel Two Edged Sword, 1 Enriched Magic</text>
+   <nl/>
+   <text> Essence, 1 Binding Stone, 4 Serpent Stones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Steel Two Edged Sword of Magic</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 52</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 3800</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 7 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="STESOT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>     Steel Two Edged Sword of Thermal</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>              (Dwustronny Stalowy Miecz Termiczny)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje +10-14 obrazen, +1 Obrona, +3 Celnosc,</text>
+   <nlkx/>
+   <text> +1 Cios Krytyczny, +2 obrazen od Ciosu Krytycznego,</text>
+   <nlkx/>
+   <text> +6 obrazen od Zimna, +6 obrazen od Ognia.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 3</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> 1 Modable Steel Two Edged Sword, 1 Enriched Fire</text>
+   <nl/>
+   <text> Essence, 1 Enriched Water Essence, 1 Binding Stone,</text>
+   <nl/>
+   <text> 4 Serpent Stones</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Steel Two Edged Sword of Thermal</text>
+   <nl/>
+   <text> Wymagany Nexus: Artificial 5, Magic 5</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: 53</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: 4000</text>
+   <nl/>
+   <text> Koszt Jedzenia: 35</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 7 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="TSSOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>       Titanium Short Sword of Fire</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                 (Tytanowy Krotki Miecz Ognia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 10-14 obrazen, +2 Obrona, +6 Celnosc,</text>
+   <nlkx/>
+   <text> +1 Cios Krytyczny, +3 obrazen od Ciosu Krytycznego,</text>
+   <nlkx/>
+   <text> +7 obrazen od Ognia.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Titanium Short Sword of Fire</text>
+   <nl/>
+   <text> Wymagany Nexus: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: ???</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="TSSOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>        Titanium Short Sword of Ice</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                 (Tytanowy Krotki Miecz Lodu)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 10-14 obrazen, +3 Obrona, +7 Celnosc,</text>
+   <nlkx/>
+   <text> +1 Cios Krytyczny, +3 obrazen od Ciosu Krytycznego,</text>
+   <nlkx/>
+   <text> +7 obrazen od Zimna.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Titanium Short Sword of Ice</text>
+   <nl/>
+   <text> Wymagany Nexus: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: ???</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="TSSOM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>       Titanium Short Sword of Magic</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                 (Tytanowy Krotki Miecz Magii)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 10-14 obrazen, +5 Obrona, +3 Celnosc,</text>
+   <nlkx/>
+   <text> +3 Cios Krytyczny, +3 obrazen od Ciosu Krytycznego,</text>
+   <nlkx/>
+   <text> +8 obrazen od Magii.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 4</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Titanium Short Sword of Magic</text>
+   <nl/>
+   <text> Wymagany Nexus: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: ???</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="TSSOT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>      Titanium Short Sword of Thermal</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                 (Tytanowy Krotki Miecz Termiczny)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 10-14 obrazen, +2 Obrona, +3 Celnosc,</text>
+   <nlkx/>
+   <text> +1 Cios Krytyczny, +3 obrazen od Ciosu Krytycznego,</text>
+   <nlkx/>
+   <text> +7 obrazen od Ognia, +7 obrazen od Zimna.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Titanium Short Sword of Thermal</text>
+   <nl/>
+   <text> Wymagany Nexus: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: ???</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 3 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="TLSOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>        Titanium Long Sword of Fire</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>              (Tytanowy Dlugi Miecz Ognia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 12-20 obrazen, +3 Obrona, +3 Celnosc,</text>
+   <nlkx/>
+   <text> +3 Cios Krytyczny, +4 obrazen od Ciosu Krytycznego,</text>
+   <nlkx/>
+   <text> +9 obrazen od Ognia.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Titanium Long Sword of Fire</text>
+   <nl/>
+   <text> Wymagany Nexus: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: ???</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="TLSOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>        Titanium Long Sword of Ice</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                (Tytanowy Dlugi Miecz Lodu)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 12-20 obrazen, +3 Obrona, +3 Celnosc,</text>
+   <nlkx/>
+   <text> +3 Cios Krytyczny, +4 obrazen od Ciosu Krytycznego,</text>
+   <nlkx/>
+   <text> +9 obrazen od Zimna.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Titanium Long Sword of Ice</text>
+   <nl/>
+   <text> Wymagany Nexus: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: ???</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="TLSOM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>       Titanium Long Sword of Magic</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                (Tytanowy Dlugi Miecz Magii)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 12-20 obrazen, +3 Obrona, +3 Celnosc,</text>
+   <nlkx/>
+   <text> +3 Cios Krytyczny, +4 obrazen od Ciosu Krytycznego,</text>
+   <nlkx/>
+   <text> +9 obrazen od Magii.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Titanium Long Sword of Magic</text>
+   <nl/>
+   <text> Wymagany Nexus: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: ???</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="TLSOT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>      Titanium Long Sword of Thermal</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                (Tytanowy Dlugi Miecz Termiczny)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 12-20 obrazen, +3 Obrona, +3 Celnosc,</text>
+   <nlkx/>
+   <text> +3 Cios Krytyczny, +4 obrazen od Ciosu Krytycznego,</text>
+   <nlkx/>
+   <text> +9 obrazen od Ognia, +9 obrazen od Zimna.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Titanium Long Sword of Thermal</text>
+   <nl/>
+   <text> Wymagany Nexus: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: ???</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="SerpOF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>      Titanium Serpent Sword of Fire</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>             (Tytanowy Miecz Serpentynowy Ognia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 20-25 obrazen, +5 Obrona, +5 Celnosc,</text>
+   <nlkx/>
+   <text> +5 Cios Krytyczny, +6 obrazen od Ciosu Krytycznego,</text>
+   <nlkx/>
+   <text> +10 obrazen od Ognia.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Serpent Sword of Fire</text>
+   <nl/>
+   <text> Wymagany Nexus: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: ???</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="SerpOI">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>       Titanium Serpent Sword of Ice</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>             (Tytanowy Miecz Serpentynowy Lodu)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 20-25 obrazen, +5 Obrona, +5 Celnosc,</text>
+   <nlkx/>
+   <text> +5 Cios Krytyczny, +6 obrazen od Ciosu Krytycznego,</text>
+   <nlkx/>
+   <text> +10 obrazen od Zimna.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Serpent Sword of Ice</text>
+   <nl/>
+   <text> Wymagany Nexus: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: ???</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="SerpOM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>      Titanium Serpent Sword of Magic</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>             (Tytanowy Miecz Serpentynowy Magii)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 20-25 obrazen, +5 Obrona, +5 Celnosc,</text>
+   <nlkx/>
+   <text> +5 Cios Krytyczny, +6 obrazen od Ciosu Krytycznego,</text>
+   <nlkx/>
+   <text> +10 obrazen od Magii.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 6</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Serpent Sword of Magic</text>
+   <nl/>
+   <text> Wymagany Nexus: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: ???</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="SerpOT">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>     Titanium Serpent Sword of Thermal</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>          (Tytanowy Miecz Serpentynowy Termiczny)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 20-28 obrazen, +5 Obrona, +5 Celnosc,</text>
+   <nlkx/>
+   <text> +5 Cios Krytyczny, +6 obrazen od Ciosu Krytycznego,</text>
+   <nlkx/>
+   <text> +10 obrazen od Ognia, +10 obrazen od Zimna.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Wymagane Materialy:</text>
+   <nl/>
+   <text> ???</text>
+   <nl/>
+   <text> Wymagana Wiedza: Book of Serpent Sword of Thermal</text>
+   <nl/>
+   <text> Wymagany Nexus: ???</text>
+   <nl/>
+   <text> Zalecany Poziom Rzemieslnictwa: ???</text>
+   <nl/>
+   <text> Doswiadczenie w Rzemieslnictwie: ???</text>
+   <nl/>
+   <text> Koszt Jedzenia: ???</text>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="BOD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>              Bone of Death</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                      (Kosc Smierci)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 20-30 obrazen, +3 Celnosc,</text>
+   <nlkx/>
+   <text> 6% szans na zadanie 150 obrazen.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="BROD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>           Branch of Destruction</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                     (Galaz Zniszczenia)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 10-20 obrazen, +5 Celnosc,</text>
+   <nlkx/>
+   <text> 5% na zdegradowanie przedmiotu wroga.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="Staff_Mage">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>             Staff of the Mage</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Kij Maga)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 15-20 obrazen, +5 Obrona, +6 Celnosc,</text>
+   <nlkx/>
+   <text> +3 Cios Krytyczny, +1 obrazen od Ciosu Krytycznego,</text>
+   <nlkx/>
+   <text> 5% na spalenie lub zniszczenie many.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="Staff_Protection">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>            Staff of Protection</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                        (Kij Ochrony)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 10-21 obrazen, +7 Obrona, +6 Celnosc,</text>
+   <nlkx/>
+   <text> +2 Zbroja, +3 Cios Krytyczny, +2 obrazen do Ciosu</text>
+   <nlkx/>
+   <text> Krytycznego, +2 obrony przed Ogniem, Zimnem oraz</text>
+   <nlkx/>
+   <text> Promieniowaniem, +2 Wytrzymalosc na Magie, 20% szans.</text>
+   <nlkx/>
+   <text> na uleczenie.</text>
+   <nlkx/>   
+   <text> Nexus wymagany do uzycia: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+<Page name="Ice_Axe">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ench_Weapons" title="Wroc"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">   Encyklopedia Eternal Lands</text>
+   <nl/>
+   <text>             ZACZAROWANE BRONIE</text><nl/>
+   <color>red</color>
+   <text>              Axe of Freezing</text><nl/>
+   <color r="0.1" g="0.5" b="1"/><size>Small</size>
+   <text>                    (Topor Zamarzania)</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Zadaje 10-25 obrazen, +6 obrazen od Ciosu</text>
+   <nlkx/>
+   <text> Krytycznego, 7% szans na sparalizowanie wroga.</text>
+   <nlkx/>
+   <text> Nexus wymagany do uzycia: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Tego przedmiotu nie da sie produkowac.</text>
+   <nl/>
+   <nl/>
+   <text> Uklada sie w Stos: Nie</text>
+   <nl/>
+   <text> Waga: 12 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>             </text><link ref="Ench_Weapons" title="Wroc do Indeksu Zaczarowanych Broni"/>
+</Page>
+</EnchantedWeapons>

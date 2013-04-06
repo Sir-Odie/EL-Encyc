@@ -1,0 +1,2233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Harvesting>
+<Page name="Plants">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harvesting" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Información sobre plantas recolectables.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Blue_Star_Flower"    title="Escilla Sibérica"/><text>          </text>
+   <link ref="Cotton"              title="Algodón"/><text> *</text>
+   <nl/>
+   <link ref="Impatients"          title="Impaciente"/><text>                </text>
+   <link ref="Red_Currant"         title="Grosella Roja"/><text> *</text>
+   <nl/>
+   <link ref="Lilacs"              title="Lila"/><text>                      </text>
+   <link ref="Dandelions"          title="Diente de León"/><text> *</text>
+   <nl/>
+   <link ref="Red_Snapdragons"     title="Boca de Dragón"/><text>            </text>
+   <link ref="Daffodils"           title="Narciso"/><text> *</text>
+   <nl/>
+   <link ref="Tiger_Lilly"         title="Lirio Naranja"/><text>             </text>
+   <link ref="Henbane"             title="Beleño"/><text> *</text>
+   <nl/>
+   <link ref="Blue_Lupine"         title="Lupino Azul"/><text>               </text>
+   <link ref="Mugwort"             title="Artemisa"/><text> *</text>
+   <nl/>
+   <link ref="Chrysanthemum"       title="Crisantemo"/><text>                </text>
+   <link ref="Mullein"             title="Gordolobo"/><text> *</text>
+   <nl/>
+   <link ref="Black_Rose"          title="Rosa Negra"/><text>                </text>
+   <link ref="Nightshade"          title="Hierba Mora"/><text> *</text>
+   <nl/>
+   <link ref="Red_Rose"            title="Rosa Roja"/><text>                 </text>
+   <link ref="Ogre_Toes"           title="Champiñón Azul"/><text> *</text>
+   <nl/>
+   <link ref="Yellow_Rose"         title="Rosa Amarilla"/><text>             </text>
+   <link ref="Poison_Ivy"          title="Hiedra Venenosa"/><text> *</text>
+   <nl/>
+   <link ref="White_Asiatic_Lilly" title="Lirio Asiático Blanco"/><text>     </text>
+   <link ref="Poppies"             title="Amapola"/><text> *</text>
+   <nl/>
+   <link ref="Swamp_Candles"       title="Lisimaquia"/><text>                </text>
+   <link ref="Rue" title="Rue"/><text> *</text>
+   <nl/>
+   <link ref="Sunflowers"          title="Girasol"/><text>                   </text>
+   <link ref="Red_Toadstool"       title="Seta Venenosa Roja"/><text> *</text>
+   <nl/>
+   <link ref="Cactus"              title="Cáctus"/><text>                    </text>
+   <link ref="Tulips"              title="Tulipanes"/><text> *</text>
+   <nl/>
+   <link ref="Blueberry"           title="Arándano Silvestre"/><text> *       </text>
+   <link ref="Valerian"            title="Valeriana"/><text> *</text>
+   <nl/>
+   <link ref="White_Chanterelle"   title="Rebozuelo Blanco"/><text> *         </text>
+   <link ref="Wormwood"            title="Ajenjo"/><text> *</text>
+   <nl/>
+   <link ref="Yarrow"              title="Milenrama"/><text> *                </text>
+   <link ref="Wheat"               title="Trigo"/><text> *</text>
+   <nl/>
+   <link ref="Tree_Mushroom"       title="Tree Mushrooms"/>
+   <nl/>
+   <nl/>
+   <text> * indica que la planta ha sido descubierta recientemente y</text><nl/>
+   <text> aún no sabemos como recolectarla o no tenemos un uso para </text><nl/>
+   <text> ella, nuestros científicos están trabajando en ello.</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Harvesting" title="Al índice de recolección"/>
+   <nl/>
+</Page>
+<Page name="Minerals">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harvesting" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Información sobre minerales recolectables.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Quartz" title="Cuarzo"/><nl/>
+   <link ref="Blue_Quartz" title="Cuarzo Azul"/><nl/>
+   <link ref="Rose_Quartz" title="Cuarzo Rosa"/><nl/>
+   <link ref="Sulphur" title="Azufre"/><nl/>
+   <link ref="Coal" title="Carbón"/><nl/>
+   <link ref="Emeralds" title="Esmeralda"/><nl/>
+   <link ref="Rubies" title="Rubí"/><nl/>
+   <link ref="Sapphires" title="Zafiro"/><nl/>
+   <link ref="Diamonds" title="Diamantes"/><nl/>
+   <link ref="Amber" title="Ámbar"/><text> *</text><nl/>
+   <link ref="Gypsum" title="Yeso"/><text> *</text><nl/>
+   <link ref="Obsidian" title="Obsidiana"/><text> *</text><nl/>
+   <link ref="Turquoise" title="Turquesa"/><text> *</text><nl/>
+   <nl/>
+   <text> * indica que el mineral ha sido descubierto recientemente y</text><nl/>
+   <text> aún no sabemos como recolectarlo o no tenemos un uso para </text><nl/>
+   <text> él, nuestros científicos están trabajando en ello.</text><nl/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Harvesting" title="Al índice de recolección"/>
+   <nl/>
+</Page>
+<Page name="Ores">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harvesting" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Información sobre metales recolectables.</text><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Iron_Ore" title="Hierro"/><nl/>
+   <link ref="Silver_Ore" title="Plata"/><nl/>
+   <link ref="Gold_Ore" title="Oro"/><nl/>
+   <link ref="Titanium_Ore" title="Titanio"/><nl/>
+   <link ref="Cinnabar" title="Cinabrio"/><text> *</text><nl/>
+   <link ref="Copper" title="Cobre"/><text> *</text><nl/>
+   <link ref="Dvarium" title="Dvario"/><text> *</text><nl/>
+   <link ref="Hydrogenium" title="Hidrogenio"/><text> *</text><nl/>
+   <link ref="Irilium" title="Irilio"/><text> *</text><nl/>
+   <link ref="Seridium" title="Seridio"/><text> *</text><nl/>
+   <link ref="Tin" title="Estaño"/><text> *</text><nl/>
+   <link ref="Wolfram" title="Wolframio"/><text> *</text><nl/>
+   <nl/>
+   <text> * indica que el metal ha sido descubierto recientemente y</text><nl/>
+   <text> aún no sabemos como recolectarlo o no tenemos un uso para </text><nl/>
+   <text> él, nuestros científicos están trabajando en ello.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Harvesting" title="Al índice de recolección"/>
+   <nl/>
+</Page>
+<Page name="Harv_Other">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harvesting" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text>
+   <nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Here you will find informations about other harvestable</text><nl/>
+   <text> resources in our lands.</text>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text> Other Harvestable</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Wood_Branches" title="Branches"/>
+   <nl/>
+   <link ref="Wood_Logs" title="Logs"/>
+   <nl/>
+   <link ref="Beehive" title="Beehive"/>
+   <nl/>
+   <link ref="Fruit" title="Fruit"/>
+   <nl/>
+   <link ref="Vegetables" title="Vegetables"/>
+   <nl/>
+   <link ref="Yew" title="Yew"/>
+   <nl/>
+   <link ref="Dung" title="Dung"/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Harvesting" title="Back To the Harvesting Index"/>
+   <nl/>
+</Page>
+<Page name="Stones">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harvesting" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text>
+   <nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> Here you will find informations about the stones which</text><nl/>
+   <text> can randomly be found while mining ores and minerals.</text>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0.1" g="0.5" b="1"/><text> Stones</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Serpent_Stone" title="Serpent Stone"/>
+   <nl/>
+   <link ref="Enrich_Stone" title="Enrichment Stone"/>
+   <nl/>
+   <link ref="Binding_Stone" title="Binding Stone"/>
+   <nl/>
+   <link ref="Rostogol_Stone" title="Rostogol Stone"/>
+   <nl/>
+   <link ref="PP_Removal_Stone" title="Pickpoint Removal Stones"/>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                 </text><link ref="Harvesting" title="Back To the Harvesting Index"/>
+   <nl/>
+</Page>
+<Page name="Wood_Logs">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Wood Logs</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items9.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: Stocking campfires.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Recommended Harvest Level: 0</text><nl/>
+   <text> No Research Required</text><nl/>
+   <text> No Tools Required</text><nl/>
+   <text> Weight: 3 EMU</text><nl/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Harvesting Experience Given: 4</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>              </text><link ref="Harv_Other" title="Back To the Other Harvestables Index"/>
+</Page>
+<Page name="Wood_Branches">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>               Wood Branches</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: Stocking campfires.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Recommended Harvest Level: 0</text><nl/>
+   <text> No Research Required</text><nl/>
+   <text> No Tools Required</text><nl/>
+   <text> Weight: 2 EMU</text><nl/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Harvesting Experience Given: 4</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>              </text><link ref="Harv_Other" title="Back To the Other Harvestables Index"/>
+</Page>
+<Page name="Blue_Star_Flower">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Escilla Sibérica</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Se usa para: </text><link ref="Water Essence" title="Esencia de Agua"/><text> y </text><nl/>
+   <text>       </text><link ref="P_Spirit Restoration" title="Poción de Restauración del Espíritu"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 0</text><nl/>
+   <text> Ningún conocimiento requerido</text><nl/>
+   <text> Ninguna herramienta requerida</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 4</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Impatients">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Impaciente</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Se usa para: </text><link ref="Magic Essence" title="Esencia de Magia"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 0</text><nl/>
+   <text> Ningún conocimiento requerido</text><nl/>
+   <text> Ninguna herramienta requerida</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 4</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Lilacs">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Lila</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Se usa para: </text><link ref="Magic Essence" title="Esencia de Magia"/><text> y </text><nl/>
+   <text>       </text><link ref="P_Harvesting" title="Poción de Recolección"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 0</text><nl/>
+   <text> Ningún conocimiento requerido</text><nl/>
+   <text> Ninguna herramienta requerida</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 4</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Red_Snapdragons">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Boca de Dragón</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Se usa para: </text><link ref="Fire Essence" title="Esencia de Fuego"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 0</text><nl/>
+   <text> Ningún conocimiento requerido</text><nl/>
+   <text> Ninguna herramienta requerida</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 4</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Tiger_Lilly">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Lirio Naranja</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Se usa para: </text><link ref="Energy Essence" title="Esencia de Energía"/><text> y </text><link ref="P_Attack" title="Poción de Ataque"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 0</text><nl/>
+   <text> Ningún conocimiento requerido</text><nl/>
+   <text> Ninguna herramienta requerida</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 4</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Blue_Lupine">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Lupino Azul</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Se usa para: </text><link ref="Water Essence" title="Esencia de Agua"/><text> y </text><link ref="P_Mana" title="Poción de Maná"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 1</text><nl/>
+   <text> Ningún conocimiento requerido</text><nl/>
+   <text> Ninguna herramienta requerida</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 4</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Chrysanthemum">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Crisantemo</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Se usa para: </text><link ref="Health Essence" title="Esencia de Salud"/><text> y </text><nl/>
+   <text>       </text><link ref="P_Manufacturing" title="Poción de Manufactura"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 2</text><nl/>
+   <text> Ningún conocimiento requerido</text><nl/>
+   <text> Ninguna herramienta requerida</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 6</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Red_Rose">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Rosa Roja</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Se usa para: </text><link ref="Fire Essence" title="Esencia de Fuego"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 6</text><nl/>
+   <text> Ningún conocimiento requerido</text><nl/>
+   <text> Ninguna herramienta requerida</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 11</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Yellow_Rose">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Rosa Amarilla</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Se usa para: </text><link ref="P_Will" title="Poción de Voluntad"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 6</text><nl/>
+   <text> Ningún conocimiento requerido</text><nl/>
+   <text> Ninguna herramienta requerida</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 11</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Black_Rose">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Rosa Negra</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Se usa para: </text><link ref="P_Magic" title="Poción de Magia"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 6</text><nl/>
+   <text> Ningún conocimiento requerido</text><nl/>
+   <text> Ninguna herramienta requerida</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 11</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="White_Asiatic_Lilly">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>            White Asiatic Lilly</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Se usa para: </text><link ref="Air Essence" title="Esencia de Aire"/><text> y </text><link ref="P_Summoning" title="Poción de Invocación"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 8</text><nl/>
+   <text> Ningún conocimiento requerido</text><nl/>
+   <text> Ninguna herramienta requerida</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 12</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Swamp_Candles">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Swamp Candles</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Se usa para: </text><link ref="Earth Essence" title="Esencia de Tierra"/><text> y </text><link ref="P_Defense" title="Poción de Defensa"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 11</text><nl/>
+   <text> Ningún conocimiento requerido</text><nl/>
+   <text> Ninguna herramienta requerida</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 14</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Sunflowers">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Girasol</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Se usa para: </text><link ref="Life Essence" title="Esencia de Vida"/><text>,</text><nl/>
+   <text>       Pociones de </text><link ref="P_Healing" title="Curación Menor"/><text>, </text>
+   <link ref="P_Body Restoration" title="Restauración del Cuerpo"/><nl/>
+   <text>       y </text><link ref="P_Manufacturing" title="Manufactura"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 12</text><nl/>
+   <text> Ningún conocimiento requerido</text><nl/>
+   <text> Ninguna herramienta requerida</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 16</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Fruit">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Fruta</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Un alimento nutritivo.</text><nl/>
+   <text>       Restaura 20 unidades de comida.</text><nl/>
+   <text>       Se usa para: </text><link ref="P_Feasting" title="Potion of Feasting"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 18</text><nl/>
+   <text> Ningún conocimiento requerido</text><nl/>
+   <text> Ninguna herramienta requerida</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 22</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Harv_Other" title="Al indice de Otros Objetos"/>
+</Page>
+<Page name="Vegetables">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Verduras</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Complemento saludable a la carne cocinada.</text><nl/>
+   <text>       Restaura 15 unidades de comida.</text><nl/>
+   <text>       Se usa para: </text><link ref="P_Feasting" title="Poción de Saciedad"/><text> y </text><link ref="P_Reasoning" title="Poción de Razonamiento"/><text>.</text>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 20</text><nl/>
+   <text> Ningún conocimiento requerido</text><nl/>
+   <text> Ninguna herramienta requerida</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 24</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Harv_Other" title="Al indice de Otros Objetos"/>
+</Page>
+<Page name="Cactus">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Cáctus</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Planta espinosa que se encuentra en regiones áridas.</text><nl/>
+   <text>       Se usa para: </text><link ref="Death Essence" title="Esencia de Muerte"/><text>, </text><link ref="P_Vitality" title="Poción de Vitalidad"/><nl/>
+   <text>       y </text><link ref="P_Coordination" title="Poción de Coordinación"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 4</text><nl/>
+   <text> Ningún conocimiento requerido</text><nl/>
+   <text> Peso: 4 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 8</text><nl/>
+   <text> Herramienta: Guantes de Cuero</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Sulphur">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Azufre</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Esta substancia amarilla inflamable se puede</text><nl/>
+   <text>       encontrar cerca de los depósitos de plata.</text><nl/>
+   <text>       Se usa para: </text><link ref="Fire Essence" title="Esencia de Fuego"/><text> y </text><link ref="Earth Essence" title="Esencia de Tierra"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 14</text><nl/>
+   <text> Ningún conocimiento requerido</text><nl/>
+   <text> Peso: 2 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 18</text><nl/>
+   <text> Herramienta: Guantes de Cuero</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Minerals" title="Al índice de minerales"/>
+</Page>
+<Page name="Coal">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Carbón</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Formado a partir de plantas fosilizadas bajo tierra.</text><nl/>
+   <text>       Sirve principalmente como combustible.</text><nl/>
+   <text>       Se usa para: </text><link ref="Earth Essence" title="Esencia de Tierra"/><text> y todos los </text><link ref="Alchemy" title="Lingotes de Metal"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 21</text><nl/>
+   <text> Peso: 2 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 25</text><nl/>
+   <text> Herramienta: Pico</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Minerals" title="Al índice de minerales"/>
+</Page>
+<Page name="Quartz">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Cuarzo</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Este duro mineral se puede fundir para fabricar cristal.</text><nl/>
+   <text>       Por una pequeña cantidad Harvy puede hacer viales</text><nl/>
+   <text>       con él.</text><nl/>
+   <text>       Se usa para: </text><link ref="Matter Essence" title="Esencia de Materia"/><text> y </text><link ref="Death Essence" title="Esencia de Muerte"/><text>.</text><nl/>
+   <nlkx/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 16</text><nl/>
+   <text> Estudios requeridos: Extracción de Cuarzo y Prerrequisitos</text><nl/>
+   <text> Tool Required: Pico</text><nl/>
+   <text> Nexo Requerido: Inorganico 1</text><nl/>
+   <text> Peso: 2 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 20</text><nl/>
+   <text> Herramienta: Pico</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Minerals" title="Al índice de minerales"/>
+</Page>
+<Page name="Blue_Quartz">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Cuarzo Azul</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Variedad azulada del cuarzo.</text><nl/>
+   <text>       Se usa para: </text><link ref="Matter Essence" title="Esencia de Materia"/><text>, </text><link ref="Water Essence" title="Esencia de Agua"/><text> y </text><nl/>
+   <text>       </text><link ref="P_Spirit Restoration" title="Poción de Restauración del Espíritu"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 17</text><nl/>
+   <text> Estudios requeridos: Extracción de Cuarzo Azul y Prerrequisitos</text><nl/>
+   <text> Nexo Requerido: Inorganico 1</text><nl/>
+   <text> Peso: 2 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 21</text><nl/>
+   <text> Herramienta: Pico</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Minerals" title="Al índice de minerales"/>
+</Page>
+<Page name="Rose_Quartz">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Cuarzo Rosa</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Variedad rosada del cuarzo.</text><nl/>
+   <text>       Se usa para: </text><link ref="Matter Essence" title="Esencia de Materia"/><text> y </text><nl/>
+   <text>       </text><link ref="P_Body Restoration" title="Poción de Restauración del Cuerpo"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 17</text><nl/>
+   <text> Estudios requeridos: Extracción de Cuarzo Rosa y Prerrequisitos</text><nl/>
+   <text> Nexo Requerido: Inorganico 1</text><nl/>
+   <text> Peso: 2 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 21</text><nl/>
+   <text> Herramienta: Pico</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Harvesting" title="Al índice de minerales"/>
+</Page>
+<Page name="Iron_Ore">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Hierro</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Un metal resistente encontrado en una gran caverna</text><nl/>
+   <text>       en el desierto.</text><nl/>
+   <text>       Se usa para: </text><link ref="Iron Bar" title="Lingote de Hierro"/><text> y </text><link ref="Steel Bar" title="Lingote de Acero"/><text> ; </text><link ref="Matter Essence" title="Esencia de Materia"/><text>, </text><nl/>
+   <text>       </text><link ref="Energy Essence" title="Esencia de Energía"/><text> y </text><link ref="P_Manufacturing" title="Poción de Manufactura"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 23</text><nl/>
+   <text> Estudios requeridos: Extracción de Hierro y Prerrequisitos</text><nl/>
+   <text> Tool Required: Pico</text><nl/>
+   <text> Nexo Requerido: Inorganico 2</text><nl/>
+   <text> Peso: 4 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 28</text><nl/>
+   <text> Herramienta: Pico</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Ores" title="Al índice de metales"/>
+</Page>
+<Page name="Silver_Ore">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Plata</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Este metal tiene una gran variadad de usos.</text><nl/>
+   <text>       Se usa para: </text><link ref="Silver Bar" title="Lingote de Plata"/><text>, </text>
+   <link ref="P_Will" title="Poción de Voluntad"/><text> y </text><nl/>
+   <text>       </text><link ref="P_Manufacturing" title="Poción de Manufactura"/><text>, </text><link ref="Energy Essence" title="Esencia de Energía"/><text>, </text><link ref="Life Essence" title="Esencia de Vida"/><text> y </text><nl/>
+   <text>       </text><link ref="Health Essence" title="Esencia de Salud"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 24</text><nl/>
+   <text> Estudios requeridos: Extracción de Plata y Prerrequisitos</text><nl/>
+   <text> Nexo Requerido: Inorganico 2</text><nl/>
+   <text> Peso: 2 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 28</text><nl/>
+   <text> Herramienta: Pico</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Ores" title="Al índice de metales"/>
+</Page>
+<Page name="Gold_Ore">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                     Oro</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Este raro y precioso metal se puede encontrar en las</text><nl/>
+   <text>       cavernas de las tierras pantanosas.</text><nl/>
+   <text>       Se usa para: </text><link ref="Gold Bar" title="Lingote de Oro"/><text>, </text><link ref="Spirit Essence" title="Esencia de Espíritu"/><text> y </text><nl/>
+   <text>       </text><link ref="P_Attack" title="Poción de Ataque"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 37</text><nl/>
+   <text> Estudios requeridos: Extracción de Oro y Prerrequisitos</text><nl/>
+   <text> Nexo Requerido: Inorganico 3</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 36</text><nl/>
+   <text> Herramienta: Pico</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Ores" title="Al índice de metales"/>
+</Page>
+<Page name="Rubies">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Rubies</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Hay que ser muy valiente (o tener un buen equipo)</text><nl/>
+   <text>       para encontrar esta brillante gema roja.</text><nl/>
+   <text>       Se usa para: </text><link ref="P_Ruby" title="Rubí Pulido"/><text>.</text><nl/>
+   <nlkx/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 37</text><nl/>
+   <text> Estudios requeridos: Extracción de Rubíes</text><nl/>
+   <text> y Prerrequisitos</text><nl/>
+   <text> Tool Required: Pico</text><nl/>
+   <text> Nexo Requerido: Inorganico 4</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 41</text><nl/>
+   <text> Herramienta: Pico</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Minerals" title="Al índice de minerales"/>
+</Page>
+<Page name="Emeralds">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Esmeraldas</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Una rara gema verde que se encuentra solo en las</text><nl/>
+   <text>       profundidades de unas peligrosas catacumbas.</text><nl/>
+   <text>       Se usa para: </text><link ref="P_Emer" title="Esmeralda Pulida"/><text> y </text><link ref="Magic Essence" title="Esencia de Magia"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 37</text><nl/>
+   <text> Estudios requeridos: Extracción de Esmeraldas</text><nl/>
+   <text> y Prerrequisitos</text><nl/>
+   <text> Nexo Requerido: Inorganico 4</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 36</text><nl/>
+   <text> Herramienta: Pico</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Minerals" title="Al índice de minerales"/>
+</Page>
+<Page name="Sapphires">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Zafiros</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items2.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Una gema azul que se encuentra en las regiones medias</text><nl/>
+   <text>       de Seridia.</text><nl/>
+   <text>       Se usa para: </text><link ref="P_Saph" title="Zafiros Pulido"/><text> y </text><link ref="Water Essence" title="Esencia de Agua"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 37</text><nl/>
+   <text> Estudios requeridos: Extracción de Zafiros</text><nl/>
+   <text> y Prerrequisitos</text><nl/>
+   <text> Nexo Requerido: Inorganico 4</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 39</text><nl/>
+   <text> Herramienta: Pico</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Minerals" title="Al índice de minerales"/>
+</Page>
+<Page name="Diamonds">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Diamante</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Solo los expertos pueden encontrar y extraer</text><nl/>
+   <text>       diamantes - la más dura de las piedras preciosas.</text><nl/>
+   <text>       Se usa para: </text><link ref="P_Diam" title="Diamante Pulido"/><text> y </text><link ref="Air Essence" title="Esencia de Aire"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 40</text><nl/>
+   <text> Estudios requeridos: Extracción de Diamantes </text><nl/>
+   <text> y Prerrequisitos</text><nl/>
+   <text> Nexo Requerido: Inorganico 4</text><nl/>
+   <text> Peso: 3 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 44</text><nl/>
+   <text> Herramienta: Pico</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Minerals" title="Al índice de minerales"/>
+</Page>
+<Page name="Titanium_Ore">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harvesting" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Mineral de Titanio</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items5.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Metal usado en la fabricación de armas y armaduras</text><nl/>
+   <text>       de mucha dureza, pero muy ligeras.</text><nl/>
+   <text>       Se usa para: </text><link ref="Titanium Bar" title="Lingotes de Titanio"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: 38</text><nl/>
+   <text> Estudios requeridos: Extracción de Titanio  y Prerrequisitos</text><nl/>
+   <text> Nexo Requerido: Inorganico 5</text><nl/>
+   <text> Peso: 1 EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: 42</text><nl/>
+   <text> Herramienta: Pico</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Harvesting" title="Al índice de metales"/>
+</Page>
+<Page name="Blueberry">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Arándano Silvestre</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="1" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="White_Chanterelle">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Rebozuelo Blanco</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Cotton">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Algodón</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Red_Currant">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Grosella Roja</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Dandelions">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Dientes de León</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Daffodils">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Narciso</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Henbane">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Beleño</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Mugwort">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Artemisa</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Mullein">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Gordolobo</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Nightshade">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                Hierba Mora</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="11" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Ogre_Toes">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>               Champiñón Azul</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Poison_Ivy">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>              Hiedra Venenosa</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Gloves</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Poppies">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Amapola</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Rue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Ruda</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Tree_Mushroom">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>               Tree Mushroom</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: </text><link ref="Extract_WOT" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Recommended Harvest Level: 47</text><nl/>
+   <text> Research Required: None</text><nl/>
+   <text> Required Nexuses: None</text><nl/>
+   <text> Weight: 1 EMU</text><nl/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Harvesting Experience Given: 51</text><nl/>
+   <text> Tool Required: None</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Plants" title="Back To Plants Index"/>
+</Page>
+<Page name="Red_Toadstool">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>             Seta Venenosa Roja</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Tulips">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                  Tulipán</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Valerian">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Valeriana</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Wormwood">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Ajenjo</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Yarrow">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Gods" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Milenrrama</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Wheat">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Plants" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   
+   <color r="1" g="0.6" b="0"/>
+   <text>    Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Trigo</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items13.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando esta Planta.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Plants" title="Al índice de Plantas"/>
+</Page>
+<Page name="Beehive">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                    Miel</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Our scientists are still investigating this material.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Gloves</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Harv_Other" title="Al indice de Otros Objetos"/>
+</Page>
+<Page name="Amber">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Ambar</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Our scientists are still investigating this mineral.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Minerals" title="Al índice de Minerales"/>
+</Page>
+<Page name="Gypsum">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                   Gypsum</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: </text><link ref="Misc" title="Tools"/><text>, </text><link ref="Summoning" title="Summoning Stones"/><text> and </text>
+   <link ref="Potions" title="Extracts"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Recommended Harvest Level: 19</text><nl/>
+   <text> Research Required: Gypsum Harvesting</text><nl/>
+   <text> Required Nexuses: Inorganic 2</text><nl/>
+   <text> Weight: 10 EMU</text><nl/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Harvesting Experience Given: 23</text><nl/>
+   <text> Tool Required: Pickaxe</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Back To Minerals Index"/>
+</Page>
+<Page name="Obsidian">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                 Obsidiana</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="17" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Our scientists are still investigating this mineral.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Minerals" title="Al índice de Minerales"/>
+</Page>
+<Page name="Turquoise">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Minerals" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Turquoise</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: Nothing at this time.</text><nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Recommended Harvest Level: 65</text><nl/>
+   <text> Research Required: None</text><nl/>
+   <text> Required Nexuses: Inorganic 4</text><nl/>
+   <text> Weight: 5 EMU</text><nl/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Harvesting Experience Given: 69</text><nl/>
+   <text> Tool Required: Pickaxe</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Minerals" title="Back To Minerals Index"/>
+</Page>
+<Page name="Cinnabar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Cinnabar</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: </text><link ref="Mercury" title="Mercury"/><text> can be extracted from this ore.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Recommended Harvest Level: 75</text><nl/>
+   <text> Research Required: Cinnabar Mining</text><nl/>
+   <text> Required Nexuses: Inorganic 6</text><nl/>
+   <text> Weight: 2 EMU</text><nl/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Harvesting Experience Given: 79</text><nl/>
+   <text> Tool Required: Leather Gloves</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Copper">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                 Copper Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: </text><link ref="Copper Bar" title="Copper Bar"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Recommended Harvest Level: 62</text><nl/>
+   <text> Research Required: Copper Mining</text><nl/>
+   <text> Required Nexuses: Inorganic 6</text><nl/>
+   <text> Weight: 5 EMU</text><nl/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Harvesting Experience Given: 66</text><nl/>
+   <text> Tool Required: Pickaxe</text><nl/>
+   <nl/>
+   <text> Note: mining this ore requires that you have matter</text><nl/>
+   <text>       conglomerate in your inventory.</text><nl/>
+   <text>       Every ore mined will consume 1 matter conglomerate.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Dvarium">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Dvario</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando este metal.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Ores" title="Al índice de Metales"/>
+</Page>
+<Page name="Hydrogenium">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>              Hydrogenium Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> This rare ore's location is a closely guarded</text><nlkx/>
+   <text> secret.</text><nlkx/>
+   <text> Used for: </text><link ref="Hydrogenium Bar" title="Hydrogenium Bar"/><text>.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Recommended Harvest Level: 55</text><nl/>
+   <text> Research Required: Hydrogenium Mining</text><nl/>
+   <text> Required Nexuses: Inorganic 6</text><nl/>
+   <text> Weight: 1 EMU</text><nl/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Harvesting Experience Given: 59</text><nl/>
+   <text> Tool Required: Pickaxe</text><nl/>
+   <nl/>
+   <text> Note: mining this ore requires that you have steel 2edged</text><nl/>
+   <text>       swords in your inventory.</text><nl/>
+   <text>       Every ore mined will consume 1 sword.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Seridium">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                Seridium Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="10" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: </text><link ref="Seridium Bar" title="Seridium Bar"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Recommended Harvest Level: 67</text><nl/>
+   <text> Research Required: Seridium Mining</text><nl/>
+   <text> Required Nexuses: Inorganic 6</text><nl/>
+   <text> Weight: 5 EMU</text><nl/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Harvesting Experience Given: 71</text><nl/>
+   <text> Tool Required: Pickaxe</text><nl/>
+   <nl/>
+   <text> Note: mining this ore requires that you have matter</text><nl/>
+   <text>       conglomerate in your inventory.</text><nl/>
+   <text>       Every ore mined will consume 1 matter conglomerate.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Irilium">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Atrás"/>
+   <link x="430" y="2" ref="Index" title="Índice"/><nl/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="45" y="20">Enciclopedia de las Tierras Eternas</text><nl/>
+   <text>                RECOLECCIÓN</text><nl/>
+   <color r="0.5" g="0.5" b="1"/>
+   <text>                   Irilio</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="12" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Nuestros científicos están investigando este metal.</text><nl/>
+   <text> Usado en: </text><text> Desconocido por ahora.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Nivel de Recolección Recomendado: Desconocido</text><nl/>
+   <text> Estudios requeridos: Desconocido</text><nl/>
+   <text> Nexo Requerido: Inorganicoo Desconocido</text><nl/>
+   <text> Peso: Desconocido EMU</text><nl/>
+   <text> Apilable: Si</text><nl/>
+   <text> Experiencia: Desconocido</text><nl/>
+   <text> Herramienta: Desconocido</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                     </text><link ref="Ores" title="Al índice de Metales"/>
+</Page>
+<Page name="Tin">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                  Tin Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: </text><link ref="Tin Bar" title="Tin Bar"/><text>.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Recommended Harvest Level: 58</text><nl/>
+   <text> Research Required: Tin Mining</text><nl/>
+   <text> Required Nexuses: Inorganic 6</text><nl/>
+   <text> Weight: 5 EMU</text><nl/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Harvesting Experience Given: 62</text><nl/>
+   <text> Tool Required: Pickaxe</text><nl/>
+   <nl/>
+   <text> Note: mining this ore requires that you have iron swords</text><nl/>
+   <text>       in your inventory.</text><nl/>
+   <text>       Every ore mined will consume 1 sword.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Wolfram">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Ores" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>               Wolframite Ore</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> A very rare and heavy ore.</text>
+   <nlkx/>
+   <text> Used for: </text><link ref="Wolfram Bar" title="Wolfram Bar"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Recommended Harvest Level: 60</text><nl/>
+   <text> Research Required: Wolframite Mining</text><nl/>
+   <text> Required Nexuses: Inorganic 6</text><nl/>
+   <text> Weight: 10 EMU</text><nl/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Harvesting Experience Given: 64</text><nl/>
+   <text> Tool Required: Pickaxe</text><nl/>
+   <nl/>
+   <text> Note: mining this ore requires that you have steel long</text><nl/>
+   <text>       swords in your inventory.</text><nl/>
+   <text>       Every ore mined will consume 1 sword.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Ores" title="Back To Ores Index"/>
+</Page>
+<Page name="Yew">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                    Yew</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: </text><link ref="pk_arrow" title="PK Arrows"/><text>, </text><link ref="pk_bolt" title="PK Bolts"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Recommended Harvest Level: 80</text><nl/>
+   <text> No Research Required</text><nl/>
+   <text> Required Nexuses: Inorganic 6</text><nl/>
+   <text> Weight: 2 EMU</text><nl/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Harvesting Experience Given: 84</text><nl/>
+   <text> Tool Required: Saw</text><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>              </text><link ref="Harv_Other" title="Back To the Other Harvestables Index"/>
+</Page>
+<Page name="Dung">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Harv_Other" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>                    Dung</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: </text><link ref="Saltpetre" title="Saltpetre"/><text>.</text>
+   <nlkx/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Recommended Harvest Level: 100</text><nl/>
+   <text> No Research Required</text><nl/>
+   <text> Required Nexuses: Inorganic 6</text><nl/>
+   <text> Weight: 3 EMU</text><nl/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Harvesting Experience Given: 104</text><nl/>
+   <text> Tool Required: Leather Gloves</text><nl/>
+   <nl/>
+   <text> Note: this item can be stored only in the Hazardous Items</text><nl/>
+   <text> storage.</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>              </text><link ref="Harv_Other" title="Back To the Other Harvestables Index"/>
+</Page>
+<Page name="Serpent_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Stones" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>               Serpent Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for making high level items like magic swords.</text><nlkx/>
+   <text> Also used in some alchemy and summoning recipes.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: this stone can rarely be found as a drop from</text><nl/>
+   <text> monsters.</text><nl/><nl/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Weight: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Stones" title="Back To the Stones Index"/>
+</Page>
+<Page name="Enrich_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Stones" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>              Enrichment Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: </text><link ref="Enriched Fire Essence" title="Enriched Fire Essence"/><text>,</text><nl/>
+   <text>       </text><link ref="Enriched Life Essence" title="Enriched Life Essence"/><text>, </text><link ref="Enriched Magic Essence" title="Enriched Magic Essence"/><text>.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Weight: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Stones" title="Back To the Stones Index"/>
+</Page>
+<Page name="Binding_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Stones" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>               Binding Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="15" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for making high level equipment, like the</text><nlkx/>
+   <text> most powerful swords, the crowns, and other items.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Stackable: Yes</text><nl/>
+   <text> Weight: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Stones" title="Back To the Stones Index"/>
+</Page>
+<Page name="Rostogol_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Stones" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>               Rostogol Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> If you die with this stone in inventory, you won't</text><nlkx/>
+   <text> drop items (but the stone will disappear).</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: this stone can rarely be found as a drop from very</text><nl/>
+   <text> strong monsters.</text><nl/><nl/>
+   <text> Stackable: No</text><nl/>
+   <text> Weight: 3 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Stones" title="Back To the Stones Index"/>
+</Page>
+<Page name="PP_Removal_Stone">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Stones" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 HARVESTING</text><nl/>
+   <color>red</color>
+   <text>          Pickpoint Removal Stones</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> These rare stones allow you to remove a pickpoint</text><nlkx/>
+   <text> from an attribute or nexus and reallocate it.</text>
+   <nlkx/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: there is no stone named "Pickpoint Removal Stone",</text><nl/>
+   <text> there are instead specific stones for every attribute</text><nl/>
+   <text> or nexus like "Instinct Removal Stone" or "Inorganic</text><nl/>
+   <text> Nexus Removal Stone".</text><nl/><nl/>
+   <text> Unlike the other stones, Pickpoint Removal Stones can</text><nl/>
+   <text> also be found while harvesting plants.</text><nl/><nl/>
+   <text> Stackable: No</text><nl/>
+   <text> Weight: 2 EMU</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Stones" title="Back To the Stones Index"/>
+</Page>
+</Harvesting>

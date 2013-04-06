@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<General>
+<Page name="Index">
+	<size>Big</size>
+	<color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<size>Small</size>
+	<color r="0.4" g="0.8" b="1"/>
+	<text> IN ONTWIKKELING! Meld alle fouten op het Encyclopedie</text><nl/>
+	<text> Forum, of via e-mail naar theryndan@hotmail.it</text><nl/>
+	<text> Spellingsfouten naar eternallands@xsmail.com</text><nl/>
+	<size>Medium</size>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Alchemy" title="Alchemie"/><size>Small</size>
+	<text>          - Het maken van Essenties en Baren</text><size>Medium</size><nl/>
+	<link ref="Attributes" title="Attributen"/><size>Small</size>
+	<text>        - Begrijp je attributen</text><size>Medium</size><nl/>
+	<link ref="Creatures" title="Beesten"/><size>Small</size>
+	<text>           - De Beesten van EL</text><size>Medium</size><nl/>
+	<link ref="Jewelry" title="Bewerken"/><size>Small</size>
+	<text>          - Ringen, Medaillons en Magische Items</text><size>Medium</size><nl/>
+	<link ref="Books" title="Boeken"/><size>Small</size>
+	<text>            - Hoe je je kennis kunt vergroten</text><size>Medium</size><nl/>
+	<link ref="Archery" title="Boogschieten"/><size>Small</size>
+	<text>      - Het gebruiken van Pijl en Boog</text><size>Medium</size><nl/>
+	<link ref="Potions" title="Brouwen"/><size>Small</size>
+	<text>           - De recepten voor alle Dranken</text><size>Medium</size><nl/>
+	<link ref="Misc" title="Diversen"/><size>Small</size>
+	<text>          - Diverse Items</text><size>Medium</size><nl/>
+	<link ref="Engineering" title="Engineering"/><size>Small</size>
+	<text>       - Kraaienpoten, Landmijnen en meer</text><size>Medium</size><nl/>
+	<link ref="Gods" title="Goden"/><size>Small</size>
+	<text>             - Leer alles over de EL Religies</text><size>Medium</size><nl/>
+	<link ref="Armors" title="Harnassen"/><size>Small</size>
+	<text>         - Harnassen: van leer tot plaat</text><size>Medium</size><nl/>
+	<link ref="Maps" title="Kaarten"/><size>Small</size>
+	<text>           - Info over Kaarten. Welke zijn PK?</text><size>Medium</size><nl/>
+	<link ref="Clothes" title="Kleding"/><size>Small</size>
+	<text>           - Alles over Mantels en Bont Kleding</text><size>Medium</size><nl/>
+	<link ref="Tailoring" title="Kleermaken"/><size>Small</size>
+	<text>        - Het maken van prachtige kleding</text><size>Medium</size><nl/>
+	<link ref="Magic" title="Magie"/><size>Small</size>
+	<text>             - Uitspreken van magische Spreuken</text><size>Medium</size><nl/>
+	<link ref="Harvesting" title="Oogsten"/><size>Small</size>
+	<text>           - Oogstbare items</text><size>Medium</size><nl/>
+	<link ref="Summoning" title="Oproepen"/><size>Small</size>
+	<text>          - Informatie over Oproepen</text><size>Medium</size><nl/>
+	<link ref="Perks" title="Perks"/><size>Small</size>
+	<text>             - Informatie over alle Perks</text><size>Medium</size><nl/>
+	<link ref="Weapons" title="Wapens"/><size>Small</size>
+	<text>            - Over zwaarden, bijlen, en meer</text><size>Medium</size>
+</Page>
+<Page name="Alchemy">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   ALCHEMIE</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> Alchemie is de kunst van het maken van essenties en</text><nl/>
+	<text> metalen baren. Essenties worden gebruikt in Spreuken en </text><nl/>
+	<text> als ingredient in bepaalde items. Baren worden gebruikt</text><nl/>
+	<text> bij het maken van wapens, harnassen, ringen en medaillons.</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.1" g="0.5" b="1"/>
+	<text>Essenties</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Fire Essence" title="Vuur Essentie"/><text>                   </text>
+	<link ref="Energy Essence" title="Energie Essentie"/><nl/>
+	<link ref="Water Essence" title="Water Essentie"/><text>                  </text>
+	<link ref="Life Essence" title="Leven Essentie"/><nl/>
+	<link ref="Earth Essence" title="Aarde Essentie"/><text>                  </text>
+	<link ref="Death Essence" title="Dood Essentie"/><nl/>
+	<link ref="Air Essence" title="Lucht Essentie"/><text>                  </text>
+	<link ref="Health Essence" title="Gezondheid Essentie"/><nl/>
+	<link ref="Spirit Essence" title="Geest Essentie"/><text>                  </text>
+	<link ref="Magic Essence" title="Magie Essentie"/><nl/>
+	<link ref="Matter Essence" title="Materie Essentie"/><nl/>
+	<nl/>
+	<color r="0.1" g="0.5" b="1"/>
+	<text>Verrijkte Essenties</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Enriched Fire Essence" title="Verrijkte Vuur Essentie"/><text>         </text>
+	<link ref="Enriched Death Essence" title="Verrijkte Dood Essentie"/><nl/>
+	<link ref="Enriched Water Essence" title="Verrijkte Water Essentie"/><text>        </text>
+	<link ref="Enriched Magic Essence" title="Verrijkte Magie Essentie"/><nl/>
+	<link ref="Enriched Life Essence" title="Verrijkte Leven Essentie"/><text>         </text><nl/>
+	<nl/>
+	<color r="0.1" g="0.5" b="1"/>
+	<text>Metalen Baren</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Iron Bar" title="IJzeren Baar"/><text>                    </text>
+	<link ref="Bronze Bar" title="Bronzen Baar"/><nl/>
+	<link ref="Steel Bar" title="Stalen Baar"/><text>                     </text>
+	<link ref="Hydrogenium Bar" title="Waterstof Baar"/><nl/>
+	<link ref="Silver Bar" title="Zilveren Baar"/><text>                   </text>
+	<link ref="Seridium Bar" title="Seridium Baar"/><nl/>
+	<link ref="Gold Bar" title="Gouden Baar"/><text>                     </text>
+	<link ref="Wolfram Bar" title="Wolfram Baar"/><nl/>
+	<link ref="Titanium Bar" title="Titanium Baar"/><text>                   </text>
+	<link ref="Dvarium Bar" title="Dvarium Baar"/><nl/>
+	<link ref="Tin Bar" title="Tin Baar"/><text>                        </text>
+	<link ref="Irilium Bar" title="Irilium Baar"/><text>*</text><nl/>
+	<link ref="Copper Bar" title="Koper Baar"/><nl/>
+	<nl/>
+	<text> * Geeft aan dat deze baren al ontdekt zijn, maar we nog</text><nl/>
+	<text> niet weten hoe we ze kunnen maken of waarvoor ze gebruikt</text><nl/>
+	<text> kunnen worden. Onze wetenschappers werken er aan.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Index" title="Terug Naar Index"/>
+</Page>
+<Page name="Archery">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 BOOGSCHIETEN</text><nl/>
+	<nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Bogen en pijlen.</text><nl/>
+	<nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0" g="0.7" b="1"/>
+	<text>Bogen</text><text>                          </text>
+	<text>Kruisbogen</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Short_Bow" title="Korte Boog"/><text>                     </text>
+	<link ref="Crossbow" title="Kruisboog"/><nl/>
+	<link ref="Long_Bow" title="Lange Boog"/><text>                       </text>
+	<text> </text><nl/>
+	<link ref="Recurve_Bow" title="Recurve Boog"/><text>                   </text>
+	<color r="0" g="0.7" b="1"/><text>Kruisboog Pijlen</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Elven_Bow" title="Elven Boog"/><text>                     </text>
+	<link ref="Bolts" title="Training Pijlen"/><nl/>
+	<text>                               </text>
+	<link ref="PK_Bolts" title="PK Pijlen"/><nl/>
+	<color r="0" g="0.7" b="1"/><text>Pijlen</text><text>                         </text><color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Magic_Bolts" title="Magische Pijlen"/><nl/>
+	<link ref="Arrows" title="Training Pijlen"/><text>                </text>
+	<link ref="Ice_Bolts" title="IJs Pijlen"/><nl/>
+	<link ref="PK_Arrows" title="PK Pijlen"/><text>                      </text>
+	<link ref="Fire_Bolts" title="Vuur Pijlen"/><nl/>
+	<link ref="Magic_Arrows" title="Magische Pijlen"/><text>                </text>
+	<link ref="Explosive_Bolts" title="Explosieve Pijlen"/><nl/>
+	<link ref="Ice_Arrows" title="IJs Pijlen"/><text>                     </text>
+	<text> </text><nl/>
+	<link ref="Fire_Arrows" title="Vuur Pijlen"/><text>                    </text>
+	<text> </text><nl/>
+	<link ref="Explosive_Arrows" title="Explosieve Pijlen"/><text>               </text>
+	<text> </text><nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Index" title="Terug Naar Index"/>
+	<nl/>
+</Page>
+<Page name="Armors">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 HARNASSEN</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> Een harnas bestaat uit verschillende onderdelen: helm,</text><nl/>
+	<text> torso, broek, schoenen en schild. Verschillende materialen</text><nl/>
+	<text> worden gebruikt, zoals leer, staal, titanium en brons.</text><nl/>
+	<text> Dit resulteert in veel mogelijke combinaties.</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0" g="0.7" b="1"/>
+	<text>Torso</text><text>                       </text>
+	<text>Helmen</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Leather Torso Armor" title="Leren Torso"/><text>                 </text>
+	<link ref="Leather Helm" title="Leren Helm"/><nl/>
+	<link ref="Aug Leather Torso Armor" title="Versterkt Leren Torso"/><text>       </text>
+	<link ref="Iron Helm" title="IJzeren Helm"/><nl/>
+	<link ref="Iron Chainmail Torso Armor" title="IJzeren Maliënkolder"/><text>        </text>
+	<link ref="Steel Helm" title="Stalen Helm"/><nl/>
+	<link ref="Steel Chainmail Torso Armor" title="Stalen Maliënkolder"/><text>         </text>
+	<link ref="Titanium Helm" title="Titanium Helm"/><nl/>
+	<link ref="Titanium Chainmail Torso Armor" title="Titanium Maliënkolder"/><text>       </text>
+	<link ref="Bronze Helm" title="Bronzen Helm"/><nl/>
+	<link ref="Iron Plate" title="IJzeren Plaat Torso"/><text>         </text>
+	<link ref="Red Dragon Helm" title="Rode Draak Helm"/><nl/>
+	<link ref="Steel Plate" title="Stalen Plaat Torso"/><text>          </text>
+	<link ref="Black Dragon Helm" title="Zwarte Draak Helm"/><nl/>
+	<link ref="Titanium Plate" title="Titanium Plaat Torso"/><text>        </text>
+	<link ref="Ice Dragon Helm" title="IJs Draak Helm"/><nl/>
+	<link ref="Bronze Plate" title="Bronzen Plaat Torso"/><nl/>
+	<link ref="Red Dragon Torso" title="Rode Draak Torso"/><text>            </text>
+	<color r="0" g="0.7" b="1"/><text>Schilden</text><color r="0.9" g="0.9" b="0.9"/><nl/>
+	<link ref="Black Dragon Torso" title="Zwarte Draak Torso"/><text>          </text>
+	<link ref="Wooden Shield" title="Houten Schild"/><nl/>
+	<link ref="Ice Dragon Torso" title="IJs Draak Torso"/><text>             </text>
+	<link ref="E Wooden Shield" title="Verbeterd Houten Schild"/><nl/>
+	<text>                            </text>
+	<link ref="Iron Shield" title="IJzeren Schild"/><nl/>
+	<color r="0" g="0.7" b="1"/><text>Benen</text>
+	<color r="0.9" g="0.9" b="0.9"/><text>                       </text>
+	<link ref="Steel Shield" title="Stalen Schild"/><nl/>
+	<link ref="Leather Pants" title="Leren Broek"/><text>                 </text>
+	<link ref="Titanium Shield" title="Titanium Schild"/><nl/>
+	<link ref="Aug Leather Pants" title="Versterkte Leren Broek"/><text>      </text>
+	<link ref="Bronze Shield" title="Bronzen Schild"/><nl/>
+	<link ref="Iron Cuisses" title="IJzeren Beenplaten"/><text>          </text>
+	<nl/>
+	<link ref="Steel Cuisses" title="Stalen Beenplaten"/><text>           </text>
+	<color r="0" g="0.7" b="1"/><text>Voeten</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Titanium Cuisses" title="Titanium Beenplaten"/><text>         </text>
+	<link ref="Leather Boots" title="Leren Schoenen"/><nl/>
+	<link ref="Bronze Cuisses" title="Bronzen Beenplaten"/><text>          </text>
+	<link ref="Iron Greaves" title="IJzeren Laarzen"/><nl/>
+	<link ref="Red Dragon Cuisses" title="Rode Draak Beenplaten"/><text>       </text>
+	<link ref="Steel Greaves" title="Stalen Laarzen"/><nl/>
+	<link ref="Black Dragon Cuisses" title="Zwarte Draak Beenplaten"/><text>     </text>
+	<link ref="Titanium Greaves" title="Titanium Laarzen"/><nl/>
+	<link ref="Ice Dragon Cuisses" title="IJs Draak Beenplaten"/><text>        </text>
+	<link ref="Bronze Greaves" title="Bronzen Laarzen"/><nl/>
+	<text>                            </text>
+	<link ref="Red Dragon Greaves" title="Rode Draak Laarzen"/><nl/>
+	<color r="0" g="0.7" b="1"/><text>Handen</text>
+	<color r="0.9" g="0.9" b="0.9"/><text>                      </text>
+	<link ref="Black Dragon Greaves" title="Zwarte Draak Laarzen"/><nl/>
+	<link ref="Leather Gloves" title="Leren Handschoenen"/><text>          </text>
+	<link ref="Ice Dragon Greaves" title="IJs Draak Laarzen"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Index" title="Terug Naar Index"/>
+</Page>
+<Page name="Attributes">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ATTRIBUTEN</text><nl/>
+	<size>Small</size>
+	<nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text>Basis Attributen               </text>
+	<text>Nexus</text><nl/>
+	<link ref="Physique" title="Fysiek"/><text>                         </text>
+	<link ref="Nx_Human" title="Mens"/><nl/>
+	<link ref="Coordination" title="Coordinatie"/><text>                    </text>
+	<link ref="Nx_Animal" title="Dier"/><nl/>
+	<link ref="Reasoning" title="Redeneren"/><text>                      </text>
+	<link ref="Nx_Vegetal" title="Vegetatie"/><nl/>
+	<link ref="Will" title="Wil"/><text>                            </text>
+	<link ref="Nx_Inorganic" title="Inorganisch"/><nl/>
+	<link ref="Instinct" title="Instinct"/><text>                       </text>
+	<link ref="Nx_Artificial" title="Kunstmatig"/><nl/>
+	<link ref="Vitality" title="Vitaliteit"/><text>                     </text>
+	<link ref="Nx_Magic" title="Magie"/><nl/>
+	<text>                               </text>
+	<text> </text><nl/>
+	<color>yellow</color>
+	<text>Kruis Attributen               </text>
+	<color r="1" g="0.5" b="0.2"/>
+	<text>Vaardigheden</text><nl/>
+	<color>yellow</color>
+	<link ref="Might" title="Macht"/><text>                          </text>
+	<color r="1" g="0.5" b="0.2"/>
+	<link ref="Sk_Attack" title="Aanvallen"/><nl/>
+	<color>yellow</color>
+	<link ref="Matter" title="Materie"/><text>                        </text>
+	<color r="1" g="0.5" b="0.2"/>
+	<link ref="Sk_Defense" title="Verdedigen"/><nl/>
+	<color>yellow</color>
+	<link ref="Toughness" title="Hardheid"/><text>                       </text>
+	<color r="1" g="0.5" b="0.2"/>
+	<link ref="Sk_Harvesting" title="Oogsten"/><nl/>
+	<color>yellow</color>
+	<link ref="Charm" title="Charme"/><text>                         </text>
+	<color r="1" g="0.5" b="0.2"/>
+	<link ref="Sk_Alchemy" title="Alchemie"/><nl/>
+	<color>yellow</color>
+	<link ref="Reaction" title="Reactie"/><text>                        </text>
+	<color r="1" g="0.5" b="0.2"/>
+	<link ref="Sk_Magic" title="Magie"/><nl/>
+	<color>yellow</color>
+	<link ref="Perception" title="Perceptie"/><text>                      </text>
+	<color r="1" g="0.5" b="0.2"/>
+	<link ref="Sk_Potion" title="Brouwen"/><nl/>
+	<color>yellow</color>
+	<link ref="Rationality" title="Rationaliteit"/><text>                  </text>
+	<color r="1" g="0.5" b="0.2"/>
+	<link ref="Sk_Summoning" title="Oproepen"/><nl/>
+	<color>yellow</color>
+	<link ref="Dexterity" title="Handigheid"/><text>                     </text>
+	<color r="1" g="0.5" b="0.2"/>
+	<link ref="Sk_Manufacture" title="Produceren"/><nl/>
+	<color>yellow</color>
+	<link ref="Ethereality" title="Etherealiteit"/><text>                  </text>
+	<color r="1" g="0.5" b="0.2"/>
+	<link ref="Sk_Crafting" title="Bewerken"/><nl/>
+	<text>                               </text>
+	<link ref="Sk_Engineering" title="Engineering"/><nl/>
+	<text>                               </text>
+	<link ref="Sk_Tailoring" title="Kleermaken"/><nl/>
+	<text>                               </text>
+	<link ref="Sk_Ranging" title="Boogschieten"/><nl/>
+	<text>                               </text>
+	<link ref="Sk_Overall" title="Algemeen"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Index" title="Terug Naar Index"/>
+</Page>
+<Page name="Books">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                    BOEKEN</text><nl/><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Om verder te komen in het spel zul je veel boeken moeten</text><nl/>
+	<text> lezen. Hier vind je een lijst van alle boekverkopers en</text><nl/>
+	<text> de boeken die ze verkopen.</text><nl/>
+	<nl/>
+
+	<color r="0" g="0.7" b="1"/>
+	<text>Frukas (Grahm's Village, White Stone):</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Books_BI" title="Biologie"/><nl/>
+	<link ref="Books_AL" title="Alchemie"/><nl/>
+	<link ref="Books_PO" title="Brouwen"/><nl/>
+	<link ref="Books_FO" title="Shapeshifting voedsel"/><nl/>
+	<nl/>
+
+	<color r="0" g="0.7" b="1"/>
+	<text>Brogan (Portland, nabij Kamara Desert)</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Books_CM" title="Kristal Mijnen"/><nl/>
+	<link ref="Books_CP" title="Kristal Verwerken"/><nl/>
+	<link ref="Books_TM" title="Gereedschappen Maken"/><nl/>
+	<link ref="Books_EI" title="Verbeterde Items"/><nl/>
+	<nl/>
+
+	<color r="0" g="0.7" b="1"/>
+	<text>Ardur (Zuid-West Naralik)</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Books_MM" title="Metaal Mijnen"/><nl/>
+	<link ref="Books_MS" title="Metaal Smelten"/><nl/>
+	<link ref="Books_MD" title="Metaal Vormen"/><nl/>
+	<link ref="Books_MO" title="Overig"/><nl/>
+	<nl/>
+
+	<color r="0" g="0.7" b="1"/>
+	<text>Dan (Markt in White Stone City)</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Books_WC" title="Wapen Constructie"/><nl/>
+	<link ref="Books_AC" title="Harnas Constructie"/><nl/>
+	<nl/>
+
+	<color r="0" g="0.7" b="1"/>
+	<text>Itilli (Registratie Kamer in Magie School)</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Books_JE" title="Juwelen Inbedden"/><nl/>
+	<link ref="Books_MB" title="Medaillon Maken"/><nl/>
+	<link ref="Books_RB" title="Ring Maken"/><nl/>
+	<link ref="Books_CB" title="Kroon Maken"/><nl/>
+	<link ref="Books_JO" title="Overig"/><nl/>
+	<nl/>
+
+	<color r="0" g="0.7" b="1"/>
+	<text>Nahark (Ywarstav, Grubani Peninsula)</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Books_FT" title="Vechten"/><nl/>
+	<link ref="Books_SM" title="Oproepen"/><nl/>
+	<link ref="Books_SS" title="Oproepen Stenen"/><nl/>
+	<link ref="Books_SH" title="Shapeshifting"/><nl/>
+	<nl/>
+
+	<color r="0" g="0.7" b="1"/>
+	<text>Cantemir (Zirak City)</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Books_AWC" title="Geavanceerde Wapens Constructie"/><nl/>
+	<link ref="Books_AAC" title="Geavanceerde Harnassen Constructie"/><nl/>
+	<nl/>
+
+	<color r="0" g="0.7" b="1"/>
+	<text>Grigore Ureche (Emerald Valley Trade Route)</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Books_RBC2" title="Irilion Ring Maken"/><nl/>
+	<link ref="Books_TAI" title="Kleermaken"/><nl/>
+	<nl/>
+
+	<color r="0" g="0.7" b="1"/>
+	<text>Neculce (North Redmoon)</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Books_EN" title="Engineering"/><nl/>
+	<link ref="Books_ASTRO" title="Astrologie"/><nl/>
+	<link ref="Books_ARROWS" title="Boogschieten"/><nl/>
+	<nl/>
+
+	<color r="0" g="0.7" b="1"/>
+	<text>Expila (White Stone City Bibliotheek)</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Books_EXP" title="Ervaring Boeken"/><nl/>
+	<nl/>
+
+	<color r="0" g="0.7" b="1"/>
+	<text>Alleen Monster Buit (NPCs verkopen deze boeken niet)</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Books_MSW" title="Magische Zwaarden"/><nl/>
+	<link ref="Books_AP" title="Geavanceerde Dranken"/><nl/>
+	<nl/>
+
+	<color r="0" g="0.7" b="1"/>
+	<text>Eerdere vereisten</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Books_PRE" title="Eerdere vereisten tabel"/><nl/>
+	<nl/>
+
+	<nl/><nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Index" title="Terug Naar Index"/>
+</Page>
+<Page name="Clothes">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KLEDING</text><nl/>
+	<size>Small</size><nl/>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Kleding kan je beschermen tegen kou of hitte, of je er</text><nl/>
+	<text> goed uit laten zien! Sommige kledingstukken zijn magisch,</text><nl/>
+	<text> zoals de meeste mantels. Bekijk ook de pagina's over</text><nl/>
+	<text> </text><link ref="Armors" title="Harnassen"/><text> en </text>
+	<link ref="Weapons" title="Wapens"/>
+	<text> voor meer info over draagbare items.</text><nl/>
+	<nl/>
+	<color r="0" g="0.7" b="1"/>
+	<text>Kleding                        Magische Mantels</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Fur_Gloves" title="Bont Handschoenen"/><text>              </text>
+	<link ref="Cloak_PS" title="Energie Besparing Mantel"/><nl/>
+	<link ref="Fox_Scarf" title="Vos Sjaal"/><text>                      </text>
+	<link ref="Cloak_EX" title="Opgraver Mantel"/><nl/>
+	<link ref="Hat_Fur" title="Bont Hoed"/><text>                      </text>
+	<link ref="Cloak_CJ" title="Oproeper Mantel"/><nl/>
+	<link ref="Cloak_Fur" title="Bont Mantel"/><text>                    </text>
+	<link ref="Cloak_FR" title="Snel Herstel Mantel"/><nl/>
+	<link ref="Hat_Skunk" title="Stinkdier Hoed"/><text>                 </text>
+	<link ref="Cloak_MM" title="Monster Magnetisme Mantel"/><nl/>
+	<link ref="Hat_Racoon" title="Wasbeer Hoed"/><text>                   </text>
+	<link ref="Cloak_BP" title="Lichaam Doorboren Mantel"/><nl/>
+	<link ref="Fur_Boots" title="Bont Schoenen"/><text>                  </text>
+	<link ref="Cloak_MI" title="Reflectie Mantel"/><nl/>
+	<link ref="Fur_Pants" title="Bont Broek"/><text>                     </text>
+	<link ref="Cloak_NMT" title="Geen Tranen Meer Mantel"/><nl/>
+	<link ref="Fur_Torso" title="Bont Torso"/><text>                     </text>
+	<link ref="Cloak_UB" title="Onbreekbaar Mantel"/><nl/>
+	<link ref="Bandana" title="Bandana's"/><text>                      </text>
+	<link ref="Cloak_WA" title="Magiër Mantel"/><nl/>
+	<link ref="Adv_Cap" title="Avonturiers Petten"/><text>             </text>
+	<link ref="Cloak_CAM" title="Passieve Camouflage Mantel"/><nl/>
+	<link ref="Tiaras" title="Tiara's"/><text>                        </text>
+	<link ref="Cloak_ART" title="Artificer Mantel"/><nl/>
+	<link ref="Crowns" title="Kronen"/><text>                         </text>
+	<text> </text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Index" title="Terug Naar Index"/>
+</Page>
+<Page name="Creatures">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                BEESTEN</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> In Eternal Lands kun je veel beesten tegenkomen.</text><nl/>
+	<text> Sommigen zijn vreedzaam tenzij je ze aanvalt, anderen zijn</text><nl/>
+	<text> monsters die iedereen aanvallen die ze zien, pas dus op</text><nl/>
+	<text> tijdens het verkennen.</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0" g="0.7" b="1"/>
+	<text>Niet-Aggressief                Aggressief</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Rabbits" title="Konijnen"/><text>                       </text>
+	<link ref="Goblin" title="Goblin"/><nl/>
+	<link ref="Rat" title="Rat"/><text>                            </text>
+	<link ref="Skeleton" title="Skelet"/><nl/>
+	<link ref="Beaver" title="Bever"/><text>                          </text>
+	<link ref="Gargoyle" title="Kleine Gargoyle"/><nl/>
+	<link ref="Brownie" title="Brownie"/><text>                        </text>
+	<link ref="Gargoyle" title="Lange Gargoyle"/><nl/>
+	<link ref="Deer" title="Hert"/><text>                           </text>
+	<link ref="Gargoyle" title="Grote Gargoyle"/><nl/>
+	<link ref="Wood_Sprite" title="Wood Sprite"/><text>                    </text>
+	<link ref="Goblin" title="Vrouwelijke Goblin"/><nl/>
+	<link ref="Skunk" title="Stinkdier"/><text>                      </text>
+	<link ref="Skeleton" title="Gewapend Skelet"/><nl/>
+	<link ref="Racoon" title="Wasbeer"/><text>                        </text>
+	<link ref="Orc" title="Vrouwelijke Orc"/><nl/>
+	<link ref="Fox" title="Vos"/><text>                            </text>
+	<link ref="Goblin" title="Gewapende M. Goblin"/><nl/>
+	<link ref="Leprechaun" title="Leprechaun"/><text>                     </text>
+	<link ref="Hobgob" title="Hobgoblin"/><nl/>
+	<link ref="Spiders" title="Kleine Spin"/><text>                    </text>
+	<link ref="Orc" title="Mannelijke Orc"/><nl/>
+	<link ref="Snakes" title="Slangen"/><text>                        </text>
+	<link ref="Troll" title="Trol"/><nl/>
+	<link ref="Boar" title="Zwijn"/><text>                          </text>
+	<link ref="Ogre" title="Mannelijke Ogre"/><nl/>
+	<link ref="Imp" title="Imp"/><text>                            </text>
+	<link ref="Orc" title="Gewapende V. Orc"/><nl/>
+	<link ref="Wolf" title="Wolf"/><text>                           </text>
+	<link ref="Orc" title="Gewapende M. Orc"/><nl/>
+	<link ref="Penguins" title="Pinguins"/><text>                       </text>
+	<link ref="Phantom_Warrior" title="Geest Krijger"/><nl/>
+	<link ref="Spiders" title="Grote Spin"/><text>                     </text>
+	<link ref="Cyclops" title="Cycloop"/><nl/>
+	<link ref="Puma" title="Poema"/><text>                          </text>
+	<link ref="Fluffy" title="Pluizig Konijn"/><nl/>
+	<link ref="Leopard" title="Luipaard"/><text>                       </text>
+	<link ref="Feros" title="Feros"/><nl/>
+	<link ref="Snow_Leopard" title="Sneeuw Luipaard"/><text>                </text>
+	<link ref="Chimera" title="Woestijn Chimeran"/><nl/>
+	<link ref="Feran" title="Feran"/><text>                          </text>
+	<link ref="Chimera" title="Bos Chimeran"/><nl/>
+	<link ref="Panther" title="Zwarte Panter"/><text>                  </text>
+	<link ref="Chimera" title="Berg Chimeran"/><nl/>
+	<link ref="Falcon" title="Valk"/><text>                           </text>
+	<link ref="Chimera" title="Arctische Chimeran"/><nl/>
+	<link ref="Hawk" title="Havik"/><text>                          </text>
+	<link ref="Yeti" title="Yeti"/><nl/>
+	<link ref="BearB" title="Zwarte Beer"/><text>                    </text>
+	<link ref="Cockatrice" title="Cockatrice"/><nl/>
+	<link ref="BearP" title="IJsbeer"/><text>                        </text>
+	<link ref="Giant" title="Reus"/><nl/>
+	<link ref="BearG" title="Grizzly Beer"/><text>                   </text>
+	<link ref="DragonR" title="Rode Draak"/><nl/>
+	<link ref="Panda" title="Panda Beer"/><text>                     </text>
+	<link ref="DragonB" title="Zwarte Draak"/><nl/>
+	<link ref="Lion" title="Leeuw"/><text>                          </text>
+	<link ref="DragonW" title="IJs Draak"/><nl/>
+	<link ref="Tiger" title="Tijger"/><nl/>
+	<link ref="White_Tiger" title="Witte Tijger"/><nl/>
+	<link ref="Unicorn" title="Eenhoorn"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Index" title="Terug Naar Index"/>
+</Page>
+<Page name="Engineering">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 ENGINEERING</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> De Engineering vaardigheid laat je verscheidene</text><nl/>
+	<text> gevaarlijke stoffen maken zoals buskruit of items</text><nl/>
+	<text> als landmijnen en kraaienpoten.</text><nl/>
+	<text> Het stelt je ook in staat om apparaten als nacht-</text><nl/>
+	<text> vizieren of astrologie stenen te maken.</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.1" g="0.5" b="1"/><text>Engineering                 </text>
+	<text>Stenen</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Ashes" title="As"/><text>                          </text>
+	<link ref="Ind_AD" title="Aanvallen/Verdedigen Indicator"/><nl/>
+	<link ref="Ropes" title="Touw"/><text>                        </text>
+	<link ref="Ind_Crit" title="Kritieken Indicator"/><nl/>
+	<link ref="Nails" title="Spijkers"/><text>                    </text>
+	<link ref="Ind_AccMag" title="Nauwkeurigheid/Magie Indicator"/><nl/>
+	<link ref="Saltpetre" title="Salpeter"/><text>                    </text>
+	<link ref="Ind_HarvDegr" title="Oogsten/Verval Indicator"/><nl/>
+	<link ref="Blackpowder" title="Buskruit"/><text>                    </text>
+	<link ref="Ind_RareFail" title="Maak Zeldzaam/Falen Indicator"/><nl/>
+	<link ref="Snare" title="Strik"/><text>                       </text>
+	<link ref="Predictor" title="Voorspel Stenen"/><nl/>
+	<link ref="Caltrops" title="Kraaienpoot"/><text>                 </text>
+	<link ref="Lightmeter" title="Lichtmeter"/><nl/>
+	<link ref="P_Caltrops" title="Vergiftigde Kraaienpoot"/><text>     </text>
+	<link ref="Invasionmeter" title="Invasiemeter"/><nl/>
+	<link ref="S_Landmine" title="Kleine Landmijn"/><nl/>
+	<link ref="M_Landmine" title="Medium Landmijn"/><nl/>
+	<link ref="L_Landmine" title="Grote Landmijn"/><nl/>
+	<link ref="RC_Landmine" title="Afstand Bedienbare Landmijn"/><nl/>
+	<link ref="RC_Detonator" title="Landmijn Ontsteker"/><nl/>
+	<link ref="Mana_Drain_Ward" title="Verminder Mana Ward"/><nl/>
+	<link ref="Mana_Burn_Ward" title="Mana Verbranden Ward"/><nl/>
+	<link ref="Inv_Remove_Ward" title="Onzichtbaarheid Verwijderen Ward"/><nl/>
+	<link ref="MI_Remove_Ward" title="Magie Immuniteit Verwijderen Ward"/><nl/>
+	<link ref="ArrowBolt_Head" title="Pijlpunt"/><nl/>
+	<link ref="Night_Visor" title="Nacht Vizier"/><nl/>
+	<link ref="Point_Defense" title="Pijlen Verdediging"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Index" title="Terug Naar Index"/>
+</Page>
+<Page name="Gods">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                    GODEN</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> De tempels van de Goden van EL staan verspreid over</text><nl/>
+	<text> Seridia. Door het dienen van een God en het volbrengen</text><nl/>
+	<text> van de taken die de priesters je opgeven krijg je</text><nl/>
+	<text> meer ervaring in de gerelateerde Vaardigheid, en kun</text><nl/>
+	<text> je zegeningen krijgen. Je kunt maximaal 3 Goden</text><nl/>
+	<text> dienen, zolang ze geen vijanden zijn.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="MORTOS" title="Mortos"/><text>    - Aanvallen God</text><nl/>
+	<link ref="ALUWEN" title="Aluwen"/><text>    - Verdedigen Godin</text><nl/>
+	<link ref="LUCAA" title="Lucaa"/><text>*    - Oogsten Godin</text><nl/>
+	<link ref="ELANDRIA" title="Elandria"/><text>  - Alchemie Godin</text><nl/>
+	<link ref="UNOLAS" title="Unolas"/><text>    - Magie God</text><nl/>
+	<link ref="JAYDEN" title="Jayden"/><text>    - Brouwen Godin</text><nl/>
+	<link ref="GLILIN" title="Glilin"/><text>    - Produceren God</text><nl/>
+	<link ref="SELAIN" title="Selain"/><text>    - Oproepen God</text><nl/>
+	<link ref="ZARIN" title="Zarin"/><text>     - Bewerken Godin</text><nl/>
+	<link ref="LAFORGE" title="LaForge"/><text>   - Engineering God</text><nl/>
+	<link ref="GALIENNE" title="Galienne"/><text>* - Kleermaken Godin</text><nl/>
+	<link ref="XIAO" title="Xiao"/><text>*     - Boogschieten God</text><nl/>
+	<nl/>
+	<text> * Betekent dat de priester van de god er nog niet is.</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Index" title="Terug Naar Index"/>
+</Page>
+<Page name="Harvesting">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OOGSTEN</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> Het oogsten van items kan gevaarlijk zijn: bovengronds</text><nl/>
+	<text> bijensteken, ondergronds muren van grotten die op je</text><nl/>
+	<text> vallen. Er kunnen veel oogst-ongelukken gebeuren, maar</text><nl/>
+	<text> ook veel goede dingen.</text><nl/>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Plants" title="Planten"/><nl/>
+	<nl/>
+	<link ref="Minerals" title="Mineralen en Kristallen"/><nl/>
+	<nl/>
+	<link ref="Ores" title="Metaal Erts"/><nl/>
+	<nl/>
+	<link ref="Harv_Other" title="Andere oogstbare items"/><nl/>
+	<nl/>
+	<link ref="Stones" title="Stenen"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Index" title="Terug Naar Index"/>
+</Page>
+<Page name="Jewelry">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  JUWELEN</text><nl/>
+	<size>Small</size><nl/>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Bewerken is de vaardigheid van het maken van juwelen:</text><nl/>
+	<text> gepolijste edelstenen, ringen en medaillons. Met deze</text><nl/>
+	<text> elementen kunnen veel magische items gemaakt worden,</text><nl/>
+	<text> zoals ringen om mee te teleporteren of om te helpen</text><nl/>
+	<text> bij het vechten.</text><nl/>
+	<nl/>
+	<color r="0" g="0.7" b="1"/>
+	<text>Gewone juwelen</text><text>               </text>
+	<text>Seridia Ringen</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Ring_Silver" title="Zilveren Ring"/><text>                </text>
+	<link ref="Ring_Isla" title="Ring van Isla Prima"/><nl/>
+	<link ref="Ring_Gold" title="Gouden Ring"/><text>                  </text>
+	<link ref="Ring_Votd" title="Ring van VotD"/><nl/>
+	<link ref="Med_Silver" title="Zilveren Medaillon"/><text>           </text>
+	<link ref="Ring_Naralik" title="Ring van Naralik"/><nl/>
+	<link ref="Med_Gold" title="Gouden Medaillon"/><text>             </text>
+	<link ref="Ring_WSC" title="Ring van White Stone"/><nl/>
+	<link ref="P_Ruby" title="Gepolijste Robijn"/><text>            </text>
+	<link ref="Ring_Port" title="Ring van Portland"/><nl/>
+	<link ref="P_Emer" title="Gepolijste Smaragd"/><text>           </text>
+	<link ref="Ring_Dp" title="Ring van Desert Pines"/><nl/>
+	<link ref="P_Saph" title="Gepolijste Saffier"/><nl/>
+	<link ref="P_Diam" title="Gepolijste Diamant"/><text>           </text>
+	<color r="0" g="0.7" b="1"/>
+	<text>Irilion Ringen</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text>                             </text>
+	<link ref="Ring_Anitora" title="Ring van Anitora"/><nl/>
+	<color r="0" g="0.7" b="1"/>
+	<text>Medaillons</text><text>                   </text>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Ring_Idaloran" title="Ring van Idaloran"/><nl/>
+	<link ref="Med_Unicorn" title="Eenhoorn Medaillon"/><text>           </text>
+	<link ref="Ring_Bethel" title="Ring van Bethel"/><nl/>
+	<link ref="Med_Sun" title="Zon Medaillon"/><text>                </text>
+	<link ref="Ring_Sedicolis" title="Ring van Sedicolis"/><nl/>
+	<link ref="Med_Moon" title="Maan Medaillon"/><text>               </text>
+	<link ref="Ring_Palon_Vertas" title="Ring van Palon Vertas"/><nl/>
+	<link ref="Med_Stars" title="Ster Medaillon"/><text>               </text>
+	<link ref="Ring_Kusamura" title="Ring van Kusamura"/><nl/>
+	<link ref="Med_Harv" title="Oogst Medaillon"/><text>              </text>
+	<link ref="Ring_Egratia" title="Ring van Egratia"/><nl/>
+	<link ref="Med_Heaven" title="Hemel Medaillon"/><text>              </text>
+	<link ref="Ring_Iscalrith" title="Ring van Iscalrith"/><nl/>
+	<link ref="Med_Life" title="Medaillon van Leven"/><text>          </text>
+	<link ref="Ring_Irinveron" title="Ring van Irinveron"/><nl/>
+	<link ref="Med_Mana" title="Medaillon van Mana"/><text>           </text>
+	<link ref="Ring_Hulda" title="Ring van Hulda"/><nl/>
+	<link ref="Med_Gather" title="Verzamelaar Medaillon"/><text>        </text>
+	<link ref="Ring_Trassian" title="Ring van Trassian"/><nl/>
+	<text>                             </text>
+	<link ref="Ring_Isle_Forgotten" title="Ring van IotF"/><nl/>
+	<color r="0" g="0.7" b="1"/>
+	<text>Kronen</text><text>                       </text>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Ring_Imbroglio_Islands" title="Ring van Imbroglio Islands"/><nl/>
+	<link ref="Crown_Mana" title="Kroon van Mana"/><text>               </text>
+	<link ref="Ring_Hurquin" title="Ring van Hurquin"/><nl/>
+	<link ref="Crown_Life" title="Kroon van Leven"/><text>              </text>
+	<link ref="Ring_Glacmor" title="Ring van Glacmor"/><nl/>
+	<text>                             </text>
+	<link ref="Ring_Emerald_Valley" title="Ring van Emerald Valley"/><nl/>
+	<color r="0" g="0.7" b="1"/>
+	<text>Gevecht Ringen</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Ring_Damage" title="Ring van Schade"/><text>              </text>
+	<color r="0" g="0.7" b="1"/>
+	<text>Magische Stenen</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Ring_Disengagement" title="Ring van Losbreken"/><text>           </text>
+	<link ref="Saving_Stone" title="Bewaar Steen"/><nl/>
+	<link ref="Ring_Power" title="Ring van Kracht"/><text>              </text>
+	<nl/>
+	<link ref="Ring_MDestr" title="Ring van Mana Vernietiging"/><text>   </text>
+	<color r="0" g="0.7" b="1"/>
+	<text>Verbeterde Harnassen</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Ring_MMDestr" title="Ring van Grote Mana Vern."/><text>    </text>
+	<link ref="En_Iron_Greaves" title="Verbeterde IJzeren Laarzen"/><nl/>
+	<text>                             </text>
+	<link ref="En_Iron_Cuisses" title="Verbeterde IJzeren Beenplaten"/><nl/>
+	<text>                             </text>
+	<link ref="En_Iron_Plate" title="Verbeterde IJzeren Plaat Torso"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Index" title="Terug Naar Index"/>
+</Page>
+<Page name="Magic">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   MAGIE</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> Dit gedeelte beschrijft het uitspreken van Spreuken.</text><nl/>
+	<text> Spreuken hebben verschillende sigils nodig om uit te</text><nl/>
+	<text> spreken, en gebruiken essenties. Sigils kunnen gekocht</text><nl/>
+	<text> worden in de Magie Winkels in White Stone, en kosten</text><nl/>
+	<text> 400 of 700 munten, afhankelijk van de sigil.</text><nl/>
+	<text> Sigils blijven oneindig bestaan, en kunnen niet</text><nl/>
+	<text> gebroken, verloren of vernietigd worden.</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.1" g="0.5" b="1"/>
+	<text>Spreuken</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Heal"                title="Genezen"/><text>                  </text>
+	<link ref="Heal_Sum"            title="Genees Opgeroepene"/><nl/>
+	<link ref="R_Heal"              title="Genezen op Afstand"/><text>       </text>
+	<link ref="Smite_Sum"           title="Neerslaan Opgeroepene"/><nl/>
+	<link ref="M_Prot"              title="Magie Bescherming"/><text>        </text>
+	<link ref="Heat_Shield"         title="Hitte Schild"/><nl/>
+	<link ref="Shield"              title="Schild"/><text>                   </text>
+	<link ref="Cold_Shield"         title="Koude Schild"/><nl/>
+	<link ref="Poison"              title="Vergiftigen"/><text>              </text>
+	<link ref="Radiation_Shield"    title="Straling Schild"/><nl/>
+	<link ref="Tp_to_range"         title="Teleporteer naar Bereik"/><text>  </text>
+	<link ref="Drain_Mana"          title="Verminder Mana"/><nl/>
+	<link ref="Harm"                title="Verwonden"/><text>                </text>
+	<link ref="True_Sight"          title="Waar Zicht"/><nl/>
+	<link ref="Restoration"         title="Herstellen"/><text>               </text>
+	<link ref="Invisibility"        title="Onzichtbaarheid"/><nl/>
+	<link ref="Bones_to_gold"       title="Botten Naar Goud"/><text>         </text>
+	<link ref="Itc_Tp_to_Port_Room" title="Intercont. Telep. n. Portaal Kamer"/><nl/>
+	<link ref="Tp_to_Port_Room"     title="Telep. n. Portaal Kamer"/><nl/>
+	<link ref="Life_drain"          title="Verminder Leven"/><nl/>
+	<link ref="Magic_Immun"         title="Magie Immuniteit"/><nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Index" title="Terug Naar Index"/>
+</Page>
+<Page name="Maps">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<link x="450" y="18" ref="Maps_C2" title=">>>"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> Info over de Kaarten. Klik op een naam voor meer info.</text><nl/>
+	<text> MC betekent Multi Combat (meerdere gevechten tegelijk).</text><nl/>
+	<text> PK betekent Player Killing (gevechten met andere spelers).</text><nl/>
+	<nl/>
+	<size>Big</size><color r="1" g="1" b="1"/>
+	<text>            Kaarten van Seridia</text><nl/><nl/>
+	<size>Small</size>
+	<color r="0" g="0.7" b="1"/>
+	<text>Naam (Afkorting)                Voorraad   MC     PK</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Maps_IP" title="Isla Prima"/><text> (IP)                 </text>
+	<text>    -      -      -</text><nl/>
+	<link ref="Maps_WS" title="White Stone"/><text> (WS)                </text>
+	<text>    J      -      Arena</text><nl/>
+	<link ref="Maps_DP" title="Desert Pines"/><text> (DP)               </text>
+	<text>    J      -      Arena</text><nl/>
+	<link ref="Maps_VOTD" title="Valley of the Dwarves"/><text> (VOTD)    </text>
+	<text>    J      -      -</text><nl/>
+	<link ref="Maps_NC" title="Nordcarn"/><text> (NC)                   </text>
+	<text>    J      -      Arena</text><nl/>
+	<link ref="Maps_TG" title="Tarsengaard"/><text> (TG)                </text>
+	<text>    J      -      -</text><nl/>
+	<link ref="Maps_PL" title="Portland"/><text> (PL)                   </text>
+	<text>    J      J      -</text><nl/>
+	<link ref="Maps_MM" title="Morcraven Marsh"/><text> (MM)            </text>
+	<text>    J      J      -</text><nl/>
+	<link ref="Maps_NK" title="Naralik"/><text> (NK)                    </text>
+	<text>    -      J      -</text><nl/>
+	<link ref="Maps_GP" title="Grubani Peninsula"/><text> (GP)          </text>
+	<text>    -      J      -</text><nl/>
+	<link ref="Maps_SK" title="Southern Kilaran"/><text> (SKF)          </text>
+	<text>    -      J      -</text><nl/>
+	<color r="1" g="0.1" b="0.1"/>
+	<link ref="Maps_KF" title="Kilaran Field"/>
+	<color r="0.9" g="0.9" b="0.9"/><text> (KF)              </text>
+	<text>    -      J      J</text><nl/>
+	<color r="1" g="0.1" b="0.1"/>
+	<link ref="Maps_TD" title="Tahraji Desert"/>
+	<color r="0.9" g="0.9" b="0.9"/><text> (TD)             </text>
+	<text>    -      J      J</text><nl/>
+	<link ref="Maps_Tirnym" title="Ruins of Tirnym"/><text> (RoT)           </text>
+	<text>    -      J      -</text><nl/>
+	<nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text> </text><link ref="Index" title="Terug Naar Index"/>
+	<text>                       </text><link ref="Maps_C2" title="Irilion Kaarten >>>"/>
+</Page>
+<Page name="Maps_C2">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<link x="450" y="18" ref="Maps" title=">>>"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   KAARTEN</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> Info over de Kaarten. Klik op een naam voor meer info.</text><nl/>
+	<text> MC betekent Multi Combat (meerdere gevechten tegelijk).</text><nl/>
+	<text> PK betekent Player Killing (gevechten met andere spelers).</text><nl/>
+	<nl/>
+	<size>Big</size><color r="1" g="1" b="1"/>
+	<text>            Kaarten van Irilion</text><nl/><nl/>
+	<size>Small</size>
+	<color r="0" g="0.7" b="1"/>
+	<text>Naam (Afkorting)               Voorraad     MC     PK</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Maps2_PA" title="Port Anitora"/><text> (PA)               </text>
+	<text>   -        -      -</text><nl/>
+	<link ref="Maps2_Ida" title="Idaloran"/><text> (Ida)                  </text>
+	<text>   J        J      -</text><nl/>
+	<link ref="Maps2_IRS" title="Irsis"/><text>                           </text>
+	<text>   J        J      -</text><nl/>
+	<link ref="Maps2_PV" title="Palon Vertas"/><text> (PV)               </text>
+	<text>   J        -      -</text><nl/>
+	<link ref="Maps2_Sed" title="Sedicolis"/><text>                       </text>
+	<text>   -        J      -</text><nl/>
+	<link ref="Maps2_BE" title="Bethel"/><text>                          </text>
+	<text>   -        J      Grot</text><nl/>
+	<link ref="Maps2_EVTR" title="Emerald Valley Trade Route"/><text> (EVTR)</text>
+	<text>  J        -      -</text><nl/>
+	<link ref="Maps2_WF" title="Willowvine Forest"/><text>               </text>
+	<text>   J        J      -</text><nl/>
+	<link ref="Maps2_Kus" title="Kusamura Jungle"/><text>                 </text>
+	<text>   -        J      Arena</text><nl/>
+	<link ref="Maps2_ME" title="Melinis"/><text>                         </text>
+	<text>   -        J      Arena</text><nl/>
+	<color r="1" g="0.1" b="0.1"/><link ref="Maps2_The" title="Thelinor"/><color r="0.9" g="0.9" b="0.9"/><text>                        </text>
+	<text>   J        J      J</text><nl/>
+	<link ref="Maps2_Zir" title="Zirakinbar"/><text>                      </text>
+	<text>   -        -      Arena</text><nl/>
+	<link ref="Maps2_EP" title="Egratia Point"/><text> (EP)              </text>
+	<text>   -        J      Arena</text><nl/>
+	<link ref="Maps2_AA" title="Aeth Aelfan"/><text> (AA)                </text>
+	<text>   J        J      Noord</text><nl/>
+	<link ref="Maps2_AR" title="Arius"/><text>                           </text>
+	<text>   J        -      -</text><nl/>
+	<link ref="Maps2_HUR" title="Hurquin"/><text>                         </text>
+	<text>   -        J      -</text><nl/>
+	<link ref="Maps2_SRM" title="South Redmoon"/><text> (SRM)             </text>
+	<text>   J        J      -</text><nl/>
+	<link ref="Maps2_NRM" title="North Redmoon"/><text> (NRM)             </text>
+	<text>   -        J      -</text><nl/>
+	<link ref="Maps2_IR" title="Irinveron"/><text>                       </text>
+	<text>   J        J      Grot</text><nl/>
+	<link ref="Maps2_IS" title="Iscalrith"/><text>                       </text>
+	<text>   J        -      Arena</text><nl/>
+	<link ref="Maps2_TR" title="Trassian"/><text>                        </text>
+	<text>   -        J      Arenas</text><nl/>
+	<link ref="Maps2_GLA" title="Glacmor"/><text>                         </text>
+	<text>   J        -      -</text><nl/>
+	<color r="1" g="0.1" b="0.1"/><link ref="Maps2_HU" title="Hulda"/><color r="0.9" g="0.9" b="0.9"/><text>                           </text>
+	<text>   -        J      J</text><nl/>
+	<link ref="Maps2_IOTF" title="Isles of the Forgotten"/><text> (IotF)   </text>
+	<text>   -        -      -</text><nl/>
+	<color r="1" g="0.1" b="0.1"/><link ref="Maps2_II" title="Imbroglio Islands"/><color r="0.9" g="0.9" b="0.9"/><text> (II)          </text>
+	<text>   -        J      J</text><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text> </text><link ref="Index" title="Terug Naar Index"/>
+	<text>                       </text><link ref="Maps" title="Seridia Kaarten >>>"/>
+</Page>
+<Page name="Misc">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text>
+	<nl/>
+	<text>                 DIVERSEN</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> Een overzicht van de gereedschappen, voedsel, dranken</text><nl/>
+	<text> en andere items die je kunt vinden in EL.</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.1" g="0.5" b="1"/>
+	<text>Gereedschappen                   Diversen</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Needle" title="Naald"/><text>                            </text>
+	<link ref="Bones Powder" title="Bot Poeder"/><nl/>
+	<link ref="Hammer" title="Hamer"/><text>                            </text>
+	<link ref="Thread" title="Garen"/><nl/>
+	<link ref="Mortar_Pestle" title="Vijzel &amp; Stamper"/><text>                 </text>
+	<link ref="Leather" title="Leer"/><nl/>
+	<link ref="T_Pickaxe" title="Houweel"/><text>                          </text>
+	<link ref="Empty_Vial" title="Lege Fles"/><nl/>
+	<link ref="T_LGloves" title="Leren Handschoenen"/><text>               </text>
+	<link ref="Wood_Handle" title="Houten Handgreep"/><nl/>
+	<link ref="Hammer_Chisel" title="Edelsteen Hamer en Beitel"/><text>        </text>
+	<link ref="Sand_Paper" title="Edelsteen Schuurpapier"/><nl/>
+	<link ref="Ring_Mold" title="Ring Vorm"/><text>                        </text>
+	<link ref="Loom" title="Weefgetouw"/><nl/>
+	<link ref="Med_Mold" title="Medaillon Vorm"/><text>                   </text>
+	<link ref="Skull_Key" title="Schedel Sleutel"/><nl/>
+	<link ref="Bucket" title="Emmer"/><text>                            </text>
+	<link ref="Skeleton_Key" title="Skelet Sleutel"/><nl/>
+	<link ref="Scissors" title="Schaar"/><text>                           </text>
+	<link ref="Conglo" title="Materie Conglomeraat"/><nl/>
+	<link ref="Vial_Mold" title="Fles Vorm"/><text>                        </text>
+	<link ref="Mercury" title="Kwik"/><nl/>
+	<link ref="Alembic" title="Destillatiekolom"/><nl/>
+	<text>                                 </text>
+	<color r="0" g="0.7" b="1"/><text>Dranken</text><color r="0.9" g="0.9" b="0.9"/>
+	<nl/>
+	<color r="0" g="0.7" b="1"/><text>Voedsel</text><color r="0.9" g="0.9" b="0.9"/><text>                          </text>
+	<link ref="FD_Wine" title="Wijn"/><nl/>
+	<link ref="FD_Bread" title="Brood"/><text>                            </text>
+	<link ref="FD_Ale" title="Bier"/><nl/>
+	<link ref="FD_Vegetables" title="Groenten"/><text>                         </text>
+	<link ref="FD_Mead" title="Weide"/><nl/>
+	<link ref="FD_Fruit" title="Fruit"/><text>                            </text><nl/>
+	<link ref="FD_Cooked_Meat" title="Gebraden Vlees"/><text>                      </text>
+	<text> </text><nl/>
+	<nl/>
+	<nl/><nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Index" title="Terug Naar Index"/>
+</Page>
+<Page name="Perks">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                    PERKS</text><nl/>
+	<size>Small</size>
+	<color>red</color>
+	<nl/>
+	<text> Perks zijn permanent en blijven zelfs behouden als je</text><nl/>
+	<text> doodgaat. Denk daarom goed na voor je er een neemt.</text><nl/>
+	<nl/>
+	<color r="0" g="0.7" b="1"/>
+	<text>Positieve Perks:</text><text>                </text><text>Negatieve Perks:</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="P_PS" title="Energie Besparing"/><text>               </text>
+	<link ref="P_PH" title="Hongerig Naar Energie"/><nl/>
+	<link ref="P_FR" title="Snel Herstel"/><text>                    </text>
+	<link ref="P_ICD" title="Ik Kan Niet Dansen"/><nl/>
+	<link ref="P_SD" title="Zelfvernietiging"/><text>                </text>
+	<link ref="P_GB" title="Gelatine Botten"/><nl/>
+	<link ref="P_Ex" title="Opgraver"/><text>                        </text>
+	<link ref="P_G" title="Godloos"/><nl/>
+	<link ref="P_MM" title="Monster Magnetisme"/><text>              </text>
+	<link ref="P_A" title="Asociaal"/><nl/>
+	<link ref="P_Ev" title="Vergankelijkheid"/><text>                </text>
+	<link ref="P_H" title="Hellspawn"/><nl/>
+	<link ref="P_CG" title="Voorzichtig Persoon"/><text>             </text>
+	<link ref="P_ScD" title="Scotty Is Gestorven"/><nl/>
+	<link ref="P_NMT" title="Geen Tranen Meer"/><text>                </text>
+	<link ref="P_HoS" title="Oogster Van Verdriet"/><nl/>
+	<link ref="P_BP" title="Lichaam Doorboren"/><text>               </text>
+	<link ref="P_Sk" title="Skepticus"/><nl/>
+	<link ref="P_FM" title="Dodelijke Man"/><nl/>
+	<link ref="P_CO" title="Oproeper"/><nl/>
+	<link ref="P_IGD" title="Ik Gloei In Het Donker"/><nl/>
+	<link ref="P_TNF" title="Er Is Geen Vork"/><nl/>
+	<link ref="P_MS" title="Reflectie Huid"/><nl/>
+	<link ref="P_IEDP" title="Ik Eet Dode Mensen"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Index" title="Terug Naar Index"/>
+</Page>
+<Page name="Potions">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   BROUWEN</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> Er groeien veel bloemen en planten in EL, en er zijn</text><nl/>
+	<text> veel mineralen in de mijnen. Met de vaardigheid Brouwen</text><nl/>
+	<text> worden al deze grondstoffen veranderd in dranken die je</text><nl/>
+	<text> attributen tijdelijk verhogen, of je mana of gezondheid</text><nl/>
+	<text> herstellen.</text><nl/>
+	<nl/>
+	<color r="0.1" g="0.5" b="1"/><text>Dranken</text>
+	<nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="P_Mana" title="Drank van Mana"/><text>             </text>
+	<link ref="P_Antidote" title="Tegengif"/><nl/>
+	<link ref="P_Healing" title="Drank van Kleine Genezing"/><text>  </text>
+	<link ref="P_TS" title="Drank van Waar Zicht"/><nl/>
+	<link ref="P_Reasoning" title="Drank van Redeneren"/><text>        </text>
+	<link ref="P_Invis" title="Drank van Onzichtbaarheid"/><nl/>
+	<link ref="P_Physique" title="Drank van Fysiek"/><text>           </text>
+	<link ref="P_Accuracy" title="Drank van Nauwkeurigheid"/><nl/>
+	<link ref="P_Defense" title="Drank van Verdedigen"/><text>       </text>
+	<link ref="P_Evasion" title="Drank van Ontwijken"/><nl/>
+	<link ref="P_Coordination" title="Drank van Coordinatie"/><text>      </text>
+	<link ref="P_Alchemy" title="Drank van Alchemie"/><nl/>
+	<link ref="P_Wildness" title="Drank van Wildheid"/><text>         </text>
+	<link ref="P_Potion" title="Drank van Brouwen"/><nl/>
+	<link ref="P_Will" title="Drank van Wil"/><text>              </text>
+	<link ref="P_Eng" title="Drank van Engineering"/><nl/>
+	<link ref="P_Vitality" title="Drank van Vitaliteit"/><text>       </text>
+	<link ref="P_Heat" title="Drank van Hitte Bescherming"/><nl/>
+	<link ref="P_Attack" title="Drank van Aanvallen"/><text>        </text>
+	<link ref="P_Cold" title="Drank van Kou Bescherming"/><nl/>
+	<link ref="P_Spirit Restoration" title="Drank van Geestherstel"/><text>     </text>
+	<link ref="P_Rad" title="Drank van Straling Bescherming"/><nl/>
+	<link ref="P_Feasting" title="Drank van Feasting"/><text>         </text>
+	<link ref="P_Extra_Mana" title="Drank van Extra Mana"/><nl/>
+	<link ref="P_Body Restoration" title="Drank van Lichaamsherstel"/><text>  </text>
+	<link ref="P_Extra_Life" title="Drank van Grote Genezing"/><nl/>
+	<link ref="P_Harvesting" title="Drank van Oogsten"/><text>          </text>
+	<link ref="P_Speed" title="Drank van Snelheid Hax"/><nl/>
+	<link ref="P_Manufacturing" title="Drank van Produceren"/><text>       </text>
+	<link ref="P_Attack_Reduction" title="Drank van Aanval Vermindering"/><nl/>
+	<link ref="P_Summoning" title="Drank van Oproepen"/><text>         </text>
+	<link ref="P_Defense_Reduction" title="Drank van Verdediging Vermind."/><nl/>
+	<link ref="P_Craft" title="Drank van Bewerken"/><text>         </text>
+	<link ref="C_Food" title="Beest Voedsel"/><nl/>
+	<link ref="P_Magic" title="Drank van Magie"/><text>            </text>
+	<link ref="P_Archery_AP" title="Drank van Boogschieten HD"/><nl/>
+	<nl/>
+	<color r="0.1" g="0.5" b="1"/><text>Extracten en Mengsels</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Extract_YWT" title="Duizendblad - Absintalsem - Tulp Extract"/><nl/>
+	<link ref="Extract_NMD" title="Nachtschade - Koningskaars - Paardebloem Extract"/><nl/>
+	<link ref="Extract_PHP" title="Gifsumak - Bilzekruid - Papaver Extract"/><nl/>
+	<link ref="Extract_RBR" title="Aalbes - Bosbes - Wijnruit Extract"/><nl/>
+	<link ref="Extract_WOT" title="Witte Cantharel - Ogre Teen - Boom Paddestoel Extract"/><nl/>
+	<link ref="Extract_WVM" title="Tarwe - Valeriaan - Bijvoet Extract"/><nl/>
+	<link ref="Extract_WDF" title="Tarwe - Narcis - Feran Hoorn Extract"/><nl/>
+	<link ref="Mixture_VEG" title="Geraffineerd Vegetatie Mengsel"/><nl/>
+	<link ref="Mixture_POW" title="Mengsel van Kracht"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Index" title="Terug Naar Index"/>
+</Page>
+<Page name="Summoning">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                  OPROEPEN</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> Met Oproepen kun je beesten tot leven wekken met behulp van</text><nl/>
+	<text> een aantal ingredienten. Deze beesten zullen je volgen en</text><nl/>
+	<text> elk beest of monster aanvallen die ze zien. Ze vallen ook</text><nl/>
+	<text> andere spelers aan in PK kaarten.</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.1" g="0.5" b="1"/>
+	<text>Beesten</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="S_Rabbit" title="Konijn"/><text>                       </text>
+	<link ref="S_SnakeB" title="Bruine Slang"/><nl/>
+	<link ref="S_Rat" title="Rat"/><text>                          </text>
+	<link ref="S_Fox" title="Vos"/><nl/>
+	<link ref="S_Beaver" title="Bever"/><text>                        </text>
+	<link ref="S_Boar" title="Zwijn"/><nl/>
+	<link ref="S_Deer" title="Hert"/><text>                         </text>
+	<link ref="S_Wolf" title="Wolf"/><nl/>
+	<link ref="S_Skunk" title="Stinkdier"/><text>                    </text>
+	<link ref="S_Puma" title="Poema"/><nl/>
+	<link ref="S_Racoon" title="Wasbeer"/><text>                      </text>
+	<link ref="S_BearP" title="IJsbeer"/><nl/>
+	<link ref="S_SnakeG" title="Groene Slang"/><text>                 </text>
+	<link ref="S_BearB" title="Zwarte Beer"/><nl/>
+	<link ref="S_SnakeR" title="Rode Slang"/><text>                    </text><nl/>
+	<link ref="S_Falcon" title="Valk"/><nl/>
+	<link ref="S_Hawk" title="Havik"/><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.1" g="0.5" b="1"/>
+	<text>Monsters</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="S_Skeleton" title="Skelet"/><text>                       </text>
+	<link ref="S_OrcM" title="Mannelijke Orc"/><nl/>
+	<link ref="S_GargoyleS" title="Kleine Gargoyle"/><text>              </text>
+	<link ref="S_OrcAF" title="Gewapende Vrouwelijke Orc"/><nl/>
+	<link ref="S_GargoyleM" title="Grote Gargoyle"/><text>               </text>
+	<link ref="S_OrcAM" title="Gewapende Mannelijke Orc"/><nl/>
+	<link ref="S_GargoyleT" title="Lange Gargoyle"/><text>               </text>
+	<link ref="S_Cyclops" title="Cycloop"/><nl/>
+	<link ref="S_RabbitF" title="Pluizig Konijn"/><text>               </text>
+	<link ref="S_Yeti" title="Yeti"/><nl/>
+	<link ref="S_ChimeranM" title="Berg Chimeran"/><text>                </text>
+	<link ref="S_ChimeranA" title="Arctische Chimeran"/><nl/>
+	<link ref="S_GoblinF" title="Vrouwelijke Goblin"/><text>           </text>
+	<link ref="S_Giant" title="Reus"/><nl/>
+	<link ref="S_GoblinAM" title="Gewapende Goblin"/><text>             </text>
+	<link ref="S_Phantom" title="Geest Krijger"/><nl/>
+	<link ref="S_SkeletonA" title="Gewapend Skelet"/><text>              </text>
+	<link ref="S_Sslessar" title="Sslessar"/><nl/>
+	<link ref="S_OrcF" title="Vrouwelijke Orc"/><text>                    </text><nl/>
+	<link ref="S_DragonR" title="Rode Draak"/><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0.1" g="0.5" b="1"/>
+	<text>Stenen</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="ST_Bear" title="Beer"/><text>                         </text>
+	<link ref="ST_RabbitF" title="Pluizig Konijn"/><nl/>
+	<link ref="ST_OrcAM" title="Gewapende Mannelijke Orc"/><text>     </text>
+	<link ref="ST_Sslessar" title="SSlessar"/><nl/>
+	<link ref="ST_Spider" title="Reuze Spin"/><text>                   </text>
+	<link ref="ST_Yeti" title="Yeti"/><nl/>
+	<link ref="ST_TigerW" title="Witte Tijger"/><text>                 </text>
+	<link ref="ST_ChimeranA" title="Arctische Chimeran"/><nl/>
+	<link ref="ST_Phantom" title="Geest Krijger"/><text>                </text>
+	<link ref="ST_Giant" title="Reus"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                        </text><link ref="Index" title="Terug Naar Index"/>
+</Page>
+<Page name="Tailoring">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                 KLEERMAKEN</text><nl/>
+	<nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<text> Met kleermaken kunnen prachtige en elegante kledingstukken</text><nl/>
+	<text> gemaakt worden. Je begint met textiel weven en kleuren.</text><nl/>
+	<text> Later maak je een variëteit aan items zoals tunieken en</text><nl/>
+	<text> fraaie hoeden, in verschillende kleuren zodat spelers</text><nl/>
+	<text> de kleding aan hun stemming kunnen aanpassen.</text><nl/>
+	<nl/>
+	<color r="0" g="0.7" b="1"/>
+	<text>Stof en Kleurstof             Tunieken</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="White Fabric" title="Wit Textiel"/><text>                   </text>
+	<link ref="Tunic_Brown" title="Bruin Tuniek"/><nl/>
+	<link ref="Red Dye" title="Rode Kleurstof"/><text>                </text>
+	<link ref="Tunic_Purple" title="Paars Tuniek"/><nl/>
+	<link ref="Orange Dye" title="Oranje Kleurstof"/><text>              </text>
+	<link ref="Tunic_Green" title="Groen Tuniek"/><nl/>
+	<link ref="Yellow Dye" title="Gele Kleurstof"/><text>                </text>
+	<link ref="Tunic_Black" title="Zwart Tuniek"/><nl/>
+	<link ref="Green Dye" title="Groene Kleurstof"/><text>              </text>
+	<link ref="Tunic_Red" title="Rood Tuniek"/><nl/>
+	<link ref="Blue Dye" title="Blauwe Kleurstof"/><text>              </text>
+	<link ref="Tunic_Blue" title="Blauw Tuniek"/><nl/>
+	<link ref="Purple Dye" title="Paarse Kleurstof"/><text>              </text>
+	<link ref="Tunic_White" title="Wit Tuniek"/><nl/>
+	<link ref="Black Dye" title="Zwarte Kleurstof"/><text>                </text>
+	<text> </text><nl/>
+	<link ref="Red Fabric" title="Rood Textiel"/><text>                  </text>
+	<color r="0" g="0.7" b="1"/><text>Tuniek/Shirt Combos</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Orange Fabric" title="Oranje Textiel"/><text>                </text>
+	<link ref="TunicShirt_RedWhite" title="Rood/Wit Tuniek en Shirt"/><nl/>
+	<link ref="Yellow Fabric" title="Geel Textiel"/><text>                  </text>
+	<link ref="TunicShirt_BlueWhite" title="Blauw/Wit Tuniek en Shirt"/><nl/>
+	<link ref="Green Fabric" title="Groen Textiel"/><text>                 </text>
+	<link ref="TunicShirt_BrownWhite" title="Bruin/Wit Tuniek en Shirt"/><nl/>
+	<link ref="Blue Fabric" title="Blauw Textiel"/><text>                 </text>
+	<link ref="TunicShirt_BlackGreen" title="Zwart/Groen Tuniek en Shirt"/><nl/>
+	<link ref="Black Fabric" title="Zwart Textiel"/><text>                 </text>
+	<link ref="TunicShirt_BlackPurple" title="Zwart/Paars Tuniek en Shirt"/><nl/>
+	<link ref="Purple Fabric" title="Paars Textiel"/><text>                 </text>
+	<link ref="TunicShirt_BlackRed" title="Zwart/Rood Tuniek en Shirt"/><nl/>
+	<link ref="Gray Fabric" title="Grijs Textiel"/><text>                 </text>
+	<link ref="TunicShirt_BlackGray" title="Zwart/Grijs Tuniek en Shirt"/><nl/>
+	<link ref="Brown Fabric" title="Bruin Textiel"/><text>                 </text>
+	<link ref="TunicShirt_BlackWhite" title="Zwart/Wit Tuniek en Shirt"/><nl/>
+	<text>                              </text>
+	<link ref="TunicShirt_BrownBlue" title="Bruin/Blauw Tuniek en Shirt"/><nl/>
+	<color r="0" g="0.7" b="1"/><text>Hoofddoeken                         </text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Scarf_Black" title="Zwarte Hoofddoek"/><text>              </text>
+	<color r="0" g="0.7" b="1"/><text>Gewaden</text><color r="0.9" g="0.9" b="0.9"/><nl/>
+	<link ref="Scarf_Red"   title="Rode Hoofddoek"/><text>                </text>
+	<link ref="Robe_Purple" title="Paars Gewaad"/><nl/>
+	<link ref="Scarf_Skull" title="Piraten Hoofddoek"/><text>             </text>
+	<link ref="RobeSkirt_Purple" title="Paars Gewaad Shirt"/><nl/>
+	<text>                              </text>
+	<link ref="Robe_Green" title="Groen Gewaad"/><nl/>
+	<color r="0" g="0.7" b="1"/><text>Hoeden                        </text>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="RobeSkirt_Green" title="Groen Gewaad Shirt"/><nl/>
+	<link ref="Tricorn_Black" title="Zwarte Driepunt Hoed"/><text>          </text>
+	<link ref="Robe_LightBlue" title="Lichtblauw Gewaad"/><nl/>
+	<link ref="Tricorn_Brown" title="Bruine Driepunt Hoed"/><text>          </text>
+	<link ref="RobeSkirt_LightBlue" title="Lichtblauw Gewaad Shirt"/><nl/>
+	<link ref="Tricorn_Blue" title="Blauwe Driepunt Hoed"/><text>          </text>
+	<link ref="Robe_White" title="Wit Gewaad"/><nl/>
+	<link ref="Buccaneer_Brown" title="Bruine Boekaniers Hoed"/><text>        </text>
+	<link ref="RobeSkirt_White" title="Wit Gewaad Shirt"/><nl/>
+	<link ref="Buccaneer_Black" title="Zwarte Boekaniers Hoed"/><text>        </text>
+	<link ref="Robe_Blue" title="Blauw Gewaad"/><nl/>
+	<link ref="Cavalier_BlackP" title="Zwarte Cavalier Peacock Hoed"/><text>  </text>
+	<link ref="RobeSkirt_Blue" title="Blauw Gewaad Shirt"/><nl/>
+	<link ref="Cavalier_GreenP" title="Groene Cavalier Peacock Hoed"/><text>  </text>
+	<link ref="Robe_Black" title="Zwart Gewaad"/><nl/>
+	<link ref="Cavalier_Blue" title="Blauwe Cavalier Hoed"/><text>          </text>
+	<link ref="RobeSkirt_Black" title="Zwart Gewaad Shirt"/><nl/>
+	<link ref="Cavalier_Black" title="Zwarte Cavalier Hoed"/><text>          </text>
+	<link ref="Robe_Gray" title="Grijs Gewaad"/><nl/>
+	<text>                              </text>
+	<link ref="RobeSkirt_Gray" title="Grijs Gewaad Shirt"/><nl/>
+	<color r="0" g="0.7" b="1"/><text>Speciale Hoeden               </text>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Robe_Brown" title="Bruin Gewaad"/><nl/>
+	<link ref="Santa_Hat" title="Kerstmuts"/><text>                     </text>
+	<link ref="RobeSkirt_Brown" title="Bruin Gewaad Shirt"/><nl/>
+	<link ref="Hood" title="Universele Kap"/><text>                </text>
+	<link ref="Robe_Red" title="Rood Gewaad"/><nl/>
+	<text>                              </text>
+	<link ref="RobeSkirt_Red" title="Rood Gewaad Shirt"/><nl/>
+	<color r="0" g="0.7" b="1"/><text>Broeken                       </text>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Robe_Yellow" title="Geel Gewaad"/><nl/>
+	<link ref="Pants_RedBlack" title="Zwart/Rood Gestreepte Broek"/><text>   </text>
+	<link ref="RobeSkirt_Yellow" title="Geel Gewaad Shirt"/><nl/>
+	<link ref="Pants_RedWhite" title="Wit/Rood Gestreepte Broek"/><nl/>
+	<link ref="Pants_PurpleBlack" title="Zwart/Paars Gestreepte Broek"/><text>  </text>
+	<color r="0" g="0.7" b="1"/>
+	<text>Mantels</text><color r="0.9" g="0.9" b="0.9"/><nl/>
+	<link ref="Pants_BlueBlack" title="Zwart/Blauw Gestreepte Broek"/><text>  </text>
+	<link ref="NMW_Cape" title="Geen Magiër Meer Mantel"/><nl/>
+	<link ref="Pants_Black" title="Zwarte Pofbroek"/><nl/>
+	<link ref="Pants_Brown" title="Bruine Pofbroek"/><nl/>
+	<nl/>
+	<nl/>
+	<color>yellow</color>
+	<text>                             </text><link ref="Index" title="Terug naar Index"/>
+</Page>
+<Page name="Weapons">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<link x="450" y="18" ref="Ench_Weapons" title=">>>"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>                   WAPENS</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> Er is een groot aantal wapens om uit te kiezen voor de</text><nl/>
+	<text> vechters: zwaarden, bijlen, staven en meer.</text><nl/>
+	<text> Elk wapen heeft zijn eigen karakteristieken welke bij</text><nl/>
+	<text> de vechtstijl van de speler kunnen passen.</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0" g="0.7" b="1"/>
+	<text>Zwaarden</text><text>                     </text>
+	<text>Eenvoudige Wapens</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Iron Sword" title="IJzeren Zwaard"/><text>               </text>
+	<link ref="Bone" title="Bot"/><nl/>
+	<link ref="Iron Broad Sword" title="IJzeren Breed Zwaard"/><text>         </text>
+	<link ref="Branch" title="Tak"/><nl/>
+	<link ref="Steel Long Sword" title="Stalen Lang Zwaard"/><text>           </text>
+	<link ref="W_LGloves" title="Leren Handschoenen"/><nl/>
+	<link ref="2e Steel Sword" title="Tweezijdig Stalen Zwaard"/><text>     </text>
+	<link ref="W_Pickaxe" title="Houweel"/><nl/>
+	<link ref="Tit Steel Short Sword" title="Titanium Kort Zwaard"/><text>          </text>
+	<text> </text><nl/>
+	<link ref="Tit Steel Long Sword" title="Titanium Lang Zwaard"/><text>         </text>
+	<color r="0" g="0.7" b="1"/>
+	<text>Bijlen, Hamers en Maces</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="Tit Steel Serpent Sword" title="Titanium Serpent Zwaard"/><text>      </text>
+	<link ref="Iron Axe" title="IJzeren Bijl"/><nl/>
+	<text>                             </text>
+	<link ref="Steel Axe" title="Stalen Bijl"/><nl/>
+	<color r="0" g="0.7" b="1"/>
+	<text>Grote Zwaarden</text>
+	<color r="0.9" g="0.9" b="0.9"/><text>               </text>
+	<link ref="Titanium Axe" title="Titanium Bijl"/><nl/>
+	<link ref="Emerald Claymore" title="Emerald Claymore"/><text>             </text>
+	<link ref="W Battle Hammer" title="Houten Strijd Hamer"/><nl/>
+	<link ref="Cutlass" title="Cutlass"/><text>                      </text>
+	<link ref="I War Hammer" title="IJzeren Strijd Hamer"/><nl/>
+	<link ref="Sunbreaker" title="Sunbreaker"/><text>                   </text>
+	<link ref="Frying Pan" title="Braadpan"/><nl/>
+	<link ref="Orc Slayer" title="Orc Slayer"/><text>                   </text>
+	<link ref="Golden Star Mace" title="Golden Star Mace"/><nl/>
+	<link ref="Eagle Wing" title="Eagle Wing"/><text>                   </text>
+	<text> </text><nl/>
+	<link ref="Rapier" title="Rapier"/><text>                       </text>
+	<color r="0" g="0.7" b="1"/>
+	<text>Tweehandige Wapens</text>
+	<color r="0.9" g="0.9" b="0.9"/><nl/>
+	<link ref="Jagged Saber" title="Jagged Saber"/><text>                 </text>
+	<link ref="W Staff" title="Houten Staf"/><nl/>
+	<link ref="Bronze Sword" title="Bronzen Zwaard"/><text>               </text>
+	<link ref="Q Staff" title="Kwart Staf"/><nl/>
+	<text>                             </text>
+	<link ref="Spear" title="Speer"/><nl/>
+	<text>                             </text>
+	<link ref="Halberd" title="Halberd"/><nl/>
+	<text>                             </text>
+	<link ref="Dragon Blade" title="Draken Zwaard"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text> </text><link ref="Index" title="Terug Naar Index"/>
+	<text>                     </text><link ref="Ench_Weapons" title="Betoverde Wapens >>>"/>
+</Page>
+<Page name="Ench_Weapons">
+	<size>Small</size><color>yellow</color>
+	<link x="2" y="2" ref="Index" title="Terug"/>
+	<link x="437" y="2" ref="Index" title="Index"/>
+	<link x="450" y="18" ref="Weapons" title=">>>"/>
+	<size>Big</size><color r="1" g="0.6" b="0"/>
+	<text x="74" y="2">De Eternal Lands Encyclopedie</text><nl/>
+	<text>             BETOVERDE WAPENS</text><nl/>
+	<size>Small</size>
+	<color r="0.5" g="0.9" b="1"/>
+	<nl/>
+	<text> Er is een groot aantal wapens om uit te kiezen voor de</text><nl/>
+	<text> vechters: zwaarden, bijlen, staven en meer.</text><nl/>
+	<text> Elk wapen heeft zijn eigen karakteristieken welke bij</text><nl/>
+	<text> de vechtstijl van de speler kunnen passen.</text><nl/>
+	<nl/>
+	<size>Medium</size>
+	<color r="0" g="0.7" b="1"/>
+	<text>Vuur Zwaarden</text><text>                </text>
+	<text>Magische Zwaarden</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="ISOF" title="IJzeren Zwaard"/><text>               </text>
+	<link ref="SLSOM" title="Stalen Lang Zwaard"/><nl/>
+	<link ref="IBSOF" title="IJzeren Breed Zwaard"/><text>         </text>
+	<link ref="STESOM" title="Tweezijdig Stalen Zwaard"/><nl/>
+	<link ref="SLSOF" title="Stalen Lang Zwaard"/><text>           </text>
+	<link ref="TSSOM" title="Titanium Kort Zwaard"/><nl/>
+	<link ref="STESOF" title="Tweezijdig Stalen Zwaard"/><text>     </text>
+	<link ref="TLSOM" title="Titanium Lang Zwaard"/><nl/>
+	<link ref="TSSOF" title="Titanium Kort Zwaard"/><text>         </text>
+	<link ref="SerpOM" title="Titanium Serpent Zwaard"/><nl/>
+	<link ref="TLSOF" title="Titanium Lang Zwaard"/><text>          </text>
+	<text> </text><nl/>
+	<link ref="SerpOF" title="Titanium Serpent Zwaard"/><text>      </text>
+	<color r="0" g="0.7" b="1"/><text>Thermische Zwaarden</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<text>                             </text>
+	<link ref="STESOT" title="Tweezijdig Stalen Zwaard"/><nl/>
+	<color r="0" g="0.7" b="1"/><text>IJs Zwaarden</text><text>                 </text><color r="0.9" g="0.9" b="0.9"/>
+	<link ref="TSSOT" title="Titanium Kort Zwaard"/><nl/>
+	<link ref="IBSOI" title="IJzeren Breed Zwaard"/><text>         </text>
+	<link ref="TLSOT" title="Titanium Lang Zwaard"/><nl/>
+	<link ref="SLSOI" title="Stalen Lang Zwaard"/><text>           </text>
+	<link ref="SerpOT" title="Titanium Serpent Zwaard"/><nl/>
+	<link ref="STESOI" title="Tweezijdig Stalen Zwaard"/><text>        </text>
+	<text> </text><nl/>
+	<link ref="TSSOI" title="Titanium Kort Zwaard"/><text>         </text>
+	<color r="0" g="0.7" b="1"/>
+	<text>Speciale Wapens</text><nl/>
+	<color r="0.9" g="0.9" b="0.9"/>
+	<link ref="TLSOI" title="Titanium Lang Zwaard"/><text>         </text>
+	<link ref="Ice_Axe" title="Bijl van Bevriezing"/><nl/>
+	<link ref="SerpOI" title="Titanium Serpent Zwaard"/><text>      </text>
+	<link ref="BOD" title="Bot van de Dood"/><nl/>
+	<text>                             </text>
+	<link ref="BROD" title="Tak van Vernietiging"/><nl/>
+	<text>                             </text>
+	<link ref="Staff_Mage" title="Magiër Staf"/><nl/>
+	<text>                             </text>
+	<link ref="Staff_Protection" title="Staf van Bescherming"/><nl/>
+	<nl/>
+	<color>yellow</color>
+	<text> </text><link ref="Index" title="Terug Naar Index"/>
+	<text>                                </text><link ref="Weapons" title="Wapens >>>"/>
+</Page>
+</General>
