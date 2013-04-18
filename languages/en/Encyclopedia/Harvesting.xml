@@ -201,7 +201,7 @@
    <nl/>
    <link ref="Wood_Logs" title="Logs"/>
    <nl/>
-   <link ref="Beehive" title="Beehive"/>
+   <link ref="Honey_Comb" title="Honey Comb"/>
    <nl/>
    <link ref="Fruit" title="Fruit"/>
    <nl/>
@@ -1670,7 +1670,7 @@
    <color>yellow</color>
    <text>                   </text><link ref="Plants" title="Back To Plants Index"/>
 </Page>
-<Page name="Beehive">
+<Page name="Honey_Comb">
    <size>Small</size><color>yellow</color>
    <link x="2" y="2" ref="Harv_Other" title="Back"/>
    <link x="437" y="2" ref="Index" title="Index"/>
@@ -1679,7 +1679,7 @@
    <nl/>
    <text>                 HARVESTING</text><nl/>
    <color r="1" g="1" b="1"/>
-   <text>                  Beehive</text><nl/><nl/>
+   <text>                 Honey Comb</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="22" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
    <text> Used for: </text><text>Nothing at this time.</text>
