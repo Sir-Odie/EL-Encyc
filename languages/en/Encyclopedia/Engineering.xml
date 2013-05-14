@@ -216,7 +216,7 @@
    <nl/>
    <text> Stackable: Yes</text>
    <nl/>
-   <text> Weight: 10 EMU</text>
+   <text> Weight: 7 EMU</text>
    <nl/><nl/>
    <color>yellow</color>
    <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
@@ -255,7 +255,7 @@
    <nl/>
    <text> Stackable: Yes</text>
    <nl/>
-   <text> Weight: 10 EMU</text>
+   <text> Weight: 3 EMU</text>
    <nl/><nl/>
    <text> Note: this item can be stored only in the Hazardous Items</text><nl/>
    <text> storage.</text>
@@ -299,7 +299,7 @@
    <nl/>
    <text> Stackable: Yes</text>
    <nl/>
-   <text> Weight: 10 EMU</text>
+   <text> Weight: 3 EMU</text>
    <nl/><nl/>
    <text> Note: this item can be stored only in the Hazardous Items</text><nl/>
    <text> storage.</text>
@@ -656,7 +656,7 @@
    <nl/>
    <text> 2 Binding Stones.</text>
    <nl/>
-   <text> Tools required to have: UNKNOWN</text>
+   <text> Tools required to have: none</text>
    <nl/>
    <text> Knowledge needed: Night Visor Building</text>
    <nl/>
@@ -671,220 +671,6 @@
    <text> Stackable: No</text>
    <nl/>
    <text> Weight: 1 EMU</text>
-   <nl/><nl/>
-   <color>yellow</color>
-   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
-</Page>
-<Page name="Ind_AD">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="Engineering" title="Back"/>
-   <link x="437" y="2" ref="Index" title="Index"/>
-   <size>Big</size>
-   <color r="1" g="0.6" b="0"/>
-   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
-   <nl/>
-   <text>                 ENGINEERING</text><nl/>
-   <color r="1" g="1" b="1"/>
-   <text>          Attack/Defense Indicator</text><nl/><nl/>
-   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
-   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Shows the effect of astrology on Attack/Defense.</text><nl/>
-   <nl/><nl/><nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> Required materials:</text>
-   <nl/>
-   <text> 1 Rope, 4 Turquoises, 3 Bones.</text>
-   <nl/>
-   <text> Knowledge needed: Attack/Defense Indicator Building</text>
-   <nl/>
-   <text> Required Nexuses: Artificial 2</text>
-   <nl/>
-   <text> Recommended Engineering Level: 22</text>
-   <nl/>
-   <text> Engineering Experience Given: 90</text>
-   <nl/>
-   <text> Food subtracted: 20</text>
-   <nl/>
-   <text> Stackable: Yes</text>
-   <nl/>
-   <text> Weight: 2 EMU</text>
-   <nl/><nl/>
-   <color>yellow</color>
-   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
-</Page>
-<Page name="Ind_Crit">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="Engineering" title="Back"/>
-   <link x="437" y="2" ref="Index" title="Index"/>
-   <size>Big</size>
-   <color r="1" g="0.6" b="0"/>
-   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
-   <nl/>
-   <text>                 ENGINEERING</text><nl/>
-   <color r="1" g="1" b="1"/>
-   <text>             Criticals Indicator</text><nl/><nl/>
-   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
-   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Shows the effect of astrology on Criticals.</text><nl/>
-   <nl/><nl/><nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> Required materials:</text>
-   <nl/>
-   <text> 1 Rope, 3 Turquoises, 1 Polished Ruby, 3 Bones.</text>
-   <nl/>
-   <text> Knowledge needed: Criticals Indicator Building</text>
-   <nl/>
-   <text> Required Nexuses: Artificial 2</text>
-   <nl/>
-   <text> Recommended Engineering Level: 24</text>
-   <nl/>
-   <text> Engineering Experience Given: 100</text>
-   <nl/>
-   <text> Food subtracted: 20</text>
-   <nl/>
-   <text> Stackable: Yes</text>
-   <nl/>
-   <text> Weight: 2 EMU</text>
-   <nl/><nl/>
-   <color>yellow</color>
-   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
-</Page>
-<Page name="Ind_AccMag">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="Engineering" title="Back"/>
-   <link x="437" y="2" ref="Index" title="Index"/>
-   <size>Big</size>
-   <color r="1" g="0.6" b="0"/>
-   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
-   <nl/>
-   <text>                 ENGINEERING</text><nl/>
-   <color r="1" g="1" b="1"/>
-   <text>          Accuracy/Magic Indicator</text><nl/><nl/>
-   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
-   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Shows the effect of astrology on Accuracy/Magic.</text><nl/>
-   <nl/><nl/><nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> Required materials:</text>
-   <nl/>
-   <text> 1 Rope, 3 Turquoises, 1 Polished Emerald, 4 Bones.</text>
-   <nl/>
-   <text> Knowledge needed: Accuracy/Magic Indicator Building</text>
-   <nl/>
-   <text> Required Nexuses: Artificial 2</text>
-   <nl/>
-   <text> Recommended Engineering Level: 26</text>
-   <nl/>
-   <text> Engineering Experience Given: 115</text>
-   <nl/>
-   <text> Food subtracted: 20</text>
-   <nl/>
-   <text> Stackable: Yes</text>
-   <nl/>
-   <text> Weight: 2 EMU</text>
-   <nl/><nl/>
-   <color>yellow</color>
-   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
-</Page>
-<Page name="Ind_HarvDegr">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="Engineering" title="Back"/>
-   <link x="437" y="2" ref="Index" title="Index"/>
-   <size>Big</size>
-   <color r="1" g="0.6" b="0"/>
-   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
-   <nl/>
-   <text>                 ENGINEERING</text><nl/>
-   <color r="1" g="1" b="1"/>
-   <text>          Harvest/Degrade Indicator</text><nl/><nl/>
-   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
-   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Shows the effect of astrology on Harvest/Degrade.</text><nl/>
-   <nl/><nl/><nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> Required materials:</text>
-   <nl/>
-   <text> 1 Rope, 5 Turquoises, 4 Bones.</text>
-   <nl/>
-   <text> Knowledge needed: Harvest/Degrade Indicator Building</text>
-   <nl/>
-   <text> Required Nexuses: Artificial 2</text>
-   <nl/>
-   <text> Recommended Engineering Level: 28</text>
-   <nl/>
-   <text> Engineering Experience Given: 130</text>
-   <nl/>
-   <text> Food subtracted: 20</text>
-   <nl/>
-   <text> Stackable: Yes</text>
-   <nl/>
-   <text> Weight: 2 EMU</text>
-   <nl/><nl/>
-   <color>yellow</color>
-   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
-</Page>
-<Page name="Ind_RareFail">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="Engineering" title="Back"/>
-   <link x="437" y="2" ref="Index" title="Index"/>
-   <size>Big</size>
-   <color r="1" g="0.6" b="0"/>
-   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
-   <nl/>
-   <text>                 ENGINEERING</text><nl/>
-   <color r="1" g="1" b="1"/>
-   <text>          Make Rare/Fail Indicator</text><nl/><nl/>
-   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
-   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Shows the effect of astrology on Make Rare/Fail.</text><nl/>
-   <nl/><nl/><nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> Required materials:</text>
-   <nl/>
-   <text> 1 Rope, 4 Turquoises, 2 Polished Sapphires, 3 Bones.</text>
-   <nl/>
-   <text> Knowledge needed: Make Rare/Fail Indicator Building</text>
-   <nl/>
-   <text> Required Nexuses: Artificial 2</text>
-   <nl/>
-   <text> Recommended Engineering Level: 30</text>
-   <nl/>
-   <text> Engineering Experience Given: 150</text>
-   <nl/>
-   <text> Food subtracted: 25</text>
-   <nl/>
-   <text> Stackable: Yes</text>
-   <nl/>
-   <text> Weight: 2 EMU</text>
-   <nl/><nl/>
-   <color>yellow</color>
-   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
-</Page>
-<Page name="Predictor">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="Engineering" title="Back"/>
-   <link x="437" y="2" ref="Index" title="Index"/>
-   <size>Big</size>
-   <color r="1" g="0.6" b="0"/>
-   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
-   <nl/>
-   <text>                 ENGINEERING</text><nl/>
-   <color r="1" g="1" b="1"/>
-   <text>              Predictor Stones</text><nl/><nl/>
-   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
-   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Predict the astrology modifiers.</text><nl/>
-   <nl/><nl/><nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> When used, they predict the astrology modifier that</text><nl/>
-   <text> you'll have in 20, 40 and 60 minutes. There are 10 of</text><nl/>
-   <text> these stones, one for each kind of modifier.</text>
-   <nl/><nl/>
-   <text> These items cannnot be manufactured.</text>
-   <nl/><nl/>
-   <text> Stackable: Yes</text>
-   <nl/>
-   <text> Weight: 2 EMU</text>
    <nl/><nl/>
    <color>yellow</color>
    <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
@@ -1169,6 +955,657 @@
    <text> Stackable: Yes</text>
    <nl/>
    <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Ind_AD">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          Attack/Defense Indicator</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Attack/Defense.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Rope, 4 Turquoises, 3 Bones.</text>
+   <nl/>
+   <text> Knowledge needed: Attack/Defense Indicator Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 22</text>
+   <nl/>
+   <text> Engineering Experience Given: 90</text>
+   <nl/>
+   <text> Food subtracted: 20</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Ind_Crit">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Criticals Indicator</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Criticals.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Rope, 3 Turquoises, 1 Polished Ruby, 3 Bones.</text>
+   <nl/>
+   <text> Knowledge needed: Criticals Indicator Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 24</text>
+   <nl/>
+   <text> Engineering Experience Given: 100</text>
+   <nl/>
+   <text> Food subtracted: 20</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Ind_AccMag">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          Accuracy/Magic Indicator</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Accuracy/Magic.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Rope, 3 Turquoises, 1 Polished Emerald, 4 Bones.</text>
+   <nl/>
+   <text> Knowledge needed: Accuracy/Magic Indicator Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 26</text>
+   <nl/>
+   <text> Engineering Experience Given: 115</text>
+   <nl/>
+   <text> Food subtracted: 20</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Ind_HarvDegr">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          Harvest/Degrade Indicator</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Harvest/Degrade.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Rope, 5 Turquoises, 4 Bones.</text>
+   <nl/>
+   <text> Knowledge needed: Harvest/Degrade Indicator Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 28</text>
+   <nl/>
+   <text> Engineering Experience Given: 130</text>
+   <nl/>
+   <text> Food subtracted: 20</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Ind_RareFail">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          Make Rare/Fail Indicator</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="18" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Make Rare/Fail.</text><nl/>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Rope, 4 Turquoises, 2 Polished Sapphires, 3 Bones.</text>
+   <nl/>
+   <text> Knowledge needed: Make Rare/Fail Indicator Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 30</text>
+   <nl/>
+   <text> Engineering Experience Given: 150</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Treasure_Finder">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Treasure Finder</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Helps finding treasures that are placed at random</text>
+   <nlkx/>
+   <text> times by developers.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Amber, 10 Earth Essences, 10 Honey Comb, 10 Yew</text>
+   <nl/>
+   <text> Note: The recipe produces 10 Treasure Finders.</text>
+   <nl/>
+   <text> Tools required to have: none</text>
+   <nl/>
+   <text> Knowledge needed: Treasure Finder</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 3</text>
+   <nl/>
+   <text> Recommended Engineering Level: 80</text>
+   <nl/>
+   <text> Engineering Experience Given: 1000</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Pear_Finder">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Pear Finder</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Helps finding pears.</text>
+   <nl/><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Black Dragon Scale, 1 Ice Dragon Scale,</text>
+   <nl/>
+   <text> 1 Red Dragon Scale, 100 Vegetables</text>
+   <nl/>
+   <text> Note: The recipe produces 60 Pear Finders.</text>
+   <nl/>
+   <text> Tools required to have: none</text>
+   <nl/>
+   <text> Knowledge needed: Pear Finder</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 3</text>
+   <nl/>
+   <text> Recommended Engineering Level: 82</text>
+   <nl/>
+   <text> Engineering Experience Given: 5000</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Pred_Att">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Attack Predictor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Attack in</text><nlkx/>
+   <text> 20, 40, and 60 minutes.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Bone Powder, 2 Falcon Feather, 2 Gypsum, 3 Turquoises.</text>
+   <nl/>
+   <text> Knowledge needed: A/D Indicator</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 60</text>
+   <nl/>
+   <text> Engineering Experience Given: 190</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Pred_Def">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Defense Predictor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Attack in</text><nlkx/>
+   <text> 20, 40, and 60 minutes.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Bone Powder, 2 Hawk Feather, 2 Gypsum, 3 Turquoises.</text>
+   <nl/>
+   <text> Knowledge needed: A/D Indicator</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 62</text>
+   <nl/>
+   <text> Engineering Experience Given: 200</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Pred_Hit">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              To Hit Predictor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Critical</text><nlkx/>
+   <text> to Hit in 20, 40, and 60 minutes.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Black Panther Fur, 2 Gypsum, 1 Nail, 2 Turquoises.</text>
+   <nl/>
+   <text> Knowledge needed: Criticals Indicator</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 64</text>
+   <nl/>
+   <text> Engineering Experience Given: 210</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Pred_Dmg">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             To Damage Predictor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Critical</text><nlkx/>
+   <text> to Damage in 20, 40, and 60 minutes.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Ashes, 3 Gypsum, 1 Tiger Fur, 2 Turquoises.</text>
+   <nl/>
+   <text> Knowledge needed: Criticals Indicator</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 66</text>
+   <nl/>
+   <text> Engineering Experience Given: 220</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Pred_Acc">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Accuracy Predictor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Accuracy</text><nlkx/>
+   <text> in 20, 40, and 60 minutes.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Gypsum, 1 Leopard Fur, 3 Rope, 2 Turquoises.</text>
+   <nl/>
+   <text> Knowledge needed: Accuracy/Magic Indicator</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 68</text>
+   <nl/>
+   <text> Engineering Experience Given: 230</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Pred_Mag">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Magic Predictor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Magic</text><nlkx/>
+   <text> in 20, 40, and 60 minutes.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Cockatrice Feather, 2 Gypsum, 2 Saltpeter, 2 Turquoises.</text>
+   <nl/>
+   <text> Knowledge needed: Accuracy/Magic Indicator</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 70</text>
+   <nl/>
+   <text> Engineering Experience Given: 240</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Pred_Har">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Harvest Predictor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on harvesting</text><nlkx/>
+   <text> events in 20, 40, and 60 minutes.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Dung, 2 Gypsum, 2 Turquoises, 3 Wolf Fur.</text>
+   <nl/>
+   <text> Knowledge needed: Harvest/Degrade Indicator</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 72</text>
+   <nl/>
+   <text> Engineering Experience Given: 250</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Pred_Deg">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Degrade Predictor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Degrade</text><nlkx/>
+   <text> in 20, 40, and 60 minutes.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Deer Antlers, 3 Dung, 3 Gypsum, 2 Turquoises.</text>
+   <nl/>
+   <text> Knowledge needed: Harvest/Degrade Indicator</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 74</text>
+   <nl/>
+   <text> Engineering Experience Given: 260</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Pred_Rar">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Make Rare Predictor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Make Rare</text><nlkx/>
+   <text> in 20, 40, and 60 minutes.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Earth Essences, 3 Gypsum, 3 Honey Comb, 2 Turquoises.</text>
+   <nl/>
+   <text> Knowledge needed: Rare/Fail Indicator</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 76</text>
+   <nl/>
+   <text> Engineering Experience Given: 270</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>
+</Page>
+<Page name="Pred_Fai">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Engineering" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 ENGINEERING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Failure Predictor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Shows the effect of astrology on Failure</text><nlkx/>
+   <text> in 20, 40, and 60 minutes.</text><nl/>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Gypsum, 2 Matter Essences, 3 Turquoises, 4 Yew.</text>
+   <nl/>
+   <text> Knowledge needed: Rare/Fail Indicator</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Engineering Level: 78</text>
+   <nl/>
+   <text> Engineering Experience Given: 280</text>
+   <nl/>
+   <text> Food subtracted: 25</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
    <nl/><nl/>
    <color>yellow</color>
    <text>                  </text><link ref="Engineering" title="Back To Engineering Index"/>

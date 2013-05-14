@@ -1060,4 +1060,36 @@
    <color>yellow</color>
    <text>                      </text><link ref="Alchemy" title="Back To Alchemy Index"/>
 </Page>
+<Page name="Enriched Energy Essence">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Alchemy" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ALCHEMY</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>            Enriched Energy Essence</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Used for: Advanced Summoning Stones.</text>
+   <nlkx/>
+   <text> This essence can only be made by luck while</text>
+   <nlkx/>
+   <text> making normal energy essences.</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
+   <nl/>
+   <text> This item cannot be manufactured.</text>
+   <nl/>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Alchemy" title="Back To Alchemy Index"/>
+</Page>
 </Alchemy>

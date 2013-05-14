@@ -501,11 +501,11 @@
    <text>              Powersaving Cloak</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="7" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> This cloak will give you the Power Saving Perk.</text>
+   <text> This cloak will give you the </text> <link ref="P_PS" title="Power Saving Perk."/>
+   <nl/>
+   <text>       With this cloak your food level will not decrease</text>
    <nlkx/>
-   <text> With this cloak your food level will not decrease</text>
-   <nlkx/>
-   <text> unless you are reading or recovering.</text>
+   <text>       unless you are reading or recovering.</text>
    <nlkx/>
    <text> </text>
    <nl/><nl/>
@@ -543,11 +543,11 @@
    <text>               Excavator Cape</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="0" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> This cloak will give you the Excavator Perk.</text>
+   <text> This cloak will give you the </text> <link ref="P_EX" title="Excavator Perk."/>
+   <nl/>
+   <text>       This cloak doubles the quantity of resources</text>
    <nlkx/>
-   <text> This cloak doubles the quantity of resources</text>
-   <nlkx/>
-   <text> you harvest.</text>
+   <text>       you harvest.</text>
    <nlkx/>
    <text> </text>
    <nl/><nl/>
@@ -582,9 +582,9 @@
    <text>               Conjurer Cloak</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="2" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> This cloak will give you the Conjurer Perk.</text>
-   <nlkx/>
-   <text> This cloak halves the mana needed for summoning.</text>
+   <text> This cloak will give you the </text> <link ref="P_CO" title="Conjurer Perk."/>
+   <nl/>
+   <text>       This cloak halves the mana needed for summoning.</text>
    <nlkx/>
    <text> </text>
    <nl/><nl/><nl/>
@@ -617,11 +617,11 @@
    <text>           Fast Regeneration Cape</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="6" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> This cloak will give you the Fast Regeneration Perk.</text>
+   <text> This cloak will give you the </text> <link ref="P_FR" title="Fast Regeneration Perk."/>
+   <nl/>
+   <text>       Recover health, mana and attributes 3 times faster</text>
    <nlkx/>
-   <text> Recover health, mana and attributes 3 times faster</text>
-   <nlkx/>
-   <text> than usual.</text>
+   <text>       than usual.</text>
    <nl/><nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> You can buy this cloak for 3400 gc in White Stone City</text>
@@ -652,9 +652,9 @@
    <text>            Monster Magnetism Cloak</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="4" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> This cloak will give you the Monster Magnetism Perk.</text>
-   <nlkx/>
-   <text> Monsters won't attack you, unless you attack first.</text>
+   <text> This cloak will give you the </text> <link ref="P_MM" title="Monster Magnetism Perk."/>
+   <nl/>
+   <text>       Monsters won't attack you, unless you attack first.</text>
    <nlkx/>
    <text> </text>
    <nl/><nl/><nl/>
@@ -694,11 +694,11 @@
    <text>                Mirror Cloak</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="8" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> This cloak will give you the Mirror Skin perk.</text>
+   <text> This cloak will give you the </text> <link ref="P_MS" title="Mirror Skin Perk."/>
+   <nl/>
+   <text>       Every successful hit of your opponent, has a 10%</text>
    <nlkx/>
-   <text> Every successful hit of your opponent, has a 10%</text>
-   <nlkx/>
-   <text> chance to be reflected back to the enemy.</text>
+   <text>       chance to be reflected back to the enemy.</text>
    <nlkx/>
    <text> </text>
    <nl/><nl/>
@@ -731,11 +731,11 @@
    <text>             Body Piercing Cloak</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="5" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> This cloak will give you the Body Piercing perk.</text>
+   <text> This cloak will give you the </text> <link ref="P_BP" title="Body Piercing Perk."/>
+   <nl/>
+   <text>       Increases the chance of bypassing the opponent's</text>
    <nlkx/>
-   <text> Increases the chance of bypassing the opponent's</text>
-   <nlkx/>
-   <text> armour by 10%.</text>
+   <text>       armour by 10%.</text>
    <nlkx/>
    <text> </text>
    <nl/><nl/>
@@ -768,13 +768,13 @@
    <text>             No More Tears Cloak</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="9" name="textures/items6.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> This cloak will give you the No More Tears perk.</text>
+   <text> This cloak will give you the </text> <link ref="P_NMT" title="No More Tears Perk."/>
+   <nl/>
+   <text>       The chance of items being damaged or breaking while</text>
    <nlkx/>
-   <text> The chance of items being damaged or breaking while</text>
+   <text>       fighting is reduced to 1/4 of normal chance.</text>
    <nlkx/>
-   <text> fighting is reduced to 1/4 of normal chance.</text>
-   <nlkx/>
-   <text> This cape will not degrade in combat.</text>
+   <text>       This cape will not degrade in combat.</text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> You can only get this cloak from other players or by</text>
@@ -904,7 +904,9 @@
    <text>               Artificer Cape</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="0" name="textures/items10.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> This cloak increases your chance to create rare</text>
+   <text> This cloak will give you the </text> <link ref="P_AR" title="Artificer Perk."/>
+   <nl/>
+   <text>       This cloak increases your chance to create rare</text>
    <nlkx/>
    <text> items (modable weapons, enriched essences, etc...).</text>
    <nlkx/>

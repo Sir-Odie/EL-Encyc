@@ -1161,16 +1161,16 @@
    <text>                    Spear</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="3" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Inflicts 5-65 damage, -3 Defense, -1 Accuracy,</text>
+   <text> Inflicts 10-70 damage, -2 Defense, -1 Accuracy,</text>
    <nlkx/>
-   <text> -5 Critical to hit, -5 Critical to damage.</text>
+   <text> +5 Critical to damage.</text>
    <nlkx/>
    <text> Required Nexus to use: Human 6</text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 2 Wolfram Bars, 2 Serpent Stones, 2 Titanium Bars,</text>
+   <text> 1 Wolfram Bar, 1 Serpent Stone, 2 Titanium Bars,</text>
    <nl/>
    <text> 1 Steel Bar, 1 Wooden Staff, 30 Fire Essences.</text>
    <nl/>
@@ -1205,16 +1205,16 @@
    <text>                   Halberd</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="2" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Inflicts 40-55 damage, -2 Accuracy.</text>
+   <text> Inflicts 40-60 damage, -2 Accuracy,</text>
    <nlkx/>
-   <text> </text>
+   <text> +5 Critical to Damage.</text>
    <nlkx/>
    <text> Required Nexus to use: Human 5</text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
-   <text> 4 Serpent Stones, 2 Wolfram Bars, 5 Titanium Bars,</text><nl/>
+   <text> 1 Serpent Stone, 1 Wolfram Bar, 5 Titanium Bars,</text><nl/>
    <text> 5 Steel Bars, 20 Fire Essences.</text>
    <nl/>
    <text> Tools required to have: Hammer</text>
@@ -1414,4 +1414,50 @@
    <color>yellow</color>
    <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
 </Page>
+<Page name="Blue Dragon Sword">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   WEAPONS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Blue Dragon Sword</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items26.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 22-24 damage, +2 Defense, +15 Accuracy,</text>
+   <nlkx/>
+   <text> +5 Magic damage, +6 Critical to hit,</text>
+   <nlkx/>
+   <text> +5 Critical to damage.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 2 Wolfram Bars, 1 Binding Stone, 2 Titanium Bars,</text><nl/>
+   <text> 3 Blue Dragon Scale, 30 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Blue Dragon Sword</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 92</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 6100</text>
+   <nl/>
+   <text> Food subtracted: 42</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 23 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Weapons" title="Back To Weapons Index"/>
+</Page>
 </Weapons>
+

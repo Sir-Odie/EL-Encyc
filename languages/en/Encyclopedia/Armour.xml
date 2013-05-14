@@ -1841,4 +1841,215 @@
    <color>yellow</color>
    <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
 </Page>
+<Page name="Blue Dragon Torso">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>           Blue Dragon Torso Armor</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items26.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +15 Armor, +4 Missile Protection,</text><nlkx/>
+   <text> +4 Magic Protection, +4 Magic Resistance,</text><nlkx/>
+   <text> Required Nexus to use: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 10 Blue Dragon Scales, 4 Binding Stones, 10 Titanium Bars,</text><nl/>
+   <text> 4 Enriched Magic Essences, 20 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Blue Dragon Torso</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 95</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 7500</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 8 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Blue Dragon Cuisses">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Blue Dragon Cuisses</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items26.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +7 Armor, +3 Missile Protection,</text><nlkx/>
+   <text> +5 Magic Protection.</text><nlkx/>
+   <text> Required Nexus to use: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 7 Blue Dragon Scales, 3 Binding Stones, 3 Titanium Bars,</text><nl/>
+   <text> 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Blue Dragon Cuisses</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 93</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 6200</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Blue Dragon Greaves">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Blue Dragon Greaves</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items26.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +6 Armor, +2 Missile Protection,</text><nlkx/>
+   <text> +4 Magic Protection.</text><nlkx/>
+   <text> Required Nexus to use: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Blue Dragon Scales, 3 Binding Stones, 4 Titanium Bars,</text><nl/>
+   <text> 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Blue Dragon Greaves</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 91</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 6000</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 4 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Blue Dragon Helm">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size>
+   <color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Blue Dragon Helm</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items26.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +4 Armor, +1 Missile Protection,</text><nlkx/>
+   <text> +2 Magic Protection, +2 Magic Resistance.</text><nlkx/>
+   <text> Increases maximum material/ethereal points by 45.</text><nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 4 Blue Dragon Scales, 3 Binding Stones, 2 Titanium Bars,</text><nl/>
+   <text> 2 Enriched Life Essences, 2 Enriched Magic Essences,</text><nl/>
+   <text> 6 Threads.</text>
+   <nl/>
+   <text> Tools required to have: Hammer, Needle</text>
+   <nl/>
+   <text> Knowledge needed: Blue Dragon Helm</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 97</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 7000</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 2 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
+<Page name="Blue Dragon Shield">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Armors" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   ARMORS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Blue Dragon Shield</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items26.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> +8 Defense, +2 Missile Protection,</text><nlkx/>
+   <text> +6 Magic Protection.</text><nlkx/>
+   <text> Required Nexus to use: Human 7</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 4 Blue Dragon Scales, 1 Binding Stone, 8 Titanium Bars,</text><nl/>
+   <text> 2 Hydrogenium Bars, 50 Fire Essences.</text>
+   <nl/>
+   <text> Tools required to have: Hammer</text>
+   <nl/>
+   <text> Knowledge needed: Blue Dragon Shield</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 94</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 6500</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 8 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Armors" title="Back To Armors Index"/>
+</Page>
 </Armour>

@@ -110,7 +110,7 @@
    <link ref="Turquoise" title="Turquoise"/>
    <nl/>
    <link ref="Rose_Quartz" title="Rose Quartz"/><text>                    </text>
-   <link ref="Amber" title="Amber"/><text> *</text>
+   <link ref="Amber" title="Amber"/>
    <nl/>
    <link ref="Gypsum" title="Gypsum"/><text>                         </text>
    <link ref="Obsidian" title="Obsidian"/><text> *</text>
@@ -1682,7 +1682,7 @@
    <text>                 Honey Comb</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="22" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Used for: </text><text>Nothing at this time.</text>
+   <text> Used for: </text><link ref="Pred_Rar" title="Make Rare Predictors"/><text> and </text><link ref="Treasure_Finder" title="Treasure Finders"/>
    <nlkx/>
    <nl/><nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
@@ -1709,18 +1709,18 @@
    <text>                   Amber</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="19" name="textures/items12.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Our scientists are still investigating this mineral.</text><nl/>
-   <text>       Used for: </text><text> Unknown at this time.</text>
-   <nlkx/>
+   <text> Amber is used in engineering and entering invances.</text><nlkx/>
+   <text> Note: Harvesting amber consumes 30 Action Points</text><nlkx/>
+   <text> per harvest.</text><nlkx/>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> Recommended Harvest Level: Unknown</text><nl/>
-   <text> Research Required: Unknown</text><nl/>
-   <text> Required Nexuses: Inorganic Unknown</text><nl/>
-   <text> Weight: Unknown EMU</text><nl/>
+   <text> Recommended Harvest Level: 110</text><nl/>
+   <text> Research Required: none</text><nl/>
+   <text> Required Nexuses: Inorganic 6</text><nl/>
+   <text> Weight: 5 EMU</text><nl/>
    <text> Stackable: Yes</text><nl/>
-   <text> Harvesting Experience Given: Unknown</text><nl/>
-   <text> Tool Required: Unknown</text><nl/>
+   <text> Harvesting Experience Given: 114</text><nl/>
+   <text> Tool Required: Saw</text><nl/>
    <nl/>
    <color>yellow</color>
    <text>                   </text><link ref="Minerals" title="Back To Minerals Index"/>

@@ -6,6 +6,7 @@
    <Category>Alchemy</Category>
    <Category>Archery</Category>
    <Category>Armour</Category>
+   <Category>Armour2</Category>
    <Category>Attributes</Category>
    <Category>Books</Category>
    <Category>Clothes</Category>
@@ -24,4 +25,5 @@
    <Category>Tailoring</Category>
    <Category>Weapons</Category>
    <Category>Weapons2</Category>
+   <Category>Weapons3</Category>
 </Encyclopedia>

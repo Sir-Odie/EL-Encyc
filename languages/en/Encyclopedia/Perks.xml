@@ -269,6 +269,7 @@
    <text> appropriate stone. Using the stone will return the</text><nl/>
    <text> 7 pickpoints you spent to take the perk, but not the</text><nl/>
    <text> money.</text><nl/>
+   <text> Toggle this perk effect on/off by typing #glow</text><nl/>
    <nl/>
    <color>yellow</color>
    <text>                        </text><link ref="Perks" title="Back To Perks"/>
@@ -596,7 +597,7 @@
    <size>Medium</size>
    <color r="0.5" g="0.9" b="1"/>
    <text> Gives: 1 pickpoint</text><nl/>
-   <text> Costs: 100000 gc</text><nl/>
+   <text> Costs: 10000 gc</text><nl/>
    <text> Requires: level 60 Harvesting or higher</text><nl/>
    <text> If someone harvesting nearby triggers some types of</text><nl/>
    <text> Mother Nature damage events, you are hit too.</text><nl/>
@@ -620,6 +621,35 @@
    <text> Costs: 30000 gc</text><nl/>
    <text> The Astrology doesn't apply to you: no bonuses,</text><nl/>
    <text> no penalties.</text><nl/>
+   <nl/>
+   <color r="1" g="1" b="1"/>
+   <text> WARNING!! This perk will NOT be removed by a #reset.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Removal Note: this perk can only be removed with the</text><nl/>
+   <text> appropriate stone (available only from </text><link ref="http://www.eternal-lands.com/page/shop.php" title="EL shop"/><text>).</text><nl/>
+   <text> Using the stone will not return the money spent to take</text><nl/>
+   <text> the perk.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Perks" title="Back To Perks"/>
+   <nl/>
+</Page>
+<Page name="P_DH">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Perks" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    PERKS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Dedicated Harvester</text><nl/><nl/>
+   <size>Medium</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <text> Costs: 10000 gc</text><nl/>
+   <text> Higher mini events while harvesting. However, you get</text><nl/>
+   <text> experience for 140 hourly harvests.</text><nl/>
    <nl/>
    <color r="1" g="1" b="1"/>
    <text> WARNING!! This perk will NOT be removed by a #reset.</text><nl/>

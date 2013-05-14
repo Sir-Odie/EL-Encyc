@@ -165,6 +165,8 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <nlkx/>
    <text> You can use snakes skins in some god quests.</text>
+   <nl/>
+   <text> Careful! Red snakes can poison you!</text>
    <nl/><nl/><nl/><nl/>
    <color>yellow</color>
    <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
@@ -612,7 +614,7 @@
    <color>yellow</color>
    <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
 </Page>
-<Page name="Goblin">
+<Page name="GoblinM">
    <size>Small</size><color>yellow</color>
    <link x="2" y="2" ref="Creatures" title="Back"/>
    <link x="437" y="2" ref="Index" title="Index"/>
@@ -623,7 +625,63 @@
    <color r="1" g="1" b="1"/>
    <text>                   Goblin</text><nl/><nl/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Male and Female Goblins (May be Armed)</text>
+   <text> Unarmed Male Goblin</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Goblins are ugly, smelly scavengers. They mostly</text><nlkx/>
+   <text> travel in packs of 5 or 6, but many times they</text><nlkx/>
+   <text> could also be seen traveling alone. Varying around</text><nlkx/>
+   <text> 5 feet or less in height, they have greenish pock</text><nlkx/>
+   <text> marked skin, yellowish brown eyes, and wear clothing,</text><nlkx/>
+   <text> armor and weapons that they pilfered from dead</text><nlkx/>
+   <text> corpses in graves, an unsuspecting traveler, or each </text><nlkx/>
+   <text> other.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="AGoblinF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                   Goblin</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Armed Female Goblins</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Goblins are ugly, smelly scavengers. They mostly</text><nlkx/>
+   <text> travel in packs of 5 or 6, but many times they</text><nlkx/>
+   <text> could also be seen traveling alone. Varying around</text><nlkx/>
+   <text> 5 feet or less in height, they have greenish pock</text><nlkx/>
+   <text> marked skin, yellowish brown eyes, and wear clothing,</text><nlkx/>
+   <text> armor and weapons that they pilfered from dead</text><nlkx/>
+   <text> corpses in graves, an unsuspecting traveler, or each </text><nlkx/>
+   <text> other.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="AGoblinM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                   Goblin</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Armed Male Goblin</text>
    <nlkx/>
    <text> </text>
    <color r="0.9" g="0.9" b="0.9"/>
@@ -651,7 +709,7 @@
    <color r="1" g="1" b="1"/>
    <text>                  Skeleton</text><nl/><nl/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Skeletons (May Be Armed)</text>
+   <text> Unarmed Skeletons</text>
    <nlkx/>
    <text> </text>
    <color r="0.9" g="0.9" b="0.9"/>
@@ -667,7 +725,34 @@
    <color>yellow</color>
    <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
 </Page>
-<Page name="Gargoyle">
+<Page name="ASkeleton">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Skeleton</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Armed Skeletons</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> The Skeletons are the bones of those who died before</text><nlkx/>
+   <text> the Great War. The gods of evil even reanimated their</text><nlkx/>
+   <text> bones when all the flesh and blood was gone to use </text><nlkx/>
+   <text> against the gods of good. Luckily they did not trap </text><nlkx/>
+   <text> their souls...although it is said in legends that </text><nlkx/>
+   <text> there are some whose souls are cursed and must follow </text><nlkx/>
+   <text> the remainder of their former selves for eternity. </text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="SGargoyle">
    <size>Small</size><color>yellow</color>
    <link x="2" y="2" ref="Creatures" title="Back"/>
    <link x="437" y="2" ref="Index" title="Index"/>
@@ -678,7 +763,57 @@
    <color r="1" g="1" b="1"/>
    <text>                  Gargoyles</text><nl/><nl/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Short, Medium and Tall Gargoyles</text>
+   <text> Short Gargoyles</text><nlkx/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> When King Vermor mysteriously vanished - most people</text><nlkx/>
+   <text> claim he died (yet a corpse remains to be found) -</text><nlkx/>
+   <text> his Gargoyles were freed of his control. They now</text><nlkx/>
+   <text> wander White Stone in the dark of the night,</text><nlkx/>
+   <text> turning into stone statues during the day. Some</text><nlkx/>
+   <text> say they are still loyal and wander in search of</text><nlkx/>
+   <text> their master, who knows if they will ever find him...</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="MGargoyle">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Gargoyles</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Medium Gargoyles (no wings)</text><nlkx/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> When King Vermor mysteriously vanished - most people</text><nlkx/>
+   <text> claim he died (yet a corpse remains to be found) -</text><nlkx/>
+   <text> his Gargoyles were freed of his control. They now</text><nlkx/>
+   <text> wander White Stone in the dark of the night,</text><nlkx/>
+   <text> turning into stone statues during the day. Some</text><nlkx/>
+   <text> say they are still loyal and wander in search of</text><nlkx/>
+   <text> their master, who knows if they will ever find him...</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="TGargoyle">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Gargoyles</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Tall Gargoyles (wings)</text>
    <nlkx/>
    <color r="0.9" g="0.9" b="0.9"/>
    <nl/>
@@ -748,7 +883,7 @@
    <color>yellow</color>
    <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
 </Page>
-<Page name="Orc">
+<Page name="OrcM">
    <size>Small</size><color>yellow</color>
    <link x="2" y="2" ref="Creatures" title="Back"/>
    <link x="437" y="2" ref="Index" title="Index"/>
@@ -759,7 +894,100 @@
    <color r="1" g="1" b="1"/>
    <text>                    Orcs</text><nl/><nl/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Male and Female Orcs (May Be Armed)</text>
+   <text> Unarmed Male Orcs</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Orcs are quite intelligent, making strong tactics in </text><nlkx/>
+   <text> battle. They are also very fearsome creatures, as</text><nlkx/>
+   <text> they are usually bigger in stature than a human,</text><nlkx/>
+   <text> and getting wounded only makes them want to fight</text><nlkx/>
+   <text> even harder. They also don't fear much for their</text><nlkx/>
+   <text> lives, and will have fights to the death.</text><nlkx/>
+   <nl/>
+   <text> Standing at around 6-8 feet tall, they have greenish blue-</text><nlkx/>
+   <text> brown skin, and wear their own unique armor and clothing,</text><nlkx/>
+   <text> usually finding those from other races to be inferior to</text><nlkx/>
+   <text> their own weaponry.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="OrcF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                    Orcs</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Unarmed Female Orcs</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Orcs are quite intelligent, making strong tactics in </text><nlkx/>
+   <text> battle. They are also very fearsome creatures, as</text><nlkx/>
+   <text> they are usually bigger in stature than a human,</text><nlkx/>
+   <text> and getting wounded only makes them want to fight</text><nlkx/>
+   <text> even harder. They also don't fear much for their</text><nlkx/>
+   <text> lives, and will have fights to the death.</text><nlkx/>
+   <nl/>
+   <text> Standing at around 6-8 feet tall, they have greenish blue-</text><nlkx/>
+   <text> brown skin, and wear their own unique armor and clothing,</text><nlkx/>
+   <text> usually finding those from other races to be inferior to</text><nlkx/>
+   <text> their own weaponry.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="AOrcM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                    Orcs</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Armed Male Orcs</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Orcs are quite intelligent, making strong tactics in </text><nlkx/>
+   <text> battle. They are also very fearsome creatures, as</text><nlkx/>
+   <text> they are usually bigger in stature than a human,</text><nlkx/>
+   <text> and getting wounded only makes them want to fight</text><nlkx/>
+   <text> even harder. They also don't fear much for their</text><nlkx/>
+   <text> lives, and will have fights to the death.</text><nlkx/>
+   <nl/>
+   <text> Standing at around 6-8 feet tall, they have greenish blue-</text><nlkx/>
+   <text> brown skin, and wear their own unique armor and clothing,</text><nlkx/>
+   <text> usually finding those from other races to be inferior to</text><nlkx/>
+   <text> their own weaponry.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="AOrcF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                    Orcs</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Armed Female Orcs</text>
    <nlkx/>
    <text> </text>
    <color r="0.9" g="0.9" b="0.9"/>
@@ -857,7 +1085,7 @@
    <color>yellow</color>
    <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
 </Page>
-<Page name="Chimera">
+<Page name="ChimeraD">
    <size>Small</size><color>yellow</color>
    <link x="2" y="2" ref="Creatures" title="Back"/>
    <link x="437" y="2" ref="Index" title="Index"/>
@@ -866,10 +1094,85 @@
    <nl/>
    <text>                  CREATURES</text><nl/>
    <color r="1" g="1" b="1"/>
-   <text>               Chimeran Wolves</text><nl/><nl/>
+   <text>           Desert Chimeran Wolves</text><nl/><nl/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Chimeran Wolves (Desert, Forest, Mountain, Arctic)</text>
+   <text> Desert Chimeran Wolves</text>
    <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> A large, powerful, ugly wolf, lacking any majesty. They</text><nlkx/>
+   <text> are reputed to have been created in a magical accident of</text><nlkx/>
+   <text> some type. In any case, only the strongest can defeat</text><nlkx/>
+   <text> them.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="ChimeraF">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>           Forest Chimeran Wolves</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Forest Chimeran Wolves</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> A large, powerful, ugly wolf, lacking any majesty. They</text><nlkx/>
+   <text> are reputed to have been created in a magical accident of</text><nlkx/>
+   <text> some type. In any case, only the strongest can defeat</text><nlkx/>
+   <text> them.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="ChimeraM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>           Mountain Chimeran Wolves</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Moutain Chimeran Wolves</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> A large, powerful, ugly wolf, lacking any majesty. They</text><nlkx/>
+   <text> are reputed to have been created in a magical accident of</text><nlkx/>
+   <text> some type. In any case, only the strongest can defeat</text><nlkx/>
+   <text> them.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="ChimeraA">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>           Arctic Chimeran Wolves</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Arctic Chimeran Wolves</text>
+   <nlkx/>
+   <nl/>
+   <text> *Ignores </text><link ref="P_MM" title="Monster Magnetism Perk!"/>
+   <nl/>
    <text> </text>
    <color r="0.9" g="0.9" b="0.9"/>
    <nlkx/>
@@ -909,6 +1212,27 @@
    <color>yellow</color>
    <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
 </Page>
+<Page name="Frost Troll">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Frost Troll</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Frost Trolls - 120/120 a/d</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Not much is known about this creature at this time.</text><nlkx/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
 <Page name="Yeti">
    <size>Small</size><color>yellow</color>
    <link x="2" y="2" ref="Creatures" title="Back"/>
@@ -934,6 +1258,27 @@
    <text> alone in dark caves, venturing to the outside world</text><nlkx/>
    <text> when in search of food. Many a strong warrior has</text><nlkx/>
    <text> been over-powered by these monsters.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="Lorc">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Legionnaire Orc</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Legionnaire Orc</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Not much is known about these warriors at this time.</text><nlkx/>
    <nl/><nl/><nl/><nl/>
    <color>yellow</color>
    <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
@@ -1033,6 +1378,9 @@
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
    <text> Red Dragon</text>
    <nlkx/>
+   <nl/>
+   <text> *Ignores </text><link ref="P_MM" title="Monster Magnetism Perk!"/>
+   <nl/>
    <text> </text>
    <color r="0.9" g="0.9" b="0.9"/>
    <nlkx/>
@@ -1058,6 +1406,9 @@
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
    <text> Black Dragon</text>
    <nlkx/>
+   <nl/>
+   <text> *Ignores </text><link ref="P_MM" title="Monster Magnetism Perk!"/>
+   <nl/>
    <text> </text>
    <color r="0.9" g="0.9" b="0.9"/>
    <nlkx/>
@@ -1083,6 +1434,38 @@
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
    <text> Ice Dragon</text>
    <nlkx/>
+   <nl/>
+   <text> *Ignores </text><link ref="P_MM" title="Monster Magnetism Perk!"/>
+   <nl/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Dragons are huge majestic creatures. They are extremely</text><nlkx/>
+   <text> aggressive and even the strongest fighters are not saved</text><nlkx/>
+   <text> from their attacks. Huge teeth, razor sharp claws and</text><nlkx/>
+   <text> spear-like tail make this the hardest creature to beat</text><nlkx/>
+   <text> in combat.</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
+<Page name="DragonBlue">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                 Blue Dragon</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Blue Dragon</text>
+   <nlkx/>
+   <nl/>
+   <text> *Ignores </text><link ref="P_MM" title="Monster Magnetism Perk!"/>
+   <nl/>
+   <text> </text>
    <text> </text>
    <color r="0.9" g="0.9" b="0.9"/>
    <nlkx/>

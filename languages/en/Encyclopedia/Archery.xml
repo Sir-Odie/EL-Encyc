@@ -12,10 +12,14 @@
    <text>                  Short Bow</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="16" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> +4 Missile Accuracy, Firing Speed 30.</text>
+   <text> 5-8 Melee Damage, 3-8 Range Damage, Firing Speed 30,</text>
+   <nlkx/>
+   <text> +4 Missile Accuracy, +3 Light Modifier.</text>
    <nlkx/>
    <text> </text>
-   <nl/><nl/><nl/>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
@@ -51,10 +55,16 @@
    <text>                  Long Bow</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="15" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 5-8 Melee Damage, 6-11 Range Damage,</text>
+   <nlkx/>
    <text> +2 Missile Accuracy, Firing Speed 23,</text>
    <nlkx/>
-   <text> more powerful than a Short Bow.</text>
-   <nl/><nl/><nl/>
+   <text> +3 Light Modifier.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
@@ -90,10 +100,16 @@
    <text>                 Recurve Bow</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="18" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 5-8 Melee Damage, 8-13 Range Damage,</text>
+   <nlkx/>
    <text> +6 Missile Accuracy, Firing Speed 27,</text>
    <nlkx/>
-   <text> more powerful than a Long Bow.</text>
-   <nl/><nl/><nl/>
+   <text> +3 Light Modifier.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
@@ -129,10 +145,16 @@
    <text>                  Elven Bow</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="19" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> 5-8 Melee Damage, 12-17 Range Damage,</text>
+   <nlkx/>
    <text> +10 Missile Accuracy, Firing Speed 27,</text>
    <nlkx/>
-   <text> more powerful than a Recurve Bow.</text>
-   <nl/><nl/><nl/>
+   <text> +3 Light Modifier.</text>
+   <nlkx/>
+   <text> </text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
@@ -168,10 +190,16 @@
    <text>                  Crossbow</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="17" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> +8 Missile Accuracy, Firing Speed 20.</text>
+   <text> 5-8 Melee Damage, 10-15 Range Damage,</text>
+   <nlkx/>
+   <text> +8 Missile Accuracy, Firing Speed 20,</text>
+   <nlkx/>
+   <text> +3 Light Modifier.</text>
    <nlkx/>
    <text> </text>
-   <nl/><nl/><nl/>
+   <nlkx/>
+   <text> Required Nexus to use: Human 0</text>
+   <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
@@ -205,12 +233,16 @@
    <text>                   ARCHERY</text><nl/>
    <color r="1" g="1" b="1"/>
    <text>               Training Arrows</text><nl/><nl/>
-   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items27.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
    <text> Training arrows, not good for PK!</text>
    <nlkx/>
+   <text> 0 Range Damage, 0 Accuracy, 0 Missile Accuracy,</text>
+   <nlkx/>
+   <text> 0 Critical to Hit, +3 Light Modifier.</text>
+   <nlkx/>
    <text> </text>
-   <nl/><nl/><nl/>
+   <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <nl/>
    <text> This item cannot be manufactured.</text>
@@ -235,7 +267,11 @@
    <text>                  PK Arrows</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="14" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> +10 Missile Accuracy.</text><nlkx/>
+   <text> 30 Range Damage, 0 Accuracy, +10 Missile Accuracy,</text>
+   <nlkx/>
+   <text> 0 Critical to Hit, +3 Light Modifier.</text>
+   <nlkx/>
+   <text> </text>
    <nl/><nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
@@ -274,9 +310,13 @@
    <text>                Magic Arrows</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="20" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> 15 normal damage, 15 magic damage, -25 Accuracy,</text><nlkx/>
-   <text> +15 Missile Accuracy, -15 Critical to hit,</text><nlkx/>
-   <text> -30 Defense, very fast to reload!</text>
+   <text> 15 Range Damage, 15 Magic Damage, -25 Accuracy,</text>
+   <nlkx/>
+   <text> +15 Missile Accuracy, -15 Critical to Hit,</text>
+   <nlkx/>
+   <text> -30 Defense, +3 Light Modifier, very fast to reload!</text>
+   <nlkx/>
+   <text> </text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Note: the process produces 75 arrows at a time.</text><nl/>
@@ -318,9 +358,13 @@
    <text>                 Fire Arrows</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="21" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> 15 normal damage, 35 heat damage, -25 Accuracy,</text><nlkx/>
-   <text> -10 Missile Accuracy, -15 Critical to hit,</text><nlkx/>
-   <text> -30 Defense.</text>
+   <text> 15 Range Damage, 35 Heat Damage, -25 Accuracy,</text>
+   <nlkx/>
+   <text> -10 Missile Accuracy, -15 Critical to Hit,</text>
+   <nlkx/>
+   <text> -30 Defense, +3 Light Modifier, very slow to reload!</text>
+   <nlkx/>
+   <text> </text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Note: the process produces 80 arrows at a time.</text><nl/>
@@ -362,9 +406,14 @@
    <text>                 Ice Arrows</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="22" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> 40 cold damage, -25 Accuracy, -15 Missile Accuracy,</text><nlkx/>
-   <text> -15 Critical to hit, -30 Defense, very slow to</text><nlkx/>
-   <text> reload.</text><nl/><nl/>
+   <text> 0 Range Damage, 40 Cold Damage, -25 Accuracy,</text>
+   <nlkx/>
+   <text> -15 Missile Accuracy, -15 Critical to Hit,</text>
+   <nlkx/>
+   <text> -30 Defense, +3 Light Modifier, very slow to reload!</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Note: the process produces 60 arrows at a time.</text><nl/>
    <nl/>
@@ -408,7 +457,7 @@
    <text> ???</text>
    <nlkx/>
    <text> </text>
-   <nl/><nl/><nl/>
+   <nl/><nl/><nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>
@@ -444,12 +493,16 @@
    <text>                   ARCHERY</text><nl/>
    <color r="1" g="1" b="1"/>
    <text>               Training Bolts</text><nl/><nl/>
-   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items27.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
    <text> Crossbow training bolt, not good for PK!</text>
    <nlkx/>
+   <text> 0 Range Damage, 0 Accuracy, 0 Missile Accuracy,</text>
+   <nlkx/>
+   <text> 0 Critical to Hit, +3 Light Modifier.</text>
+   <nlkx/>
    <text> </text>
-   <nl/><nl/><nl/>
+   <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <nl/>
    <text> This item cannot be manufactured.</text>
@@ -474,7 +527,11 @@
    <text>                  PK Bolts</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="13" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> +15 Missile Accuracy.</text><nlkx/>
+   <text> 30 Range Damage, 0 Accuracy, +15 Missile Accuracy,</text>
+   <nlkx/>
+   <text> 0 Critical to Hit, +3 Light Modifier.</text>
+   <nlkx/>
+   <text> </text>
    <nl/><nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
@@ -513,11 +570,16 @@
    <text>                 Magic Bolts</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="24" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> 10 normal damage, 10 magic damage, -15 Accuracy,</text><nlkx/>
-   <text> +15 Missile Accuracy, -15 Critical to hit,</text><nlkx/>
-   <text> -30 Defense, 7% chance do deplete mana,</text><nlkx/>
-   <text> very fast to reload!</text>
-   <nl/><nl/>
+   <text> 10 Range Damage, 10 Magic Damage, -15 Accuracy,</text>
+   <nlkx/>
+   <text> +15 Missile Accuracy, -15 Critical to Hit,</text>
+   <nlkx/>
+   <text> -30 Defense, +3 Light Modifier, 7% chance to</text>
+   <nlkx/> 
+   <text> deplete mana, very fast to reload!</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Note: the process produces 60 bolts at a time.</text><nl/>
    <nl/>
@@ -558,10 +620,16 @@
    <text>                 Fire Bolts</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="0" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> 10 normal damage, 10 heat damage, -15 Accuracy,</text><nlkx/>
-   <text> -10 Missile Accuracy, -15 Critical to hit,</text><nlkx/>
-   <text> -30 Defense, 15% chance to do mana burn.</text>
-   <nl/><nl/>
+   <text> 10 Range Damage, 10 Heat Damage, -15 Accuracy,</text>
+   <nlkx/>
+   <text> -10 Missile Accuracy, -15 Critical to Hit,</text>
+   <nlkx/>
+   <text> -30 Defense, +3 Light Modifier, 15% chance to</text>
+   <nlkx/> 
+   <text>  mana burn, very slow to reload!</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Note: the process produces 65 arrows at a time.</text><nl/>
    <nl/>
@@ -602,11 +670,16 @@
    <text>                  Ice Bolts</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="1" name="textures/items25.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> 10 normal damage, 10 cold damage, -15 Accuracy,</text><nlkx/>
-   <text> -15 Missile Accuracy, -15 Critical to hit,</text><nlkx/>
-   <text> -30 Defense, 10% chance to do cooldown,</text><nlkx/>
-   <text> very slow to reload!</text>
-   <nl/><nl/>
+   <text> 10 Range Damage, 10 Cold Damage, -15 Accuracy,</text>
+   <nlkx/>
+   <text> -15 Missile Accuracy, -15 Critical to Hit,</text>
+   <nlkx/>
+   <text> -30 Defense, +3 Light Modifier, 10% chance to</text>
+   <nlkx/> 
+   <text> cooldown, very slow to reload!</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Note: the process produces 30 bolts at a time.</text><nl/>
    <nl/>
@@ -650,7 +723,7 @@
    <text> ???</text>
    <nlkx/>
    <text> </text>
-   <nl/><nl/><nl/>
+   <nl/><nl/><nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>

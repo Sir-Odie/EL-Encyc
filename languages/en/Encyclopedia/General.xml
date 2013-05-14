@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <General>
 <Page name="Index">
    <size>Big</size>
@@ -7,8 +7,8 @@
    <nl/>
    <size>Small</size>
    <color r="0.4" g="0.8" b="1"/>
-   <text> IN DEVELOPMENT! Report all errors on the Encyclopedia</text><nl/>
-   <text> Forum, or via e-mail to theryndan@hotmail.it</text><nl/>
+   <text> IN DEVELOPMENT! Report all errors in the Encyclopedia</text><nl/>
+   <text> section of the EL Forum</text><nl/>
    <size>Medium</size>
    <color r="0.9" g="0.9" b="0.9"/>
    <link ref="Alchemy"     title="Alchemy"/><size>Small</size><text>           - How to make Essences and Metal Bars</text><size>Medium</size><nl/>
@@ -67,11 +67,11 @@
    <color r="0.1" g="0.5" b="1"/><text>Enriched Essences</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <link ref="Enriched Fire Essence" title="Enriched Fire Essence"/><text>          </text>
-   <link ref="Enriched Death Essence" title="Enriched Death Essence"/><nl/>
-   <link ref="Enriched Water Essence" title="Enriched Water Essence"/><text>         </text>
-   <link ref="Enriched Magic Essence" title="Enriched Magic Essence"/><nl/>
-   <link ref="Enriched Life Essence" title="Enriched Life Essence"/><text>          </text>
-   <nl/>
+   <link ref="Enriched Water Essence" title="Enriched Water Essence"/><nl/>
+   <link ref="Enriched Life Essence" title="Enriched Life Essence"/><text>         </text>
+   <link ref="Enriched Energy Essence" title="Enriched Energy Essence"/><nl/>
+   <link ref="Enriched Magic Essence" title="Enriched Magic Essence"/><text>          </text>
+   <link ref="Enriched Death Essence" title="Enriched Death Essence"/><nl/>	
    <nl/>
    <color r="0.1" g="0.5" b="1"/><text>Metal Bars</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
@@ -129,34 +129,31 @@
    <text> </text>
    <nl/>
    <link ref="Recurve_Bow" title="Recurve Bow"/><text>                    </text>
-   <color r="0" g="0.7" b="1"/><text>Bolts</text><color r="0.9" g="0.9" b="0.9"/>
    <nl/>
    <link ref="Elven_Bow" title="Elven Bow"/><text>                      </text>
-   <link ref="Bolts" title="Training Bolts"/>
    <nl/>
    <text>                               </text>
-   <link ref="pk_bolt" title="PK Bolts"/>
    <nl/>
    <color r="0" g="0.7" b="1"/><text>Arrows</text><text>                         </text><color r="0.9" g="0.9" b="0.9"/>
-   <link ref="Magic_Bolts" title="Magic Bolts"/>
+   <color r="0" g="0.7" b="1"/><text>Bolts</text><color r="0.9" g="0.9" b="0.9"/>
    <nl/>
    <link ref="Arrows" title="Training Arrows"/><text>                </text>
-   <link ref="Ice_Bolts" title="Ice Bolts"/>
+   <link ref="Bolts" title="Training Bolts"/>
    <nl/>
    <link ref="pk_arrow" title="PK Arrows"/><text>                      </text>
-   <link ref="Fire_Bolts" title="Fire Bolts"/>
+   <link ref="pk_bolt" title="PK Bolts"/>
    <nl/>
    <link ref="Magic_Arrows" title="Magic Arrows"/><text>                   </text>
-   <link ref="Explosive_Bolts" title="Explosive Bolts"/>
+   <link ref="Magic_Bolts" title="Magic Bolts"/>
    <nl/>
    <link ref="Ice_Arrows" title="Ice Arrows"/><text>                     </text>
-   <text> </text>
+   <link ref="Ice_Bolts" title="Ice Bolts"/>
    <nl/>
    <link ref="Fire_Arrows" title="Fire Arrows"/><text>                    </text>
-   <text> </text>
+   <link ref="Fire_Bolts" title="Fire Bolts"/>
    <nl/>
    <link ref="Explosive_Arrows" title="Explosive Arrows"/><text>               </text>
-   <text> </text>
+   <link ref="Explosive_Bolts" title="Explosive Bolts"/>
    <nl/>
    <nl/><nl/>
    <color>yellow</color>
@@ -166,7 +163,9 @@
 <Page name="Armors">
    <size>Small</size><color>yellow</color>
    <link x="2" y="2" ref="Index" title="Back"/>
+   <text x="2" y="18">Page 1/2</text>
    <link x="437" y="2" ref="Index" title="Index"/>
+   <link x="450" y="18" ref="Spec_Armors" title=">>>"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
    <text x="74" y="2">The Eternal Lands Encyclopedia</text>
    <nl/>
@@ -210,15 +209,18 @@
    <link ref="Ice Dragon Helm" title="Ice Dragon Helm"/>
    <nl/>
    <link ref="Bronze Plate" title="Bronze Plate Mail"/><text>              </text>
-   <text> </text>
+   <link ref="Blue Dragon Helm" title="Blue Dragon Helm"/>
    <nl/>
    <link ref="Red Dragon Torso" title="Red Dragon Torso Armor"/><text>         </text>
-   <color r="0" g="0.7" b="1"/><text>Shields</text><color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
    <nl/>
    <link ref="Black Dragon Torso" title="Black Dragon Torso Armor"/><text>       </text>
-   <link ref="Wooden Shield" title="Wooden Shield"/>
+   <color r="0" g="0.7" b="1"/><text>Shields</text><color r="0.9" g="0.9" b="0.9"/>
    <nl/>
    <link ref="Ice Dragon Torso" title="Ice Dragon Torso Armor"/><text>         </text>
+   <link ref="Wooden Shield" title="Wooden Shield"/>
+   <nl/>
+   <link ref="Blue Dragon Torso" title="Blue Dragon Torso Armour"/><text>       </text>
    <link ref="E Wooden Shield" title="Enhanced Wooden Shield"/>
    <nl/>
    <text>                               </text>
@@ -234,24 +236,27 @@
    <link ref="Bronze Shield" title="Bronze Shield"/>
    <nl/>
    <link ref="Iron Cuisses" title="Iron Cuisses"/><text>                   </text>
-   <text> </text>
+   <link ref="Blue Dragon Shield" title="Blue Dragon Shield"/>
    <nl/>
    <link ref="Steel Cuisses" title="Steel Cuisses"/><text>                  </text>
-   <color r="0" g="0.7" b="1"/><text>Feet Armor</text><color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
    <nl/>
    <link ref="Titanium Cuisses" title="Titanium Cuisses"/><text>               </text>
-   <link ref="Leather Boots" title="Leather Boots"/>
+   <color r="0" g="0.7" b="1"/><text>Feet Armor</text><color r="0.9" g="0.9" b="0.9"/>
    <nl/>
    <link ref="Bronze Cuisses" title="Bronze Cuisses"/><text>                 </text>
-   <link ref="Iron Greaves" title="Iron Greaves"/>
+   <link ref="Leather Boots" title="Leather Boots"/>
    <nl/>
    <link ref="Red Dragon Cuisses" title="Red Dragon Cuisses"/><text>             </text>
-   <link ref="Steel Greaves" title="Steel Greaves"/>
+   <link ref="Iron Greaves" title="Iron Greaves"/>
    <nl/>
    <link ref="Black Dragon Cuisses" title="Black Dragon Cuisses"/><text>           </text>
-   <link ref="Titanium Greaves" title="Titanium Greaves"/>
+   <link ref="Steel Greaves" title="Steel Greaves"/>
    <nl/>
    <link ref="Ice Dragon Cuisses" title="Ice Dragon Cuisses"/><text>             </text>
+   <link ref="Titanium Greaves" title="Titanium Greaves"/>
+   <nl/>
+   <link ref="Blue Dragon Cuisses" title="Blue Dragon Cuisses"/><text>            </text>
    <link ref="Bronze Greaves" title="Bronze Greaves"/>
    <nl/>
    <text>                               </text>
@@ -263,6 +268,45 @@
    <link ref="Leather Gloves" title="Leather Gloves"/><text>                 </text>
    <link ref="Ice Dragon Greaves" title="Ice Dragon Greaves"/>
    <nl/>
+   <text>                               </text>
+   <link ref="Blue Dragon Greaves" title="Blue Dragon Greaves"/>
+   <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text> </text><link ref="Index" title="Back To Index"/>
+   <text>                      </text><link ref="Spec_Armors" title="Special Armors >>>"/>
+   <nl/>
+</Page>
+<Page name="Spec_Armors">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Back"/>
+   <text x="2" y="18">Page 2/2</text>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <link x="450" y="18" ref="Armors" title=">>>"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>               SPECIAL ARMORS</text><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> These armors are mixed by chance when mixing their normal</text><nl/>
+   <text> couterparts. (or sold on occasion by the EL shop)</text><nl/>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="ubbers" title="Steel Greaves of Ubber Defense"/><nl/>
+   <link ref="mdcuisses" title="Steel Cuisses of Mana Drain"/><nl/>
+   <link ref="spoh" title="Steel Plate Mail of Healing"/><nl/>
+   <link ref="mana" title="Steel Helm of Mana"/><nl/>
+   <link ref="mirrors" title="Titanium Greaves of Mirroring"/><nl/>
+   <link ref="cdrem" title="Titanium Cuisses of Cooldown Removal"/><nl/>
+   <link ref="freeze" title="Titanium Plate Mail of Freezing"/><nl/>
+   <link ref="life" title="Titanium Helm of Life"/><nl/>
+   <link ref="ldrain" title="Titanium Shield of Life Drain"/><nl/>
+   <link ref="holam" title="Red Dragon Helm of Life and Mana"/><text>*</text><nl/>
+   <nl/><nl/>
+   <text>*Not mixable.</text>
    <nl/><nl/>
    <color>yellow</color>
    <text>                        </text><link ref="Index" title="Back To Index"/>
@@ -366,8 +410,7 @@
    <nl/>
    <text> Here you can find a list of book sellers and the books</text>
    <nl/>
-   <text> which can be found at each.</text><nl/><nl/>
-   
+   <text> which can be found at each.</text><nl/><nl/>   
    <color r="0" g="0.7" b="1"/>
    <text>Frukas (Grahm's Village, White Stone)</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
@@ -375,8 +418,7 @@
    <link ref="Books_AL" title="Alchemy"/><nl/>
    <link ref="Books_PO" title="Potions"/><nl/>
    <link ref="Books_FO" title="Polymorph Food"/><nl/>
-   <nl/>
-   
+   <nl/>  
    <color r="0" g="0.7" b="1"/>
    <text>Brogan (Portland, near Kamara Desert)</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
@@ -385,7 +427,6 @@
    <link ref="Books_TM" title="Tools Making"/><nl/>
    <link ref="Books_EI" title="Enhanced Items"/><nl/>
    <nl/>
-   
    <color r="0" g="0.7" b="1"/>
    <text>Ardur (South-West Naralik)</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
@@ -394,14 +435,12 @@
    <link ref="Books_MD" title="Metal Molding"/><nl/>
    <link ref="Books_MO" title="Other"/><nl/>
    <nl/>
-   
    <color r="0" g="0.7" b="1"/>
    <text>Dan (Market place in White Stone City)</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <link ref="Books_WC" title="Weapon Construction"/><nl/>
    <link ref="Books_AC" title="Armor Construction"/><nl/>
    <nl/>
-   
    <color r="0" g="0.7" b="1"/>
    <text>Itilli (Registry Room in Tarsengaard Magic School)</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
@@ -411,7 +450,6 @@
    <link ref="Books_CB" title="Crown Building"/><nl/>
    <link ref="Books_JO" title="Other"/><nl/>
    <nl/>
-   
    <color r="0" g="0.7" b="1"/>
    <text>Nahark (Ywarstav, Grubani Peninsula)</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
@@ -420,21 +458,18 @@
    <link ref="Books_SS" title="Summoning Stones"/><nl/>
    <link ref="Books_SH" title="Shapeshifting"/><nl/>
    <nl/>
-   
    <color r="0" g="0.7" b="1"/>
    <text>Cantemir (Zirak City, Zirakinbar)</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <link ref="Books_AWC" title="Advanced Weapon Construction"/><nl/>
    <link ref="Books_AAC" title="Advanced Armor Construction"/><nl/>
    <nl/>
-   
    <color r="0" g="0.7" b="1"/>
    <text>Grigore Ureche (Emerald Valley Trade Route)</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <link ref="Books_RBC2" title="Irilion Rings Building"/><nl/>
    <link ref="Books_TAI" title="Tailoring"/><nl/>
    <nl/>
-   
    <color r="0" g="0.7" b="1"/>
    <text>Neculce (North Redmoon)</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
@@ -442,26 +477,22 @@
    <link ref="Books_ASTRO" title="Astrology"/><nl/>
    <link ref="Books_ARROWS" title="Archery"/><nl/>
    <nl/>
-   
    <color r="0" g="0.7" b="1"/>
    <text>Expila (White Stone City Library)</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <link ref="Books_EXP" title="Experience Books"/><nl/>
    <nl/>
-   
    <color r="0" g="0.7" b="1"/>
    <text>Monsters Drop Only (NPCs don't sell these books)</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <link ref="Books_MSW" title="Magic Swords"/><nl/>
    <link ref="Books_AP" title="Advanced Potions"/><nl/>
    <nl/>
-   
    <color r="0" g="0.7" b="1"/>
    <text>Prerequisites</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <link ref="Books_PRE" title="Prerequisites Table"/><nl/>
    <nl/>
-   
    <nl/><nl/>
    <color>yellow</color>
    <text>                        </text><link ref="Index" title="Back To Index"/>
@@ -540,37 +571,37 @@
    <text>Non-Aggressive                 Aggressive</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <link ref="Rabbits" title="Rabbits"/><text>                        </text>
-   <link ref="Goblin" title="Goblin"/>
+   <link ref="GoblinM" title="Goblin"/>
    <nl/>
    <link ref="Rat" title="Rat"/><text>                            </text>
    <link ref="Skeleton" title="Skeleton"/>
    <nl/>
    <link ref="Beaver" title="Beaver"/><text>                         </text>
-   <link ref="Gargoyle" title="Short Gargoyle"/>
+   <link ref="SGargoyle" title="Short Gargoyle"/>
    <nl/>
    <link ref="Brownie" title="Brownie"/><text>                        </text>
-   <link ref="Gargoyle" title="Tall Gargoyle"/>
+   <link ref="TGargoyle" title="Tall Gargoyle"/>
    <nl/>
    <link ref="Deer" title="Deer"/><text>                           </text>
-   <link ref="Gargoyle" title="Medium Gargoyle"/>
+   <link ref="MGargoyle" title="Medium Gargoyle"/>
    <nl/>
    <link ref="Wood_Sprite" title="Wood Sprite"/><text>                    </text>
-   <link ref="Goblin" title="Female Goblin"/>
+   <link ref="AGoblinF" title="Female Goblin"/>
    <nl/>
    <link ref="Skunk" title="Skunk"/><text>                          </text>
-   <link ref="Skeleton" title="Armed Skeleton"/>
+   <link ref="ASkeleton" title="Armed Skeleton"/>
    <nl/>
    <link ref="Racoon" title="Racoon"/><text>                         </text>
-   <link ref="Orc" title="Female Orc"/>
+   <link ref="OrcF" title="Female Orc"/>
    <nl/>
    <link ref="Fox" title="Fox"/><text>                            </text>
-   <link ref="Goblin" title="Armed Male Goblin"/>
+   <link ref="AGoblinM" title="Armed Male Goblin"/>
    <nl/>
    <link ref="Leprechaun" title="Leprechaun"/><text>                     </text>
    <link ref="Hobgob" title="Hobgoblin"/>
    <nl/>
    <link ref="Spiders" title="Small Spider"/><text>                   </text>
-   <link ref="Orc" title="Male Orc"/>
+   <link ref="OrcM" title="Male Orc"/>
    <nl/>
    <link ref="Snakes" title="Snakes"/><text>                         </text>
    <link ref="Troll" title="Troll"/>
@@ -579,10 +610,10 @@
    <link ref="Ogre" title="Male Ogre"/>
    <nl/>
    <link ref="Imp" title="Imp"/><text>                            </text>
-   <link ref="Orc" title="Armed Female Orc"/>
+   <link ref="AOrcF" title="Armed Female Orc"/>
    <nl/>
    <link ref="Wolf" title="Wolf"/><text>                           </text>
-   <link ref="Orc" title="Armed Male Orc"/>
+   <link ref="AOrcM" title="Armed Male Orc"/>
    <nl/>
    <link ref="Penguins" title="Penguins"/><text>                       </text>
    <link ref="Phantom_Warrior" title="Phantom Warrior"/>
@@ -597,42 +628,45 @@
    <link ref="Feros" title="Feros"/>
    <nl/>
    <link ref="Snow_Leopard" title="Snow Leopard"/><text>                   </text>
-   <link ref="Chimera" title="Desert Chimeran"/>
+   <link ref="ChimeraD" title="Desert Chimeran"/>
    <nl/>
    <link ref="Feran" title="Feran"/><text>                          </text>
-   <link ref="Chimera" title="Forest Chimeran"/>
+   <link ref="ChimeraF" title="Forest Chimeran"/>
    <nl/>
    <link ref="Panther" title="Black Panther"/><text>                  </text>
-   <link ref="Chimera" title="Mountain Chimeran"/>
+   <link ref="ChimeraM" title="Mountain Chimeran"/>
    <nl/>
    <link ref="Falcon" title="Falcon"/><text>                         </text>
-   <link ref="Chimera" title="Arctic Chimeran"/>
+   <link ref="Frost Troll" title="Frost Troll"/>
    <nl/>
    <link ref="Hawk" title="Hawk"/><text>                           </text>
    <link ref="Yeti" title="Yeti"/>
    <nl/>
    <link ref="BearB" title="Black Bear"/><text>                     </text>
-   <link ref="Cockatrice" title="Cockatrice"/>
+   <link ref="Lorc" title="Legionnaire Orc"/>
    <nl/>
    <link ref="BearP" title="Polar Bear"/><text>                     </text>
-   <link ref="Giant" title="Giant"/>
+   <link ref="ChimeraA" title="Arctic Chimeran"/>
    <nl/>
    <link ref="BearG" title="Grizzly"/><text>                        </text>
-   <link ref="DragonR" title="Red Dragon"/>
+   <link ref="Cockatrice" title="Cockatrice"/>
    <nl/>
    <link ref="Panda" title="Panda Bear"/><text>                     </text>
-   <link ref="DragonB" title="Black Dragon"/>
+   <link ref="Giant" title="Giant"/>
    <nl/>
    <link ref="Lion" title="Lion"/><text>                           </text>
-   <link ref="DragonW" title="Ice Dragon"/>
+   <link ref="DragonR" title="Red Dragon"/>
    <nl/>
    <link ref="Tiger" title="Tiger"/><text>                          </text>
-   <text> </text>
+   <link ref="DragonB" title="Black Dragon"/>
    <nl/>
    <link ref="White_Tiger" title="White Tiger"/><text>                    </text>
-   <text> </text>
+   <link ref="DragonW" title="Ice Dragon"/>
    <nl/>
    <link ref="Unicorn" title="Unicorn"/><text>                        </text>
+   <link ref="DragonBlue" title="Blue Dragon"/>
+   <text> </text>
+   <text> </text>
    <text> </text>
    <nl/>
    <nl/><nl/>
@@ -677,49 +711,55 @@
    <link ref="Blackpowder" title="Blackpowder"/><text>                    </text>
    <link ref="Ind_RareFail" title="Make Rare/Fail Indicator"/>
    <nl/>
-   <link ref="Snare" title="Snare"/><text>                          </text>
-   <link ref="Predictor" title="Predictor Stones"/>
-   <nl/>
    <link ref="Caltrops" title="Caltrops"/><text>                       </text>
    <link ref="Lightmeter" title="Lightmeter"/>
    <nl/>
    <link ref="P_Caltrops" title="Poisoned Caltrops"/><text>              </text>
    <link ref="Invasionmeter" title="Invasionmeter"/>
    <nl/>
-   <link ref="S_Landmine" title="Small Landmines"/><text>                </text>
-   <text> </text>
-   <nl/>
-   <link ref="M_Landmine" title="Medium Landmines"/><text>               </text>
-   <text> </text>
-   <nl/>
-   <link ref="L_Landmine" title="Large Landmines"/><text>                </text>
-   <text> </text>
-   <nl/>
-   <link ref="RC_Landmine" title="RC Landmines"/><text>                   </text>
-   <text> </text>
-   <nl/>
-   <link ref="RC_Detonator" title="RC Mine Detonator"/><text>              </text>
-   <text> </text>
-   <nl/>
-   <link ref="Mana_Drain_Ward" title="Mana Drain Ward"/><text>                </text>
-   <text> </text>
-   <nl/>
-   <link ref="Mana_Burn_Ward" title="Mana Burn Ward"/><text>                 </text>
-   <text> </text>
-   <nl/>
-   <link ref="Inv_Remove_Ward" title="Invisibility Removal Ward"/><text>      </text>
-   <text> </text>
-   <nl/>
-   <link ref="MI_Remove_Ward" title="Magic Immunity Removal Ward"/><text>    </text>
-   <text> </text>
+   <link ref="Snare" title="Snare"/><text>                          </text>
+   <link ref="Pred_Att" title="Attack Predictor"/>
    <nl/>
    <link ref="ArrowBolt_Head" title="Arrow/Bolt Head"/><text>                </text>
+   <link ref="Pred_Def" title="Defense Predictor"/>
+   <nl/>
+   <link ref="S_Landmine" title="Small Landmines"/><text>                </text>
+   <link ref="Pred_Hit" title="To Hit Predictor"/>
+   <nl/>
+   <link ref="M_Landmine" title="Medium Landmines"/><text>               </text>
+   <link ref="Pred_Dmg" title="To Damage Predictor"/>
+   <nl/>
+   <link ref="L_Landmine" title="Large Landmines"/><text>                </text>
+   <link ref="Pred_Acc" title="Accuracy Predictor"/>
+   <nl/>
+   <link ref="RC_Landmine" title="RC Landmines"/><text>                   </text>
+   <link ref="Pred_Mag" title="Magic Predictor"/>
+   <nl/>
+   <link ref="Mana_Drain_Ward" title="Mana Drain Ward"/><text>                </text>
+   <link ref="Pred_Har" title="Harvest Predictor"/>
+   <nl/>
+   <link ref="Mana_Burn_Ward" title="Mana Burn Ward"/><text>                 </text>
+   <link ref="Pred_Deg" title="Degrade Predictor"/>
+   <nl/>
+   <link ref="RC_Detonator" title="RC Mine Detonator"/><text>              </text>
+   <link ref="Pred_Rar" title="Make Rare Predictor"/>
+   <nl/>
+   <link ref="Inv_Remove_Ward" title="Invisibility Removal Ward"/><text>      </text>
+   <link ref="Pred_Fai" title="Failure Predictor"/>
+   <nl/>
+   <link ref="MI_Remove_Ward" title="Magic Immunity Removal Ward"/><text>    </text>
    <text> </text>
    <nl/>
    <link ref="Night_Visor" title="Night Visor"/><text>                    </text>
    <text> </text>
    <nl/>
    <link ref="Point_Defense" title="Point Defense"/><text>                  </text>
+   <text> </text>
+   <nl/>
+   <link ref="Treasure_Finder" title="Treasure Finder"/><text>                </text>
+   <text> </text>
+   <nl/>
+   <link ref="Pear_Finder" title="Pear Finder"/><text>                    </text>
    <text> </text>
    <nl/>
    <nl/><nl/>
@@ -838,82 +878,98 @@
    <link ref="Ring_Dp" title="Ring of Desert Pines"/>
    <nl/>
    <link ref="P_Saph" title="Polished Sapphire"/><text>              </text>
+   <link ref="Ring_MM" title="Ring of Morcraven Marsh"/>
    <text> </text>
    <nl/>
    <link ref="P_Diam" title="Polished Diamond"/><text>               </text>
+   <text> </text>
+   <nl/>
+   <text>                               </text>
    <color r="0" g="0.7" b="1"/><text>Irilion Rings</text><color r="0.9" g="0.9" b="0.9"/>
    <nl/>
-   <text>                               </text>
-   <link ref="Ring_Anitora" title="Ring of Anitora"/>
-   <nl/>
    <color r="0" g="0.7" b="1"/><text>Medallions</text><text>                     </text><color r="0.9" g="0.9" b="0.9"/>
-   <link ref="Ring_Idaloran" title="Ring of Idaloran"/>
+   <link ref="Ring_Anitora" title="Ring of Anitora"/>   
    <nl/>
    <link ref="Med_Unicorn" title="Unicorn Medallion"/><text>              </text>
-   <link ref="Ring_Bethel" title="Ring of Bethel"/>
+   <link ref="Ring_Idaloran" title="Ring of Idaloran"/>
    <nl/>
    <link ref="Med_Sun" title="Sun Medallion"/><text>                  </text>
-   <link ref="Ring_Sedicolis" title="Ring of Sedicolis"/>
+   <link ref="Ring_Bethel" title="Ring of Bethel"/>
    <nl/>
    <link ref="Med_Moon" title="Moon Medallion"/><text>                 </text>
-   <link ref="Ring_Palon_Vertas" title="Ring of Palon Vertas"/>
+   <link ref="Ring_Sedicolis" title="Ring of Sedicolis"/>
    <nl/>
    <link ref="Med_Stars" title="Stars Medallion"/><text>                </text>
-   <link ref="Ring_Kusamura" title="Ring of Kusamura"/>
-   <nl/>
+   <link ref="Ring_SRM" title="Ring of SRM"/>
+   <nl/> 
    <link ref="Med_Harv" title="Harvester Medallion"/><text>            </text>
-   <link ref="Ring_Egratia" title="Ring of Egratia"/>
+   <link ref="Ring_Palon_Vertas" title="Ring of Palon Vertas"/>
    <nl/>
    <link ref="Med_Heaven" title="Heaven Spawner Medallion"/><text>       </text>
-   <link ref="Ring_Iscalrith" title="Ring of Iscalrith"/>
+   <link ref="Ring_Mel" title="Ring of Melinis"/>
    <nl/>
    <link ref="Med_Life" title="Medallion of Life"/><text>              </text>
-   <link ref="Ring_Irinveron" title="Ring of Irinveron"/>
-   <nl/>
-   <link ref="Med_Mana" title="Medallion of Mana"/><text>              </text>
-   <link ref="Ring_Hulda" title="Ring of Hulda"/>
+   <link ref="Ring_Kusamura" title="Ring of Kusamura"/>
    <nl/>
    <link ref="Med_Gather" title="Gatherer Medallion"/><text>             </text>
+   <link ref="Ring_Egratia" title="Ring of Egratia"/>
+   <nl/>
+   <link ref="Med_Mana" title="Medallion of Mana"/><text>              </text>
+   <link ref="Ring_Iscalrith" title="Ring of Iscalrith"/>
+   <nl/>
+   <link ref="E_Unicorn" title="Enhanced Unicorn Medallion"/><text>     </text>
+   <link ref="Ring_Irinveron" title="Ring of Irinveron"/>
+   <nl/>
+   <link ref="E_Sun" title="Enhanced Sun Medallion"/><text>         </text>
+   <link ref="Ring_Hulda" title="Ring of Hulda"/>
+   <nl/>
+   <text>                               </text>
    <link ref="Ring_Trassian" title="Ring of Trassian"/>
    <nl/>
-   <text>                               </text>
+   <color r="0" g="0.7" b="1"/><text>Crowns</text><text>                         </text><color r="0.9" g="0.9" b="0.9"/>
    <link ref="Ring_Isle_Forgotten" title="Ring of IotF"/>
    <nl/>
-   <color r="0" g="0.7" b="1"/><text>Crowns</text><text>                         </text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Crown_Mana" title="Crown of Mana"/><text>                  </text>
    <link ref="Ring_Imbroglio_Islands" title="Ring of Imbroglio Islands"/>
    <nl/>
-   <link ref="Crown_Mana" title="Crown of Mana"/><text>                  </text>
+   <link ref="Crown_Life" title="Crown of Life"/><text>                  </text>
    <link ref="Ring_Hurquin" title="Ring of Hurquin"/>
    <nl/>
-   <link ref="Crown_Life" title="Crown of Life"/><text>                  </text>
+   <text>                               </text>
    <link ref="Ring_Glacmor" title="Ring of Glacmor"/>
    <nl/>
-   <text>                               </text>
+   <color r="0" g="0.7" b="1"/><text>Combat Rings</text><text>                   </text><color r="0.9" g="0.9" b="0.9"/>
    <link ref="Ring_Emerald_Valley" title="Ring of Emerald Valley"/>
    <nl/>
-   <color r="0" g="0.7" b="1"/><text>Combat Rings</text><text>                   </text><color r="0.9" g="0.9" b="0.9"/>
-   <text> </text>
-   <nl/>
    <link ref="Ring_Damage" title="Ring of Damage"/><text>                 </text>
-   <color r="0" g="0.7" b="1"/><text>Magic Stones</text><color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
    <nl/>
    <link ref="Ring_Disengagement" title="Ring of Disengagement"/><text>          </text>
-   <link ref="Saving_Stone" title="Saving Stone"/>
+   <color r="0" g="0.7" b="1"/><text>Magic Stones</text><color r="0.9" g="0.9" b="0.9"/>
    <nl/>
    <link ref="Ring_Power" title="Ring of Power"/><text>                  </text>
-   <text> </text>
+   <link ref="Saving_Stone" title="Saving Stone"/>
    <nl/>
    <link ref="Ring_MDestr" title="Ring of Mana Destruction"/><text>       </text>
-   <color r="0" g="0.7" b="1"/><text>Enhanced Armors</text><color r="0.9" g="0.9" b="0.9"/>
+   <text> </text>
    <nl/>
    <link ref="Ring_MMDestr" title="Massive Mana Destr. Ring"/><text>       </text>
+   <color r="0" g="0.7" b="1"/><text>Enhanced Armors</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text>                               </text>
    <link ref="En_Iron_Greaves" title="Enhanced Iron Greaves"/>
    <nl/>
-   <text>                               </text>
+   <color r="0" g="0.7" b="1"/><text>Writing</text><text>                        </text><color r="0.9" g="0.9" b="0.9"/>
    <link ref="En_Iron_Cuisses" title="Enhanced Iron Cuisses"/>
    <nl/>
-   <text>                               </text>
+   <link ref="Quill" title="Quill and Ink"/><text>                  </text>
    <link ref="En_Iron_Plate" title="Enhanced Iron Plate Mail"/>
+   <nl/>
+   <link ref="Paper" title="Blank Paper"/><text>                    </text>
+   <text> </text>
+   <nl/>
+   <link ref="BigBookC" title="Big Book of Crafting"/><text>           </text>
+   <text> </text>
    <nl/>
    <nl/><nl/>
    <color>yellow</color>
@@ -1102,7 +1158,7 @@
    <link ref="Maps2_IR" title="Irinveron"/><text>                       </text>
    <text>   Y        Y      Cave</text><nl/>
    <link ref="Maps2_IS" title="Iscalrith"/><text>                       </text>
-   <text>   Y        -      Arena</text><nl/>
+   <text>   Y        Y      Arena</text><nl/>
    <link ref="Maps2_TR" title="Trassian"/><text>                        </text>
    <text>   -        Y      Arenas</text><nl/>
    <link ref="Maps2_GLA" title="Glacmor"/><text>                         </text>
@@ -1183,23 +1239,26 @@
    <link ref="Bouquet" title="Bouquet of Roses"/>
    <nl/>
    <link ref="Head_Mold" title="Arrow/Bolt Head Mold"/><text>           </text>
-   <text> </text>
+   <link ref="BigBookM" title="Big Book of Manufacturing"/>
    <nl/>
    <text>                               </text>
-   <color r="0" g="0.7" b="1"/><text>Food</text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Dung_Tele" title="Dung Teleporter"/>
    <nl/>
-   <color r="0" g="0.7" b="1"/><text>Drinks</text><color r="0.9" g="0.9" b="0.9"/><text>                         </text>
-   <link ref="FD_Bread" title="Bread"/>
+   <color r="0" g="0.7" b="1"/><text>Food                                    </text><color r="0.9" g="0.9" b="0.9"/>
    <nl/>
-   <link ref="FD_Wine" title="Wine"/><text>                           </text>
-   <link ref="FD_Vegetables" title="Vegetables"/>
+   <link ref="FD_Bread" title="Bread"/><color r="0" g="0.7" b="1"/><text>            Drinks        Special Items</text><color r="0.9" g="0.9" b="0.9"/>
    <nl/>
-   <link ref="FD_Ale" title="Ale"/><text>                            </text>
-   <link ref="FD_Fruit" title="Fruit"/>
+   <link ref="FD_Vegetables" title="Vegetables"/><text>       </text>
+   <link ref="FD_Ale" title="Ale"/><text>           </text>
+   <link ref="Orange" title="Orange"/>
    <nl/>
-   <link ref="FD_Mead" title="Mead"/><text>                           </text>
-   <link ref="FD_Cooked_Meat" title="Cooked Meat"/>
+   <link ref="FD_Fruit" title="Fruit"/><text>            </text>
+   <link ref="FD_Mead" title="Mead"/><text>          </text>
+   <link ref="Grape" title="Grape"/>
    <nl/>
+   <link ref="FD_Cooked_Meat" title="Cooked Meat"/><text>      </text>
+   <link ref="FD_Wine" title="Wine"/><text>          </text>
+   <link ref="Pear" title="Pear"/>
    <nl/><nl/>
    <color>yellow</color>
    <text>                        </text><link ref="Index" title="Back To Index"/>
@@ -1219,6 +1278,8 @@
    <text> You can get perks from the Wraith on Isla Prima.</text><nl/>
    <text> Perks are permanent and will stay with you even when you</text><nl/>
    <text> die. For this reason, think carefully before taking one.</text><nl/>
+   <text> There are some nice quest perks that are not listed here.</text><nl/>
+   <text> You are on your own to find out about those =).</text><nl/>
    <nl/>
    <color r="0" g="0.7" b="1"/>
    <text>Positive Perks:</text><text>                </text><text>Negative Perks:</text><nl/>
@@ -1251,19 +1312,19 @@
    <link ref="P_Col" title="Collateral Damage"/>
    <nl/>
    <link ref="P_FM" title="Fatal Man"/><text>                      </text>
-   <link ref="P_Sk" title="Skeptic"/>
-   <nl/>
-   <link ref="P_CO" title="Conjurer"/><text>                       </text>
    <link ref="P_ONE" title="One"/>
    <nl/>
-   <link ref="P_IGD" title="I Glow in the Dark"/><text>             </text>
+   <link ref="P_CO" title="Conjurer"/><text>                       </text>
    <text> </text>
+   <nl/>
+   <link ref="P_IGD" title="I Glow in the Dark"/><text>             </text>
+   <color r="0" g="0.7" b="1"/><text>Neutral Perks:</text><color r="0.9" g="0.9" b="0.9"/>
    <nl/>
    <link ref="P_TNF" title="There is no Fork"/><text>               </text>
-   <text> </text>
+   <link ref="P_Sk" title="Skeptic"/>
    <nl/>
    <link ref="P_MS" title="Mirror Skin"/><text>                    </text>
-   <text> </text>
+   <link ref="P_DH" title="Dedicated Harvester"/>
    <nl/>
    <link ref="P_IEDP" title="I Eat Dead People"/><text>              </text>
    <text> </text>
@@ -1304,7 +1365,7 @@
    <nl/>
    <text> Many flowers and plants grow in EL, and many minerals</text><nl/>
    <text> can be found in the mines. Potioning is the art of mixing</text><nl/>
-   <text> all these resources in order to create potions which can</text><nl/>
+   <text> all this resources in order to create potions which can</text><nl/>
    <text> temporarily increase your attributes, or restore your mana</text><nl/>
    <text> or health.</text>
    <nl/><nl/>
@@ -1363,7 +1424,7 @@
    <link ref="C_Food" title="Creature Food"/>
    <nl/>
    <link ref="P_Magic" title="Potion of Magic"/><text>                </text>
-   <link ref="P_Archery_AP" title="Potion of Archery AP"/>
+   <link ref="P_Action" title="Potion of Action Points"/>
    <nl/><nl/>
    <color r="0.1" g="0.5" b="1"/><text>Extracts and Mixtures</text>
    <nl/>
@@ -1385,6 +1446,11 @@
    <link ref="Mixture_VEG" title="Refined Vegetal Mixture"/>
    <nl/>
    <link ref="Mixture_POW" title="Mixture of Power"/>
+   <nl/><nl/>
+   <color r="0.1" g="0.5" b="1"/><text>NPC Only</text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="P_Archery_AP" title="Potion of Archery AP"/>
    <nl/>
    <nl/><nl/>
    <color>yellow</color>
@@ -1444,34 +1510,37 @@
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <link ref="S_Skeleton" title="Skeleton"/><text>                       </text>
-   <link ref="S_OrcM" title="Male Orc"/>
-   <nl/>
-   <link ref="S_GargoyleS" title="Short Gargoyle"/><text>                 </text>
    <link ref="S_OrcAF" title="Armed Female Orc"/>
    <nl/>
-   <link ref="S_GargoyleT" title="Tall Gargoyle"/><text>                  </text>
+   <link ref="S_GargoyleS" title="Short Gargoyle"/><text>                 </text>
    <link ref="S_OrcAM" title="Armed Male Orc"/>
    <nl/>
-   <link ref="S_GargoyleM" title="Medium Gargoyle"/><text>                </text>
+   <link ref="S_GargoyleT" title="Tall Gargoyle"/><text>                  </text>
    <link ref="S_Cyclops" title="Cyclops"/>
    <nl/>
-   <link ref="S_RabbitF" title="Fluffy Rabbit"/><text>                  </text>
+   <link ref="S_GargoyleM" title="Medium Gargoyle"/><text>                </text>
    <link ref="S_Yeti" title="Yeti"/>
    <nl/>
-   <link ref="S_ChimeranM" title="Mountain Chimeran"/><text>              </text>
+   <link ref="S_RabbitF" title="Fluffy Rabbit"/><text>                  </text>
    <link ref="S_ChimeranA" title="Arctic Chimeran"/>
    <nl/>
-   <link ref="S_GoblinF" title="Female Goblin"/><text>                  </text>
+   <link ref="S_ChimeranM" title="Mountain Chimeran"/><text>              </text>
    <link ref="S_Giant" title="Giant"/>
    <nl/>
-   <link ref="S_GoblinAM" title="Armed Goblin"/><text>                   </text>
+   <link ref="S_GoblinF" title="Female Goblin"/><text>                  </text>
    <link ref="S_Phantom" title="Phantom Warrior"/>
    <nl/>
-   <link ref="S_SkeletonA" title="Armed Skeleton"/><text>                 </text>
+   <link ref="S_GoblinAM" title="Armed Goblin"/><text>                   </text>
    <link ref="S_Sslessar" title="Sslessar"/>
    <nl/>
-   <link ref="S_OrcF" title="Female Orc"/><text>                     </text>
+   <link ref="S_SkeletonA" title="Armed Skeleton"/><text>                 </text>
    <link ref="S_DragonR" title="Red Dragon"/>
+   <nl/>
+   <link ref="S_OrcF" title="Female Orc"/><text>                     </text>
+   <link ref="S_DragonB" title="Black Dragon"/>
+   <nl/>
+   <link ref="S_OrcM" title="Male Orc"/><text>                       </text>
+   <text> </text>
    <nl/>
    <nl/>
    <size>Medium</size>
@@ -1479,19 +1548,22 @@
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <link ref="ST_Bear" title="Bear"/><text>                           </text>
-   <link ref="ST_RabbitF" title="Fluffy Rabbit"/>
+   <link ref="ST_Sslessar" title="Sslessar"/>
    <nl/>
    <link ref="ST_OrcAM" title="Armed Male Orc"/><text>                 </text>
-   <link ref="ST_Sslessar" title="SSlessar"/>
-   <nl/>
-   <link ref="ST_Spider" title="Giant Spider"/><text>                   </text>
    <link ref="ST_Yeti" title="Yeti"/>
    <nl/>
-   <link ref="ST_TigerW" title="White Tiger"/><text>                    </text>
+   <link ref="ST_Spider" title="Giant Spider"/><text>                   </text>
    <link ref="ST_ChimeranA" title="Arctic Chimeran"/>
    <nl/>
-   <link ref="ST_Phantom" title="Phantom Warrior"/><text>                </text>
+   <link ref="ST_TigerW" title="White Tiger"/><text>                    </text>
    <link ref="ST_Giant" title="Giant"/>
+   <nl/>
+   <link ref="ST_Phantom" title="Phantom Warrior"/><text>                </text>
+   <link ref="ST_LDB" title="Little Dragon Blue"/>
+   <nl/>
+   <link ref="ST_RabbitF" title="Fluffy Rabbit"/><text>                  </text>
+   <text> </text>
    <nl/>
    <nl/>
    <size>Medium</size>
@@ -1626,44 +1698,138 @@
    <link ref="Cavalier_Black" title="Black Cavalier Hat"/><text>            </text>
    <link ref="Robe_Gray" title="Gray Robe"/>
    <nl/>
-   <text>                              </text>
+   <link ref="Wizard_White" title="White Wizard Hat"/><text>              </text>
    <link ref="RobeSkirt_Gray" title="Gray Robe Skirt"/>
    <nl/>
-   <color r="0" g="0.7" b="1"/><text>Special Hats</text><text>                  </text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Wizard_Gray" title="Gray Wizard Hat"/><text>               </text>
    <link ref="Robe_Brown" title="Brown Robe"/>
    <nl/>
-   <link ref="Santa_Hat" title="Santa Hat"/><text>                     </text>
+   <link ref="Wizard_Black" title="Black Wizard Hat"/><text>              </text>
    <link ref="RobeSkirt_Brown" title="Brown Robe Skirt"/>
    <nl/>
-   <link ref="Hood" title="Universal Hood"/><text>                </text>
+   <text>                              </text>
    <link ref="Robe_Red" title="Red Robe"/>
    <nl/>
-   <text>                              </text>
+   <color r="0" g="0.7" b="1"/><text>Special Hats</text><text>                  </text><color r="0.9" g="0.9" b="0.9"/>
    <link ref="RobeSkirt_Red" title="Red Robe Skirt"/>
    <nl/>
-   <color r="0" g="0.7" b="1"/><text>Pants</text><text>                         </text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Santa_Hat" title="Santa Hat"/><text>                     </text>
    <link ref="Robe_Yellow" title="Yellow Robe"/>
    <nl/>
-   <link ref="Pants_RedBlack" title="Black Red Striped Pants"/><text>       </text>
+   <link ref="Hood" title="Universal Hood"/><text>                </text>
    <link ref="RobeSkirt_Yellow" title="Yellow Robe Skirt"/>
    <nl/>
-   <link ref="Pants_RedWhite" title="White Red Striped Pants"/><text>       </text>
+   <text>                              </text>
    <text> </text>
    <nl/>
-   <link ref="Pants_PurpleBlack" title="Black Purple Striped Pants"/><text>    </text>
+   <color r="0" g="0.7" b="1"/><text>Pants</text><text>                         </text><color r="0.9" g="0.9" b="0.9"/>
    <color r="0" g="0.7" b="1"/><text>Enchanted Clothes</text><color r="0.9" g="0.9" b="0.9"/>
    <nl/>
-   <link ref="Pants_BlueBlack" title="Black Blue Striped Pants"/><text>      </text>
+   <link ref="Pants_RedBlack" title="Black Red Striped Pants"/><text>       </text>
    <link ref="NMW_Cape" title="Cape of No More Warlock"/>
    <nl/>
-   <link ref="Pants_Black" title="Black Baggy Pants"/><text>             </text>
+   <link ref="Pants_RedWhite" title="White Red Striped Pants"/><text>       </text>
    <link ref="Tunic_Ninja" title="Tunic of the Ninja"/>
    <nl/>
-   <link ref="Pants_Brown" title="Brown Baggy Pants"/><text>             </text>
+   <link ref="Pants_PurpleBlack" title="Black Purple Striped Pants"/><text>    </text>
    <link ref="Robe_Mage" title="Mage Robe"/>
    <nl/>
-   <text>                              </text>
+   <link ref="Pants_BlueBlack" title="Black Blue Striped Pants"/><text>      </text>
    <link ref="RobeSkirt_Mage" title="Mage Robe Skirt"/>
+   <nl/>
+   <link ref="Pants_Black" title="Black Baggy Pants"/><text>             </text>
+   <text> </text>
+   <nl/>
+   <link ref="Pants_Brown" title="Brown Baggy Pants"/><text>             </text>
+   <color r="0" g="0.7" b="1"/><text>Dresses</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text>                              </text>
+   <link ref="Dress_PW" title="Purple White Dress"/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Vests</text><text>                         </text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Dress_GW" title="Green White Dress"/>
+   <nl/>
+   <link ref="Vest_BG" title="Blue Green Vest"/><text>               </text>
+   <link ref="Dress_BW" title="Black White Dress"/>
+   <nl/>
+   <link ref="Vest_R" title="Red Vest"/><text>                      </text>
+   <link ref="Dress_RP" title="Red Pink Dress"/>
+   <nl/>
+   <link ref="Vest_B" title="Black Vest"/><text>                    </text>
+   <text> </text>
+   <nl/>
+   <link ref="Vest_Br" title="Brown Vest"/><text>                    </text>
+   <color r="0" g="0.7" b="1"/><text>Skirts</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text>                              </text>
+   <link ref="Skirt_PW" title="Purple White Skirt"/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Boots</text><text>                         </text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Skirt_GW" title="Green White Skirt"/>
+   <nl/>
+   <link ref="Boots_W" title="White Boots"/><text>                   </text>
+   <link ref="Skirt_BW" title="Black White Skirt"/>
+   <nl/>
+   <link ref="Boots_Br" title="Brown Boots"/><text>                   </text>
+   <link ref="Skirt_RP" title="Red Pink Skirt"/>
+   <nl/>
+   <link ref="Boots_B" title="Black Boots"/><text>                   </text>
+   <text> </text>
+   <nl/>
+   <text>                              </text>
+   <color r="0" g="0.7" b="1"/><text>Doublets</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Peasant Dresses</text><text>               </text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Doub_W" title="White Doublet"/>
+   <nl/>
+   <link ref="Peas_WR" title="White Red Peasant Dress"/><text>       </text>
+   <link ref="Doub_B" title="Black Doublet"/>
+   <nl/>
+   <link ref="Peas_WB" title="White Blue Peasant Dress"/><text>      </text>
+   <link ref="Doub_N" title="Navy Doublet"/>
+   <nl/>
+   <link ref="Peas_BrB" title="Brown Blue Peasant Dress"/><text>      </text>
+   <link ref="Doub_Br" title="Brown Doublet"/>
+   <nl/>
+   <link ref="Peas_P" title="Purple Peasant Dress"/><text>          </text>
+   <text> </text>
+   <nl/>
+   <text>                              </text>
+   <color r="0" g="0.7" b="1"/><text>Jackets</text><color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Peasant Skirts</text><text>                </text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="Jack_Br" title="Brown Jacket"/>
+   <nl/>
+   <link ref="Pskirt_WR" title="White Red Peasant Skirt"/><text>       </text>
+   <link ref="Jack_G" title="Green Jacket"/>
+   <nl/>
+   <link ref="Pskirt_WB" title="White Blue Peasant Skirt"/><text>      </text>
+   <link ref="Jack_B" title="Black Jacket"/>
+   <nl/>
+   <link ref="Pskirt_BrB" title="Brown Blue Peasant Skirt"/><text>      </text>
+   <link ref="Jack_N" title="Navy Jacket"/>
+   <nl/>
+   <link ref="Pskirt_P" title="Purple Peasant Skirt"/><text>          </text>
+   <text> </text>
+   <nl/>
+   <text>                              </text>
+   <color r="0" g="0.7" b="1"/><text>Writing</text>
+   <nl/>
+   <color r="0" g="0.7" b="1"/><text>Wedding Dresses</text><text>               </text><color r="0.9" g="0.9" b="0.9"/>
+   <link ref="BigBookT" title="Big Book of Tailoring"/>
+   <nl/>
+   <link ref="WDress_G" title="White Gold Wedding Dress"/><text>      </text>
+   <text> </text>
+   <nl/>
+   <link ref="WDress_S" title="White Silver Wedding Dress"/><text>    </text>
+   <text> </text>
+   <nl/>
+   <link ref="WSkirt_G" title="White Gold Wedding Skirt"/><text>      </text>
+   <text> </text>
+   <nl/>
+   <link ref="WSkirt_S" title="White Silver Wedding Skirt"/><text>    </text>
+   <text> </text>
+   <nl/>
    <nl/>
    <nl/><nl/>
    <color>yellow</color>
@@ -1672,7 +1838,7 @@
 <Page name="Weapons">
    <size>Small</size><color>yellow</color>
    <link x="2" y="2" ref="Index" title="Back"/>
-   <text x="2" y="18">Page 1/2</text>
+   <text x="2" y="18">Page 1/3</text>
    <link x="437" y="2" ref="Index" title="Index"/>
    <link x="450" y="18" ref="Ench_Weapons" title=">>>"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
@@ -1749,7 +1915,7 @@
    <link ref="Rad_Rapier" title="Radioactive Rapier"/><text>             </text>
    <link ref="Halberd" title="Halberd"/>
    <nl/>
-   <text>                               </text>
+   <link ref="Blue Dragon Sword" title="Blue Dragon Sword"/><text>              </text>
    <link ref="Dragon Blade" title="Dragon Blade"/>
    <nl/>
    <text>                               </text>
@@ -1764,9 +1930,9 @@
 <Page name="Ench_Weapons">
    <size>Small</size><color>yellow</color>
    <link x="2" y="2" ref="Index" title="Back"/>
-   <text x="2" y="18">Page 2/2</text>
+   <text x="2" y="18">Page 2/3</text>
    <link x="437" y="2" ref="Index" title="Index"/>
-   <link x="450" y="18" ref="Weapons" title=">>>"/>
+   <link x="450" y="18" ref="Spec_Weapons" title=">>>"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
    <text x="74" y="2">The Eternal Lands Encyclopedia</text>
    <nl/>
@@ -1841,7 +2007,37 @@
    <nl/><nl/>
    <color>yellow</color>
    <text> </text><link ref="Index" title="Back To Index"/>
-   <text>                                </text><link ref="Weapons" title="Weapons >>>"/>
+   <text>                        </text><link ref="Rare_Weapons" title="Rare Weapons >>>"/>
+   <nl/>
+</Page>
+<Page name="Rare_Weapons">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Index" title="Back"/>
+   <text x="2" y="18">Page 3/3</text>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <link x="450" y="18" ref="Weapons" title=">>>"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 RARE WEAPONS</text><nl/>
+   <size>Small</size>
+   <color r="0.5" g="0.9" b="1"/>
+   <nl/>
+   <text> These weapons are mixed by chance when mixing their normal</text><nl/>
+   <text> couterparts. (or sold on occasion by the EL shop)</text><nl/>
+   <nl/><nl/>
+   <size>Medium</size>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <link ref="ecolam" title="Emerald Claymore of Life and Mana"/><nl/>
+   <link ref="cotm" title="Cutlass of the Mage"/><nl/>
+   <link ref="sod" title="Subreaker of Destruction"/><nl/>
+   <link ref="osomn" title="Orc Slayer of Mana Nullification"/><nl/>
+   <link ref="ewoed" title="Eagle Wing of Extra Damage"/><nl/>
+   <link ref="rod" title="Rapier of Death"/><nl/>
+   <link ref="jsoc" title="Jagged Saber of Cooling"/><nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                        </text><link ref="Index" title="Back To Index"/>
    <nl/>
 </Page>
 </General>

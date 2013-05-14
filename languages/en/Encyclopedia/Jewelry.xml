@@ -548,6 +548,44 @@
    <color>yellow</color>
    <text>                    </text><link ref="Jewelry" title="Back To Crafting Index"/>
 </Page>
+<Page name="Ring_MM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CRAFTING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>         Ring of Morcraven Marsh</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> When used, transports you to Morcraven Marsh.</text>
+   <nlkx/>
+   <text> Good for one use only.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Gold Ring, 2 Polished Sapphire, 8 Magic Essences.</text>
+   <nl/>
+   <text> Knowledge needed: none</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Recommended Crafting Level: 35</text>
+   <nl/>
+   <text> Crafting Experience Given: 100</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Crafting Index"/>
+</Page>
 <Page name="Ring_Anitora">
    <size>Small</size><color>yellow</color>
    <link x="2" y="2" ref="Jewelry" title="Back"/>
@@ -1173,6 +1211,84 @@
    <color>yellow</color>
    <text>                    </text><link ref="Jewelry" title="Back To Crafting Index"/>
 </Page>
+<Page name="Ring_SRM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CRAFTING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>           Ring of South Redmoon</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="24" name="textures/items11.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> When used, transports you to South Redmoon.</text>
+   <nlkx/>
+   <text> Good for one use only.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Gold Ring, 1 Polished Ruby,</text><nl/>
+   <text> 16 Energy Essences, 15 Magic Essences.</text>
+   <nl/>
+   <text> Knowledge needed: none</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Recommended Crafting Level: 37</text>
+   <nl/>
+   <text> Crafting Experience Given: 165</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Crafting Index"/>
+</Page>
+<Page name="Ring_Mel">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CRAFTING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Ring of Melinis</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="16" name="textures/items7.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> When used, transports you to Melinis.</text>
+   <nlkx/>
+   <text> Good for one use only.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Gold Ring, 3 Polished Ruby,</text><nl/>
+   <text> 14 Energy Essences, 14 Magic Essences.</text>
+   <nl/>
+   <text> Knowledge needed: none</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 4, Magic 1</text>
+   <nl/>
+   <text> Recommended Crafting Level: 39</text>
+   <nl/>
+   <text> Crafting Experience Given: 175</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Crafting Index"/>
+</Page>
 <Page name="Ring_Damage">
    <size>Small</size><color>yellow</color>
    <link x="2" y="2" ref="Jewelry" title="Back"/>
@@ -1415,6 +1531,48 @@
    <color>yellow</color>
    <text>                    </text><link ref="Jewelry" title="Back To Crafting Index"/>
 </Page>
+<Page name="E_Unicorn">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CRAFTING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>        Enhanced Unicorn Medallion</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="19" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> When worn, it increases your defense by 4.</text>
+   <nlkx/>
+   <text> Gives extra armor via Action Points.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Silver Bar, 1 Silver Medallion, 2 Fire Essences,</text>
+   <nl/>
+   <text> 1 Seridium Bar.</text>
+   <nl/>
+   <text> Knowledge needed: Enhanced Unicorn Medallion Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5, Magic 2</text>
+   <nl/>
+   <text> Recommended Crafting Level: 78</text>
+   <nl/>
+   <text> Crafting Experience Given: 450</text>
+   <nl/>
+   <text> Food subtracted: 28</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Crafting Index"/>
+</Page>
 <Page name="Med_Sun">
    <size>Small</size><color>yellow</color>
    <link x="2" y="2" ref="Jewelry" title="Back"/>
@@ -1443,6 +1601,48 @@
    <text> Recommended Crafting Level: 23</text>
    <nl/>
    <text> Crafting Experience Given: 95</text>
+   <nl/>
+   <text> Food subtracted: 28</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Crafting Index"/>
+</Page>
+<Page name="E_Sun">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CRAFTING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>          Enhanced Sun Medallion</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> When worn, it increases your accuracy 4.</text>
+   <nlkx/>
+   <text> Gives extra weapon damage via Action Points. </text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 1 Gold Bar, 1 Gold Medallion, 2 Fire Essences,</text>
+   <nl/>
+   <text> 1 Seridium Bar.</text>
+   <nl/>
+   <text> Knowledge needed: Enhanced Sun Medallion Building</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 5, Magic 2</text>
+   <nl/>
+   <text> Recommended Crafting Level: 80</text>
+   <nl/>
+   <text> Crafting Experience Given: 470</text>
    <nl/>
    <text> Food subtracted: 28</text>
    <nl/>
@@ -1644,7 +1844,7 @@
    <nl/>
    <text> 1 Seridium Bar, 2 Gold Bars, 20 Red Toadstools,</text>
    <nl/>
-   <text> 10 Fire Essences.</text>
+   <text> 10 Fire Essences, 4 Turquoises.</text>
    <nl/>
    <text> Knowledge needed: Harvester Medallion Building</text>
    <nl/>
@@ -1686,7 +1886,7 @@
    <nl/>
    <text> 1 Seridium Bar, 2 Silver Bars, 20 White Chanterelles,</text>
    <nl/>
-   <text> 10 Fire Essences.</text>
+   <text> 10 Fire Essences, 5 Turquoises.</text>
    <nl/>
    <text> Knowledge needed: Heavenspawn Medallion Building</text>
    <nl/>
@@ -1728,7 +1928,9 @@
    <nl/>
    <text> 1 Seridium Bar, 2 Enriched Life Essences,</text>
    <nl/>
-   <text> 10 Fire Essences, 30 White Chanterelles.</text>
+   <text> 10 Fire Essences, 30 White Chanterelles,</text>
+   <nl/>
+   <text> 10 Turquoises.</text>
    <nl/>
    <text> Knowledge needed: Medallion of Life Building</text>
    <nl/>
@@ -1757,7 +1959,7 @@
    <text>                  CRAFTING</text><nl/>
    <color r="1" g="1" b="1"/>
    <text>             Medallion of Mana</text><nl/><nl/>
-   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items4.bmp" yposupdate="0" xposupdate="1"/>
    <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
    <text> Increases your maximum ethereal points by 20.</text>
    <nlkx/>
@@ -1768,7 +1970,9 @@
    <nl/>
    <text> 1 Seridium Bar, 2 Enriched Magic Essences,</text>
    <nl/>
-   <text> 10 Fire Essences, 30 Henbanes.</text>
+   <text> 10 Fire Essences, 30 Henbanes,</text>
+   <nl/>
+   <text> 20 Turquoises.</text>
    <nl/>
    <text> Knowledge needed: Medallion of Mana Building</text>
    <nl/>
@@ -1811,7 +2015,7 @@
    <text> Required materials:</text>
    <nl/>
    <text> 10 Moon Medallions, 1 Seridium Bar, 10 Fire Essences,</text><nl/>
-   <text> 30 Henbanes.</text>
+   <text> 30 Henbanes, 10 Turquoises.</text>
    <nl/>
    <text> Knowledge needed: Gatherer Medallion Building</text>
    <nl/>
@@ -1990,6 +2194,119 @@
    <text> Stackable: No</text>
    <nl/>
    <text> Weight: 8 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Crafting Index"/>
+</Page>
+<Page name="Paper">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CRAFTING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Blank Paper</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> For writing on.</text>
+   <nl/><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Water Essences, 10 Wood Logs</text><nl/>
+   <text> Knowledge needed: none</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 3</text>
+   <nl/>
+   <text> Recommended Crafting Level: 76</text>
+   <nl/>
+   <text> Crafting Experience Given: 370</text>
+   <nl/>
+   <text> Food subtracted: 34</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Crafting Index"/>
+</Page>
+<Page name="Quill">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CRAFTING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>               Quill and Ink</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="8" name="textures/items14.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> For writing with.</text>
+   <nl/><nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Coal, 4 Cockatrice Feathers, 3 Water Essences</text><nl/>
+   <text> Knowledge needed: none</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 3</text>
+   <nl/>
+   <text> Recommended Crafting Level: 75</text>
+   <nl/>
+   <text> Crafting Experience Given: 350</text>
+   <nl/>
+   <text> Food subtracted: 34</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Jewelry" title="Back To Crafting Index"/>
+</Page>
+<Page name="BigBookC">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Jewelry" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CRAFTING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>           Big Book of Crafting</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="22" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Gives 60kxp in Crafting, can be read multiple times,</text>
+   <nlkx/>
+   <text> but you'll have to buy a new book each time.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: Requires 200 Action Points to mix.</text>
+   <nl/>
+   <text> Note: You'll lose 50 Action Points on critical</text>
+   <nl/>
+   <text> failure. Saving stone prevents it.</text>
+   <nl/><nl/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 10 Blank Paper, 5 Quill and Ink</text><nl/>
+   <text> Knowledge needed: Book Writing</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Crafting Level: 100</text>
+   <nl/>
+   <text> Crafting Experience Given: 200</text>
+   <nl/>
+   <text> Food subtracted: 34</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
    <nl/><nl/>
    <color>yellow</color>
    <text>                    </text><link ref="Jewelry" title="Back To Crafting Index"/>

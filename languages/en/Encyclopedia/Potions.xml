@@ -1863,4 +1863,48 @@
    <color>yellow</color>
    <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
 </Page>
+<Page name="P_Action">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Potions" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   POTIONS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Potion of Action</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="20" name="textures/items15.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Increases your Action Points by 100.</text>
+   <nlkx/>
+   <text> </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: Stores in magic section of storage.</text>
+   <nlkx/>
+   <text> Note: the process produces 40 potions at a time</text>
+   <nlkx/>
+   <nl/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 50 Empty Vial, 1 Orange, 1 Pear, 1 Grapes.</text>
+   <nl/>
+   <text> Knowledge needed: Potion of Action Points</text>
+   <nl/>
+   <text> Required Nexuses: Vegetal 6</text>
+   <nl/>
+   <text> Recommended Potion Level: 79</text>
+   <nl/>
+   <text> Potion Experience Given: 5500</text>
+   <nl/>
+   <text> Food subtracted: 35</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/>
+   <nl/>
+   <color>yellow</color>
+   <text>                      </text><link ref="Potions" title="Back To Potions Index"/>
+</Page>
 </Potions>

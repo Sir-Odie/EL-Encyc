@@ -1262,9 +1262,9 @@
    <nl/>
    <text> Required materials:</text>
    <nl/>
-   <text> 6 Enriched Fire Essences, 5 Enriched Life Essences,</text>
+   <text> 5 Enriched Fire Essences, 5 Enriched Life Essences,</text>
    <nl/>
-   <text> 10 Serpent Stone, 1 Mixture of Power, 15 Bones.</text>
+   <text> 6 Serpent Stone, 1 Mixture of Power, 15 Bones.</text>
    <nl/>
    <text> Knowledge needed: Red Dragon Summoning</text>
    <nl/>
@@ -1273,6 +1273,43 @@
    <text> Recommended Summoning Level: 80</text>
    <nl/>
    <text> Summoning Experience Given: 12000</text>
+   <nl/>
+   <text> Mana subtracted: 85</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="S_DragonB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Black Dragon</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> How to summon a Black Dragon</text>
+   <nlkx/>
+   <text> </text>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: 2 Black Dragons will be summoned at once.</text><nl/>
+   <nl/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 5 Enriched Fire Essences, 6 Enriched Life Essences,</text>
+   <nl/>
+   <text> 7 Serpent Stone, 5 Mixture of Power, 15 Bones.</text>
+   <nl/>
+   <text> Knowledge needed: Red Dragon Summoning</text>
+   <nl/>
+   <text> Required Nexuses: Animal 6</text>
+   <nl/>
+   <text> Recommended Summoning Level: 85</text>
+   <nl/>
+   <text> Summoning Experience Given: 15000+</text>
    <nl/>
    <text> Mana subtracted: 85</text>
    <nl/><nl/>
@@ -1508,6 +1545,9 @@
    <text> </text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: the process produces 2 stones at a time</text>
+   <nlkx/>
+   <nlkx/>
    <text> Required materials:</text>
    <nl/>
    <text> 1 Enriched Life Essences, 20 Gypsum,</text>
@@ -1550,6 +1590,8 @@
    <text> </text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: the process produces 3 stones at a time</text>
+   <nl/><nl/>
    <text> Required materials:</text>
    <nl/>
    <text> 20 Gypsum, 1 Potion of Extra Mana, 1 Serpent Stone</text>
@@ -1590,11 +1632,15 @@
    <text> </text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: the process produces 3 stones at a time</text>
+   <nl/><nl/>
    <text> Required materials:</text>
    <nl/>
    <text> 1 Enriched Life Essence, 1 Enriched Water Essence,</text>
    <nl/>
-   <text> 20 Gypsum, 3 Potions of Extra Mana, 1 Binding Stone</text>
+   <text> 20 Gypsum, 3 Potions of Extra Mana,</text>
+   <nl/>
+   <text> 1 Enriched Energy Essence</text>
    <nl/>
    <text> Knowledge needed: Arctic Chimeran Stone Construction</text>
    <nl/>
@@ -1632,11 +1678,13 @@
    <text> </text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: the process produces 4 stones at a time</text>
+   <nl/><nl/>
    <text> Required materials:</text>
    <nl/>
    <text> 1 Enriched Life Essence, 1 Enriched Water Essence,</text>
    <nl/>
-   <text> 20 Gypsum, 1 Binding Stone</text>
+   <text> 20 Gypsum, 1 Enriched Energy Essence</text>
    <nl/>
    <text> Knowledge needed: Yeti Stone Construction</text>
    <nl/>
@@ -1674,11 +1722,13 @@
    <text> </text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: the process produces 3 stones at a time</text>
+   <nl/><nl/>
    <text> Required materials:</text>
    <nl/>
    <text> 3 Enriched Life Essences, 1 Enriched Magic Essence,</text>
    <nl/>
-   <text> 20 Gypsum, 1 Binding Stone</text>
+   <text> 20 Gypsum, 1 Enriched Energy Essence</text>
    <nl/>
    <text> Knowledge needed: Giant Stone Construction</text>
    <nl/>
@@ -1689,6 +1739,44 @@
    <text> Summoning Experience Given: 9000</text>
    <nl/>
    <text> Food subtracted: 50</text>
+   <nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                   </text><link ref="Summoning" title="Back To Summoning Index"/>
+</Page>
+<Page name="ST_LDB">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Summoning" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  SUMMONING</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>     Little Dragon Blue Summoning Stone</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="9" name="textures/items16.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> When used, summon a Little Dragon Blue.</text>
+   <nl/>
+   <text>       Good for one use only.</text>
+   <nlkx/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> ???</text>
+   <nl/>
+   <text> Knowledge needed: ???</text>
+   <nl/>
+   <text> Required Nexuses: ???</text>
+   <nl/>
+   <text> Recommended Summoning Level: ???</text>
+   <nl/>
+   <text> Summoning Experience Given: ???</text>
+   <nl/>
+   <text> Food subtracted: ???</text>
    <nl/>
    <text> Stackable: Yes</text>
    <nl/>

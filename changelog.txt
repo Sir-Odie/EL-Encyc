@@ -1,0 +1,84 @@
+Changelog:
+
+2013-05-14
+
+Alchemy:
+Added Enriched Energy Essence
+
+Archery:
+Made stats more specific
+Images for training arrows/bolts updated
+
+Armors:
+Added Blue Dragon armour and shield
+Added 2nd page for titanium/steel special armors and holam
+Fixed Typo in life drain shield
+
+Books:
+Added new books
+Updated experience books, added links to the makable books
+All black dragon armor making books have now 25k pages
+
+Clothes:
+Added hyperlinks between capes and the perks they give
+
+Crafting:
+Added Enhanced Sun and Enhanced Unicorn Medallions
+Added Ring of Morcraven Marsh and new C2 rings
+Added Big Book of Crafting
+Added Turquiose as ingredients for harvester medallion, heaven spawner medallion, MoL, and MoM
+Fixed Medallion of Mana image
+
+Creatures:
+Added Frost Troll, Legionnaire Orc, and Blue Dragon
+
+Engineering:
+Added Treasure Finders and Pear Finders
+Added Predictor ingredients
+Updated (poison) caltrops EMU
+Fixed Night visor tools
+
+Harvesting:
+Updated amber and honey comb information
+
+Maps:
+Updated Iscalrith to be Multi-Combat
+
+Miscellanea:
+Updated Horse Whistle information
+Added Dung Teleporter, orange, grapes, pear
+Added Big Book of Manufacturing
+
+Perks:
+Added new section "Neutral Perks"
+Moved skeptic to "Neutral Perks"
+Added Dedicated Harvester
+
+Potions:
+Added Potion of Action Points
+
+Summoning:
+Added Little Dragon Blue summoning stone
+Added Black Dragon summoning information
+Updated Red Dragon summoning information
+Updated Yeti, Arctic Chimeran, and Giant summoning stone ingredients and amounts
+
+Tailoring:
+Added Wizard Hats
+Added Vests
+Added Dresses
+Added Boots
+Added Skirts
+Added Peasant Dresses
+Added Peasant Skirts
+Added Doublets
+Added Jackets
+Added Wedding Dresses/Skirts
+Added Big Book of Tailoring
+
+Weapons:
+Added Blue Dragon Sword
+Updated Halberd and Spear ingredients and stats
+Added 3rd page for great sword rare weapons
+
+Various layout changes/fixes

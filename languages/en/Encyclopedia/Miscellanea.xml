@@ -773,17 +773,19 @@
    <size>Medium</size><color r="0.9" g="0.9" b="0.9"/>
    <text> Horse Whistles are available from </text><link ref="http://www.eternal-lands.com/page/shop.php" title="EL shop"/><text>.</text><nl/>
    <nl/>
-   <text> Using a Horse Whistles allow you to ride a horse (when</text><nl/>
-   <text> used, the whistle has 1/3 chance to disappear).</text><nl/>
-   <text> Horses are for looks only, walk at normal player speed but</text><nl/>
-   <text> do not require creature food or any other upkeep while</text><nl/>
-   <text> you're on it.</text><nl/>
+   <text> Using a Horse Whistles allow you to ride a horse.</text><nl/>
+   <text> While riding a horse, you will move 2x faster!</text><nl/>
+   <text> However, horses get tired after a while, and need a</text><nl/>
+   <text> break. Once your horse gets too tired, you'll have</text><nl/>
+   <text> to buy a new whistle if you want to keep riding.</text><nl/>
    <text> You can ride a horse outside for as long as you want, but</text><nl/>
    <text> if you enter a house/cave it will dissapear.</text><nl/>
    <text> The horse will also disappear if you attack/get attacked.</text><nl/>
    <text> You can't harvest or mix while on a horse, but you can</text><nl/>
    <text> fight, trade, access storage and talk to NPCs.</text><nl/>
-   <nl/>
+   <text> You can stop riding a horse at any time by clikcing</text><nl/>
+   <text> on yourself with the "use" icon.</text>
+   <nl/><nl/>
    <text> This item cannot be manufactured.</text><nl/>
    <nl/>
    <nl/><nl/>
@@ -1093,6 +1095,156 @@
    <nl/>
    <text> Weight: 3 EMU</text>
    <nl/>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="BigBookM">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                    MISC</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>        Big Book of Manufacturing</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="21" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text> Gives 60kxp in Manufacturing, can be read multiple</text>
+   <nlkx/>
+   <text> times, but you'll have to buy a new book each time.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: Requires 250 Action Points to mix.</text>
+   <nl/>
+   <text> Note: You'll lose 62 Action Points on critical</text>
+   <nl/>
+   <text> failure. Saving stone prevents it.</text>
+   <nl/><nl/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 12 Blank Paper, 6 Quill and Ink</text><nl/>
+   <text> Knowledge needed: Book Writing</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 2</text>
+   <nl/>
+   <text> Recommended Manufacturing Level: 100</text>
+   <nl/>
+   <text> Manufacturing Experience Given: 200</text>
+   <nl/>
+   <text> Food subtracted: 34</text>
+   <nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Dung_Tele">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MISC</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Dung Teleporters</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="23" name="textures/items19.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> This item can only be found while harvesting </text><link ref="Dung" title="Dung"/><text>.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Teleports you to the Hall of Outhouses, with connections</text><nl/>
+   <text> to selected outhouses in Seridia and Irilion.</text>
+   <nl/><nl/><nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Orange">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MISC</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                  Orange</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="3" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Dropped by Boss monsters in instances only.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Is used to make </text><link ref="P_Action" title="Potion of Action"/><text>.</text>
+   <nl/><nl/><nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Pear">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MISC</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                   Pear</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="0" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> One pear is placed at the start of each day </text><nl/>
+   <text>       in a random harvestable.</text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Is used to make </text><link ref="P_Action" title="Potion of Action"/><text>.</text><nl/>
+   <text> </text><link ref="Pear_Finder" title="Pear Finders"/><text> can be used to locate the map that contains</text><nl/>
+   <text> the pear.</text><nl/>
+   <text> When one is found a blue message is displayed announcing</text><nl/>
+   <text> it to all players in-game.</text>
+   <nl/><nl/><nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>
+</Page>
+<Page name="Grape">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Misc" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MISC</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>             Grapes</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="4" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> At the start of each day one random creature</text><nl/>
+   <text>       gets a grape. </text>
+   <nl/><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Is used to make </text><link ref="P_Action" title="Potion of Action"/><text>.</text>
+   <nl/><nl/><nl/>
+   <text> Stackable: Yes</text>
+   <nl/>
+   <text> Weight: 1 EMU</text>
    <nl/><nl/>
    <color>yellow</color>
    <text>                  </text><link ref="Misc" title="Back To Miscellanea Index"/>

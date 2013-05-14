@@ -402,9 +402,15 @@
    <text> Human Fighting              *      20000        2000</text><nl/>
    <text> Fluffy Fighting                    40000       20000</text><nl/>
    <text> Yeti Fighting                     150000       35000</text><nl/>
+   <text> Cockatrice Fighting               160000       45000</text><nl/>
+   <text> Arctic Chimeran Fighting          170000       45000</text><nl/>
    <text> Giant Fighting                    200000       45000</text><nl/>
    <text> Red Dragon Fighting               250000       55000</text><nl/>
    <text> Black Dragon Fighting             290000       55000</text><nl/>
+   <text> Ice Dragon Fighting               300000       60000</text><nl/>
+   <text> Blue Dragon Fighting              320000       60000</text><nl/>
+   <text> Bulangiu Fighting                 350000       65000</text><nl/>
+   <text> Mare Bulangiu Fighting            380000       65000</text><nl/>
    <nl/>
    <color>yellow</color>
    <text>                      </text><link ref="Books" title="Back To Books Index"/>
@@ -551,6 +557,8 @@
    <text> Medallion of Life                  10000       15000</text><nl/>
    <text> Gatherer Medallion                 20000       20000</text><nl/>
    <text> Medallion of Mana                  20000       20000</text><nl/>
+   <text> Enhanced Sun Medallion             30000       20000</text><nl/>
+   <text> Enhaned Unicorn Medallion          30000       20000</text><nl/>
    <nl/>
    <color>yellow</color>
    <text>                      </text><link ref="Books" title="Back To Books Index"/>
@@ -691,14 +699,19 @@
    <text> Red Dragon Cuisses                 20000       20000</text><nl/>
    <text> Red Dragon Torso Armor             20000       20000</text><nl/>
    <text> Red Dragon Helm                    20000       15000</text><nl/>
-   <text> Black Dragon Greaves               20000       20000</text><nl/>
-   <text> Black Dragon Cuisses               20000       20000</text><nl/>
-   <text> Black Dragon Torso Armor           20000       20000</text><nl/>
-   <text> Black Dragon Helm                  20000       20000</text><nl/>
+   <text> Black Dragon Greaves               20000       25000</text><nl/>
+   <text> Black Dragon Cuisses               20000       25000</text><nl/>
+   <text> Black Dragon Torso Armor           20000       25000</text><nl/>
+   <text> Black Dragon Helm                  20000       25000</text><nl/>
    <text> Ice Dragon Greaves                 20000       20000</text><nl/>
    <text> Ice Dragon Cuisses                 20000       20000</text><nl/>
    <text> Ice Dragon Torso Armor             20000       20000</text><nl/>
    <text> Ice Dragon Helm                    20000       20000</text><nl/>
+   <text> Blue Dragon Greaves                20000       20000</text><nl/>
+   <text> Blue Dragon Cuisses                20000       20000</text><nl/>
+   <text> Blue Dragon Torso Armor            20000       20000</text><nl/>
+   <text> Blue Dragon Helm                   20000       20000</text><nl/>
+   <text> Blue Dragon Shield                 20000       20000</text><nl/>
    <nl/>
    <color>yellow</color>
    <text>                      </text><link ref="Books" title="Back To Books Index"/>
@@ -724,14 +737,15 @@
    <text> Eagle Wing                          6000       12000</text><nl/>
    <text> Rapier                              6000       12000</text><nl/>
    <text> Jagged Saber                        6000       12000</text><nl/>
+   <text> Frying Pan                          8000        1500</text><nl/>
    <text> Bronze Sword                       20000       15000</text><nl/>
    <text> Golden Star Mace                   20000       15000</text><nl/>
    <text> Spear                              20000       15000</text><nl/>
    <text> Halberd                            20000       15000</text><nl/>
    <text> Dragon Blade                       20000       15000</text><nl/>
    <text> Scythe                             20000       15000</text><nl/>
-   <text> Radioactive Rapier                 20000         ???</text><nl/>
-   <text> Frying Pan                          8000        1500</text><nl/>
+   <text> Radioactive Rapier                 20000       12000</text><nl/>
+   <text> Blue Dragon Sword                  20000       20000</text><nl/>
    <nl/>
    <color>yellow</color>
    <text>                      </text><link ref="Books" title="Back To Books Index"/>
@@ -756,21 +770,23 @@
    <text> Snare                              10000        2500</text><nl/>
    <text> Caltrops                           10000       10000</text><nl/>
    <text> Saltpetre                          10000       20000</text><nl/>
-   <text> Poisoned Caltrops                  15000       15000</text><nl/>
-   <text> Small Landmine                     20000       20000</text><nl/>
-   <text> Medium Landmine                    20000       15000</text><nl/>
-   <text> High Explosive Landmine            20000       15000</text><nl/>
-   <text> RC Landmine                        15000       20000</text><nl/>
-   <text> RC Landmine Detonator              15000       20000</text><nl/>
-   <text> Barricade                          20000       25000</text><nl/>
    <text> Lightmeter                         10000       10000</text><nl/>
    <text> Invasionmeter                      10000       10000</text><nl/>
-   <text> Night Visor                        25000       30000</text><nl/>
-   <text> Camouflage Cape                    25000       25000</text><nl/>
+   <text> Poisoned Caltrops                  15000       15000</text><nl/>
    <text> Mana Burn Ward                     15000       20000</text><nl/>
    <text> Mana Drain Ward                    15000       20000</text><nl/>
    <text> Immunity Removal Ward              15000       20000</text><nl/>
    <text> Invisibility Removal Ward          15000       20000</text><nl/>
+   <text> RC Landmine                        15000       20000</text><nl/>
+   <text> RC Landmine Detonator              15000       20000</text><nl/>
+   <text> Small Landmine                     20000       20000</text><nl/>
+   <text> Medium Landmine                    20000       15000</text><nl/>
+   <text> High Explosive Landmine            20000       15000</text><nl/>
+   <text> Barricade                          20000       25000</text><nl/>
+   <text> Night Visor                        25000       30000</text><nl/>
+   <text> Camouflage Cape                    25000       25000</text><nl/>
+   <text> Pear Finder                        30000       10000</text><nl/>
+   <text> Treasure Finder                    30000       10000</text><nl/>
    <nl/>
    <color>yellow</color>
    <text>                      </text><link ref="Books" title="Back To Books Index"/>
@@ -852,19 +868,30 @@
    <text> Blue Dye                            5000        8000</text><nl/>
    <text> Purple Dye                          5000        8000</text><nl/>
    <text> Black Dye                           5000        8000</text><nl/>
-   <text> Robe                               15000       15000</text><nl/>
-   <text> Robe Skirt                         19000       15000</text><nl/>
-   <text> Tunic                              20000       15000</text><nl/>
-   <text> Tunic/Shirt Combo                  25000       15000</text><nl/>
-   <text> Baggy Pants                        20000       15000</text><nl/>
    <text> Scarves                             9000       15000</text><nl/>
    <text> Tricorn Hat                        12000       15000</text><nl/>
    <text> Buccaneer Hat                      14000       15000</text><nl/>
-   <text> Santa Hat                          20000       15000</text><nl/>
+   <text> Robe                               15000       15000</text><nl/>
+   <text> Robe Skirt                         19000       15000</text><nl/>
+   <text> Baggy Pants                        20000       15000</text><nl/>
+   <text> Boots                              20000       15000</text><nl/>
+   <text> Doublets                           20000       15000</text><nl/>
+   <text> Dresses                            20000       20000</text><nl/>
    <text> Hood                               20000       15000</text><nl/>
+   <text> Jackets                            20000       15000</text><nl/>
+   <text> Mage Robe                          20000       25000</text><nl/>
+   <text> Ninja Tunic                        20000       25000</text><nl/>
    <text> No More Warlock Cape               20000       25000</text><nl/>
-   <text> Mage Robe                          20000         ???</text><nl/>
-   <text> Ninja Tunic                        20000         ???</text><nl/>
+   <text> Peasant Dress                      20000       15000</text><nl/>
+   <text> Peasant Skirt                      20000       15000</text><nl/>
+   <text> Santa Hat                          20000       15000</text><nl/>
+   <text> Skirts                             20000       20000</text><nl/>
+   <text> Tunic                              20000       15000</text><nl/>
+   <text> Vests                              20000       20000</text><nl/>
+   <text> Wedding Dress                      20000       15000</text><nl/>
+   <text> Wedding Skirt                      20000       15000</text><nl/>
+   <text> Wizard Hat                         20000       15000</text><nl/>
+   <text> Tunic/Shirt Combo                  25000       15000</text><nl/>
    <nl/>
    <color>yellow</color>
    <text>                      </text><link ref="Books" title="Back To Books Index"/>
@@ -951,11 +978,12 @@
    <color r="1" g="1" b="1"/>
    <text> Book Name                  Drop  Price (gc)  Research Pts</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> Big Book of Manufacturing          10000       18000</text><nl/>
-   <text> Big Book of Crafting               10000       20000</text><nl/>
-   <text> Big Book of Potion                 20000       30000</text><nl/>
-   <text> Big Book of Engineering            75000       30000</text><nl/>
-   <text> Big Book of Tailoring              80000       20000</text><nl/>
+   <text> </text><link ref="BigBookM" title="Big Book of Manufacturing"/><text>          15000       18000</text><nl/>
+   <text> </text><link ref="BigBookC" title="Big Book of Crafting"/><text>               15000       20000</text><nl/>
+   <text> Big Book of Potion                 30000       30000</text><nl/>
+   <text> Book Writing                       40000       95000</text><nl/>
+   <text> Big Book of Engineering           100000       30000</text><nl/>
+   <text> </text><link ref="BigBookT" title="Big Book of Tailoring"/><text>             120000       20000</text><nl/>
    <nl/>
    <color>yellow</color>
    <text>                      </text><link ref="Books" title="Back To Books Index"/>
