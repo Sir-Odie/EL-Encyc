@@ -68,9 +68,9 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <link ref="Enriched Fire Essence" title="Enriched Fire Essence"/><text>          </text>
    <link ref="Enriched Water Essence" title="Enriched Water Essence"/><nl/>
-   <link ref="Enriched Life Essence" title="Enriched Life Essence"/><text>         </text>
+   <link ref="Enriched Life Essence" title="Enriched Life Essence"/><text>          </text>
    <link ref="Enriched Energy Essence" title="Enriched Energy Essence"/><nl/>
-   <link ref="Enriched Magic Essence" title="Enriched Magic Essence"/><text>          </text>
+   <link ref="Enriched Magic Essence" title="Enriched Magic Essence"/><text>         </text>
    <link ref="Enriched Death Essence" title="Enriched Death Essence"/><nl/>	
    <nl/>
    <color r="0.1" g="0.5" b="1"/><text>Metal Bars</text><nl/>
