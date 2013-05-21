@@ -1932,7 +1932,7 @@
    <link x="2" y="2" ref="Index" title="Back"/>
    <text x="2" y="18">Page 2/3</text>
    <link x="437" y="2" ref="Index" title="Index"/>
-   <link x="450" y="18" ref="Spec_Weapons" title=">>>"/>
+   <link x="450" y="18" ref="Rare_Weapons" title=">>>"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
    <text x="74" y="2">The Eternal Lands Encyclopedia</text>
    <nl/>
