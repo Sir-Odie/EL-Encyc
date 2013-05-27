@@ -1136,7 +1136,7 @@
    <simage isize="256" tsize="50" size="100" tid="16" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
    <text> +8 Defense, -2 Accuracy,  +4 Magic Resistance,</text><nlkx/>
-   <text> -2 Critical to Hit</text><nlkx/>
+   <text> -1 Critical to Hit, +5 Missile Protection.</text><nlkx/>
    <text> Required Nexus to use: Human 5</text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
@@ -1175,9 +1175,9 @@
    <text>             Bronze Plate Mail</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="17" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> 15-16 Armor, -1 Accuracy, +3 Magic Resistance,</text><nlkx/>
+   <text> 15-16 Armor, +3 Magic Resistance,</text><nlkx/>
    <text> +3 Magic Protection, -1 Heat and Cold Protection,</text><nlkx/>
-   <text> +4 Radiation Protection.</text><nlkx/>
+   <text> +4 Radiation Protection, +3 Missile Protection.</text><nlkx/>
    <text> Required Nexus to use: Human 5</text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
@@ -1219,7 +1219,7 @@
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
    <text> 7-8 Armor, +2 Magic Resistance,</text><nlkx/>
    <text> +2 Magic Protection, +3 Radiation Protection,</text><nlkx/>
-   <text> -1 Heat and Cold Protection.</text><nlkx/>
+   <text> -1 Heat and Cold Protection, +2 Missile Protection.</text><nlkx/>
    <text> Required Nexus to use: Human 4</text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
@@ -1259,8 +1259,8 @@
    <text>               Bronze Greaves</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="19" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> 5-6 Armor, +2 Magic Resistance,</text><nlkx/>
-   <text> +2 Magic Protection, +2 Radiation Protection.</text><nlkx/>
+   <text> 5-6 Armor, +2 Magic Resistance, +2 Magic Protection,</text><nlkx/>
+   <text> +2 Radiation Protection, +2 Missile Protection.</text><nlkx/>
    <text> Required Nexus to use: Human 4</text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
@@ -1301,8 +1301,8 @@
    <text>                Bronze Helm</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="15" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> +3 Armor, +3 Magic Resistance.</text><nlkx/>
-   <text> </text><nlkx/>
+   <text> +3 Armor, +3 Magic Resistance,</text><nlkx/>
+   <text> +6 Missile Protection.</text><nlkx/>
    <text> Required Nexus to use: Human 4</text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>

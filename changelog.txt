@@ -1,5 +1,14 @@
 Changelog:
 
+2013-05-27
+
+Armors:
+Updated Bronze armors
+
+Weapons:
+Updated damage of Iron- / Steel- / Titanium-Axe
+
+
 2013-05-14
 
 Alchemy:
