@@ -1836,10 +1836,10 @@
    <text>              Mixture of Power</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="1" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
    <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
-   <text> Used for: </text><link ref="Saving_Stone" title="Saving Stone"/><text>.</text><nl/>
-   <text>       Also used for summoning </text><link ref="S_DragonR" title="Red Dragon"/><text>.</text>
-   <nlkx/>
-   <nl/><nl/>
+   <text> Used for: </text><link ref="Saving_Stone" title="Saving Stone"/><text>, </text><link ref="P_Speed" title="Potion of Speed Hax"/><text>,</text><nl/>
+   <text>       </text><link ref="S_DragonR" title="Red Dragon"/><text> summoning, </text><link ref="Glyph_Mule" title="Mule Glyph"/><text>,</text><nl/>
+   <text>       </text><link ref="Robe_Mage" title="Mage Robe"/><text>, </text><link ref="RobeSkirt_Mage" title="Mage Robe Skirt"/><text>.</text><nlkx/>
+   <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
    <nl/>

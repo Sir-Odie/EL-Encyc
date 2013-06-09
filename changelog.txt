@@ -1,5 +1,11 @@
 Changelog:
 
+2013-06-09
+
+Potions:
+Updated Mixture of Power
+
+
 2013-06-01
 
 Engineering:
