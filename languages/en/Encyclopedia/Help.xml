@@ -539,6 +539,13 @@
    <text> ones you haven't read yet are in grey.</text><nl/>
    <nl/>
    <color r="0.4" g="0.8" b="1"/>
+   <text> #knowledge -r / -u / -t</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> -r shows a list of all your read books</text><nl/>
+   <text> -u shows a list of all your unread books</text><nl/>
+   <text> -t shows how many books you have read</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
    <text> #know - #know text</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Short form for the #knowledge command, same function.</text><nl/>
