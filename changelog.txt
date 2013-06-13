@@ -1,5 +1,11 @@
 Changelog:
 
+2013-06-13
+
+Summoning:
+Fixed Fluffy- and Yeti-Stone
+
+
 2013-06-09
 
 Potions:
