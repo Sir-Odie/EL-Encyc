@@ -321,7 +321,7 @@
    <simage isize="256" tsize="50" size="100" tid="14" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
    <text> Shows how visible you are at night in a particular</text><nlkx/>
-   <text> location; chance of breaking 1/1000 for each use.</text><nl/>
+   <text> location; chance of breaking 1/500 for each use.</text><nl/>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>

@@ -1,5 +1,11 @@
 Changelog:
 
+2013-06-29
+
+Engineering:
+Corrected Lightmeter break-rate
+
+
 2013-06-13
 
 Help:
