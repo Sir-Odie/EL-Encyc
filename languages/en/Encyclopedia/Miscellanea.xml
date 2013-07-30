@@ -1184,7 +1184,7 @@
    <nl/><nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <nl/>
-   <text> Is used to make </text><link ref="P_Action" title="Potion of Action"/><text>.</text>
+   <text> Is used to make </text><link ref="P_Action" title="Potion of Action Points"/><text>.</text>
    <nl/><nl/><nl/>
    <text> Stackable: Yes</text>
    <nl/>
@@ -1210,7 +1210,7 @@
    <nl/><nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <nl/>
-   <text> Is used to make </text><link ref="P_Action" title="Potion of Action"/><text>.</text><nl/>
+   <text> Is used to make </text><link ref="P_Action" title="Potion of Action Points"/><text>.</text><nl/>
    <text> </text><link ref="Pear_Finder" title="Pear Finders"/><text> can be used to locate the map that contains</text><nl/>
    <text> the pear.</text><nl/>
    <text> When one is found a blue message is displayed announcing</text><nl/>
@@ -1240,7 +1240,7 @@
    <nl/><nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <nl/>
-   <text> Is used to make </text><link ref="P_Action" title="Potion of Action"/><text>.</text>
+   <text> Is used to make </text><link ref="P_Action" title="Potion of Action Points"/><text>.</text>
    <nl/><nl/><nl/>
    <text> Stackable: Yes</text>
    <nl/>
