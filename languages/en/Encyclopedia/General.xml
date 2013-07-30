@@ -1254,7 +1254,7 @@
    <nl/>
    <link ref="FD_Fruit" title="Fruit"/><text>            </text>
    <link ref="FD_Mead" title="Mead"/><text>          </text>
-   <link ref="Grape" title="Grape"/>
+   <link ref="Grape" title="Grapes"/>
    <nl/>
    <link ref="FD_Cooked_Meat" title="Cooked Meat"/><text>      </text>
    <link ref="FD_Wine" title="Wine"/><text>          </text>

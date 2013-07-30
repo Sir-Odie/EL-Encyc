@@ -2,6 +2,9 @@ Changelog:
 
 2013-07-30
 
+Miscellanea:
+Fixed Grapes
+
 Potions:
 Fixed Potion of Action Points
 

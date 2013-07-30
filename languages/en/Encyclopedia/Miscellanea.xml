@@ -1232,7 +1232,7 @@
    <nl/>
    <text>                   MISC</text><nl/>
    <color r="1" g="1" b="1"/>
-   <text>             Grapes</text><nl/><nl/>
+   <text>                  Grapes</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="4" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
    <text> At the start of each day one random creature</text><nl/>
