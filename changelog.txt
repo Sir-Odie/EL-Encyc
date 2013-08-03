@@ -1,5 +1,12 @@
 Changelog:
 
+2013-08-03
+
+Magic:
+Changed 'Drain Mana' to 'Mana Drain'
+Added Heal Allies
+
+
 2013-07-30
 
 Miscellanea:

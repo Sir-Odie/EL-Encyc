@@ -422,6 +422,33 @@
    <color>yellow</color>
    <text>                    </text><link ref="Magic" title="Back To Magic Index"/>
 </Page>
+<Page name="Heal_Allies">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Magic" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                   MAGIC</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>                Heal Allies</text><nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="3" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
+   <text>  Heals up to 4 guildies near you</text><nl/>
+   <nl/><nl/>
+   <simage isize="256" tsize="32" size="100" tid="8" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Sigils: Increase, Local, Health</text><nlkx/>
+   <text>  Reagents: 3 Health Essences, 2 Magic Essence</text><nlkx/>
+   <text>  Required Magic Level: 40</text><nl/>
+   <simage isize="256" tsize="32" size="100" tid="23" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
+   <Size>Medium</Size><color r="0.9" g="0.9" b="0.9"/>
+   <text>  Magic Experience Given: 120</text><nlkx/>
+   <text>  Mana subtracted: 24</text>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Magic" title="Back To Magic Index"/>
+</Page>
 <Page name="Drain_Mana">   
    <size>Small</size><color>yellow</color>
    <link x="2" y="2" ref="Magic" title="Back"/>
@@ -431,7 +458,7 @@
    <nl/>
    <text>                   MAGIC</text><nl/>
    <color r="1" g="1" b="1"/>
-   <text>                Drain Mana</text><nl/><nl/>
+   <text>                Mana Drain</text><nl/><nl/>
    <simage isize="256" tsize="32" size="100" tid="7" name="textures/sigils.bmp" yposupdate="0" xposupdate="1"/>
    <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
    <text>  Removes a random amount of mana from a target and</text><nlkx/>

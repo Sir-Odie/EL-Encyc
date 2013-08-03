@@ -1015,19 +1015,19 @@
    <link ref="Radiation_Shield" title="Radiation Shield"/>
    <nl/>
    <link ref="Tp_to_range" title="Teleport to Range"/><text>              </text>
-   <link ref="Drain_Mana" title="Drain Mana"/>
+   <link ref="Heal_Allies" title="Heal Allies"/>
    <nl/>
    <link ref="Harm" title="Harm"/><text>                           </text>
-   <link ref="True_Sight" title="True Sight"/>
+   <link ref="Drain_Mana" title="Mana Drain"/>
    <nl/>
    <link ref="Restoration" title="Restoration"/><text>                    </text>
-   <link ref="Itc_Tp_to_Port_Room" title="I.C.T.P.R."/>
+   <link ref="True_Sight" title="True Sight"/>
    <nl/>
    <link ref="Bones_to_gold" title="Bones to Gold"/><text>                  </text>
-   <link ref="Invisibility" title="Invisibility"/>
+   <link ref="Itc_Tp_to_Port_Room" title="I.C.T.P.R."/>
    <nl/>
    <link ref="Tp_to_Port_Room" title="Teleport to Portals Room"/><text>       </text>
-   <text> </text>
+   <link ref="Invisibility" title="Invisibility"/>
    <nl/>
    <link ref="Life_drain" title="Life Drain"/><text>                     </text>
    <text> </text>
