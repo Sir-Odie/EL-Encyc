@@ -86,7 +86,7 @@
    <text>                Earth Essence</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="2" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Used for: Matter Conglomerate.</text>
+   <text> Used for: Matter Conglomerate, Treasure Finder.</text>
    <nlkx/>
    <text> </text>
    <nl/><nl/><nl/>
@@ -340,7 +340,7 @@
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
    <text> Used for spells: Heal, Remote Heal, Harm,</text>
    <nlkx/>
-   <text> Restoration, Heal Summoned.</text>
+   <text> Restoration, Heal Summoned, Heal Allies.</text>
    <nlkx/>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
@@ -380,7 +380,9 @@
    <nlkx/>
    <text> Used for spells: Remote Heal, Magic Protection,</text>
    <nlkx/>
-   <text> Magic Immunity, True Sight, Radiation Shield.</text>
+   <text> Magic Immunity, True Sight, Radiation Shield,</text>
+   <nlkx/>
+   <text> Heal Allies.</text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>

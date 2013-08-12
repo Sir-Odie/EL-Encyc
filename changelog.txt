@@ -1,5 +1,12 @@
 Changelog:
 
+2013-08+12
+
+Alchemy:
+Added 'Heal Allies' to HE and MagE usage
+Added 'Treasure Finder' to EE usage
+
+
 2013-08-03
 
 Magic:
