@@ -652,22 +652,22 @@
    <link ref="Cockatrice" title="Cockatrice"/>
    <nl/>
    <link ref="Panda" title="Panda Bear"/><text>                     </text>
-   <link ref="Giant" title="Giant"/>
+   <link ref="Ltroll" title="Legionnaire Troll"/>
    <nl/>
    <link ref="Lion" title="Lion"/><text>                           </text>
-   <link ref="DragonR" title="Red Dragon"/>
+   <link ref="Giant" title="Giant"/>
    <nl/>
    <link ref="Tiger" title="Tiger"/><text>                          </text>
-   <link ref="DragonB" title="Black Dragon"/>
+   <link ref="DragonR" title="Red Dragon"/>
    <nl/>
    <link ref="White_Tiger" title="White Tiger"/><text>                    </text>
-   <link ref="DragonW" title="Ice Dragon"/>
+   <link ref="DragonB" title="Black Dragon"/>
    <nl/>
    <link ref="Unicorn" title="Unicorn"/><text>                        </text>
+   <link ref="DragonW" title="Ice Dragon"/>
+   <nl/>
+   <text>                               </text>
    <link ref="DragonBlue" title="Blue Dragon"/>
-   <text> </text>
-   <text> </text>
-   <text> </text>
    <nl/>
    <nl/><nl/>
    <color>yellow</color>

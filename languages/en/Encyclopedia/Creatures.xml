@@ -1283,6 +1283,27 @@
    <color>yellow</color>
    <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
 </Page>
+<Page name="Ltroll">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Creatures" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                  CREATURES</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Legionnaire Troll</text><nl/><nl/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Legionnaire Troll</text>
+   <nlkx/>
+   <text> </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nlkx/>
+   <text> Not much is known about these warriors at this time.</text><nlkx/>
+   <nl/><nl/><nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
+</Page>
 <Page name="Giant">
    <size>Small</size><color>yellow</color>
    <link x="2" y="2" ref="Creatures" title="Back"/>

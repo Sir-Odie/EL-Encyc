@@ -1,5 +1,11 @@
 Changelog:
 
+2013-10-17
+
+Creatures:
+Added Legionnaire Troll
+
+
 2013-08-27
 
 Tailoring:
