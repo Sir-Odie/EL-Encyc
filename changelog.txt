@@ -1,5 +1,11 @@
 Changelog:
 
+2013-11-15
+
+Weapons:
+Updated Blue Dragon Sword
+
+
 2013-10-17
 
 Creatures:

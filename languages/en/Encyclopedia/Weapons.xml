@@ -1426,7 +1426,7 @@
    <text>             Blue Dragon Sword</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="24" name="textures/items26.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Inflicts 22-24 damage, +2 Defense, +15 Accuracy,</text>
+   <text> Inflicts 25-27 damage, +2 Defense, +15 Accuracy,</text>
    <nlkx/>
    <text> +5 Magic damage, +6 Critical to hit,</text>
    <nlkx/>
