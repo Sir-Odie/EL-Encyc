@@ -207,5 +207,35 @@
    <color>yellow</color>
    <text>                    </text><link ref="Rare_Weapons" title="Back To Rare Weapons Index"/>
 </Page>
+<Page name="hoa">
+   <size>Small</size><color>yellow</color>
+   <link x="2" y="2" ref="Rare_Weapons" title="Back"/>
+   <link x="437" y="2" ref="Index" title="Index"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="74" y="2">The Eternal Lands Encyclopedia</text>
+   <nl/>
+   <text>                 RARE WEAPONS</text><nl/>
+   <color r="1" g="1" b="1"/>
+   <text>              Halberd of Action</text><nl/><nl/>
+   <simage isize="256" tsize="50" size="100" tid="2" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
+   <size>Medium</size><color r="0.5" g="0.9" b="1"/>
+   <text> Inflicts 40-60 damage, -2 Accuracy,</text>
+   <nlkx/>
+   <text> +5 Critical to Damage.</text>
+   <nlkx/>
+   <text> Chance to do extra damage, requires 2 action points.</text>
+   <nlkx/>
+   <text> Required Nexus to use: Human 5</text>
+   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Made by chance when mixing </text> <link ref="Halberd" title="Halberd."/>
+   <nl/><nl/>
+   <text> Stackable: No</text>
+   <nl/>
+   <text> Weight: 6 EMU</text>
+   <nl/><nl/>
+   <color>yellow</color>
+   <text>                    </text><link ref="Rare_Weapons" title="Back To Rare Weapons Index"/>
+</Page>
 </Spec_Weapons>
 

@@ -1,5 +1,11 @@
 Changelog:
 
+2013-12-16
+
+Weapons:
+Added Halberd of Action
+
+
 2013-11-15
 
 Weapons:
