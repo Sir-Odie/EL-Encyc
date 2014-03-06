@@ -678,7 +678,7 @@
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
    <text> Inflicts 25-40 damage, -1 Defense,</text>
    <nlkx/>
-   <text> +8 Critical to damage</text>
+   <text> +10 Critical to damage</text>
    <nlkx/>
    <text> Required Nexus to use: Human 5</text>
    <nl/><nl/>
@@ -687,7 +687,7 @@
    <nl/>
    <text> 1 Wood Handle, 12 Titanium Bars, 1 Enriched Fire Essence,</text>
    <nl/>  
-   <text> 4 Serpent Stones, 1 Enriched Water Essence, 20 Air Essence.</text>
+   <text> 1 Serpent Stone, 1 Enriched Water Essence, 20 Air Essence.</text>
    <nl/>
    <text> Tools required to have: Hammer</text>
    <nl/>

@@ -1,5 +1,14 @@
 Changelog:
 
+2014-03-06
+
+Books:
+Added RDHoLaM building
+
+Weapons:
+Updated Titanium Axe
+ 
+
 2014-02-28
 
 Armors:
