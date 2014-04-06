@@ -1,5 +1,11 @@
 Changelog:
 
+2014-04-06
+
+Engineering:
+Fixed Damage Predictor
+
+
 2014-03-06
 
 Books:
