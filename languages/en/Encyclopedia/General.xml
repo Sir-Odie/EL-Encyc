@@ -304,9 +304,7 @@
    <link ref="freeze" title="Titanium Plate Mail of Freezing"/><nl/>
    <link ref="life" title="Titanium Helm of Life"/><nl/>
    <link ref="ldrain" title="Titanium Shield of Life Drain"/><nl/>
-   <link ref="holam" title="Red Dragon Helm of Life and Mana"/><text>*</text><nl/>
-   <nl/><nl/>
-   <text>*Not mixable.</text>
+   <link ref="holam" title="Red Dragon Helm of Life and Mana"/><nl/>
    <nl/><nl/>
    <color>yellow</color>
    <text>                        </text><link ref="Index" title="Back To Index"/>
@@ -1166,7 +1164,7 @@
    <color r="1" g="0.2" b="0.2"/><link ref="Maps2_HU" title="Hulda"/><color r="0.9" g="0.9" b="0.9"/><text>                           </text>
    <text>   -        Y      Y</text><nl/>
    <link ref="Maps2_IOTF" title="Isles of the Forgotten"/><text> (IotF)   </text>
-   <text>   -        -      -</text><nl/>
+   <text>   -        Y      -</text><nl/>
    <color r="1" g="0.2" b="0.2"/><link ref="Maps2_II" title="Imbroglio Islands"/><color r="0.9" g="0.9" b="0.9"/><text> (II)          </text>
    <text>   -        Y      Y</text><nl/>
    <nl/>

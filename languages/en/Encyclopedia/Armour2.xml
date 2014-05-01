@@ -264,8 +264,21 @@
    <text> Required Nexus to use: Human 4</text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> Dropped occasionally in instances.</text>
-   <nl/><nl/>
+   <text> Required materials:</text>
+   <nl/>
+   <text> 3 Red Dragon Scales, 2 Enriched Life Essences,</text><nl/>
+   <text> 2 Enriched Magic Essences, 1 Serpent Stone.</text>
+   <nl/>
+   <text> Knowledge needed: Red Dragon Helm of Life and Mana</text>
+   <nl/>
+   <text> Required Nexuses: Artificial 6, Magic 5</text>
+   <nl/>
+   <text> Recommended Crafting Level: 90</text>
+   <nl/>
+   <text> Crafting Experience Given: 3000</text>
+   <nl/>
+   <text> Food subtracted: 30</text>
+   <nl/>
    <text> Stackable: No</text>
    <nl/>
    <text> Weight: 2</text>

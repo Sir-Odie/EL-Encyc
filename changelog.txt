@@ -1,5 +1,14 @@
 Changelog:
 
+2014-05-01
+
+Maps:
+IOTF is multi combat
+
+Armors:
+RDHoLaM is now makable
+
+
 2014-04-06
 
 Engineering:
