@@ -1,5 +1,11 @@
 Changelog:
 
+2014-06-27
+
+Weapons:
+Fixed Golden Star Mace
+
+
 2014-05-15
 
 Fixed various Tailoring items and some typos

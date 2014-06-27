@@ -1117,13 +1117,13 @@
    <text>              Golden Star Mace</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="1" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Inflicts 10-20 damage, +2 Accuracy,</text>
+   <text> Inflicts 15-20 damage, +3 Accuracy,</text>
    <nlkx/>
    <text> +5 Critical to hit, +5 Critical to damage.</text>
    <nlkx/>
-   <text> 0.3% chance to degrade an item</text>
+   <text> 0.5% chance to degrade an item</text>
    <nlkx/>
-   <text> Required Nexus to use: Human ???</text>
+   <text> Required Nexus to use: Human 5</text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
