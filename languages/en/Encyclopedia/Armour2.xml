@@ -254,7 +254,7 @@
    <nl/>
    <text>               SPECIAL ARMORS</text><nl/>
    <color r="1" g="1" b="1"/>
-   <text>       Red Dragon Helm of Life Mana</text><nl/><nl/>
+   <text>     Red Dragon Helm of Life and Mana</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="5" name="textures/items18.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
    <text> +4 Armor, +1 Magic Resistance, +2 Heat Protection,</text><nlkx/>
@@ -277,7 +277,7 @@
    <nl/>
    <text> Crafting Experience Given: 3000</text>
    <nl/>
-   <text> Food subtracted: 65</text>
+   <text> Food subtracted: 60</text>
    <nl/>
    <text> Stackable: No</text>
    <nl/>
