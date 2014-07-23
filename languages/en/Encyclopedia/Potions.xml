@@ -1377,7 +1377,7 @@
    <nl/>
    <text> Stackable: Yes</text>
    <nl/>
-   <text> Weight: 5 EMU</text>
+   <text> Weight: 2 EMU</text>
    <nl/>
    <nl/>
    <color>yellow</color>
@@ -1392,10 +1392,10 @@
    <nl/>
    <text>                   POTIONS</text><nl/>
    <color r="1" g="1" b="1"/>
-   <text>         Potion of Defence Reduction</text><nl/><nl/>
+   <text>         Potion of Defense Reduction</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="7" name="textures/items20.bmp" yposupdate="0" xposupdate="1"/>
    <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
-   <text> Reduces defence by 5, the effect stacks up to -30.</text>
+   <text> Reduces defense by 5, the effect stacks up to -30.</text>
    <nlkx/>
    <text> </text>
    <nl/><nl/><nl/>
@@ -1408,7 +1408,7 @@
    <nl/>
    <text> Tools required to have: Mortar and Pestle</text>
    <nl/>
-   <text> Knowledge needed: Potion of Defence Reduction</text>
+   <text> Knowledge needed: Potion of Defense Reduction</text>
    <nl/>
    <text> Required Nexuses: Vegetal 6</text>
    <nl/>
@@ -1420,7 +1420,7 @@
    <nl/>
    <text> Stackable: Yes</text>
    <nl/>
-   <text> Weight: 5 EMU</text>
+   <text> Weight: 2 EMU</text>
    <nl/>
    <nl/>
    <color>yellow</color>

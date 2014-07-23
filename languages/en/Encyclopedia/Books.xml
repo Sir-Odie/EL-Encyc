@@ -258,7 +258,7 @@
    <text> Potion of Radiation Protection     12000       10000</text><nl/>
    <text> Potion of Speed Hax                20000       30000</text><nl/>
    <text> Potion of Attack Reduction         20000       30000</text><nl/>
-   <text> Potion of Defence Reduction        20000       30000</text><nl/>
+   <text> Potion of Defense Reduction        20000       30000</text><nl/>
    <nl/>
    <color>yellow</color>
    <text>                      </text><link ref="Books" title="Back To Books Index"/>

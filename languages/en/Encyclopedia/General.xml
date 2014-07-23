@@ -1416,7 +1416,7 @@
    <link ref="P_Attack_Reduction" title="Potion of Attack Reduction"/>
    <nl/>
    <link ref="P_Summoning" title="Potion of Summoning"/><text>            </text>
-   <link ref="P_Defense_Reduction" title="Potion of Defence Reduction"/>
+   <link ref="P_Defense_Reduction" title="Potion of Defense Reduction"/>
    <nl/>
    <link ref="P_Craft" title="Potion of Crafting"/><text>             </text>
    <link ref="C_Food" title="Creature Food"/>
