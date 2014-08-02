@@ -1,9 +1,15 @@
 Changelog:
 
+2014-08-02
+
+Tailoring:
+Fixed White Gold Wedding Skirt
+
+
 2014-07-23
 
 Potions:
-Fix Potion of Attack/Defense Reduction
+Fixed Potion of Attack/Defense Reduction
 
 
 2014-07-17
