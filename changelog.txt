@@ -3,7 +3,7 @@ Changelog:
 2014-08-02
 
 Tailoring:
-Fixed White Gold Wedding Skirt
+Fixed Wedding Skirts
 
 
 2014-07-23
