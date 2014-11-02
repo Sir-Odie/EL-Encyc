@@ -151,7 +151,7 @@ Let's try one more thing...</last_try>
       <fboreadbuffererror>Framebuffer: read buffer error</fboreadbuffererror>
       <fbounknowerror>Framebuffer: unkown error</fbounknowerror></video>
    <rules>
-      <proceed>Read the rules and you can play in %dsec</proceed>
+      <proceed>Read the rules and you can play in %d seconds</proceed>
       <ready>Read all rules (scroll to the bottom) and click on "I Accept" to play!</ready>
       <accept>I Accept</accept>
       <read>An error occured while reading the rules</read>
