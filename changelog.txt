@@ -1,5 +1,10 @@
 Changelog:
 
+2015-01-07
+
+First update of the hungarian Encyc
+
+
 2014-08-02
 
 Tailoring:
