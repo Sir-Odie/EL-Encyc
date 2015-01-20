@@ -2,75 +2,119 @@
 <Help>
 <Page name="HelpPage">
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
-   <nl/><nl/>
-   <size>Medium</size>
-   <color r="0.4" g="0.8" b="1"/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
+   <nl/>
+   <size>Medium</size><color r="0.4" g="0.8" b="1"/>
    <text> Ez az Eternal Lands segítö oldala. Itt információkat</text><nl/>
    <text> találhatsz, amik segítenek megismerni a kezelöfelületet</text><nl/>
-   <text> és ötleteket ad arról, hogyan kezd el a játékot.</text>
+   <text> és ötleteket ad arról, hogyan kezd el a játékot.</text><nl/>
    <nl/>
-   <nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <size>Medium</size>
-   <link ref="HP Commands" title="Gyors billentyük"/>
-   <size>Small</size>
-   <text>  -  Billentyü parancsok</text><nl/>
-   <size>Medium</size>
-   <link ref="text" title="Szöveges utasítás"/>
-   <size>Small</size>
-   <text> -  Parancsok, amiket bárhol kiadhatsz.</text><nl/>
-   <size>Medium</size>
-   <link ref="channel" title="Társalgás (chat)"/>
-   <text>  -  Társalgás módjai különbözö csatornákon.</text><nl/>
-   <size>Medium</size>
-   <link ref="guild" title="Szövetség parancs"/>
-   <size>Small</size>
-   <text> -  Magyarázat a szövetséghez (guild)</text><nl/>
-   <text>                     kötödö utasításokról.</text><nl/>
-   <size>Medium</size>
-   <link ref="HP Interface" title="Kezelöfelület"/>
-   <size>Small</size>
-   <text>     -  A játék grafikus kezelöfelületének</text><nl/>
-   <text>                     magyarázata.</text><nl/>
-   <size>Medium</size>
-   <link ref="Calendar" title="Naptár"/>
-   <size>Small</size>
-   <text>            -  A vének naptára és a különleges napok.</text><nl/>
-   <size>Medium</size>
-   <link ref="AbbrAcr" title="Mozaikszavak"/>
-   <size>Small</size>
-   <text>      -  és rövidítések</text><nl/>
-   <size>Medium</size>
-   <link ref="tips" title="Tippek"/>
-   <size>Small</size>
-   <text>            -  Hasznos tanácsok.</text><nl/>
-   <size>Medium</size>
-   <link ref="NFAQ" title="Kezdöknek GYIK"/>
-   <size>Small</size>
-   <text>    -  Gyakran ismételt kérdések kezdöknek.</text><nl/>
-   <size>Medium</size>
-   <link ref="SFAQ" title="Képességek GYIK"/>
-   <size>Small</size>
-   <text>   -  Milyen képességeket (skills), szakmát</text><nl/>
-   <text>                     szerezhetsz az EL-ben?</text><nl/>
-   <size>Medium</size>
-   <link ref="Passwords" title="Jelszó tippek"/>
-   <size>Small</size>
-   <text>     -  Hogyan válasszunk jó jelszót.</text><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="HP Commands" title=" Gyors billentyük"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text>  - Billentyü parancsok</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="text" title=" Szöveges utasítás"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text> - Parancsok, amiket bárhol kiadhatsz.</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="channel" title=" Társalgás (chat)"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text>  - Társalgás módjai különbözö csatornákon.</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="guild" title=" Szövetség parancs"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text> - Magyarázat a szövetséghez (guild)</text><nl/>
+   <text>                     kötödö utasításokról.</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="HP Interface" title=" Kezelöfelület"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text>     - A játék grafikus kezelöfelületének</text><nl/>
+   <text>                     magyarázata.</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="Calendar" title=" Naptár"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text>            - A vének naptára és a különleges napok.</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="AbbrAcr" title=" Mozaikszavak"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text>      - és rövidítések</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="tips" title=" Tippek"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text>            - Hasznos tanácsok.</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="NFAQ" title=" Kezdöknek GYIK"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text>    - Gyakran ismételt kérdések kezdöknek.</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="SFAQ" title=" Képességek GYIK"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text>   - Milyen képességeket (skills), szakmát</text><nl/>
+   <text>                     szerezhetsz az EL-ben?</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="Passwords" title=" Jelszó tippek"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text>     - Hogyan válasszunk jó jelszót.</text><nl/>
 </Page>
 
 <Page name="HP Commands">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Súgó"/>
-   <link x="410" y="2" ref="HP Commands" title="Kezdölap"/>
-   <text x="200" y="40">1/6 oldal</text>
-   <link x="450" y="40" ref="HP Commands2" title="&gt;&gt;&gt;"/>
+   <nl/><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Súgó"/>
+   <link x="410" y="8" ref="HP Commands" title="Kezdölap"/>
+   <text x="180" y="46">tartalomjegyzék</text>
+   <link x="450" y="46" ref="HP Commands1" title="&gt;&gt;&gt;"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
+   <text>             Gyors billentyük</text><nl/>
+   <size>Medium</size><color r="0.4" g="0.8" b="1"/><nl/><nl/>
+   <text> Ez az Eternal Lands gyors billentyüinek gyüjteménye.</text><nl/>
+   <text> A tartalomjegyzékböl gyorsan a megfelelö témára léphetsz.</text><nl/>
+   <nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="HP Commands1" title=" Funkció gombok"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text> - 1.o.: F1 - F9 gombokhoz tartozó funkciók</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="HP Commands2" title=" Kurzor gombok"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text>  - 2.o.: kurzor mozgató gombok hatása</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="HP Commands3" title=" ALT-os gombok"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text>  - 3.o.: ALT + betü variácók müködése</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="HP Commands4" title=" CTRL 1. gombok"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text> - 4.o.: CTRL + betü - felugró ablakok</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="HP Commands5" title=" CTRL 2. gombok"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text> - 5.o.: CTRL + betü - kurzor alakváltás</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="HP Commands6" title=" Térkép gombok"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text>  - 6.o.: térkép módban használható betük</text><nl/><nl/>
+   <nl/>
+   <color>yellow</color>
+   <link x="120" ref="HelpPage" title="Súgó"/>
+   <link x="240" ref="HP Commands" title="Kezdölap"/>
+   <link x="385" ref="HP Commands1" title="1.oldal &gt;&gt;&gt;"/>
+   <nl/>
+</Page>
+
+<Page name="HP Commands1">
+   <nl/><color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Súgó"/>
+   <link x="410" y="8" ref="HP Commands" title="Kezdölap"/>
+   <link x="4" y="46" ref="HP Commands" title="&lt;&lt;&lt;"/>
+   <text x="200" y="46">1/6 oldal</text>
+   <link x="450" y="46" ref="HP Commands2" title="&gt;&gt;&gt;"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
    <text>             Gyors billentyük</text><nl/>
    
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> F1 vagy ~</text><nl/>
@@ -126,6 +170,7 @@
    <nl/>
 
    <color>yellow</color>
+   <link x="2" ref="HP Commands" title="&lt;&lt;&lt; tartalom"/>
    <link x="120" ref="HelpPage" title="Súgó"/>
    <link x="240" ref="HP Commands" title="Kezdölap"/>
    <link x="385" ref="HP Commands2" title="2.oldal &gt;&gt;&gt;"/>
@@ -133,17 +178,17 @@
 </Page>
    
 <Page name="HP Commands2">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Súgó"/>
-   <link x="410" y="2" ref="HP Commands" title="Kezdölap"/>
-   <link x="4" y="40" ref="HP Commands" title="&lt;&lt;&lt;"/>
-   <text x="200" y="40">2/6 oldal</text>
-   <link x="450" y="40" ref="HP Commands3" title="&gt;&gt;&gt;"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Súgó"/>
+   <link x="410" y="8" ref="HP Commands" title="Kezdölap"/>
+   <link x="4" y="46" ref="HP Commands1" title="&lt;&lt;&lt;"/>
+   <text x="200" y="46">2/6 oldal</text>
+   <link x="450" y="46" ref="HP Commands3" title="&gt;&gt;&gt;"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
    <text>             Gyors billentyük</text><nl/>
    
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Tab</text><nl/>
@@ -199,17 +244,17 @@
 </Page>
    
 <Page name="HP Commands3">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Súgó"/>
-   <link x="410" y="2" ref="HP Commands" title="Kezdölap"/>
-   <link x="4" y="40" ref="HP Commands2" title="&lt;&lt;&lt;"/>
-   <text x="200" y="40">3/6 oldal</text>
-   <link x="450" y="40" ref="HP Commands4" title="&gt;&gt;&gt;"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Súgó"/>
+   <link x="410" y="8" ref="HP Commands" title="Kezdölap"/>
+   <link x="4" y="46" ref="HP Commands2" title="&lt;&lt;&lt;"/>
+   <text x="200" y="46">3/6 oldal</text>
+   <link x="450" y="46" ref="HP Commands4" title="&gt;&gt;&gt;"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
    <text>             Gyors billentyük</text><nl/>
    
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Alt + enter</text><nl/>
@@ -286,17 +331,17 @@
 </Page>
    
 <Page name="HP Commands4">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Súgó"/>
-   <link x="410" y="2" ref="HP Commands" title="Kezdölap"/>
-   <link x="4" y="40" ref="HP Commands3" title="&lt;&lt;&lt;"/>
-   <text x="200" y="40">4/6 oldal</text>
-   <link x="450" y="40" ref="HP Commands5" title="&gt;&gt;&gt;"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Súgó"/>
+   <link x="410" y="8" ref="HP Commands" title="Kezdölap"/>
+   <link x="4" y="46" ref="HP Commands3" title="&lt;&lt;&lt;"/>
+   <text x="200" y="46">4/6 oldal</text>
+   <link x="450" y="46" ref="HP Commands5" title="&gt;&gt;&gt;"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
    <text>             Gyors billentyük</text><nl/>
 
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Ctrl+e</text><nl/>
@@ -368,17 +413,17 @@
 </Page>
    
 <Page name="HP Commands5">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Súgó"/>
-   <link x="410" y="2" ref="HP Commands" title="Kezdölap"/>
-   <link x="4" y="40" ref="HP Commands4" title="&lt;&lt;&lt;"/>
-   <text x="200" y="40">5/6 oldal</text>
-   <link x="450" y="40" ref="HP Commands6" title="&gt;&gt;&gt;"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Súgó"/>
+   <link x="410" y="8" ref="HP Commands" title="Kezdölap"/>
+   <link x="4" y="46" ref="HP Commands4" title="&lt;&lt;&lt;"/>
+   <text x="200" y="46">5/6 oldal</text>
+   <link x="450" y="46" ref="HP Commands6" title="&gt;&gt;&gt;"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
    <text>             Gyors billentyük</text><nl/>
 
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Ctrl+n</text><nl/>
@@ -446,16 +491,16 @@
 </Page>
 
 <Page name="HP Commands6">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Súgó"/>
-   <link x="410" y="2" ref="HP Commands" title="Kezdölap"/>
-   <link x="4" y="40" ref="HP Commands5" title="&lt;&lt;&lt;"/>
-   <text x="200" y="40">6/6 oldal</text>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Súgó"/>
+   <link x="410" y="8" ref="HP Commands" title="Kezdölap"/>
+   <link x="4" y="46" ref="HP Commands5" title="&lt;&lt;&lt;"/>
+   <text x="200" y="46">6/6 oldal</text>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
    <text>             Gyors billentyük</text><nl/>
 
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Ctrl + up</text><nl/>
@@ -509,27 +554,60 @@
 </Page>
 
 <Page name="text">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Súgó"/>
-   <link x="410" y="2" ref="text" title="Kezdölap"/>
-   <text x="200" y="40">1/6 oldal</text>
-   <link x="450" y="40" ref="text2" title="&gt;&gt;&gt;"/>
+   <nl/><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Súgó"/>
+   <link x="410" y="8" ref="text" title="Kezdölap"/>
+   <text x="180" y="46">tartalomjegyzék</text>
+   <link x="450" y="46" ref="text1" title="&gt;&gt;&gt;"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
    <text>             Szöveges utasítások</text><nl/>
-   
-   <size>Small</size>
-   <nl/><nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> #beam me</text><nl/>
-   <color r="0.4" g="0.8" b="1"/>
-   <text> A karakteredet a kezdö szigetre (Isle Prima) a tábortüzhöz</text><nl/>
-   <text> teleportálja. Hasznos, ha gyorsan akarunk messziröl</text><nl/>
-   <text> hazautazni pontot beváltani vagy térképet váltani vagy</text><nl/>
-   <text> menekülünk valaki elöl.</text><nl/>
-   <text> Harc közben már nem lehet használni, PK (játékosölö)</text><nl/>
-   <text> térképeken és Scotty szabadsága alatt sem használható.</text><nl/>
+   <size>Medium</size><color r="0.4" g="0.8" b="1"/><nl/><nl/>
+   <text> Ez az Eternal Lands szöveges utasításainak gyüjteménye.</text><nl/>
+   <text> A tartalomjegyzékböl gyorsan a megfelelö témára léphetsz.</text><nl/>
    <nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="text1" title=" Interaktív"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text>   - 1.o.: párbeszéd, ható-visszaható</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="text2" title=" Fájl menü"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text>    - 2.o.: jelszó, mentés, kilépés</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="text3" title=" Lekérdezés"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text>   - 3.o.: karakter értékek kiírása</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="text4" title=" Lekérdezés 2"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text> - 4.o.: rendszer értékek kiírása</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="text5" title=" Haverlista"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text>   - 5.o.: barátok felvétele, törlése</text><nl/><nl/>
+   <color r="1" g="1" b="1"/><size>Medium</size>
+   <link ref="text6" title=" Térképjelek"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
+   <text>  - 6.o.: jelölések térképen, szürök</text><nl/><nl/>
+   <color>yellow</color>
+   <link x="120" ref="HelpPage" title="Súgó"/>
+   <link x="240" ref="text" title="Kezdölap"/>
+   <link x="385" ref="text1" title="1.oldal &gt;&gt;&gt;"/>
+   <nl/>
+</Page>
+
+<Page name="text1">
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Súgó"/>
+   <link x="410" y="8" ref="text" title="Kezdölap"/>
+   <link x="4" y="46" ref="text" title="&lt;&lt;&lt;"/>
+   <text x="200" y="46">1/6 oldal</text>
+   <link x="450" y="46" ref="text2" title="&gt;&gt;&gt;"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
+   <text>             Szöveges utasítások</text><nl/>
+   <size>Small</size><nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> #help_me</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
@@ -556,37 +634,47 @@
    <text> adok, ál okot.) (Káromkodtak Portland raktárnál.)</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #exp</text><nl/>
+   <text> #msg all</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> Megmutatja a jelenlegi tapasztalati pontjaidat és</text><nl/>
-   <text> szintjeidet és azt, hogy mennyi kell a következö szintig.</text><nl/>
+   <text> Megmutatja az összes neked küldött személyes üzenetet,</text><nl/>
+   <text> amit az alatt kaptál, amíg távol voltál (afk mód).</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #pki</text><nl/>
+   <text> #beam me</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> Minden megnyert vagy elvesztett élet-halál harcért (PK)</text><nl/>
-   <text> valamennyi PK pontot kapsz vagy vesztesz.</text><nl/>
-   <text> PK pont (a mennyisége függ az ellénfél pontértékétöl);</text><nl/>
-   <text> ez csak azokra a harcosokra vonatkozik, akik att+def</text><nl/>
-   <text> (támadás és védekezés) képessége 130 pontnál magasabb.</text><nl/>
-   <text> Ez a parancs a saját pontodat írja ki.</text><nl/>
+   <text> A karakteredet a kezdö szigetre (Isle Prima) a tábortüzhöz</text><nl/>
+   <text> teleportálja. Hasznos, ha gyorsan akarunk messziröl</text><nl/>
+   <text> hazautazni pontot beváltani vagy térképet váltani vagy</text><nl/>
+   <text> menekülünk valaki elöl.</text><nl/>
+   <text> Harc közben már nem lehet használni, PK (játékosölö)</text><nl/>
+   <text> térképeken és Scotty szabadsága alatt sem használható.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #storage</text><nl/>
+   <text> #suicide</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> Megnyitja a raktár ablakot, hogy megnézhesd miböl, mennyi</text><nl/>
-   <text> készleted van. Ez a parancs csak lekérdezésre való, a</text><nl/>
-   <text> raktárba történö elhelyezésre vagy onnan kivételhez el</text><nl/>
-   <text> kell menni és beszélni az egyik raktáros NPC-vel, kinek</text><nl/>
-   <text> a térképen barna pötty jelöli a helyét.</text><nl/>
+   <text> Öngyilkosság, igen ez a parancs tényleg megöl és igen,</text><nl/>
+   <text> tényleg elvesztheted a nálad lévö felszerelést, mint más</text><nl/>
+   <text> halálnemnél (harc közben, ételmérgezés, bányaomlás, stb.).</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #sto</text><nl/>
+   <text> #reset</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> A rövid formája a #storage utasításnak, funciója u.a.</text><nl/>
+   <text> A megszerzett pontok nullázása az újrakezdés reményének </text><nl/>
+   <text> ígéretével. A reseteléssel elveszted az összes tapasztalati</text><nl/>
+   <text> pontodat (pickpoint), juttatásokat (perk), elöfeltételeket</text><nl/>
+   <text> (nexus) és természetesen a mindösszesen (overall) pontot.</text><nl/>
+   <text> A tulajdonságok (attributes), mint fizikum (physique) vagy</text><nl/>
+   <text> egyensúly (coordination), stb. alapértékre (4/4) állnak.</text><nl/>
+   <text> A megszerzett képesség szintek, mint támadás (attack),</text><nl/>
+   <text> védekezés (defense), stb. a megszerzett tárgyak (item),</text><nl/>
+   <text> varázserejü jelképek (sigil), tudás (knowledge), követett</text><nl/>
+   <text> istenek (gods) és teljesített küldetések (quest) maradnak.</text><nl/>
+   <text> Akkor érdemes resetelni, ha nagyon elrontottuk a karakter</text><nl/>
+   <text> fejlesztését, kisebb korrekció ritka kövekkel végezhetö.</text><nl/>
+   <text> Erröl részletesebben a fórumokban.</text><nl/>
    <nl/>
-
    <color>yellow</color>
+   <link x="2" ref="text" title=" &lt;&lt;&lt; tartalom"/>
    <link x="120" ref="HelpPage" title="Súgó"/>
    <link x="240" ref="text" title="Kezdölap"/>
    <link x="385" ref="text2" title="2.oldal &gt;&gt;&gt;"/>
@@ -594,18 +682,87 @@
 </Page>
 
 <Page name="text2">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Súgó"/>
-   <link x="410" y="2" ref="text" title="Kezdölap"/>
-   <link x="4" y="40" ref="text" title="&lt;&lt;&lt;"/>
-   <text x="200" y="40">2/6 oldal</text>
-   <link x="450" y="40" ref="text3" title="&gt;&gt;&gt;"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Súgó"/>
+   <link x="410" y="8" ref="text" title="Kezdölap"/>
+   <link x="4" y="46" ref="text1" title="&lt;&lt;&lt;"/>
+   <text x="200" y="46">2/6 oldal</text>
+   <link x="450" y="46" ref="text3" title="&gt;&gt;&gt;"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
    <text>             Szöveges utasítások</text><nl/>
+   <size>Small</size><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #save</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Menti a karakteredet. A játék automata mentés funkciója</text><nl/>
+   <text> kereskedés után és kilépés elött müködik.</text><nl/>
+   <text> Fontos szint megszerzése után vagy ritka tárgy találása</text><nl/>
+   <text> után érdemes soron kívüli mentést kérni.</text><nl/>
+   <text> Szerver összeomlás után a karakter utolsó mentett állapota</text><nl/>
+   <text> kerül visszaállításra. Mérlegeld a menés fontosságát.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #change_pass régijelszó újjelszó</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Ezzel az EL-be történö belépés jelszavát lehet</text><nl/>
+   <text> megváltoztatni. Biztonságos helyen írd be a jelszót,</text><nl/>
+   <text> a privát üzenetben, csatornékon vagy helyi beszélgetésben</text><nl/>
+   <text> megjelenö utasítás felkeltheti más játékosok figyelmét.</text><nl/>
+   <text> A legjobb, ha egy ház belsejében adod ki ezt a parancsot.</text><nl/>
+   <text> Elötte megnyomod az ESC gombot, ami törli a fölös betüket.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #exit</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Kilépés a játékból figyelmeztetés és megerösítés nélkül.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #quit</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Kilépés a játékból figyelmeztetés és megerösítés nélkül.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #killme yes</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> A karakter teljes és visszavonhatatlan törlése a</text><nl/>
+   <text> rendszerböl. A karaktert minden felszerelési tárgyával</text><nl/>
+   <text> együtt törlik, késöbbi visszaállításra nem lesz mód.</text><nl/>
+   <text> Törlés elött kapsz egy utolsó figyelmeztetést: Egész biztos</text><nl/>
+   <text> ezt akarod tenni? (You are sure you want to do this?)</text><nl/>
+   <text> Dönts megfontoltan, cselekedj szabadon.</text><nl/>
+   <nl/>
+   <color>yellow</color>
+   <link x="2" ref="text" title=" &lt;&lt;&lt; 1.oldal"/>
+   <link x="120" ref="HelpPage" title="Súgó"/>
+   <link x="240" ref="text" title="Kezdölap"/>
+   <link x="385" ref="text3" title="3.oldal &gt;&gt;&gt;"/>
+   <nl/>
+</Page>
 
-   <size>Small</size>
-   <nl/><nl/>
+<Page name="text3">
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Súgó"/>
+   <link x="410" y="8" ref="text" title="Kezdölap"/>
+   <link x="4" y="46" ref="text2" title="&lt;&lt;&lt;"/>
+   <text x="200" y="46">3/6 oldal</text>
+   <link x="450" y="46" ref="text4" title="&gt;&gt;&gt;"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
+   <text>             Szöveges utasítások</text><nl/>
+   <size>Small</size><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #exp</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Megmutatja a jelenlegi tapasztalati pontjaidat és</text><nl/>
+   <text> szintjeidet és azt, hogy mennyi kell a következö szintig.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #arm</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> A rajtad lévö páncélok tulajdonságainak listája.</text><nl/>
+   <text> pl. védelem, meleggel, hideggel szembeni ellenállás, stb.</text><nl/>
+   <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> #knowledge</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
@@ -625,12 +782,6 @@
    <text> #know - #know tetszöleges szöveg</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
    <text> Az elöbbi #knowledge utasítás rövid alakja, hatása u.a.</text><nl/>
-   <nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> #arm</text><nl/>
-   <color r="0.4" g="0.8" b="1"/>
-   <text> A rajtad lévö páncélok tulajdonságainak listája.</text><nl/>
-   <text> pl. védelem, meleggel, hideggel szembeni ellenállás, stb.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> #research</text><nl/>
@@ -656,59 +807,54 @@
    <text> Istent lehet egyszerre szolgálni. (fórumon keresd).</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #msg all</text><nl/>
+   <text> #pki</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> Megmutatja az összes neked küldött személyes üzenetet,</text><nl/>
-   <text> amit az alatt kaptál, amíg távol voltál (afk mód).</text><nl/>
+   <text> Minden megnyert vagy elvesztett élet-halál harcért (PK)</text><nl/>
+   <text> valamennyi PK pontot kapsz vagy vesztesz.</text><nl/>
+   <text> PK pont (a mennyisége függ az ellénfél pontértékétöl);</text><nl/>
+   <text> ez csak azokra a harcosokra vonatkozik, akik att+def</text><nl/>
+   <text> (támadás és védekezés) képessége 130 pontnál magasabb.</text><nl/>
+   <text> Ez a parancs a saját pontodat írja ki.</text><nl/>
    <nl/>
-
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #storage</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Megnyitja a raktár ablakot, hogy megnézhesd miböl, mennyi</text><nl/>
+   <text> készleted van. Ez a parancs csak lekérdezésre való, a</text><nl/>
+   <text> raktárba történö elhelyezésre vagy onnan kivételhez el</text><nl/>
+   <text> kell menni és beszélni az egyik raktáros NPC-vel, kinek</text><nl/>
+   <text> a térképen barna pötty jelöli a helyét.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #sto</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> A rövid formája a #storage utasításnak, funciója u.a.</text><nl/>
+   <nl/>
    <color>yellow</color>
-   <link x="2" ref="text" title=" &lt;&lt;&lt; 1.oldal"/>
+   <link x="2" ref="text2" title=" &lt;&lt;&lt; 2.oldal"/>
    <link x="120" ref="HelpPage" title="Súgó"/>
    <link x="240" ref="text" title="Kezdölap"/>
-   <link x="385" ref="text3" title="3.oldal &gt;&gt;&gt;"/>
+   <link x="385" ref="text4" title="4.oldal &gt;&gt;&gt;"/>
    <nl/>
 </Page>
 
-<Page name="text3">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Súgó"/>
-   <link x="410" y="2" ref="text" title="Kezdölap"/>
-   <link x="4" y="40" ref="text2" title="&lt;&lt;&lt;"/>
-   <text x="200" y="40">3/6 oldal</text>
-   <link x="450" y="40" ref="text4" title="&gt;&gt;&gt;"/>
+<Page name="text4">
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Súgó"/>
+   <link x="410" y="8" ref="text" title="Kezdölap"/>
+   <link x="4" y="46" ref="text3" title="&lt;&lt;&lt;"/>
+   <text x="200" y="46">4/6 oldal</text>
+   <link x="450" y="46" ref="text5" title="&gt;&gt;&gt;"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
    <text>             Szöveges utasítások</text><nl/>
-
-   <size>Small</size>
-   <nl/><nl/>
+   <size>Small</size><nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> #cls</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
    <text> Töröl minden korábbi üzenetet a képernyöröl (személyes,</text><nl/>
    <text> rendszer és helyi). Természetesen az újabb üzenetek meg</text><nl/>
    <text> fognak jelenni a képernyön. Képernyöképe készítéshez jó.</text><nl/>
-   <nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> #exit</text><nl/>
-   <color r="0.4" g="0.8" b="1"/>
-   <text> Kilépés a játékból figyelmeztetés és megerösítés nélkül.</text><nl/>
-   <nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> #quit</text><nl/>
-   <color r="0.4" g="0.8" b="1"/>
-   <text> Kilépés a játékból figyelmeztetés és megerösítés nélkül.</text><nl/>
-   <nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> #save</text><nl/>
-   <color r="0.4" g="0.8" b="1"/>
-   <text> Menti a karakteredet. A játék automata mentés funkciója</text><nl/>
-   <text> kereskedés után és kilépés elött müködik.</text><nl/>
-   <text> Fontos szint megszerzése után vagy ritka tárgy találása</text><nl/>
-   <text> után érdemes soron kívüli mentést kérni.</text><nl/>
-   <text> Szerver összeomlás után a karakter utolsó mentett állapota</text><nl/>
-   <text> kerül visszaállításra. Mérlegeld a menés fontosságát.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> #day</text><nl/>
@@ -735,28 +881,35 @@
    <text> vagy újabb különleges nap kezdete vagy napi küldetések</text><nl/>
    <text> elvállalása vagy leadása szempontjából van jelentösége.</text><nl/>
    <nl/>
-
-   <color>yellow</color>
-   <link x="2" ref="text2" title=" &lt;&lt;&lt; 2.oldal"/>
-   <link x="120" ref="HelpPage" title="Súgó"/>
-   <link x="240" ref="text" title="Kezdölap"/>
-   <link x="385" ref="text4" title="4.oldal &gt;&gt;&gt;"/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #stats</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Néhány alap információt ír ki a szerverröl és a játékosok</text><nl/>
+   <text> számáról.</text><nl/>
    <nl/>
-</Page>
-
-<Page name="text4">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Súgó"/>
-   <link x="410" y="2" ref="text" title="Kezdölap"/>
-   <link x="4" y="40" ref="text3" title="&lt;&lt;&lt;"/>
-   <text x="200" y="40">4/6 oldal</text>
-   <link x="450" y="40" ref="text5" title="&gt;&gt;&gt;"/>
-   <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
-   <text>             Szöveges utasítások</text><nl/>
-
-   <size>Small</size>
-   <nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #glinfo</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Néhány alap információt ír ki a videókártyádról és az</text><nl/>
+   <text> OpenGL verziójáról.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #ping</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Mutatja a várakozási idöt (egyszerüen az adat továbbítás</text><nl/>
+   <text> idejét a gépedröl a szerverre és vissza, ezredmásodpercben</text><nl/>
+   <text> mérve).</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #ver</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Kiírja a játék aktuális verziószámát.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #vers</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Kiírja a játék aktuális verziószámát.</text><nl/>
+   <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> #current_song</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
@@ -764,39 +917,31 @@
    <text> a címe, szerzöje, teljes hossza és az eddig játszott idöt.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #suicide</text><nl/>
+   <text> #humor</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> Öngyilkosság, igen ez a parancs tényleg megöl és igen,</text><nl/>
-   <text> tényleg elvesztheted a nálad lévö felszerelést, mint más</text><nl/>
-   <text> halálnemnél (harc közben, ételmérgezés, bányaomlás, stb.).</text><nl/>
+   <text> Ez az utasítás az NPC-k humorát kapcsolja ki-be.</text><nl/>
+   <text> Alapértelmezett a bekapcsolt állapot.</text><nl/>
+   <text> A fekete humor a halál közeli élmény átélésekor aktív. :)</text><nl/>
    <nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> #reset</text><nl/>
-   <color r="0.4" g="0.8" b="1"/>
-   <text> A megszerzett pontok nullázása az újrakezdés reményének </text><nl/>
-   <text> ígéretével. A reseteléssel elveszted az összes tapasztalati</text><nl/>
-   <text> pontodat (pickpoint), juttatásokat (perk), elöfeltételeket</text><nl/>
-   <text> (nexus) és természetesen a mindösszesen (overall) pontot.</text><nl/>
-   <text> A tulajdonságok (attributes), mint fizikum (physique) vagy</text><nl/>
-   <text> egyensúly (coordination), stb. alapértékre (4/4) állnak.</text><nl/>
-   <text> A megszerzett képesség szintek, mint támadás (attack),</text><nl/>
-   <text> védekezés (defense), stb. a megszerzett tárgyak (item),</text><nl/>
-   <text> varázserejü jelképek (sigil), tudás (knowledge), követett</text><nl/>
-   <text> istenek (gods) és teljesített küldetések (quest) maradnak.</text><nl/>
-   <text> Akkor érdemes resetelni, ha nagyon elrontottuk a karakter</text><nl/>
-   <text> fejlesztését, kisebb korrekció ritka kövekkel végezhetö.</text><nl/>
-   <text> Erröl részletesebben a fórumokban.</text><nl/>
+   <color>yellow</color>
+   <link x="2" ref="text3" title=" &lt;&lt;&lt; 3.oldal"/>
+   <link x="120" ref="HelpPage" title="Súgó"/>
+   <link x="240" ref="text" title="Kezdölap"/>
+   <link x="385" ref="text5" title="5.oldal &gt;&gt;&gt;"/>
    <nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> #killme yes</text><nl/>
-   <color r="0.4" g="0.8" b="1"/>
-   <text> A karakter teljes és visszavonhatatlan törlése a</text><nl/>
-   <text> rendszerböl. A karaktert minden felszerelési tárgyával</text><nl/>
-   <text> együtt törlik, késöbbi visszaállításra nem lesz mód.</text><nl/>
-   <text> Törlés elött kapsz egy utolsó figyelmeztetést: Egész biztos</text><nl/>
-   <text> ezt akarod tenni? (You are sure you want to do this?)</text><nl/>
-   <text> Dönts megfontoltan, cselekedj szabadon.</text><nl/>
-   <nl/>
+</Page>
+
+<Page name="text5">
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Súgó"/>
+   <link x="410" y="8" ref="text" title="Kezdölap"/>
+   <link x="4" y="46" ref="text4" title="&lt;&lt;&lt;"/>
+   <text x="200" y="46">5/6 oldal</text>
+   <link x="450" y="46" ref="text6" title="&gt;&gt;&gt;"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
+   <text>             Szöveges utasítások</text><nl/>
+   <size>Small</size><nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> #add_buddy Játékosnév</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
@@ -835,96 +980,31 @@
    <text> elfogadja vagy sem a haver felkéréseket.</text><nl/>
    <text> Bekapcsolt állapotban elrejti a karakter statisztikáját.</text><nl/>
    <nl/>
-
-   <color>yellow</color>
-   <link x="2" ref="text3" title=" &lt;&lt;&lt; 3.oldal"/>
-   <link x="120" ref="HelpPage" title="Súgó"/>
-   <link x="240" ref="text" title="Kezdölap"/>
-   <link x="385" ref="text5" title="5.oldal &gt;&gt;&gt;"/>
-   <nl/>
-</Page>
-
-<Page name="text5">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Súgó"/>
-   <link x="410" y="2" ref="text" title="Kezdölap"/>
-   <link x="4" y="40" ref="text4" title="&lt;&lt;&lt;"/>
-   <text x="200" y="40">5/6 oldal</text>
-   <link x="450" y="40" ref="text6" title="&gt;&gt;&gt;"/>
-   <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
-   <text>             Szöveges utasítások</text><nl/>
-
-   <size>Small</size>
-   <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #mark name</text><nl/>
+   <text> #ignore Játékosnév</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text>12345678901234567890123456789012345678901234567890123456789</text><nl/>
-   <text> Marks your current location in your map.</text><nl/>
-   <text> (Hit tab to toggle map mode on and off.)</text><nl/>
+   <text> Mellözi a megadott nevü játékost. A töle érkezö üzenetek</text><nl/>
+   <text> minden formáját (privát, helyi vagy csatorna) letiltja.</text><nl/>
+   <text> Gyakorlatban hallhatatlan lesz a számodra.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #markpos x,y name</text><nl/>
+   <text> #unignore Játékosnév</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> Add a marked location from your map at the coordinates</text><nl/>
-   <text> specified by x and y.</text><nl/>
-   <nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> #unmark name</text><nl/>
-   <color r="0.4" g="0.8" b="1"/>
-   <text> Removes a marked location from your map.</text><nl/>
-   <nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> #ignore Playername</text><nl/>
-   <color r="0.4" g="0.8" b="1"/>
-   <text> This will block any message (PM, local, channels)</text><nl/>
-   <text> from this person, so you can't see it.</text><nl/>
-   <nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> #unignore Playername</text><nl/>
-   <color r="0.4" g="0.8" b="1"/>
-   <text> This removes playername from your ignore list.</text><nl/>
+   <text> Újra engedélyezi a megadott nevü játékos kapcsolat-</text><nl/>
+   <text> felvételeit. Üzenetei minden formában láthatók lesznek.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> #ignores</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> This will show you a list of everybody on your ignore</text><nl/>
-   <text> list.</text><nl/>
+   <text> Megmutatja a büntiben (tiltólistán) szereplö játékosokat.</text><nl/>
+   <text> Természetesen csak a számodra láthatatlanokat.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> #ignore_bots</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> This will ignore all the bots on all the channels,</text><nl/>
-   <text> however it won't affect local chat or PMs.</text><nl/>
-   <text> Typing the command again will unignore the bots.</text><nl/>
+   <text> Ez a parancs az összes botot az összes csatornán lenémítja.</text><nl/>
+   <text> Ismételt begépelés után a botok ismét elérhetök lesznek.</text><nl/>
    <nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> #filter word</text><nl/>
-   <color r="0.4" g="0.8" b="1"/>
-   <text> Type #filter word. This will replace the word you type</text><nl/>
-   <text> with "smeg" or whatever word you chose in your el.ini.</text><nl/>
-   <text> Usually people will filter curse words. Smeg is the</text><nl/>
-   <text> default word.</text><nl/>
-   <nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> #unfilter word</text><nl/>
-   <color r="0.4" g="0.8" b="1"/>
-   <text> Type #unfilter word. This will remove the word</text><nl/>
-   <text> from your filter list.</text><nl/>
-   <nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> #filters</text><nl/>
-   <color r="0.4" g="0.8" b="1"/>
-   <text> Shows list of all words on your filter list.</text><nl/>
-   <nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> #humor</text><nl/>
-   <color r="0.4" g="0.8" b="1"/>
-   <text> This turns the npc humor on or off.</text><nl/>
-   <text> The default setting is on.</text><nl/>
-   <nl/>
-
    <color>yellow</color>
    <link x="2" ref="text4" title=" &lt;&lt;&lt; 4.oldal"/>
    <link x="120" ref="HelpPage" title="Súgó"/>
@@ -934,53 +1014,55 @@
 </Page>
 
 <Page name="text6">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Súgó"/>
-   <link x="410" y="2" ref="text" title="Kezdölap"/>
-   <link x="4" y="40" ref="text5" title="&lt;&lt;&lt;"/>
-   <text x="200" y="40">6/6 oldal</text>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Súgó"/>
+   <link x="410" y="8" ref="text" title="Kezdölap"/>
+   <link x="4" y="46" ref="text5" title="&lt;&lt;&lt;"/>
+   <text x="200" y="46">6/6 oldal</text>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
    <text>             Szöveges utasítások</text><nl/>
-
-   <size>Small</size>
-   <nl/><nl/>
+   <size>Small</size><nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #change_pass oldpassword newpassword</text><nl/>
+   <text> #mark név</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> This changes your password. Make sure you write it down</text><nl/>
-   <text> someplace safe, it will not be logged in text anyplace.</text><nl/>
-   <text> Also make sure you do this inside a house ingame, so</text><nl/>
-   <text> nobody will see your chat in case you make a mistake.</text><nl/>
+   <text> Megjejlöli a térképen az aktuális helyzetedet és mellé </text><nl/>
+   <text> írja a név résznél megadott szöveget. Térképen jobb egér-</text><nl/>
+   <text> gombbal kattintás eredménye is ez. Térképen ellenörizd.</text><nl/>
+   <text> (Tab gombbal lehet váltani oda-vissza a térkép módot.)</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #stats</text><nl/>
+   <text> #markpos x,y név</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> Shows some basic game server information, plus info</text><nl/>
-   <text> about how many players are logged in.</text><nl/>
+   <text> A térképen lehet megjelölni egy, a koordinátákkal megadott</text><nl/>
+   <text> helyet. Müködése, mint elözö utasításnál.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #glinfo</text><nl/>
+   <text> #unmark név</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> Shows some basic information about your video card</text><nl/>
-   <text> and OpenGL version.</text><nl/>
+   <text> Eltávolítja a megadott nevü jelet a térképröl.</text><nl/>
+   <text> Térkép módban ctrl+jobb egérgomb a jelre hatása ugyanez.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #ping</text><nl/>
+   <text> #filter szó</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> Shows your current latency (in easy terms, shows the</text><nl/>
-   <text> response time from your computer to the server and</text><nl/>
-   <text> back to your computer again, measured in milliseconds).</text><nl/>
+   <text> A #filter parancs az utána beírt szót, nem kívánatosnak</text><nl/>
+   <text> minösíti. A nem kívánatos (sértö, csúnya, stb.) szavakat</text><nl/>
+   <text> kicseréli egy elöre megadott másik szóra. Alapértelmezés a</text><nl/>
+   <text> "smeg" szó, de bármit megadhatsz helyette az el.ini-ben.</text><nl/>
+   <text> A legtöbb játékos a gyakori káromkodásokat tiltja le.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #ver</text><nl/>
+   <text> #unfilter szó</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> Shows the current version of the game.</text><nl/>
+   <text> Az #unfilter parancs az utána megadott szót újra</text><nl/>
+   <text> engedélyezi. Amikor rájön, hogy nem a Fradi a csúnya szó</text><nl/>
+   <text> a sokat emlegetett kifejezésben. :)</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #vers</text><nl/>
+   <text> #filters</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> Shows the current version of the game.</text><nl/>
+   <text> Megmutatja az összes tiltólistára felvett szót.</text><nl/>
    <nl/>
    <color>yellow</color>
    <link x="2" ref="text5" title=" &lt;&lt;&lt; 5.oldal"/>
@@ -990,206 +1072,317 @@
 </Page>
 
 <Page name="Channel">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Vissza"/>
-   <link x="434" y="2" ref="HelpPage" title="Kezdölap"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Súgó"/>
+   <link x="410" y="8" ref="Channel" title="Kezdölap"/>
+   <text x="200" y="46">1/3 oldal</text>
+   <link x="450" y="46" ref="Channel2" title="&gt;&gt;&gt;"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Help</text><nl/>
-   <text>               The Chat System</text><nl/>
-   
-   <size>Small</size>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
+   <text>             Társalgási rendszer</text><nl/>
+   <size>Small</size><nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <nl/><nl/>
-   <text> - Chatting Hints -</text><nl/>
+   <text> - Társalgási tippek -</text><nl/>
    <nl/>
-   <text> To</text>
+   <text> Ahhoz,</text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> speak locally, so everyone around you can hear you,</text><nl/>
-   <text> just type what you want to say and hit enter.</text><nl/>
-   <nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> Use</text>
-   <color r="0.4" g="0.8" b="1"/>
-   <text> F1 key to see all chat that has scrolled off your</text><nl/>
-   <text> screen. Use your arrow keys or your mouse's middle</text><nl/>
-   <text> button/wheel to scroll up or down.</text><nl/>
+   <text> hogy helyben beszélgess, tehát mindenki hallja aki</text><nl/>
+   <text> körülötted tartózkodik, csak be kell írnod, amit mondani</text><nl/>
+   <text> akarsz és a végén leütnöd az ENTER billentyüt.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> To</text>
+   <text> Használd</text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> join a newbie help channel, type #jc 1. You will</text><nl/>
-   <text> get a message that says you have entered the newbie help</text><nl/>
-   <text> channel. Once there, type an @ before what you want to</text><nl/>
-   <text> say:</text>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> @hey all!</text>
-   <color r="0.4" g="0.8" b="1"/>
-   <text> That will let you talk in the channel,</text><nl/>
-   <text> where people (from any map) who are in that channel</text><nl/>
-   <text> can hear you. Local people will not hear you.</text><nl/>
+   <text> az F1 gombot, hogy megnézhesd az összes elhangzott</text><nl/>
+   <text> beszélgetést, ami már kigördült a képernyödröl.</text><nl/>
+   <text> Használd a nyilakat vagy az egér középsö kerekét a fel/le.</text><nl/>
+   <text> görgetéshez. (konzol mód)</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> To</text>
+   <text> Ahhoz,</text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> join a generic channel, type #jc number, like #jc 3.</text><nl/>
+   <text> hogy csatlakozni tudj az újoncokat segítö csator-</text><nl/>
+   <text> nához (newbie help channel), gépeld be a </text>
+   <color r="0.9" g="0.9" b="0.9"/><text>#jc 1</text>
+   <color r="0.4" g="0.8" b="1"/><text> szöveget</text><nl/>
+   <text> (jc=join channel). Erröl kapsz egy üzenetet (beléptél=</text><nl/>
+   <text> entered the newbie help channel). Amikor ott vagy, gépeld</text><nl/>
+   <text> a @ jelet, mielött begépeled amit el akarsz mondani:</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> @hello mindenki! = Hi all</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Ezzel a módszerrel azokkal tudsz beszélgetni, akik</text><nl/>
+   <text> csatlakoztak ehhez a csatornához (függetlenül attól, hogy</text><nl/>
+   <text> melyik térképen tartózkodnak). A helyben lévö játékosok</text><nl/>
+   <text> nem hallanak (csak ha a csatornához is csatlakoztak).</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> Use</text>
+   <text> Ahhoz,</text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> @ in front of what you say to talk in your active</text><nl/>
-   <text> channel. If you have joined more than 1 channel, you</text><nl/>
-   <text> can use @@number to send messages to different channels,</text><nl/>
-   <text> like</text>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> @@1 Hi all</text>
+   <text> hogy csatlakozz egy tetszöleges témakörü csatornához,</text><nl/>
+   <text> írd be a #jc szám (join channel=csatlakozok) parancsot,</text><nl/>
+   <text> ahol a szám a csatorna sorszáma, pl. piac 3-as csat. </text>
+   <color r="0.9" g="0.9" b="0.9"/><text>#jc 3</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> and</text>
+   <text> A magyar csatorna a 111-es </text>
+   <color r="0.9" g="0.9" b="0.9"/><text>#jc 111</text>
+   <color r="0.4" g="0.8" b="1"/><text>.</text><nl/>
+   <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> @@4 Hi channel 4</text>
+   <text> Használd</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> a @ jelet a mondanivalód elött ahhoz, hogy mások</text><nl/>
+   <text> is hallják az aktív csatornán. Ha egyidöben több csator-</text><nl/>
+   <text> nához is csatlakoztál, megadhatod a csatorna számát,</text><nl/>
+   <text> amelyikre az üzenetedet küldöd. Ennek módja @@szám üzenet</text><nl/>
+   <text> utasítás használata. Egérrel kattintva is választhatsz</text><nl/>
+   <text> aktív helyet. például: </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> @@1 Helló mindenki</text><nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> és </text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> @@4 Helló 4-es csatorna</text>
    <color r="0.4" g="0.8" b="1"/>
    <text>.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> To</text>
+   <text> Ahhoz,</text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> leave a channel, type #lc number (thats an L, not a 1).</text><nl/>
+   <text> hogy elhagyj egy aktív csatornát, gépeld be a</text><nl/>
+   <text> #lc szám utasítást (lc=leave channel /L betü nem 1-es).</text><nl/>
+   <text> például a magyar csatornát </text>
+   <color r="0.9" g="0.9" b="0.9"/><text>#lc 111</text>
+   <color r="0.4" g="0.8" b="1"/><text>.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> When</text>
+   <text> Amikor</text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> you are talking in a channel, your name will have</text><nl/>
-   <text> brackets [Playername]: hi! around it. When you talk in</text><nl/>
-   <text> local, your name will not. Playername: hi!</text><nl/>
+   <text> valamelyik csatornán beszélsz, akkor a neved záró-</text><nl/>
+   <text> jelben jelenik meg </text>
+   <color r="0.9" g="0.9" b="0.9"/><text>[Játékosnév]: Hello Ki van itt?</text>
+   <color r="0.4" g="0.8" b="1"/><text>. Amikor</text><nl/>
+   <text> helyben szólsz, akkor zárójel nélkül. </text>
+   <color r="0.9" g="0.9" b="0.9"/><text>Játékosnév: Szia!</text>
+   <color r="0.4" g="0.8" b="1"/><text> .</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> To</text>
+   <text> Ahhoz,</text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> pm somebody (send them a personal message that only</text><nl/>
-   <text> they can see), you type /playername message.</text><nl/>
-   <text> Example: /Playername hello, I'm new!</text><nl/>
-   <text> To reply to the last player who sent you a pm, just</text><nl/>
-   <text> type //.</text><nl/>
+   <text> hogy privát üzenetet küldj valakinek, amit csak</text><nl/>
+   <text> ö lát majd, gépeld be a </text>
+   <color r="0.9" g="0.9" b="0.9"/><text>/játékosnév üzenet</text>
+   <color r="0.4" g="0.8" b="1"/><text> szöveget.</text><nl/>
+   <text> Például: </text>
+   <color r="0.9" g="0.9" b="0.9"/><text>/queen hello, Újonc vagyok!</text>
+   <color r="0.4" g="0.8" b="1"/><text> Ha nincs online vagy</text><nl/>
+   <text> afk módban van, arról automata üzenetet kapsz vissza.</text><nl/>
+   <text> Annak válaszolni, aki utoljára írt neked a // betük</text><nl/>
+   <text> beírásával lehet, ez automatikusan beírja a nevét.</text><nl/>
+   <text> Ha több emberrel beszélsz privátban egyszerre, figyelj oda,</text><nl/>
+   <text> hogy ki írt utoljára.</text><nl/>
    <nl/>
+   <color>yellow</color>
+   <link x="120" ref="HelpPage" title="Súgó"/>
+   <link x="240" ref="Channel" title="Kezdölap"/>
+   <link x="385" ref="Channel2" title="2.oldal &gt;&gt;&gt;"/>
+   <nl/>
+</Page>
+
+<Page name="Channel2">
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Súgó"/>
+   <link x="410" y="8" ref="Channel" title="Kezdölap"/>
+   <link x="4" y="46" ref="Channel1" title="&lt;&lt;&lt;"/>
+   <text x="200" y="46">2/3 oldal</text>
+   <link x="450" y="46" ref="Channel3" title="&gt;&gt;&gt;"/>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
+   <text>             Társalgási rendszer</text><nl/>
+   <size>Small</size><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> - Jelenleg legnépszerübb csatornák -</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> - Current Popular Channels and Commands -</text><nl/>
+   <text> #jc 1: Newbie help: </text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Újoncokat segítö csatorna, itt minden</text><nl/>
+   <text> játékkal kapcsolatos kérdésedre válaszolnak. (Persze, ha</text><nl/>
+   <text> van online segítö.) Legtöbb újonc és sok gyakorlott segítö</text><nl/>
+   <text> van ezen a csatornán. Induláskor alapértelmezésben ez a</text><nl/>
+   <text> csatorna aktív, hallod más újoncok segélykéréseit.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #jc 1:</text>
+   <text> #jc 2: Gen help: </text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> Newbie help channel, here you can get your</text><nl/>
-   <text> questions answered. Many newbies and helpful experienced</text><nl/>
-   <text> players are on this channel.</text><nl/>
+   <text> Általános segítség csatorna, haladó</text><nl/>
+   <text> játékosoknak lényekröl küldetésekröl, titkos térképekröl,</text><nl/>
+   <text> felszerelésekröl, újításokról.</text><nl/>
+   <text> Konkrét koordinátát sehol nem lehet megadni a játékban!</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #jc 2:</text>
+   <text> #jc 3: Market: </text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> General help channel, questions about monsters</text><nl/>
-   <text> and advanced questions should be asked here.</text><nl/>
+   <text> Ez a kereskedelmi csatorna, virtuális piac,</text><nl/>
+   <text> a játékosok itt tudnak adni-venni egymással, árat ellenö-</text><nl/>
+   <text> rizni botoktól. Ezen a csatornán minden más témájú beszél-</text><nl/>
+   <text> getés tilos, ne keress párbaj ellenfelet, ne kérj segít-</text><nl/>
+   <text> séget, pláne ne offolj, stb.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #jc 3:</text>
+   <text> #jc 4: EL Gen chat: </text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> This is the Market Channel, where people go to</text><nl/>
-   <text> buy and sell and trade things with each other. This</text><nl/>
-   <text> channel is strictly for buying/selling/trading, do not</text><nl/>
-   <text> chat about other stuff here.</text><nl/>
+   <text> Ez az általános társalgási csatorna,</text><nl/>
+   <text> itt bármiröl az EL-lel kapcsolatban társaloghatsz</text><nl/>
+   <text> (szabályok, újítás, klánkeresö, fórum, enciklopédia, stb.).</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #jc 4:</text>
+   <text> #jc 5: Roleplay: </text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> This is the general conversation channel, where</text><nl/>
-   <text> you can chat about anything to do with EL.</text><nl/>
+   <text> Ez a szerepjáték csatorna, itt tudsz</text><nl/>
+   <text> csatlakozni más csoportokhoz szerepjátékot játszani</text><nl/>
+   <text> (kevesen keresik).</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #jc 5:</text>
+   <text> #jc 6: Invasions: </text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> This is the role-playing channel, where you can</text><nl/>
-   <text> join in group role-playing.</text><nl/>
+   <text> Ez a harc, a küzdelem csatornája.</text><nl/>
+   <text> Itt kapsz friss információt készülö invázióról, párbajról,</text><nl/>
+   <text> klánháborúról. A játékosok legnagyobb létszámban erre</text><nl/>
+   <text> jelentkeznek be. Itt sem szeretik a nem invázió témákat.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #jc 6:</text>
+   <text> #jc 7: Events: </text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> This is the contest channel. You can come here</text><nl/>
-   <text> if you want details about an ongoing contest.</text><nl/>
+   <text> Ezen a csatornán kihívások és más események</text><nl/>
+   <text> a fö téma. Legyen szó eldugott tárgy vagy személy</text><nl/>
+   <text> felkutatása vagy, szüreti verseny, jelmezes felvonulás.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #jc 20:</text>
+   <text> #jc 8: Leonard: </text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> This is the off-topic channel. Here, you can</text><nl/>
-   <text> discuss anything, EL-related, or not.</text><nl/>
+   <text> Beszélgess Leonardról. Ritka leopárd (alfa).</text><nl/>
+   <text> Irilionon vadászik. Nem véd ellene az MM köpeny sem.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #jc guild:</text>
+   <text> #jc 9: Prattler: </text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> This only works if you belong to a guild;</text><nl/>
-   <text> each guild has an official guild channel that only people</text><nl/>
-   <text> who belong to the guild can talk in.</text><nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Hallgasd a mesemondó bot történeteit.</text><nl/>
    <nl/>
-   <text> You</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #jc 20: Off topic: </text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> can "make" your own chat channel. Just add any</text><nl/>
-   <text> number over 100 (just to be safe) to the #jc command.</text><nl/>
-   <text> Once you are in there type #ci to see if it is empty.</text><nl/>
-   <text> Many guilds do this in addition to their official guild</text><nl/>
-   <text> channel so they can invite guests to chat with them.</text><nl/>
+   <text> Ez az off-topic. Bármi téma lehet,</text><nl/>
+   <text> ami nem EL. Civil élet, hobbi, utazás, nyelvtanulás, stb.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #jc 24: Irilion: </text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Az Irilionra látogatók csatornája.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #jc 124: Trivia: </text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Játszunk Trivia-t! Kérdezz! Felelek.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #jc 9872: *nix:</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Programozás (linux, *bsd, egyéb)</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> #ci:</text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> this tells you what channel you are on and how many</text><nl/>
-   <text> people are on it.</text><nl/>
+   <text> utasítás megmutatja, hogy veled együtt, mennyi</text><nl/>
+   <text> játékos van az aktív csatornákon.</text><nl/>
    <nl/>
+   <color>yellow</color>
+   <link x="2" ref="Channel1" title=" &lt;&lt;&lt; 1.oldal"/>
+   <link x="120" ref="HelpPage" title="Súgó"/>
+   <link x="240" ref="Channel" title="Kezdölap"/>
+   <link x="385" ref="Channel3" title="3.oldal &gt;&gt;&gt;"/>
+   <nl/>
+</Page>
+
+<Page name="Channel3">
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Súgó"/>
+   <link x="410" y="8" ref="Channel" title="Kezdölap"/>
+   <link x="4" y="46" ref="Channel2" title="&lt;&lt;&lt;"/>
+   <text x="200" y="46">3/3 oldal</text>
+   <size>Big</size><color r="1" g="0.6" b="0"/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
+   <text>             Társalgási rendszer</text><nl/>
+   <size>Small</size><nl/><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> - Guild (céh, szövetség, klán) parancsok -</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> - Guild Chat Commands -</text><nl/>
-   <nl/>
-   <color r="0.9" g="0.9" b="0.9"/>
-   <text> #gm message:</text><nl/>
+   <text> #jc guild:</text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> Similar to a guild channel, this lets you chat with</text><nl/>
-   <text> your guild members even if you all are in different</text><nl/>
-   <text> channels. The messages will show up in blue.</text><nl/>
-   <text> Requires rank 5.</text><nl/>
+   <text> Ahol a guild a céh neve. Ez csak akkor müködik,</text><nl/>
+   <text> ha tagja vagy annak a céhnek. Minden céhnek van hivatalos</text><nl/>
+   <text> csatornája ahol annak tagjai tudnak egymással társalogni.</text><nl/>
+   <text> A céh csatornáján folytatott beszélgetést más nem látja.</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <nl/>
+   <text> Saját</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> társalgó csatornát mindenki létrehozhat. Ehhez nem</text><nl/>
+   <text> kell mást tenni, csak egy tetszöleges (100-nál nagyobb)</text><nl/>
+   <text> számú csatornához csatlakozni a #jc szám parancssal.</text><nl/>
+   <text> Légy óvatos és ellenörizd, hogy a csatorna üres legyen.</text><nl/>
+   <text> A csatorna aktív tagjainak számát a #ci paranccsal kérdez-</text><nl/>
+   <text> heted le. Ha csak 1 online tagot ír, az te vagy.</text><nl/>
+   <text> Sok céh használ ilyen nyilvános saját csatornát a hivata-</text><nl/>
+   <text> los céh csatorna mellett, ahol új tagokat tudnak toborozni.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #ig guildtag message:</text><nl/>
+   <text> #gm üzenet:</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> Like #gm, but for the guild you specified by their tag.</text><nl/>
-   <text> Examples: #ig eg hi everybody in EG!; #ig *o* hey *O*!</text><nl/>
-   <text> Requires rank 6.</text><nl/>
+   <text> Hasonló a céh csatornához, de ezzel a paranccsal azokkal a</text><nl/>
+   <text> céh tagokkal is tudsz társalogni, akik éppen más csatornán</text><nl/>
+   <text> tartózkodnak. Ezek az üzenetek kék színnel jelennek meg.</text><nl/>
+   <text> A használatához 5 rank (céhen belül) elérése szükséges.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #ig_block guildtag:</text>
+   <text> #ig céhcimke üzenet:</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
-   <text> Blocks messages from that guild.</text><nl/>
-   <text> Requires rank 18.</text><nl/>
+   <text> Hasonló, mint a #gm parancs, de annak a céhnek tagjainak</text><nl/>
+   <text> szól, amelyiket a céhcimkében meghatározol. például: </text><nl/>
+   <text> #ig eg hello mindenki az EG -ben!; #ig *o* hahó *O*!</text><nl/>
+   <text> Használathoz 6 rank kell.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> #ig_unblock guildtag:</text>
+   <text> #ig_block céhcimke:</text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> Unblocks messages from a guild.</text><nl/>
-   <text> Requires rank 18.</text><nl/>
+   <text> Blokkolja az üzeneteket ebböl a céhböl.</text><nl/>
+   <text> Használatához 18 rank szükséges.</text><nl/>
+   <nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> #ig_unblock céhcimke:</text>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Újra engedélyezi az üzeneteket ebböl</text><nl/>
+   <text> a céhböl. Használatához 18 rank szükséges.</text><nl/>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> #ig_block_list:</text>
    <color r="0.4" g="0.8" b="1"/>
-   <text> Lists all blocked guilds.</text><nl/>
+   <text> Kilistázza az összes blokkolt céhet.</text><nl/>
    <nl/>
-   
    <color>yellow</color>
-   <text>                    </text>
-   <link ref="HelpPage" title="Back To Help Index"/>
+   <link x="2" ref="Channel2" title=" &lt;&lt;&lt; 2.oldal"/>
+   <link x="120" ref="HelpPage" title="Súgó"/>
+   <link x="240" ref="Channel" title="Kezdölap"/>
    <nl/>
 </Page>
 
 <Page name="guild">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Vissza"/>
-   <link x="434" y="2" ref="HelpPage" title="Kezdölap"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Vissza"/>
+   <link x="434" y="8" ref="HelpPage" title="Kezdölap"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text x="2" y="8">             Eternal Lands Help</text><nl/>
    <text>               Guild Commands</text><nl/>
    
    <size>medium</size>
@@ -1201,6 +1394,7 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <text> #make_guild</text><nl/>
    <color r="0.4" g="0.8" b="1"/>
+   <text>12345678901234567890123456789012345678901234567890123456789</text><nl/>
    <text> Creates your guild. You MUST have a skill (not overall)</text><nl/>
    <text> at level 39 or higher, and 30kgc in your inventory.</text><nl/>
    <nl/>
@@ -1411,24 +1605,24 @@
 </Page>
 
 <Page name="HP Interface">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Vissza"/>
-   <link x="434" y="2" ref="HelpPage" title="Kezdölap"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Vissza"/>
+   <link x="434" y="8" ref="HelpPage" title="Kezdölap"/>
    <text x="2" y="18">Page 1/2</text>
    <link x="450" y="18" ref="HP Interface2" title="&gt;&gt;&gt;"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text x="2" y="8">             Eternal Lands Help</text><nl/>
    <text>                 Interface</text><nl/><nl/>
    
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <nl/><nl/>
 
-   <size>Medium</size>
+   <color r="1" g="1" b="1"/><size>Medium</size>
    <simage isize="256" tsize="32" size="100" tid="0" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
    <size>Big</size><color r="0.8" g="0.8" b="0.8"/>
    <text> Walk               </text>
    
-   <size>Medium</size>
+   <color r="1" g="1" b="1"/><size>Medium</size>
    <simage isize="256" tsize="32" size="100" tid="7" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
    <size>Big</size><color r="0.8" g="0.8" b="0.8"/>
    <text> Sit down  </text><nl/>
@@ -1436,25 +1630,25 @@
    
    <simage isize="256" tsize="32" size="100" tid="8" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
    <text> Stand up           </text>
-   <size>Medium</size>
+   <color r="1" g="1" b="1"/><size>Medium</size>
    
    <simage isize="256" tsize="32" size="100" tid="2" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
    <size>Big</size><color r="0.8" g="0.8" b="0.8"/>
    <text> Look at        </text><nl/>
    <nl/>
    
-   <size>Medium</size>
+   <color r="1" g="1" b="1"/><size>Medium</size>
    <simage isize="256" tsize="32" size="100" tid="15" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
    <size>Big</size><color r="0.8" g="0.8" b="0.8"/>
    <text> Use                </text>
    
-   <size>Medium</size>
+   <color r="1" g="1" b="1"/><size>Medium</size>
    <simage isize="256" tsize="32" size="100" tid="47" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
    <size>Big</size><color r="0.8" g="0.8" b="0.8"/>
    <text> Use with       </text><nl/>
    <nl/>
    
-   <size>Medium</size>
+   <color r="1" g="1" b="1"/><size>Medium</size>
    <simage isize="256" tsize="32" size="100" tid="4" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
    <size>Big</size><color r="0.8" g="0.8" b="0.8"/>
    <text> Trade with         </text>
@@ -1485,7 +1679,7 @@
    <text> View Map</text><nl/>
    <nl/>
    
-   <size>Medium</size>
+   <color r="1" g="1" b="1"/><size>Medium</size>
    <simage isize="256" tsize="32" size="100" tid="1" name="textures/gamebuttons.bmp" yposupdate="0" xposupdate="1"/>
    <size>Big</size><color r="0.8" g="0.8" b="0.8"/>
    <text> View console       </text>
@@ -1499,19 +1693,19 @@
    <nl/>
    <nl/>
    
-   <size>Medium</size>
+   <color r="1" g="1" b="1"/><size>Medium</size>
    <color>blue</color><color r="0.4" g="0.8" b="1"/>
    <text> BLUE BAR:</text><nl/>
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <text> This is your "ethereal points" level.</text><nl/>
    <text> Ethereal points are also known as mana, this is what</text><nl/>
    <text> you need to cast magic spells. You can raise this by</text><nl/>
    <text> getting the attributes will and/or vitality.</text><nl/>
    <nl/>
    <color>yellow</color>
-   <size>Medium</size>
+   <color r="1" g="1" b="1"/><size>Medium</size>
    <text> YELLOW BAR:</text><nl/>
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <text> This is your food level. You need to keep</text><nl/>
    <text> this level over 0 so you can research (read books) and</text><nl/>
    <text> automatically heal (1 hp per minute). You keep your food</text><nl/>
@@ -1520,9 +1714,9 @@
    <text> below 0, but you do not automatically heal either.</text><nl/>
    <nl/>
    <color r="1" g="0" b="0"/>
-   <size>Medium</size>
+   <color r="1" g="1" b="1"/><size>Medium</size>
    <text> RED BAR:</text><nl/>
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <text> This is your health level, also called your</text><nl/>
    <text> "material points". This always needs to be over 0,</text><nl/>
    <text> or else you die. You can raise your total possible</text><nl/>
@@ -1532,9 +1726,9 @@
    <nl/>
    
    <color>olive</color><color r="1" g="0.5" b="0.5"/>
-   <size>Medium</size>
+   <color r="1" g="1" b="1"/><size>Medium</size>
    <text> THE BROWN BAR:</text><nl/>
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <text> This tells you how much emu (EL's measurement of weight,</text><nl/>
    <text> the "Energy Matter Unit") you have remaining to be able</text><nl/>
    <text> to carry. Once you are full (bar shows totally brown at 0</text><nl/>
@@ -1543,9 +1737,9 @@
    <text> physique and/or coordination.</text><nl/>
    <nl/>
    <color r="0" g="1" b="0.3"/>
-   <size>Medium</size>
+   <color r="1" g="1" b="1"/><size>Medium</size>
    <text> THE GREEN BAR:</text><nl/>
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <text> This shows you how much experience you have remaining</text><nl/>
    <text> until the next level. It is set by default on Overall,</text><nl/>
    <text> but you can change it to show any skill you like by</text><nl/>
@@ -1561,16 +1755,16 @@
 </Page>
 
 <Page name="HP Interface2">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Vissza"/>
-   <link x="434" y="2" ref="HelpPage" title="Kezdölap"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Vissza"/>
+   <link x="434" y="8" ref="HelpPage" title="Kezdölap"/>
    <text x="2" y="18">Page 2/2</text>
    <link x="450" y="18" ref="HP Interface" title="&gt;&gt;&gt;"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text x="2" y="8">             Eternal Lands Help</text><nl/>
    <text>                 Interface</text><nl/>
 
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <nl/><nl/>
    
    <color r="0.9" g="0.9" b="0.9"/>
@@ -1659,20 +1853,20 @@
 </Page>
 
 <Page name="AbbrAcr">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Vissza"/>
-   <link x="434" y="2" ref="HelpPage" title="Kezdölap"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Vissza"/>
+   <link x="434" y="8" ref="HelpPage" title="Kezdölap"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text x="2" y="8">             Eternal Lands Help</text><nl/>
    <text>            What does this mean...</text><nl/>
    
    <nl/>
-   <size>Medium</size>
+   <color r="1" g="1" b="1"/><size>Medium</size>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> - Abbreviations and Acronyms-</text><nl/>
    <nl/>
    
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> IP   -</text>
@@ -1845,14 +2039,14 @@
 </Page>
 
 <Page name="tips">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Vissza"/>
-   <link x="434" y="2" ref="HelpPage" title="Kezdölap"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Vissza"/>
+   <link x="434" y="8" ref="HelpPage" title="Kezdölap"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text x="2" y="8">             Eternal Lands Help</text><nl/>
    <text>                    Tips</text><nl/>
    
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> If</text>
@@ -1988,16 +2182,16 @@
 </Page>
 
 <Page name="NFAQ">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Vissza"/>
-   <link x="434" y="2" ref="HelpPage" title="Kezdölap"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Vissza"/>
+   <link x="434" y="8" ref="HelpPage" title="Kezdölap"/>
    <text x="2" y="18">Page 1/2</text>
    <link x="450" y="18" ref="NFAQ2" title="&gt;&gt;&gt;"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text x="2" y="8">             Eternal Lands Help</text><nl/>
    <text>                 Newbie FAQ</text><nl/>
 
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> I'm new, what do I do?</text><nl/>
@@ -2112,16 +2306,16 @@
 </Page>
 
 <Page name="NFAQ2">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Vissza"/>
-   <link x="434" y="2" ref="HelpPage" title="Kezdölap"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Vissza"/>
+   <link x="434" y="8" ref="HelpPage" title="Kezdölap"/>
    <text x="2" y="18">Page 2/2</text>
    <link x="450" y="18" ref="NFAQ" title="&gt;&gt;&gt;"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text x="2" y="8">             Eternal Lands Help</text><nl/>
    <text>                 Newbie FAQ</text><nl/>
 
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Can somebody heal me?</text><nl/>
@@ -2230,16 +2424,16 @@
 </Page>
 
 <Page name="SFAQ">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Vissza"/>
-   <link x="434" y="2" ref="HelpPage" title="Kezdölap"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Vissza"/>
+   <link x="434" y="8" ref="HelpPage" title="Kezdölap"/>
    <text x="2" y="18">Page 1/2</text>
    <link x="450" y="18" ref="SFAQ2" title="&gt;&gt;&gt;"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text x="2" y="8">             Eternal Lands Help</text><nl/>
    <text>                 Skills FAQ</text><nl/>
    
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> What is.....?</text><nl/>
@@ -2305,16 +2499,16 @@
 </Page>
 
 <Page name="SFAQ2">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Vissza"/>
-   <link x="434" y="2" ref="HelpPage" title="Kezdölap"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Vissza"/>
+   <link x="434" y="8" ref="HelpPage" title="Kezdölap"/>
    <text x="2" y="18">Page 2/2</text>
    <link x="450" y="18" ref="SFAQ" title="&gt;&gt;&gt;"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text x="2" y="8">             Eternal Lands Help</text><nl/>
    <text>                 Skills FAQ</text><nl/>
    
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> What is.....?</text><nl/>
@@ -2390,14 +2584,14 @@
 </Page>
 
 <Page name="Passwords">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Vissza"/>
-   <link x="434" y="2" ref="HelpPage" title="Kezdölap"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Vissza"/>
+   <link x="434" y="8" ref="HelpPage" title="Kezdölap"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Help</text><nl/>
+   <text x="2" y="8">             Eternal Lands Help</text><nl/>
    <text>             Choosing Passwords</text><nl/>
    
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Creating Strong Passwords:</text><nl/>
@@ -2451,13 +2645,13 @@
 </Page>
 
 <Page name="Calendar">
-   <size>Small</size><color>yellow</color>
-   <link x="2" y="2" ref="HelpPage" title="Vissza"/>
-   <link x="434" y="2" ref="HelpPage" title="Kezdölap"/>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size><color>yellow</color>
+   <link x="2" y="8" ref="HelpPage" title="Vissza"/>
+   <link x="434" y="8" ref="HelpPage" title="Kezdölap"/>
    <size>Big</size><color r="1" g="0.6" b="0"/>
-   <text x="2" y="2">             Eternal Lands Súgó</text><nl/>
+   <text x="2" y="8">             Eternal Lands Súgó</text><nl/>
    <text>           Calendar of the Elders</text><nl/>
-   <size>Small</size>
+   <color r="0.8" g="0.8" b="0.8"/><size>Small</size>
    <nl/><nl/>
    <color r="0.4" g="0.8" b="1"/>
    <text> The world of Draia uses it's own calendar.</text><nl/>

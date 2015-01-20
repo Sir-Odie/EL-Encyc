@@ -1,5 +1,10 @@
 Changelog:
 
+2015-01-20
+
+More hungarian updates
+
+
 2015-01-07
 
 First update of the hungarian Encyc
