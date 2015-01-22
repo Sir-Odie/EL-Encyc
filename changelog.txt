@@ -1,5 +1,11 @@
 Changelog:
 
+2015-01-22
+
+Weapons:
+Fixed Iron and Wooden Battle Hammer
+
+
 2015-01-20
 
 More hungarian updates
