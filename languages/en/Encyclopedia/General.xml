@@ -1124,7 +1124,7 @@
    <link ref="Maps2_IRS" title="Irsis"/><text>                           </text>
    <text>   Y        Y      -</text><nl/>
    <link ref="Maps2_PV" title="Palon Vertas"/><text> (PV)               </text>
-   <text>   Y        -      -</text><nl/>
+   <text>   Y        Y      -</text><nl/>
    <link ref="Maps2_Sed" title="Sedicolis"/><text>                       </text>
    <text>   -        Y      -</text><nl/>
    <link ref="Maps2_BE" title="Bethel"/><text>                          </text>
