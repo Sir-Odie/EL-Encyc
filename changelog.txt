@@ -1,5 +1,11 @@
 Changelog:
 
+2015-6-17
+
+Books:
+Fixed Research Points for Mare Bulangiu Fighting
+
+
 2015-03-20
 
 Maps:
