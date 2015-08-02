@@ -1,6 +1,12 @@
 Changelog:
 
-2015-6-17
+2015-08-02
+
+Armour:
+Fixed Red Dragon Helm of Life and Mana
+
+
+2015-06-17
 
 Books:
 Fixed Research Points for Mare Bulangiu Fighting
