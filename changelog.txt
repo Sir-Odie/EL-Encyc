@@ -1,5 +1,11 @@
 Changelog:
 
+2015-09-26
+
+Crafting:
+Updated Heavenspawn Medallion
+
+
 2015-08-02
 
 Armour:
