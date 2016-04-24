@@ -497,6 +497,11 @@
    <text> and how much you need until you reach the next level.</text><nl/>
    <nl/>
    <color r="0.4" g="0.8" b="1"/>
+   <text> #ach</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Shows your achievements stats.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
    <text> #pki</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> For every kill/death in PK fights you earn/lose some</text><nl/>

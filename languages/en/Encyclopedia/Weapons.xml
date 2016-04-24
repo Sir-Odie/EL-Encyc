@@ -593,7 +593,7 @@
    <nlkx/>
    <text> +4 Critical to damage</text>
    <nlkx/>
-   <text> Required Nexus to use: Human 3</text>
+   <text> Required Nexus to use: Human 1</text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
@@ -633,11 +633,11 @@
    <nl/>
    <simage isize="256" tsize="50" size="100" tid="1" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Inflicts 10-30 damage, -1 Defense,</text>
+   <text> Inflicts 10-30 damage, -1 Defense, +2 Accuracy,</text>
    <nlkx/>
    <text> +6 Critical to damage</text>
    <nlkx/>
-   <text> Required Nexus to use: Human 4</text>
+   <text> Required Nexus to use: Human 2</text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
@@ -676,11 +676,11 @@
    <text>                Titanium Axe</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="2" name="textures/items8.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> Inflicts 25-40 damage, -1 Defense,</text>
+   <text> Inflicts 25-40 damage, -1 Defense, +2 Accuracy,</text>
    <nlkx/>
    <text> +10 Critical to damage</text>
    <nlkx/>
-   <text> Required Nexus to use: Human 5</text>
+   <text> Required Nexus to use: Human 4</text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Required materials:</text>
@@ -1163,7 +1163,7 @@
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
    <text> Inflicts 10-70 damage, -2 Defense, -1 Accuracy,</text>
    <nlkx/>
-   <text> +5 Critical to damage.</text>
+   <text> +20 Critical to damage.</text>
    <nlkx/>
    <text> Required Nexus to use: Human 6</text>
    <nl/><nl/>

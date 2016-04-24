@@ -1840,19 +1840,20 @@
    <nl/>
    <nl/><nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: the process produces 3 glyphs at a time.</text><nl/>
+   <nl/>
    <text> Required materials:</text>
    <nl/>
-   <text> ???</text>
+   <text> 1 Enriched Death Essence, 1 Enriched Life Essence,</text><nl/>
+   <text> 1 Mixture of Power, 3 Phoenix Feathers.</text>
    <nl/>
-   <text> Knowledge needed: ???</text>
+   <text> Required Nexuses: Animal 5</text>
    <nl/>
-   <text> Required Nexuses: ???</text>
+   <text> Recommended Summoning Level: 90</text>
    <nl/>
-   <text> Recommended Summoning Level: ???</text>
+   <text> Summoning Experience Given: 8000</text>
    <nl/>
-   <text> Summoning Experience Given: ???</text>
-   <nl/>
-   <text> Food subtracted: ???</text>
+   <text> Food subtracted: 30</text>
    <nl/>
    <text> Stackable: Yes</text>
    <nl/>

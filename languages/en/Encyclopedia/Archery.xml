@@ -310,7 +310,7 @@
    <text>                Magic Arrows</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="20" name="textures/items24.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
-   <text> 15 Range Damage, 15 Magic Damage, -25 Accuracy,</text>
+   <text> 30 Range Damage, 15 Magic Damage, -25 Accuracy,</text>
    <nlkx/>
    <text> +15 Missile Accuracy, -15 Critical to Hit,</text>
    <nlkx/>
