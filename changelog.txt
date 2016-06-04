@@ -1,5 +1,11 @@
 Changelog:
 
+2016-06-04
+
+Archery:
+Updated Crossbow
+
+
 2016-04-24
 
 Archery:
