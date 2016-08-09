@@ -511,6 +511,12 @@
    <text> This command shows your current score.</text><nl/>
    <nl/>
    <color r="0.4" g="0.8" b="1"/>
+   <text> #ii</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Shows how many hours have passed since you participated</text><nl/>
+   <text> in instances.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
    <text> #il</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Shows how many invading monsters (red name) are left</text><nl/>
