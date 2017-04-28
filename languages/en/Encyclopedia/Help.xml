@@ -257,6 +257,14 @@
    <nl/>
    
    <color r="0.4" g="0.8" b="1"/>
+   <text> Alt+r</text><nl/>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Turns on and off the "Ranging Lock"; this</text><nl/>
+   <text> prevents your character from moving by</text><nl/>
+   <text> accident when you are ranging.</text><nl/>
+   <nl/>
+   
+   <color r="0.4" g="0.8" b="1"/>
    <text> Ctrl+c</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Copy the text selected.</text><nl/>
@@ -347,8 +355,7 @@
    <color r="0.4" g="0.8" b="1"/>
    <text> Ctrl+r</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> Repeats the last spell cast from the Sigils window</text><nl/>
-   <text> (works only when the Sigils window is open).</text><nl/>
+   <text> Repeats the last spell cast from the Sigils window.</text><nl/>
    <nl/>
    
    <color r="0.4" g="0.8" b="1"/>
@@ -2849,8 +2856,6 @@
    <text> Day of Magic</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> You get double experience for Magic.</text><nl/>
-   <text> Role Playing: The legendary Robin Tell is visiting us</text><nl/>
-   <text> today, and all the ranging exp is doubled!</text><nl/>
    <nl/>
    <color r="0.4" g="0.8" b="1"/>
    <text> Day of Aleksei Stakhanov</text><nl/>

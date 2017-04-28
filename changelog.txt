@@ -1,5 +1,11 @@
 Changelog:
 
+2017-04-28
+
+Help:
+Added Alt+r, fixed Ctrl+r and Day of Magic
+
+
 2016-09-27
 
 Removed outdated Rules translations
