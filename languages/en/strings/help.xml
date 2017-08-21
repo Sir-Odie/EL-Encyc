@@ -126,7 +126,7 @@ To talk in a channel, type @ before your message. You do not have to type @ to t
       <name>Name:</name>
       <name_desc>The name of your buddy</name_desc>
       <color>Color:</color>
-      <color_desc>The color you want your buddy to appear in in the list</color_desc>
+      <color_desc>The color you want your buddy to appear in the list</color_desc>
       <add>Add buddy</add>
       <change>Change buddy</change>
       <accept>Accept buddy</accept>
