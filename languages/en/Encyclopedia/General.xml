@@ -1717,8 +1717,8 @@
    <link ref="Hood" title="Universal Hood"/><text>                </text>
    <link ref="RobeSkirt_Yellow" title="Yellow Robe Skirt"/>
    <nl/>
-   <text>                              </text>
-   <text> </text>
+   <link ref="wholam" title="Wizard Hat of Life and Mana"/>
+   <nl/>
    <nl/>
    <color r="0" g="0.7" b="1"/><text>Pants</text><text>                         </text><color r="0.9" g="0.9" b="0.9"/>
    <color r="0" g="0.7" b="1"/><text>Enchanted Clothes</text><color r="0.9" g="0.9" b="0.9"/>
