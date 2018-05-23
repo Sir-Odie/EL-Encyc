@@ -54,8 +54,8 @@
 <achievement achievement_id="51" image_id="9" title="Master Engineer">Engineering tutorial finished</achievement>
 <achievement achievement_id="52" image_id="10" title="Made to Measure">Tailoring tutorial finished</achievement>
 <achievement achievement_id="53" image_id="11" title="Flower Power">Harvesting tutorial finished</achievement>
-<achievement achievement_id="54" image_id="6" title="Pure Magic">Magic Tutorial Finished</achievement>
-<achievement achievement_id="55" image_id="7" title="Creature Featurer">Summoning tutorial finished</achievement>
+<achievement achievement_id="54" image_id="6" title="Pure Magic">Achieved Magical Greatness</achievement>
+<achievement achievement_id="55" image_id="7" title="Creature Maker">Gave creature parts to Maia 150 times</achievement>
 
 <image_settings size="32" display="32"/>
 <window_settings per_row="5" min_rows="1" max_rows="12" border="2" prev="[&lt;]" next="[&gt;]" close="[close]"/>
