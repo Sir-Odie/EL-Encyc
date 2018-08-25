@@ -1072,7 +1072,7 @@
    <text>                   ALCHEMY</text><nl/>
    <color r="1" g="1" b="1"/>
    <text>            Enriched Energy Essence</text><nl/><nl/>
-   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items3.bmp" yposupdate="0" xposupdate="1"/>
+   <simage isize="256" tsize="50" size="100" tid="5" name="textures/items28.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
    <text> Used for: Advanced Summoning Stones.</text>
    <nlkx/>

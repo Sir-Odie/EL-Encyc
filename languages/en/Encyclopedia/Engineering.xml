@@ -1155,7 +1155,7 @@
    <text>                 ENGINEERING</text><nl/>
    <color r="1" g="1" b="1"/>
    <text>               Treasure Finder</text><nl/><nl/>
-   <simage isize="256" tsize="50" size="100" tid="7" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <simage isize="256" tsize="50" size="100" tid="14" name="textures/items28.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
    <text> Helps finding treasures that are placed at random</text>
    <nlkx/>
@@ -1198,7 +1198,7 @@
    <text>                 ENGINEERING</text><nl/>
    <color r="1" g="1" b="1"/>
    <text>                 Pear Finder</text><nl/><nl/>
-   <simage isize="256" tsize="50" size="100" tid="6" name="textures/items17.bmp" yposupdate="0" xposupdate="1"/>
+   <simage isize="256" tsize="50" size="100" tid="13" name="textures/items28.bmp" yposupdate="0" xposupdate="1"/>
    <size>Medium</size><color r="0.5" g="0.9" b="1"/>
    <text> Helps finding pears.</text>
    <nl/><nl/><nl/><nl/>
