@@ -1,5 +1,11 @@
 Changelog:
 
+2018-12-31
+
+Potions:
+Fixed Minor Healing Potion
+
+
 2018-08-25
 
 Fixed some icons

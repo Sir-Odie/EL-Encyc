@@ -47,7 +47,7 @@
    <text>          Potion of Minor Healing</text><nl/><nl/>
    <simage isize="256" tsize="50" size="100" tid="16" name="textures/items1.bmp" yposupdate="0" xposupdate="1"/>
    <Size>Medium</Size><color r="0.5" g="0.9" b="1"/>
-   <text> Restores 6 material points.</text>
+   <text> Restores 10 material points.</text>
    <nlkx/>
    <text> </text>
    <nl/><nl/><nl/>
