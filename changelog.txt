@@ -1,5 +1,11 @@
 Changelog:
 
+2019-07-28
+
+Maps:
+Added Naralik Storage
+
+
 2018-12-31
 
 Potions:

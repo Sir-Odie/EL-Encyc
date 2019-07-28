@@ -1077,7 +1077,7 @@
    <link ref="Maps_MM" title="Morcraven Marsh"/><text> (MM)            </text>
    <text>   Y        Y      -</text><nl/>
    <link ref="Maps_NK" title="Naralik"/><text> (NK)                    </text>
-   <text>   -        Y      -</text><nl/>
+   <text>   Y        Y      -</text><nl/>
    <link ref="Maps_GP" title="Grubani Peninsula"/><text> (GP)          </text>
    <text>   -        Y      -</text><nl/>
    <link ref="Maps_SK" title="Southern Kilaran"/><text> (SKF)          </text>
