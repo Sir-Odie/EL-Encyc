@@ -734,6 +734,8 @@
    <text> chance of breaking 1/10 for each use.</text>
    <nl/><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
+   <text> Note: the process produces 10 Invasionmeters at a time.</text><nl/>
+   <nl/>
    <text> Required materials:</text>
    <nl/>
    <text> 1 Enriched Magic Essence, 1 Refined Vegetal Mixture,</text><nl/>
