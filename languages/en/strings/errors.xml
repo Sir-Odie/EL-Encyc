@@ -71,6 +71,18 @@ Fix your maps.</nonomap>
       <book_open>Couldn't open the book: %s!</book_open>
       <noanimation>No animation: %s!
       </noanimation>
+      <warning>Warning!</warning>
+      <hostname_mismatch>The host name of the selected game server (%s) does not match that of the security certificate sent by the server you connected to (%s). This could be a configuration error in the server, or an attacker may be redirecting you to a fake game server (for example, to steal your password).
+
+Click "%s" to break the connection and restart the game with a different server, or "%s" if you understand and accept the risks and wish to continue anyway.</hostname_mismatch>
+      <unverified_certificate>The encryption certificate sent by the server could not be verified. This could mean that someone is intercepting your connection with the game server (for example, to steal your password).
+
+Click "%s" to break the connection and restart the game with a different server, or "%s" if you understand and accept the risks and wish to continue anyway.</unverified_certificate>
+      <close_connection>Close connection</close_connection>
+      <continue>Continue</continue>
+      <encryption_failed>Failed to set up an encrypted connection.</encryption_failed>
+      <cert_verification_err>The server certificate could not be verified.</cert_verification_err>
+      <send_failed>Failed to send data to the server.</send_failed>
       <invalid_location>Invalid location %d,%d</invalid_location>
       <badnode>There is something wrong with one of a node's fields.</badnode>
       <badroot>The root node in %s was incorrect.</badroot>
