@@ -116,21 +116,34 @@ If you do not declare your bot it may be banned from the game.</long>
    </rule>
    <rule>
       <short>Invance Rules</short>
-      <long>1. No sabotaging other players, no blocking stuff (except for the gate). If you are the gate keeper, you must NOT be AFK and you must allow people to go through the gate.
+      <long>1. Invances are team events. The entire point is to clear the map within a time limit. If you enter, you *must* help the team win.
 
-2. If you go to an invance where you would gain exp at the end (that is, your levels are within the invance range), you must help the team win. So:
-a. No AFKing inside the fort walls, or on the walls.
-b. You must bring good gear with you, don't come naked or with iron swords or with training arrows/bolts or with low level bows.
-c. If you decide to be an archer, you must bring good gear (see the above point), have a reasonably high AP* (over 20), and you must use at least 300 arrows**.
-c1. Archers must continue to fight (ranged or melee) even after there are no more mobs around the walls. So if you see that you don't have targets to attack, you must go out in the field and hunt. However, one single archer is allowed to stay on the walls near the gate, as a backup. Only the best archer in the team is allowed to do that (highest AP and ranging skill).
-d. If for some reason you have to go AFK for more than 2 minutes, you must leave the map and not come back before the end. Do not go to invances if you think you will not be able to finish them, it is rude to the other players.
+2. No sabotaging other players.
 
-3. If you go as an observer (levels under the cap) you are not allowed to get bags without explicit permission from the players there. You must also not get in the way or inconvenience those who fight. This also includes unnecessary chat on the invance channel.
+3. Gatekeeper must never go AFK and must allow people through the gate.
 
-4. If you see someone breaking those rules, you must report them via the #abuse command.
+4. No AFKing for *any* reason, anywhere.  No leaving the map (with the exception of a quick restock) for any reason and then come back near the end just for the experience.  If you must AFK, you must exit the invance and not return.
 
-*The AP requirement doesn't apply for 40-60 or 60-80 invances.
-**If you have the Ethereal Ranger perk, you can use 200 arrows/bolts instead. Also, this applies for people that only do ranging, if you do melee too than it doesn't apply to you.</long>
+5. This is not an event to farm bosses, serp other players, train a/d, stand around at the gate while others do the work, or go AFK.
+
+6. If you bring more than one character, all characters need to be actively fighting at all times.
+
+7. Do not show up just for the bosses or run over to the boss spawns to wait for them before it even starts.
+
+8. If you do not get experience (undercappers or maxed 178ers), you cannot go and cherry pick what mobs you want then leave.
+
+9. You must go in good gear - "good" will depend on the range and will be more flexible for the lower ranges. You are not helping the team if you show up in leathers/augs, iron swords, and training arrows, no matter how high your stats are.
+
+10. If you go *only* as an archer and will not do melee, you must have reasonably high AP,  must not use training arrows, and must come down from the walls and continue to range in the field when those mobs are gone. Plan to shoot approximately 300 arrows (or 200 with Ethereal Ranger perk/bow).
+
+11. Observers are allowed but you must not clutter the channel with chat, are not allowed to cherry pick mobs to kill, and are not allowed to pick up bags. You must not get in the way or inconvenience those who fight. This also applies to alts of team members who are not in range.
+
+12. If you see someone breaking these rules, report them via the #abuse command immediately while the invance is still going on. It's difficult to check it out if you report it two days later.
+
+
+**Lower ranges (40-60 and 60-80) do not have the archery and gear requirements.
+
+**Breaking these rules can result in you being banned from invances.</long>
    </rule>
    <rule>
       <short>Capped Invasion Rules</short>
