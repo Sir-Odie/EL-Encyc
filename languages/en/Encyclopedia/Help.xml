@@ -798,8 +798,8 @@
    <color r="0.4" g="0.8" b="1"/>
    <text> #ignore_bots</text><nl/>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> This will ignore all the bots on all the channels,</text><nl/>
-   <text> however it won't affect local chat or PMs.</text><nl/>
+   <text> This will ignore all the bots on all channels,</text><nl/>
+   <text> however it won't affect local chat, PMs or guild chat.</text><nl/>
    <text> Typing the command again will unignore the bots.</text><nl/>
    <nl/>
    <color r="0.4" g="0.8" b="1"/>

@@ -25,7 +25,7 @@ ig ## <guild tag> <message text> ## If you are in a guild, send the specified me
 ig_block ## <guild tag> ## If you are in a guild, block messages from the specified guild.
 ig_block_list ##  ## List all blocked guilds.
 ig_unblock ##  <guild tag> ## If you are in a guild, unblock messages from the specified guild.
-ignore_bots ##  ## Toggles if you see bots messages in channel chat.
+ignore_bots ##  ## Toggles if you see bots messages in channel chat (except in guild chat).
 ii ##  ## Display the time since you last participated in an instance.
 il ##  ## Display how many invading monsters are currently in the game.
 item_uid ##  ## Toggle use of unique item ids.  When set to 1 (recommended), unique item ids prevent confusion between items that use the same image.
