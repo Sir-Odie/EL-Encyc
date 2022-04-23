@@ -1410,6 +1410,9 @@
    <text> from their attacks. Huge teeth, razor sharp claws and</text><nlkx/>
    <text> spear-like tail make this the hardest creature to beat</text><nlkx/>
    <text> in combat.</text>
+   <nl/>
+   <text> As their scale color and temperament suggests, they</text><nlkx/>
+   <text> can be found in fiery areas.</text>
    <nl/><nl/><nl/><nl/>
    <color>yellow</color>
    <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
@@ -1466,6 +1469,9 @@
    <text> from their attacks. Huge teeth, razor sharp claws and</text><nlkx/>
    <text> spear-like tail make this the hardest creature to beat</text><nlkx/>
    <text> in combat.</text>
+   <nl/>
+   <text> As their name might suggest, ice dragons may be found</text><nlkx/>
+   <text> in areas where freezing cold is present.</text>
    <nl/><nl/><nl/><nl/>
    <color>yellow</color>
    <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
@@ -1494,7 +1500,10 @@
    <text> aggressive and even the strongest fighters are not saved</text><nlkx/>
    <text> from their attacks. Huge teeth, razor sharp claws and</text><nlkx/>
    <text> spear-like tail make this the hardest creature to beat</text><nlkx/>
-   <text> in combat.</text>
+   <text> in combat.</text><nlkx/>
+   <nl/>
+   <text> The blue dragon is considered the most dangerous kind</text><nlkx/>
+   <text> of all dragons.</text>
    <nl/><nl/><nl/><nl/>
    <color>yellow</color>
    <text>                    </text><link ref="Creatures" title="Back To Creatures Index"/>
@@ -1541,7 +1550,7 @@
    <nlkx/>
    <text> Brownies are a mischievous race with pointy ears that</text><nlkx/>
    <text> commonly live in houses or barns. They are very hard</text><nlkx/>
-   <text> working, though some what high spirited.</text><nlkx/>
+   <text> working, though somewhat high spirited.</text><nlkx/>
    <text> Brownies commonly steal food and shiny objects from</text><nlkx/>
    <text> houses of people they trust.</text>
    <nl/><nl/><nl/><nl/>
@@ -1589,7 +1598,7 @@
    <color r="0.9" g="0.9" b="0.9"/>
    <nlkx/>
    <text> Imps are often thought of as an aggressive creature.</text><nlkx/>
-   <text> In actual fact they are just very high spirited and</text><nlkx/>
+   <text> Actually though, they are just very high spirited and</text><nlkx/>
    <text> like to play pranks. Their preferred residence is in</text><nlkx/>
    <text> dark caves but they will venture into daylight in</text><nlkx/>
    <text> search of friends and people to trick.</text>
@@ -1613,8 +1622,8 @@
    <text> </text>
    <color r="0.9" g="0.9" b="0.9"/>
    <nlkx/>
-   <text> Leprechauns are tiny people that closely resemble an old</text><nlkx/>
-   <text> man. They are tricksters and move at a fairly fast speed.</text><nlkx/>
+   <text> Leprechauns are tiny people that closely resemble old</text><nlkx/>
+   <text> men. They are tricksters and move at a fairly fast speed.</text><nlkx/>
    <text> Leprechauns are well known for their treasure and if</text><nlkx/>
    <text> you catch one, you might very well find gold.</text>
    <nl/><nl/><nl/><nl/>
