@@ -1652,14 +1652,106 @@
    <text> Tarsengaard</text><nl/>
    <nl/>
    <color r="0.4" g="0.8" b="1"/>
+   <text> c2   -</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Continent 2, also known as Irilion</text><nl/>
+   <text> c1 is Seridia.</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> PV   -</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Palon Vertas</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> EVTR   -</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Emerald Valley Trade Route</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Mel   -</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Melinis</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Theli   -</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Thelinor</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> WVF   -</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Willowvine Forest</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Ida   -</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Idaloran</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> IotF   -</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Isles of the Forgotten</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> KJ   -</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Kusamura Jungle</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Irin   -</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Irinveron</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> EP   -</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Egratia Point</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> AA   -</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Aeth Aelfan</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Hurq   -</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Hurquin</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> Sedi   -</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Sedicolis</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> SRM   -</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> South Redmoon</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
+   <text> NRM   -</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> North Redmoon</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
    <text> DB   -</text>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> death bag</text><nl/>
    <nl/>
    <color r="0.4" g="0.8" b="1"/>
+   <text> Hydro   -</text>
+   <color r="0.9" g="0.9" b="0.9"/>
+   <text> Hydrogenium, a precious and very rare metal</text><nl/>
+   <nl/>
+   <color r="0.4" g="0.8" b="1"/>
    <text> Serp -</text>
    <color r="0.9" g="0.9" b="0.9"/>
    <text> Titanium Serpent Sword</text><nl/>
+   <text> This can also mean spawn-stealing, depending</text><nl/>
+   <text> on context. This originates from a time where</text><nl/>
+   <text> Titanium Serpent Swords were the best sword in</text><nl/>
+   <text> the game in terms of damage and was used by</text><nl/>
+   <text> players to claim a kill for themselves by</text><nl/>
+   <text> dealing the most damage.</text><nl/>
    <nl/>
    <color r="0.4" g="0.8" b="1"/>
    <text> FE   -</text>
@@ -1669,7 +1761,7 @@
    <color r="0.4" g="0.8" b="1"/>
    <text> EFE  -</text>
    <color r="0.9" g="0.9" b="0.9"/>
-   <text> Enriched Fire Essence</text><nl/>
+   <text> enriched fire essence</text><nl/>
    <nl/>
    <color r="0.4" g="0.8" b="1"/>
    <text> WE   -</text>
